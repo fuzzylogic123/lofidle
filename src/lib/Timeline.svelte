@@ -5,7 +5,13 @@ create png mask, screenshot css in black and white and then apply this mask dist
 
 option 2:
 accept as input the number that the bar is up to, activate the animation classes on these segments, create animation delay to 
-be the cumulative time that the bar has been in motion.
+be the cumulative time that the bar has been in motion. This idea is actually very easy.
+Just set up classes with linear animation properties and animation delays and animation durations that are accurate.
+Then activate this class if the segment that it is up to is shorter than the segment we are up to. This should be started as a callback from
+when the audio starts playing
+
+option 3:
+give up and do lines in between the progress bar
 
 Animation duration should match with song segment length in both cases
 -->
