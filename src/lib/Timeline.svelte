@@ -1,3 +1,15 @@
+<!--
+to do timeline option 1:
+mask out a normal animated progress bar
+create png mask, screenshot css in black and white and then apply this mask distorting on the x axis to fit screen size
+
+option 2:
+accept as input the number that the bar is up to, activate the animation classes on these segments, create animation delay to 
+be the cumulative time that the bar has been in motion.
+
+Animation duration should match with song segment length in both cases
+-->
+
 <script>
 
 </script>
