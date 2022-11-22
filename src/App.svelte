@@ -6,26 +6,33 @@
   import Timeline from "./lib/Timeline.svelte";
 
   let increments = [2, 4, 8, 16];
+  let guesses;
   let currentSegment = 0;
-  let audio = new Audio("https://p.scdn.co/mp3-preview/0e96b1c387f7987f6eda026172e7e63f22a56b46?cid=774b29d4f13844c495f206cafdad9c86");
+  let audio = new Audio(
+    "https://p.scdn.co/mp3-preview/0e96b1c387f7987f6eda026172e7e63f22a56b46?cid=774b29d4f13844c495f206cafdad9c86"
+  );
+  let audioPlayed = false;
+  let timeoutHandle = null;
 
   function playMusic() {
-    if (currentSegment < increments.length) {
-      currentSegment += 1
+    if (audio.paused) {
+      currentSegment += 1;
+      audio.currentTime = 0;
+      audio.play();
+      audioPlayed = true;
+      timeoutHandle = setTimeout(() => {
+        audio.pause();
+        clearTimeout(timeoutHandle);
+      }, sum(increments.slice(0, currentSegment)) * 1000);
     }
-    audio.play();
-    setTimeout(() => {
-      audio.pause();
-      audio.currentTime = 0
-    }, sum( increments.slice(0, currentSegment) ) * 1000 )
   }
 </script>
 
 <main class="content">
   <h1 class="title">Lofidle</h1>
-  <Guesses guesses={increments} />
+  <Guesses {guesses} {increments} />
   <Timeline {increments} {currentSegment} />
-  <Search />
+  <Search {audioPlayed} />
   <Footer on:click={playMusic} />
 </main>
 

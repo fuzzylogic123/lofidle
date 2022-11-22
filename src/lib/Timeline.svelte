@@ -11,6 +11,7 @@
       innerSegment.offsetHeight;
       // @ts-ignore
       innerSegment.style.display = "block";
+      console.log("current segment changed");
     });
   }
 </script>

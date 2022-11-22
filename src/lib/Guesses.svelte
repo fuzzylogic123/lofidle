@@ -1,10 +1,11 @@
 <script>
   export let guesses;
+  export let increments;
 </script>
 
 
 <div class="guesses">
-    {#each guesses as guess}
+    {#each increments as increment, i}
     <div class="guess">
 
     </div>

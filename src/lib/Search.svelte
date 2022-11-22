@@ -1,6 +1,9 @@
 <script>
   import { artists } from "../assets/songs";
   import SearchIcon from "../assets/svg/search-icon.svelte";
+  import { createEventDispatcher } from 'svelte';
+
+  export let audioPlayed;
   let query = "";
   let autoCompleteOptions = [];
 
@@ -46,13 +49,26 @@
   function getAutoCompleteOptionsWrapper() {
     return debounce(getAutoCompleteOptions(), 500);
   }
+
+
+  const dispatch = createEventDispatcher();
+
+  function makeGuess(autoCompleteOption) {
+    console.log("something happened");
+    console.log(autoCompleteOption);
+    dispatch("guess", autoCompleteOption);
+    autoCompleteOptions = [];
+    query = `${autoCompleteOption.name} - ${autoCompleteOption.artist}`;
+  }
+
+
 </script>
 
-<div class="auto-complete-container">
+<div class="auto-complete-container" class:hidden={!audioPlayed}>
   {#if autoCompleteOptions.length > 0}
     <div class="auto-complete-list" use:scrollToBottom>
       {#each autoCompleteOptions as autoCompleteOption}
-        <div class="auto-complete-option">
+        <div class="auto-complete-option" on:click={ () => makeGuess(autoCompleteOption)} on:keypress={() => makeGuess(autoCompleteOption)}>
           {`${autoCompleteOption.name} - ${autoCompleteOption.artist}`}
         </div>
       {/each}
@@ -64,7 +80,6 @@
       bind:value={query}
       on:input={getAutoCompleteOptionsWrapper}
       on:focus={getAutoCompleteOptionsWrapper}
-      on:blur={() => (autoCompleteOptions = [])}
       class="search-input"
       placeholder="Think you recognise this tune?"
     />
@@ -72,6 +87,10 @@
 </div>
 
 <style>
+
+  .hidden {
+    opacity: 0;
+  }
   .auto-complete-option {
     font-size: 0.9em;
     border-color: whitesmoke;
@@ -83,6 +102,7 @@
     display: grid;
     place-items: center;
     padding: 0.3em;
+    z-index: 200;
   }
 
   .auto-complete-list {
