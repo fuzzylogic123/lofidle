@@ -4017,7 +4017,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Pharrell Williams,21 Savage, Tyler, The Creator",
+        "artist": "Pharrell Williams, 21 Savage, Tyler, The Creator",
         "songs": [
             {
                 "name": "Cash In Cash Out",
@@ -25438,7 +25438,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Post Malone,21 Savage",
+        "artist": "Post Malone, 21 Savage",
         "songs": [
             {
                 "name": "rockstar (feat. 21 Savage)",
@@ -28791,7 +28791,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Metro Boomin,21 Savage",
+        "artist": "Metro Boomin, 21 Savage",
         "songs": [
             {
                 "name": "10 Freaky Girls (with 21 Savage)",
@@ -32487,7 +32487,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "YBN Nahmir,21 Savage",
+        "artist": "YBN Nahmir, 21 Savage",
         "songs": [
             {
                 "name": "Opp Stoppa (feat. 21 Savage)",
@@ -35557,7 +35557,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Fireboy DML,21 Savage, Blxst",
+        "artist": "Fireboy DML, 21 Savage, Blxst",
         "songs": [
             {
                 "name": "Peru - Remix",
@@ -37401,7 +37401,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Cardi B,21 Savage",
+        "artist": "Cardi B, 21 Savage",
         "songs": [
             {
                 "name": "Bartier Cardi (feat. 21 Savage)",

@@ -1,23 +1,40 @@
 <script>
+  import { sum } from "./functions";
   export let increments;
   export let currentSegment;
 
-  const sum = (/** @type {Number[]} */ array) =>
-    array.reduce((partialSum, a) => partialSum + a, 0);
+  $: if (currentSegment) {
+      document.querySelectorAll(".inner-segment").forEach((innerSegment) => {
+      // @ts-ignore
+      innerSegment.style.display = "none";
+      // @ts-ignore
+      innerSegment.offsetHeight;
+      // @ts-ignore
+      innerSegment.style.display = "block";
+    });
+  }
 </script>
 
+
 <div class="timeline-container">
-  {#each increments as increment, i}
-    <div class="segment" style="width: {(increment / sum(increments)) * 100}%">
-      {#if i <= currentSegment}
-        <div class="inner-segment" style="animation-delay: {sum(increments.slice(0, i))}s; animation-duration: {increment}s;"/>
+  {#each increments as increment, i (i)}
+    <div
+      class:active-segment={i < currentSegment}
+      class="segment"
+      style="width: {(increment / sum(increments)) * 100}%"
+    >
+      {#if i < currentSegment}
+        <div
+          class="inner-segment"
+          style:animation-delay="{sum(increments.slice(0, i))}s"
+          style:animation-duration="{increment}s"
+        />
       {/if}
     </div>
   {/each}
 </div>
 
 <style>
-
   .timeline-container {
     width: 90%;
     height: 3em;
@@ -38,37 +55,28 @@
   }
 
   .inner-segment {
-    /* border-radius: 0 3em 3em 0; */
     border-radius: 3em;
     height: 100%;
     width: 100%;
     opacity: 0;
-    background-color: #fdb8d1e2;
+    background-color: whitesmoke;
     animation-name: animate-progress;
     animation-timing-function: linear;
     animation-fill-mode: forwards;
     transform-origin: left;
   }
 
+  .active-segment {
+    background-color: #f9f8f890;
+  }
+
   @keyframes animate-progress {
     from {
       width: 10px;
       opacity: 1;
-      /* transform: scaleX(0%); */
-      /* width: 0%; */
     }
     to {
       width: 100%;
-      opacity: 1;
-      /* transform: scaleX(100%); */
-    }
-  }
-
-  @keyframes reveal-left {
-    from {
-      opacity: 1;
-    }
-    to {
       opacity: 1;
     }
   }

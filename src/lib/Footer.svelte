@@ -7,10 +7,9 @@
 <div class="footer">
   <InfoIcon />
 
-  <button class="play-button">
+  <button on:click class="play-button">
     <PlayButton />
   </button>
-
   <StatsIcon />
 </div>
 

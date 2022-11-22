@@ -1,19 +1,32 @@
 <script>
+  import { sum } from "./lib/functions";
   import Footer from "./lib/Footer.svelte";
   import Guesses from "./lib/Guesses.svelte";
   import Search from "./lib/Search.svelte";
   import Timeline from "./lib/Timeline.svelte";
 
-  let increments = [2, 4, 8, 16]
-  let currentSegment = 1;
+  let increments = [2, 4, 8, 16];
+  let currentSegment = 0;
+  let audio = new Audio("https://p.scdn.co/mp3-preview/0e96b1c387f7987f6eda026172e7e63f22a56b46?cid=774b29d4f13844c495f206cafdad9c86");
+
+  function playMusic() {
+    if (currentSegment < increments.length) {
+      currentSegment += 1
+    }
+    audio.play();
+    setTimeout(() => {
+      audio.pause();
+      audio.currentTime = 0
+    }, sum( increments.slice(0, currentSegment) ) * 1000 )
+  }
 </script>
 
 <main class="content">
   <h1 class="title">Lofidle</h1>
-  <Guesses guesses={increments}/>
-  <Timeline {increments} {currentSegment}/>
+  <Guesses guesses={increments} />
+  <Timeline {increments} {currentSegment} />
   <Search />
-  <Footer />
+  <Footer on:click={playMusic} />
 </main>
 
 <div class="lines" />
