@@ -15,62 +15,98 @@ give up and do lines in between the progress bar
 
 Animation duration should match with song segment length in both cases
 -->
-
 <script>
+  export let increments = [2, 2, 2, 4, 8, 16];
 
+  const sum = (/** @type {Number[]} */ array) =>
+    array.reduce((partialSum, a) => partialSum + a, 0);
 </script>
 
 <div class="timeline-container">
-    {#each Array(5) as _, i}
-    <div class={"div-" + String(i+1) + " segment"}>
-        <div class={"segment-" + String(i+1)}></div>
+  {#each increments as increment, i}
+    <div
+      class={"segment"}
+      style="width: {(increment / sum(increments)) * 100}%"
+    >
+
+    <div class="left" style="animation-delay: {sum(
+        increments.slice(0, i)
+      )}s; animation-duration: {increment}s;">
+
     </div>
-    {/each}
+      <div
+        class={"inner-segment"}
+        style="animation-delay: {sum(
+          increments.slice(0, i)
+        )}s; animation-duration: {increment}s;"
+      />
+    </div>
+  {/each}
 </div>
 
 <style>
-    .timeline-container {
-        width: 90%;
-        height: 3em;
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        padding: 1em;
-        gap: 1em;
-    }
+.left {
+    height: 100%;
+    width: 10px;
+    opacity: 0;
+    background-color: #ff99be;
+    border-radius: 3em 0 0 3em;
+    animation-name: reveal-left;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
 
-    .div-1 {
-        width: 3%;
-    }
+  .timeline-container {
+    width: 100%;
+    height: 3em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1em;
+    gap: 1em;
+  }
 
-    .div-2 {
-        width: 10%;
-    }
+  .segment {
+    height: 1em;
+    background-color: rgba(240, 248, 255, 0.342);
+    border-radius: 2em;
+    z-index: -1;
+    display: flex;
+    align-items: center;
+  }
 
-    .div-3 {
-        width: 20%;
-    }
+  .inner-segment {
+    border-radius: 0 3em 3em 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    background-color: #ff99be;
+    animation-name: animate-progress;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    transform-origin: left;
+  }
 
-    .div-4 {
-        width: 40%;
+  @keyframes animate-progress {
+    from {
+      /* width: 10px; */
+      opacity: 1;
+      transform: scaleX(0%);
+      /* width: 0%; */
     }
-
-    .div-5 {
-        width: 27%;
+    to {
+      /* width: 100%; */
+      opacity: 1;
+      transform: scaleX(100%);
     }
+  }
 
-    .segment {
-        height: 1em;
-        background-color: rgba(240, 248, 255, 0.342);
-        border-radius: 2em;
-        z-index: -1;
+  @keyframes reveal-left {
+    from {
+        opacity: 1
     }
-
-    .segment-4 {
-        border-radius: 2em;
-        width: 50%;
-        height: 100%;
-        background-color: navy;
+    to {
+        opacity: 1;
     }
-
+  }
 </style>
