@@ -3,13 +3,16 @@
   import Guesses from "./lib/Guesses.svelte";
   import Search from "./lib/Search.svelte";
   import Timeline from "./lib/Timeline.svelte";
+
+  let increments = [2, 4, 8, 16]
+  let currentSegment = 1;
 </script>
 
 <main class="content">
   <h1 class="title">Lofidle</h1>
-  <Guesses />
+  <Guesses guesses={increments}/>
+  <Timeline {increments} {currentSegment}/>
   <Search />
-  <Timeline />
   <Footer />
 </main>
 
