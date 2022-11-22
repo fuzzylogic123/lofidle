@@ -279,7 +279,7 @@ export let artists = [
                 "uri": "spotify:track:22An65gG31JLf9n18qjdhZ"
             },
             {
-                "name": "I Don\\'t Wanna Do This Anymore",
+                "name": "I Don\'t Wanna Do This Anymore",
                 "uri": "spotify:track:5de9Ho64dovuQI8Uhn5gPD"
             },
             {
@@ -296,7 +296,7 @@ export let artists = [
         "artist": "Queen",
         "songs": [
             {
-                "name": "Don\\'t Stop Me Now - Remastered 2011",
+                "name": "Don\'t Stop Me Now - Remastered 2011",
                 "uri": "spotify:track:5T8EDUDqKcs6OSOwEsfqG7"
             },
             {
@@ -495,7 +495,7 @@ export let artists = [
                 "uri": "spotify:track:39LLxExYz6ewLAcYrzQQyP"
             },
             {
-                "name": "Don\\'t Start Now",
+                "name": "Don\'t Start Now",
                 "uri": "spotify:track:3PfIrDoz19wz7qK7tYeu62"
             },
             {
@@ -519,7 +519,7 @@ export let artists = [
                 "uri": "spotify:track:3AzjcOeAmA57TIOr9zF1ZW"
             },
             {
-                "name": "We\\'re Good",
+                "name": "We\'re Good",
                 "uri": "spotify:track:1diS6nkxMQc3wwC4G1j0bh"
             }
         ]
@@ -600,7 +600,7 @@ export let artists = [
         "artist": "OneRepublic",
         "songs": [
             {
-                "name": "I Ain\\'t Worried",
+                "name": "I Ain\'t Worried",
                 "uri": "spotify:track:4h9wh7iOZ0GGn8QVp4RAOB"
             },
             {
@@ -686,7 +686,7 @@ export let artists = [
         "artist": "The Chainsmokers, Daya",
         "songs": [
             {
-                "name": "Don\\'t Let Me Down (feat. Daya)",
+                "name": "Don\'t Let Me Down (feat. Daya)",
                 "uri": "spotify:track:0QsvXIfqM0zZoerQfsI9lm"
             }
         ]
@@ -746,7 +746,7 @@ export let artists = [
         "artist": "Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",
         "songs": [
             {
-                "name": "Can\\'t Hold Us (feat. Ray Dalton)",
+                "name": "Can\'t Hold Us (feat. Ray Dalton)",
                 "uri": "spotify:track:22skzmqfdWrjJylampe0kt"
             }
         ]
@@ -903,7 +903,7 @@ export let artists = [
         "artist": "Sam Smith",
         "songs": [
             {
-                "name": "I\\'m Not The Only One",
+                "name": "I\'m Not The Only One",
                 "uri": "spotify:track:5QM0SsyzmBM0pbFY52Xj1X"
             },
             {
@@ -957,7 +957,7 @@ export let artists = [
         "artist": "Mustard, Roddy Ricch",
         "songs": [
             {
-                "name": "Ballin\\' (with Roddy Ricch)",
+                "name": "Ballin\' (with Roddy Ricch)",
                 "uri": "spotify:track:3QzAOrNlsabgbMwlZt7TAY"
             }
         ]
@@ -984,7 +984,7 @@ export let artists = [
         "artist": "Luis Fonsi, Demi Lovato",
         "songs": [
             {
-                "name": "\\xc9chame La Culpa",
+                "name": "\xc9chame La Culpa",
                 "uri": "spotify:track:0mlAOSILGRys2IbvyOT5VJ"
             }
         ]
@@ -1011,7 +1011,7 @@ export let artists = [
         "artist": "Daddy Yankee, Bad Bunny",
         "songs": [
             {
-                "name": "X \\xdaLTIMA VEZ",
+                "name": "X \xdaLTIMA VEZ",
                 "uri": "spotify:track:48AJSd42lXpicsGqcgopof"
             }
         ]
@@ -1037,7 +1037,7 @@ export let artists = [
         "artist": "Shawn Mendes",
         "songs": [
             {
-                "name": "There\\'s Nothing Holdin\\' Me Back",
+                "name": "There\'s Nothing Holdin\' Me Back",
                 "uri": "spotify:track:7JJmb5XwzOO8jgpou264Ml"
             },
             {
@@ -1049,7 +1049,7 @@ export let artists = [
                 "uri": "spotify:track:0AS63m1wHv9n4VVRizK6Hc"
             },
             {
-                "name": "When You\\'re Gone",
+                "name": "When You\'re Gone",
                 "uri": "spotify:track:0U1W2LZVUX7qTm7dDpqxh6"
             },
             {
@@ -1096,7 +1096,7 @@ export let artists = [
         "artist": "Lauv, Troye Sivan",
         "songs": [
             {
-                "name": "i\\'m so tired...",
+                "name": "i\'m so tired...",
                 "uri": "spotify:track:7LpMG3AEaIJgs62HQhAa91"
             }
         ]
@@ -1178,11 +1178,11 @@ export let artists = [
         "artist": "Jason Mraz",
         "songs": [
             {
-                "name": "I\\'m Yours",
+                "name": "I\'m Yours",
                 "uri": "spotify:track:3S0OXQeoh0w6AY8WQVckRW"
             },
             {
-                "name": "I Won\\'t Give Up",
+                "name": "I Won\'t Give Up",
                 "uri": "spotify:track:53QF56cjZA9RTuuMZDrSA6"
             }
         ]
@@ -1224,7 +1224,7 @@ export let artists = [
                 "uri": "spotify:track:23wfXwnsPZYe5A1xXRHb3J"
             },
             {
-                "name": "When I\\'m Gone",
+                "name": "When I\'m Gone",
                 "uri": "spotify:track:4CDIEKHMb2MBgvgHBkhiJD"
             },
             {
@@ -1298,7 +1298,7 @@ export let artists = [
                 "uri": "spotify:track:3GYlZ7tbxLOxe6ewMNVTkw"
             },
             {
-                "name": "when the party\\'s over",
+                "name": "when the party\'s over",
                 "uri": "spotify:track:43zdsphuZLzwA9k4DJhU0I"
             },
             {
@@ -1469,7 +1469,7 @@ export let artists = [
         "artist": "Felix Jaehn, Jasmine Thompson",
         "songs": [
             {
-                "name": "Ain\\'t Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+                "name": "Ain\'t Nobody (Loves Me Better) (feat. Jasmine Thompson)",
                 "uri": "spotify:track:3c8iiZGfEammKJuWTErE5x"
             }
         ]
@@ -1641,7 +1641,7 @@ export let artists = [
                 "uri": "spotify:track:1UdzJEpgJxtuXAlCOvD4S0"
             },
             {
-                "name": "Me Reh\\xfaso",
+                "name": "Me Reh\xfaso",
                 "uri": "spotify:track:6ifUES3keWjwXgae8pXI3o"
             },
             {
@@ -1704,10 +1704,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "gnash, Olivia O\\'Brien",
+        "artist": "gnash, Olivia O\'Brien",
         "songs": [
             {
-                "name": "i hate u, i love u (feat. olivia o\\'brien)",
+                "name": "i hate u, i love u (feat. olivia o\'brien)",
                 "uri": "spotify:track:7vRriwrloYVaoAe3a9wJHe"
             }
         ]
@@ -1739,7 +1739,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Olivia O\\'Brien",
+        "artist": "Olivia O\'Brien",
         "songs": [
             {
                 "name": "hate u love u",
@@ -1752,10 +1752,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Gryffin, Olivia O\\'Brien",
+        "artist": "Gryffin, Olivia O\'Brien",
         "songs": [
             {
-                "name": "Caught Up (with Olivia O\\'Brien)",
+                "name": "Caught Up (with Olivia O\'Brien)",
                 "uri": "spotify:track:7uY8q7WQdukE0L3JcOyLQL"
             }
         ]
@@ -1789,7 +1789,7 @@ export let artists = [
                 "uri": "spotify:track:6xcJyGpfZbuuiequtnlKt4"
             },
             {
-                "name": "CAN\\'T SAY",
+                "name": "CAN\'T SAY",
                 "uri": "spotify:track:27a1mYSG5tYg7dmEjWBcmL"
             }
         ]
@@ -1855,7 +1855,7 @@ export let artists = [
         "artist": "David Guetta, Bebe Rexha",
         "songs": [
             {
-                "name": "I\\'m Good (Blue)",
+                "name": "I\'m Good (Blue)",
                 "uri": "spotify:track:4uUG5RXrOk84mYEfFvj3cK"
             }
         ]
@@ -1873,7 +1873,7 @@ export let artists = [
         "artist": "Black Eyed Peas, Shakira, David Guetta",
         "songs": [
             {
-                "name": "DON\\'T YOU WORRY",
+                "name": "DON\'T YOU WORRY",
                 "uri": "spotify:track:0YJW8OXw8G1xDfkzaID3vv"
             }
         ]
@@ -1924,7 +1924,7 @@ export let artists = [
                 "uri": "spotify:track:20efeySIfZoiSaISGLBbNs"
             },
             {
-                "name": "Don\\'t Stop \\'Til You Get Enough",
+                "name": "Don\'t Stop \'Til You Get Enough",
                 "uri": "spotify:track:46eu3SBuFCXWsPT39Yg3tJ"
             },
             {
@@ -2016,7 +2016,7 @@ export let artists = [
                 "uri": "spotify:track:72Z17vmmeQKAg8bptWvpVG"
             },
             {
-                "name": "Let\\'s Dance - 2018 Remaster",
+                "name": "Let\'s Dance - 2018 Remaster",
                 "uri": "spotify:track:3ix6K4wZY29bCujrSznwFZ"
             }
         ]
@@ -2033,7 +2033,7 @@ export let artists = [
                 "uri": "spotify:track:3w3y8KPTfNeOKPiqUTakBh"
             },
             {
-                "name": "That\\'s What I Like",
+                "name": "That\'s What I Like",
                 "uri": "spotify:track:0KKkJNfGyhkQ5aFogxQAPU"
             },
             {
@@ -2059,7 +2059,7 @@ export let artists = [
                 "uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8"
             },
             {
-                "name": "I Can\\'t Fall in Love Without You",
+                "name": "I Can\'t Fall in Love Without You",
                 "uri": "spotify:track:4VPXFi4vFTtS9wHe6oMQaT"
             },
             {
@@ -2330,7 +2330,7 @@ export let artists = [
         "artist": "Jess Glynne",
         "songs": [
             {
-                "name": "I\\'ll Be There",
+                "name": "I\'ll Be There",
                 "uri": "spotify:track:4r1CoAATVuxag55Ct3Y1aX"
             },
             {
@@ -2338,7 +2338,7 @@ export let artists = [
                 "uri": "spotify:track:6oO10y1h2VyxJQfomG4CtH"
             },
             {
-                "name": "Don\\'t Be so Hard on Yourself",
+                "name": "Don\'t Be so Hard on Yourself",
                 "uri": "spotify:track:6jF1nHIMESqft9p33tQYPn"
             }
         ]
@@ -2353,7 +2353,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Diego Torres, Nicky Jam, Reik, Camilo, Pedro Capó, Manuel Turizo, Kany Garc\\xeda, Leonel Garc\\xeda, R\\xedo Roma, Lali, Camila, Farruko, Rubén Blades, Carlos Vives, Diego El Cigala, Prince Royce, Jorge Villamizar, Gente De Zona, Fonseca, Thalia, Leslie Grace, Rauw Alejandro, Angela Torres, Dilsinho, Mau y Ricky, Ivete Sangalo, Coti, Carlos Rivera, Dani Mart\\xedn, Ara Malikian",
+        "artist": "Diego Torres, Nicky Jam, Reik, Camilo, Pedro Capó, Manuel Turizo, Kany Garc\xeda, Leonel Garc\xeda, R\xedo Roma, Lali, Camila, Farruko, Rubén Blades, Carlos Vives, Diego El Cigala, Prince Royce, Jorge Villamizar, Gente De Zona, Fonseca, Thalia, Leslie Grace, Rauw Alejandro, Angela Torres, Dilsinho, Mau y Ricky, Ivete Sangalo, Coti, Carlos Rivera, Dani Mart\xedn, Ara Malikian",
         "songs": [
             {
                 "name": "Color Esperanza 2020",
@@ -2371,7 +2371,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Sof\\xeda Reyes, Pedro Capó",
+        "artist": "Sof\xeda Reyes, Pedro Capó",
         "songs": [
             {
                 "name": "Casualidad",
@@ -2389,7 +2389,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Bad Bunny, Ozuna, Farruko, Arcangel, \\xd1engo Flow, DJ Luian, Mambo Kingz",
+        "artist": "Bad Bunny, Ozuna, Farruko, Arcangel, \xd1engo Flow, DJ Luian, Mambo Kingz",
         "songs": [
             {
                 "name": "Diles",
@@ -2447,7 +2447,7 @@ export let artists = [
                 "uri": "spotify:track:2vwlzO0Qp8kfEtzTsCXfyE"
             },
             {
-                "name": "We Can\\'t Stop",
+                "name": "We Can\'t Stop",
                 "uri": "spotify:track:2y4lAQpi5VTNLu2ldeTdUH"
             },
             {
@@ -2636,7 +2636,7 @@ export let artists = [
         "artist": "Macklemore, Dan Caplen",
         "songs": [
             {
-                "name": "It\\'s Christmas Time (feat. Dan Caplen)",
+                "name": "It\'s Christmas Time (feat. Dan Caplen)",
                 "uri": "spotify:track:6skTvnm735GYcgiKaeDDPq"
             }
         ]
@@ -2710,10 +2710,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Tom Odell, Ti\\xebsto",
+        "artist": "Tom Odell, Ti\xebsto",
         "songs": [
             {
-                "name": "Another Love - Ti\\xebsto Remix",
+                "name": "Another Love - Ti\xebsto Remix",
                 "uri": "spotify:track:4Et6tUEO7biKxZEfJXpNj1"
             }
         ]
@@ -2828,7 +2828,7 @@ export let artists = [
                 "uri": "spotify:track:6tASfEUyB7lE2r6DLzURji"
             },
             {
-                "name": "I\\'m Your Man",
+                "name": "I\'m Your Man",
                 "uri": "spotify:track:2gG7E5OZi5D5QLRIctv63z"
             }
         ]
@@ -2895,7 +2895,7 @@ export let artists = [
                 "uri": "spotify:track:1Y5Jvi3eLi4Chwqch9GMem"
             },
             {
-                "name": "No Flockin\\'",
+                "name": "No Flockin\'",
                 "uri": "spotify:track:34oWbFBfGEElvgO0a5c9V4"
             },
             {
@@ -2903,7 +2903,7 @@ export let artists = [
                 "uri": "spotify:track:2MShy1GSSgbmGUxADNIao5"
             },
             {
-                "name": "Transportin\\'",
+                "name": "Transportin\'",
                 "uri": "spotify:track:1WIZiOuNO3woKfdlSK2gNn"
             }
         ]
@@ -2920,7 +2920,7 @@ export let artists = [
                 "uri": "spotify:track:3Zwu2K0Qa5sT6teCCHPShP"
             },
             {
-                "name": "Sugar, We\\'re Goin Down",
+                "name": "Sugar, We\'re Goin Down",
                 "uri": "spotify:track:2TfSHkHiFO4gRztVIkggkE"
             },
             {
@@ -3058,7 +3058,7 @@ export let artists = [
                 "uri": "spotify:track:5FVd6KXrgO9B3JPmC8OPst"
             },
             {
-                "name": "Why\\'d You Only Call Me When You\\'re High?",
+                "name": "Why\'d You Only Call Me When You\'re High?",
                 "uri": "spotify:track:48q0vSHcJdhK3IiXH8C5WJ"
             },
             {
@@ -3195,7 +3195,7 @@ export let artists = [
                 "uri": "spotify:track:0QHEIqNKsMoOY5urbzN48u"
             },
             {
-                "name": "Better When I\\'m Dancin\\'",
+                "name": "Better When I\'m Dancin\'",
                 "uri": "spotify:track:5k5fWendNngd89O8JKoE8L"
             },
             {
@@ -3216,7 +3216,7 @@ export let artists = [
         "artist": "Meghan Trainor, John Legend",
         "songs": [
             {
-                "name": "Like I\\'m Gonna Lose You (feat. John Legend)",
+                "name": "Like I\'m Gonna Lose You (feat. John Legend)",
                 "uri": "spotify:track:2YlZnw2ikdb837oKMKjBkW"
             }
         ]
@@ -3459,7 +3459,7 @@ export let artists = [
         "artist": "Lowkiss, Ryan Riback",
         "songs": [
             {
-                "name": "Don\\'t Stop Believing - Ryan Riback Radio Edit",
+                "name": "Don\'t Stop Believing - Ryan Riback Radio Edit",
                 "uri": "spotify:track:0lsCFjAdLkvNEBbqmlt0sd"
             }
         ]
@@ -3626,11 +3626,11 @@ export let artists = [
                 "uri": "spotify:track:3cfOd4CMv2snFaKAnMdnvK"
             },
             {
-                "name": "I\\'m A Believer - Radio Edit",
+                "name": "I\'m A Believer - Radio Edit",
                 "uri": "spotify:track:1RC5Mb0VhnlhnMlFDnrvE0"
             },
             {
-                "name": "Walkin\\' On The Sun",
+                "name": "Walkin\' On The Sun",
                 "uri": "spotify:track:4TQeNHx85xcP9YRkvJC6K1"
             }
         ]
@@ -3720,10 +3720,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Kina, Sn\\xf8w",
+        "artist": "Kina, Sn\xf8w",
         "songs": [
             {
-                "name": "Get You The Moon (feat. Sn\\xf8w)",
+                "name": "Get You The Moon (feat. Sn\xf8w)",
                 "uri": "spotify:track:4ZLzoOkj0MPWrTLvooIuaa"
             }
         ]
@@ -3741,7 +3741,7 @@ export let artists = [
         "artist": "Kina",
         "songs": [
             {
-                "name": "Baby You\\'re Worth It",
+                "name": "Baby You\'re Worth It",
                 "uri": "spotify:track:75SW8IItf7yy1VejSLtv9W"
             },
             {
@@ -3751,7 +3751,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Skinny Atlas, Sn\\xf8w, c\\xf8zyb\\xf8y",
+        "artist": "Skinny Atlas, Sn\xf8w, c\xf8zyb\xf8y",
         "songs": [
             {
                 "name": "you never meant it",
@@ -3760,16 +3760,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Sn\\xf8w, Teqkoi",
+        "artist": "Sn\xf8w, Teqkoi",
         "songs": [
             {
-                "name": "You Don\\'t Want Me Anymore",
+                "name": "You Don\'t Want Me Anymore",
                 "uri": "spotify:track:0K4gxQ2u3545b0GAu85ObO"
             }
         ]
     },
     {
-        "artist": "Monty Datta, Sn\\xf8w",
+        "artist": "Monty Datta, Sn\xf8w",
         "songs": [
             {
                 "name": "Say Goodbye",
@@ -3778,10 +3778,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Teqkoi, Sn\\xf8w",
+        "artist": "Teqkoi, Sn\xf8w",
         "songs": [
             {
-                "name": "I\\'m Not Enough and I\\'m Sorry",
+                "name": "I\'m Not Enough and I\'m Sorry",
                 "uri": "spotify:track:4P1L6AniTDJzANaubzWGYs"
             }
         ]
@@ -4047,7 +4047,7 @@ export let artists = [
         "artist": "Oliver Heldens, Nile Rodgers, House Gospel Choir",
         "songs": [
             {
-                "name": "I Was Made For Lovin\\' You (feat. Nile Rodgers & House Gospel Choir)",
+                "name": "I Was Made For Lovin\' You (feat. Nile Rodgers & House Gospel Choir)",
                 "uri": "spotify:track: 2LxdNADWier3MKTei8FbOY"
             }
         ]
@@ -4104,7 +4104,7 @@ export let artists = [
                 "uri": "spotify:track: 7HKez549fwJQDzx3zLjHKC"
             },
             {
-                "name": "(I Can\\'t Get No) Satisfaction - Mono Version",
+                "name": "(I Can\'t Get No) Satisfaction - Mono Version",
                 "uri": "spotify:track: 2PzU4IB8Dr6mxV3lHuaG34"
             },
             {
@@ -4138,7 +4138,7 @@ export let artists = [
         "artist": "Nico & Vinz, Kid Ink, Bebe Rexha",
         "songs": [
             {
-                "name": "That\\'s How You Know (feat. Kid Ink & Bebe Rexha)",
+                "name": "That\'s How You Know (feat. Kid Ink & Bebe Rexha)",
                 "uri": "spotify:track: 3icbmPGKTsKAa0IinkizCM"
             }
         ]
@@ -4182,7 +4182,7 @@ export let artists = [
                 "uri": "spotify:track: 1Ia95g66IhlAJ3qVI4qI8W"
             },
             {
-                "name": "wish I didn\\'t know you",
+                "name": "wish I didn\'t know you",
                 "uri": "spotify:track:5eqawn12Jr65SvCFHvL3Jh"
             },
             {
@@ -4212,7 +4212,7 @@ export let artists = [
                 "uri": "spotify:track: 2mxPSHEwjJWOQS7lGw6btF"
             },
             {
-                "name": "The Drugs Don\\'t Work",
+                "name": "The Drugs Don\'t Work",
                 "uri": "spotify:track: 15kLz0zNFdtsaJdXKSGmTU"
             },
             {
@@ -4229,7 +4229,7 @@ export let artists = [
         "artist": "Shaggy, Rik Rok",
         "songs": [
             {
-                "name": "It Wasn\\'t Me",
+                "name": "It Wasn\'t Me",
                 "uri": "spotify:track: 5LIQBa14xlboDhAjw4tFaR"
             }
         ]
@@ -4395,7 +4395,7 @@ export let artists = [
                 "uri": "spotify:track: 0BUoLE4o9eVahDHvTqak67"
             },
             {
-                "name": "Diggin\\' On You",
+                "name": "Diggin\' On You",
                 "uri": "spotify:track: 2W2vmNmTLERMWT9XBxm35E"
             }
         ]
@@ -4404,7 +4404,7 @@ export let artists = [
         "artist": "Jay Rock, Kendrick Lamar, Future, James Blake",
         "songs": [
             {
-                "name": "King\\'s Dead (with Kendrick Lamar, Future & James Blake)",
+                "name": "King\'s Dead (with Kendrick Lamar, Future & James Blake)",
                 "uri": "spotify:track: 51rXHuKN8Loc4sUlKPODgH"
             }
         ]
@@ -4649,7 +4649,7 @@ export let artists = [
                 "uri": "spotify:track: 7BY005dacJkbO6EPiOh2wb"
             },
             {
-                "name": "Don\\'t Let Me Be Misunderstood",
+                "name": "Don\'t Let Me Be Misunderstood",
                 "uri": "spotify:track: 7vYA9ET5AUqJt5pBbhKmcB"
             },
             {
@@ -4812,7 +4812,7 @@ export let artists = [
                 "uri": "spotify:track: 64PgpLHuQK3UJ5qZ875Vei"
             },
             {
-                "name": "Benz Truck (\\u0433\\u0435\\u043b\\u0438\\u043a)",
+                "name": "Benz Truck (\u0433\u0435\u043b\u0438\u043a)",
                 "uri": "spotify:track: 3kBD2xHIqKWXjLAGidDTSz"
             }
         ]
@@ -5084,7 +5084,7 @@ export let artists = [
                 "uri": "spotify:track: 0W6I02J9xcqK8MtSeosEXb"
             },
             {
-                "name": "Ain\\'t Shit",
+                "name": "Ain\'t Shit",
                 "uri": "spotify:track: 5lAnYvAIkSDNXqfo7DyFUm"
             },
             {
@@ -5242,7 +5242,7 @@ export let artists = [
                 "uri": "spotify:track: 0vMI3AJPQMjytAu8XMWr65"
             },
             {
-                "name": "I\\'ll Be Good",
+                "name": "I\'ll Be Good",
                 "uri": "spotify:track: 4JuJZzGcswQszYiKJSnC6i"
             }
         ]
@@ -5264,7 +5264,7 @@ export let artists = [
                 "uri": "spotify:track: 3tAQNhm1o0kzldsI5QkrB1"
             },
             {
-                "name": "I Don\\'t Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+                "name": "I Don\'t Want to Miss a Thing - From \"Armageddon\" Soundtrack",
                 "uri": "spotify:track: 6lEuFGrUqR9Yc6hSsHPnYP"
             },
             {
@@ -5331,11 +5331,11 @@ export let artists = [
                 "uri": "spotify:track: 745H5CctFr12Mo7cqa1BMH"
             },
             {
-                "name": "Ain\\'t Too Proud To Beg",
+                "name": "Ain\'t Too Proud To Beg",
                 "uri": "spotify:track: 4CoGNqLap7UGU5Q3VdKug0"
             },
             {
-                "name": "Papa Was A Rollin\\' Stone - Single Version",
+                "name": "Papa Was A Rollin\' Stone - Single Version",
                 "uri": "spotify:track: 7MiLmLbwNoyf47xQ4TCVYp"
             },
             {
@@ -5348,11 +5348,11 @@ export let artists = [
         "artist": "The Offspring",
         "songs": [
             {
-                "name": "The Kids Aren\\'t Alright",
+                "name": "The Kids Aren\'t Alright",
                 "uri": "spotify:track:4EchqUKQ3qAQuRNKmeIpnf"
             },
             {
-                "name": "You\\'re Gonna Go Far, Kid",
+                "name": "You\'re Gonna Go Far, Kid",
                 "uri": "spotify:track: 6TfBA04WJ3X1d1wXhaCFVT"
             },
             {
@@ -5364,7 +5364,7 @@ export let artists = [
                 "uri": "spotify:track: 3SFXsFpeGmBTtQvKiwYMDA"
             },
             {
-                "name": "Why Don\\'t You Get A Job",
+                "name": "Why Don\'t You Get A Job",
                 "uri": "spotify:track: 0sNKiz82ATCvT3f3XVVUUj"
             }
         ]
@@ -5373,7 +5373,7 @@ export let artists = [
         "artist": "Joel Adams",
         "songs": [
             {
-                "name": "Please Don\\'t Go",
+                "name": "Please Don\'t Go",
                 "uri": "spotify:track: 3cNjgVBKTJ1SvKhunrCdVy"
             },
             {
@@ -5423,7 +5423,7 @@ export let artists = [
         "artist": "4 Non Blondes",
         "songs": [
             {
-                "name": "What\\'s Up?",
+                "name": "What\'s Up?",
                 "uri": "spotify:track: 0jWgAnTrNZmOGmqgvHhZEm"
             },
             {
@@ -5444,7 +5444,7 @@ export let artists = [
                 "uri": "spotify:track: 0HEmnAUT8PHznIAAmVXqFJ"
             },
             {
-                "name": "Freedom! \\'90 - Remastered",
+                "name": "Freedom! \'90 - Remastered",
                 "uri": "spotify:track: 1wZ7o1mZysv1l26ZWawVfW"
             }
         ]
@@ -5453,7 +5453,7 @@ export let artists = [
         "artist": "Elton John, George Michael",
         "songs": [
             {
-                "name": "Don\\'t Let The Sun Go Down On Me - Live",
+                "name": "Don\'t Let The Sun Go Down On Me - Live",
                 "uri": "spotify:track: 6Zkulfbv0ebe7tukkftvd1"
             }
         ]
@@ -5502,7 +5502,7 @@ export let artists = [
         "artist": "AJR",
         "songs": [
             {
-                "name": "World\\'s Smallest Violin",
+                "name": "World\'s Smallest Violin",
                 "uri": "spotify:track: 3jHBgKdLCf46aP3HRI0WYv"
             },
             {
@@ -5510,7 +5510,7 @@ export let artists = [
                 "uri": "spotify:track: 5FQPpxOXsvkMN6v18gtpwY"
             },
             {
-                "name": "I Won\\'t",
+                "name": "I Won\'t",
                 "uri": "spotify:track: 1y8ooe9Zr1PMIxrOwNeeOi"
             },
             {
@@ -5575,7 +5575,7 @@ export let artists = [
                 "uri": "spotify:track: 0TI8TP4FitVPoEHPTySx48"
             },
             {
-                "name": "War Pigs / Luke\\'s Wall - 2012 - Remaster",
+                "name": "War Pigs / Luke\'s Wall - 2012 - Remaster",
                 "uri": "spotify:track: 2rd9ETlulTbz6BYZcdvIE1"
             }
         ]
@@ -5596,7 +5596,7 @@ export let artists = [
                 "uri": "spotify:track: 5H3TCfiw0CQTX1XU7A9TXM"
             },
             {
-                "name": "Teacher\\'s Pet",
+                "name": "Teacher\'s Pet",
                 "uri": "spotify:track: 5o5akY9xnEk6lpMkD8RwD9"
             },
             {
@@ -5633,7 +5633,7 @@ export let artists = [
                 "uri": "spotify:track: 5wQnmLuC1W7ATsArWACrgW"
             },
             {
-                "name": "I\\'m Not Okay (I Promise)",
+                "name": "I\'m Not Okay (I Promise)",
                 "uri": "spotify:track: 7lRlq939cDG4SzWOF4VAnd"
             },
             {
@@ -5650,7 +5650,7 @@ export let artists = [
         "artist": "Kali Uchis",
         "songs": [
             {
-                "name": "telepat\\xeda",
+                "name": "telepat\xeda",
                 "uri": "spotify:track: 6tDDoYIxWvMLTdKpjFkc1B"
             },
             {
@@ -5693,7 +5693,7 @@ export let artists = [
                 "uri": "spotify:track: 3N4DI1vuTSX1tz7fa2NQZw"
             },
             {
-                "name": "You Know I\\'m No Good",
+                "name": "You Know I\'m No Good",
                 "uri": "spotify:track: 0DMRKqrpd0QO4RWiEdMib0"
             }
         ]
@@ -5780,7 +5780,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Rag\\'n\\'Bone Man",
+        "artist": "Rag\'n\'Bone Man",
         "songs": [
             {
                 "name": "Human",
@@ -5797,16 +5797,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Calvin Harris, Rag\\'n\\'Bone Man",
+        "artist": "Calvin Harris, Rag\'n\'Bone Man",
         "songs": [
             {
-                "name": "Giant (with Rag\\'n\\'Bone Man)",
+                "name": "Giant (with Rag\'n\'Bone Man)",
                 "uri": "spotify:track: 5itOtNx0WxtJmi1TQ3RuRd"
             }
         ]
     },
     {
-        "artist": "Rag\\'n\\'Bone Man, P!nk",
+        "artist": "Rag\'n\'Bone Man, P!nk",
         "songs": [
             {
                 "name": "Anywhere Away from Here (Rag'n'Bone Man & P!nk)",
@@ -5822,11 +5822,11 @@ export let artists = [
                 "uri": "spotify:track: 6QfS2wq5sSC1xAJCQsTSlj"
             },
             {
-                "name": "I\\'ll Never Love Again - Film Version",
+                "name": "I\'ll Never Love Again - Film Version",
                 "uri": "spotify:track: 4A7EkKijzA4ryEoCRWJzdG"
             },
             {
-                "name": "I Don\\'t Know What Love Is",
+                "name": "I Don\'t Know What Love Is",
                 "uri": "spotify:track:1EWKuMkjiVrHRoqAquXVfL"
             },
             {
@@ -5849,7 +5849,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Colby O\\'Donis, Akon",
+        "artist": "Colby O\'Donis, Akon",
         "songs": [
             {
                 "name": "What You Got",
@@ -5858,7 +5858,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Colby O\\'Donis",
+        "artist": "Colby O\'Donis",
         "songs": [
             {
                 "name": "Under My Nose",
@@ -5875,10 +5875,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Nelly, Colby O\\'Donis",
+        "artist": "Nelly, Colby O\'Donis",
         "songs": [
             {
-                "name": "#1 - Colby O\\'Donis Remix",
+                "name": "#1 - Colby O\'Donis Remix",
                 "uri": "spotify:track: 5YdYkiEutbD5nSzzIlPI3j"
             }
         ]
@@ -5895,11 +5895,11 @@ export let artists = [
                 "uri": "spotify:track: 14dJexYlvd3t3XAtD1pYW1"
             },
             {
-                "name": "I\\'m In Love With You",
+                "name": "I\'m In Love With You",
                 "uri": "spotify:track: 12g9IeQzX7xECLNxz8dpb5"
             },
             {
-                "name": "It\\'s Not Living (If It\\'s Not With You)",
+                "name": "It\'s Not Living (If It\'s Not With You)",
                 "uri": "spotify:track: 3TgMcrV32NUKjEG2ujn9eh"
             },
             {
@@ -5932,7 +5932,7 @@ export let artists = [
                 "uri": "spotify:track: 7ygpwy2qP3NbrxVkHvUhXY"
             },
             {
-                "name": "Don\\'t Look Back In Anger - Remastered",
+                "name": "Don\'t Look Back In Anger - Remastered",
                 "uri": "spotify:track: 12dU3vAh6AFoJkisorfoUl"
             },
             {
@@ -5944,7 +5944,7 @@ export let artists = [
                 "uri": "spotify:track: 2A7GGXmTlXuH9LOvBXgOX4"
             },
             {
-                "name": "Don\\'t Look Back in Anger - Remastered",
+                "name": "Don\'t Look Back in Anger - Remastered",
                 "uri": "spotify:track: 0UvCh63URrLFcPkKt99hHd"
             }
         ]
@@ -6095,7 +6095,7 @@ export let artists = [
                 "uri": "spotify:track: 1fBl642IhJOE5U319Gy2Go"
             },
             {
-                "name": "Songs I Can\\'t Listen To",
+                "name": "Songs I Can\'t Listen To",
                 "uri": "spotify:track: 1WMBlpjhd3AUQiNfJOzfIl"
             },
             {
@@ -6149,14 +6149,14 @@ export let artists = [
         ]
     },
     {
-        "artist": "MC Eiht, Compton\\'s Most Wanted",
+        "artist": "MC Eiht, Compton\'s Most Wanted",
         "songs": [
             {
                 "name": "All for the Money (feat. CMW)",
                 "uri": "spotify:track: 2Ff2B18v9helXx2zNAvZgV"
             },
             {
-                "name": "Goin\\' Out Like Geez (feat. CMW)",
+                "name": "Goin\' Out Like Geez (feat. CMW)",
                 "uri": "spotify:track: 540dP6NaRXsRU2Olch18lt"
             }
         ]
@@ -6199,7 +6199,7 @@ export let artists = [
                 "uri": "spotify:track: 4T6FWA703h6H7zk1FoSARw"
             },
             {
-                "name": "You\\'re Gonna Live Forever in Me",
+                "name": "You\'re Gonna Live Forever in Me",
                 "uri": "spotify:track: 51lPx6ZCSalL2kvSrDUyJc"
             },
             {
@@ -6367,7 +6367,7 @@ export let artists = [
                 "uri": "spotify:track: 5uflYpTmuK0np3jxcQC85M"
             },
             {
-                "name": "IF YOU GO DOWN (I\\'M GOIN\\' DOWN TOO)",
+                "name": "IF YOU GO DOWN (I\'M GOIN\' DOWN TOO)",
                 "uri": "spotify:track: 1jX9wlAgVkAl0fCZqkCI73"
             }
         ]
@@ -6516,7 +6516,7 @@ export let artists = [
         "artist": "Dr. Dre, Eminem, Xzibit",
         "songs": [
             {
-                "name": "What\\'s The Difference",
+                "name": "What\'s The Difference",
                 "uri": "spotify:track: 1SWVDBtw6h3tm9OehOkDhv"
             }
         ]
@@ -6534,11 +6534,11 @@ export let artists = [
         "artist": "The Proclaimers",
         "songs": [
             {
-                "name": "I\\'m Gonna Be (500 Miles)",
+                "name": "I\'m Gonna Be (500 Miles)",
                 "uri": "spotify:track: 67iAlVNDDdddxqSD2EZhFs"
             },
             {
-                "name": "I\\'m on My Way",
+                "name": "I\'m on My Way",
                 "uri": "spotify:track: 1HuAR7RyNWQq6vHwOFHWqx"
             },
             {
@@ -6590,7 +6590,7 @@ export let artists = [
                 "uri": "spotify:track: 2tznHmp70DxMyr2XhWLOW0"
             },
             {
-                "name": "Ain\\'t No Rest for the Wicked",
+                "name": "Ain\'t No Rest for the Wicked",
                 "uri": "spotify:track: 3Pzh926pXggbMe2ZpXyMV7"
             },
             {
@@ -6598,7 +6598,7 @@ export let artists = [
                 "uri": "spotify:track: 4sebUbjqbcgDSwG6PbSGI0"
             },
             {
-                "name": "Ain\\'t No Rest For The Wicked - Original Version",
+                "name": "Ain\'t No Rest For The Wicked - Original Version",
                 "uri": "spotify:track: 7tCHpjktA50ihtkLz6bAnn"
             }
         ]
@@ -6607,7 +6607,7 @@ export let artists = [
         "artist": "Ricky Martin",
         "songs": [
             {
-                "name": "Livin\\' la Vida Loca",
+                "name": "Livin\' la Vida Loca",
                 "uri": "spotify:track: 0Ph6L4l8dYUuXFmb71Ajnd"
             }
         ]
@@ -6616,7 +6616,7 @@ export let artists = [
         "artist": "Ricky Martin, Maluma",
         "songs": [
             {
-                "name": "Vente Pa\\' Ca (feat. Maluma)",
+                "name": "Vente Pa\' Ca (feat. Maluma)",
                 "uri": "spotify:track: 7DM4BPaS7uofFul3ywMe46"
             }
         ]
@@ -6642,7 +6642,7 @@ export let artists = [
                 "uri": "spotify:track: 4HzqWEdAbzcVFDv0pvxV4w"
             },
             {
-                "name": "Haw\\xe1i",
+                "name": "Haw\xe1i",
                 "uri": "spotify:track: 1yoMvmasuxZfqHEipJhRbp"
             }
         ]
@@ -6660,7 +6660,7 @@ export let artists = [
         "artist": "The Rudeboyz, Maluma, Adam Levine",
         "songs": [
             {
-                "name": "Ojal\\xe1",
+                "name": "Ojal\xe1",
                 "uri": "spotify:track: 4dLIAE3xbJLoiIBbKkZWJk"
             }
         ]
@@ -6708,7 +6708,7 @@ export let artists = [
         "artist": "Sean Paul, Sasha, Jeremy Harding, Murray Elias",
         "songs": [
             {
-                "name": "I\\'m Still in Love with You (feat. Sasha)",
+                "name": "I\'m Still in Love with You (feat. Sasha)",
                 "uri": "spotify:track: 3MhdH8PxqH1FuQp3HBptUI"
             }
         ]
@@ -6800,7 +6800,7 @@ export let artists = [
                 "uri": "spotify:track: 6SpLc7EXZIPpy0sVko0aoU"
             },
             {
-                "name": "Ain\\'t It Fun",
+                "name": "Ain\'t It Fun",
                 "uri": "spotify:track: 1j8z4TTjJ1YOdoFEDwJTQa"
             },
             {
@@ -6842,7 +6842,7 @@ export let artists = [
                 "uri": "spotify:track: 6ZANrVuAMp2rpjhfbOuJly"
             },
             {
-                "name": "Back To You - From 13 Reasons Why \\u2013 Season 2 Soundtrack",
+                "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
                 "uri": "spotify:track: 4hQ6UGyWQIGJmHSo0J88JW"
             },
             {
@@ -6863,7 +6863,7 @@ export let artists = [
                 "uri": "spotify:track: 3nAp4IvdMPPWEH9uuXFFV5"
             },
             {
-                "name": "Stronger (What Doesn\\'t Kill You)",
+                "name": "Stronger (What Doesn\'t Kill You)",
                 "uri": "spotify:track: 6D60klaHqbCl9ySc8VcRss"
             },
             {
@@ -6889,7 +6889,7 @@ export let artists = [
         "artist": "Usher, Pitbull",
         "songs": [
             {
-                "name": "DJ Got Us Fallin\\' In Love (feat. Pitbull)",
+                "name": "DJ Got Us Fallin\' In Love (feat. Pitbull)",
                 "uri": "spotify:track: 4356Typ82hUiFAynbLYbPn"
             }
         ]
@@ -7009,7 +7009,7 @@ export let artists = [
                 "uri": "spotify:track: 2nMeu6UenVvwUktBCpLMK9"
             },
             {
-                "name": "Doin\\' Time",
+                "name": "Doin\' Time",
                 "uri": "spotify:track: 0Oqc0kKFsQ6MhFOLBNZIGX"
             },
             {
@@ -7071,7 +7071,7 @@ export let artists = [
                 "uri": "spotify:track: 5Hyr47BBGpvOfcykSCcaw9"
             },
             {
-                "name": "It\\'s a Heartache",
+                "name": "It\'s a Heartache",
                 "uri": "spotify:track: 6koOUYxN50vAktUajfZY51"
             },
             {
@@ -7129,10 +7129,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "CKay, Dj Yo 1, AX\\'EL",
+        "artist": "CKay, Dj Yo 1, AX\'EL",
         "songs": [
             {
-                "name": "love nwantiti (feat. Dj Yo 1 & AX\\'EL) - Remix",
+                "name": "love nwantiti (feat. Dj Yo 1 & AX\'EL) - Remix",
                 "uri": "spotify:track: 4gvrJnKCKIPiacNsWVQwEU"
             }
         ]
@@ -7256,7 +7256,7 @@ export let artists = [
         "artist": "Alok, Ilkay Sencan, Tove Lo",
         "songs": [
             {
-                "name": "Don\\'t Say Goodbye (feat. Tove Lo)",
+                "name": "Don\'t Say Goodbye (feat. Tove Lo)",
                 "uri": "spotify:track: 0GTPmh5G40joBg93vcSQNq"
             }
         ]
@@ -7295,11 +7295,11 @@ export let artists = [
         "artist": "James Arthur",
         "songs": [
             {
-                "name": "Say You Won\\'t Let Go",
+                "name": "Say You Won\'t Let Go",
                 "uri": "spotify:track: 5uCax9HTNlzGybIStD3vDh"
             },
             {
-                "name": "Car\\'s Outside",
+                "name": "Car\'s Outside",
                 "uri": "spotify:track: 0otRX6Z89qKkHkQ9OqJpKt"
             },
             {
@@ -7469,14 +7469,14 @@ export let artists = [
         ]
     },
     {
-        "artist": "Blue Swede, Bj\\xf6rn Skifs",
+        "artist": "Blue Swede, Bj\xf6rn Skifs",
         "songs": [
             {
                 "name": "Hooked On A Feeling",
                 "uri": "spotify:track: 2Nz6aF1umHh5Et6I5H581L"
             },
             {
-                "name": "Don\\'t Be Fooled by the Name",
+                "name": "Don\'t Be Fooled by the Name",
                 "uri": "spotify:track: 5HHVJtb0Bqmu2qQMOGbBjC"
             },
             {
@@ -7499,14 +7499,14 @@ export let artists = [
         ]
     },
     {
-        "artist": "Bj\\xf6rn Skifs",
+        "artist": "Bj\xf6rn Skifs",
         "songs": [
             {
-                "name": "Michelangelo (Men s\\xe5 svara d\\xe5!)",
+                "name": "Michelangelo (Men s\xe5 svara d\xe5!)",
                 "uri": "spotify:track: 7aleO65wxmrijCugl55XJz"
             },
             {
-                "name": "H\\xe5ll mitt hj\\xe4rta (Same Old Story)",
+                "name": "H\xe5ll mitt hj\xe4rta (Same Old Story)",
                 "uri": "spotify:track: 5I17rGCM1Zn4J9puVHTh8X"
             }
         ]
@@ -7515,15 +7515,15 @@ export let artists = [
         "artist": "Tom Petty",
         "songs": [
             {
-                "name": "Free Fallin\\'",
+                "name": "Free Fallin\'",
                 "uri": "spotify:track: 5tVA6TkbaAH9QMITTQRrNv"
             },
             {
-                "name": "I Won\\'t Back Down",
+                "name": "I Won\'t Back Down",
                 "uri": "spotify:track: 7gSQv1OHpkIoAdUiRLdmI6"
             },
             {
-                "name": "Runnin\\' Down A Dream",
+                "name": "Runnin\' Down A Dream",
                 "uri": "spotify:track: 5yAu4njFSdM47dfsTkQPZ2"
             }
         ]
@@ -7572,7 +7572,7 @@ export let artists = [
                 "uri": "spotify:track: 37sINbJZcFdHFAsVNsPq1i"
             },
             {
-                "name": "The Man Who Can\\'t Be Moved",
+                "name": "The Man Who Can\'t Be Moved",
                 "uri": "spotify:track: 3nqqDo8CcCLke3ZoTgiOKf"
             }
         ]
@@ -7607,7 +7607,7 @@ export let artists = [
         "artist": "No Doubt",
         "songs": [
             {
-                "name": "Don\\'t Speak",
+                "name": "Don\'t Speak",
                 "uri": "spotify:track: 6urCAbunOQI4bLhmGpX7iS"
             },
             {
@@ -7663,7 +7663,7 @@ export let artists = [
                 "uri": "spotify:track: 7dSZ6zGTQx66c2GF91xCrb"
             },
             {
-                "name": "Ay, DiOs M\\xedo!",
+                "name": "Ay, DiOs M\xedo!",
                 "uri": "spotify:track: 1beTDCe7sT7fzm8WIKXicz"
             },
             {
@@ -7676,16 +7676,16 @@ export let artists = [
         "artist": "KAROL G, Maldy",
         "songs": [
             {
-                "name": "GAT\\xdaBELA",
+                "name": "GAT\xdaBELA",
                 "uri": "spotify:track: 1ga4PztXOIw1yBbdUt2X8v"
             }
         ]
     },
     {
-        "artist": "Ti\\xebsto, KAROL G",
+        "artist": "Ti\xebsto, KAROL G",
         "songs": [
             {
-                "name": "Don\\'t Be Shy",
+                "name": "Don\'t Be Shy",
                 "uri": "spotify:track: 0bI7K9Becu2dtXK1Q3cZNB"
             }
         ]
@@ -7824,7 +7824,7 @@ export let artists = [
         "artist": "Demi Lovato, DEV",
         "songs": [
             {
-                "name": "Who\\'s That Boy",
+                "name": "Who\'s That Boy",
                 "uri": "spotify:track: 4s6uISi4qxj5GK84p3Idu3"
             }
         ]
@@ -7912,10 +7912,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Jack \\xdc, Skrillex, Diplo, Justin Bieber",
+        "artist": "Jack \xdc, Skrillex, Diplo, Justin Bieber",
         "songs": [
             {
-                "name": "Where Are \\xdc Now (with Justin Bieber)",
+                "name": "Where Are \xdc Now (with Justin Bieber)",
                 "uri": "spotify:track: 66hayvUbTotekKU3H4ta1f"
             }
         ]
@@ -7932,7 +7932,7 @@ export let artists = [
                 "uri": "spotify:track: 1ZdhOMWyFR8Iv9eylMGYg2"
             },
             {
-                "name": "Still Don\\'t Know My Name",
+                "name": "Still Don\'t Know My Name",
                 "uri": "spotify:track: 6N22FZs2ZhPBYi3b9XPajV"
             },
             {
@@ -8115,7 +8115,7 @@ export let artists = [
         "artist": "Daddy Yankee, El Alfa, Lil Jon",
         "songs": [
             {
-                "name": "BOMB\\xd3N",
+                "name": "BOMB\xd3N",
                 "uri": "spotify:track:4OAPnWJ3J5w4c4IBLh2chn"
             }
         ]
@@ -8154,7 +8154,7 @@ export let artists = [
                 "uri": "spotify:track:6foY66mWZN0pSRjZ408c00"
             },
             {
-                "name": "Chasin\\' You",
+                "name": "Chasin\' You",
                 "uri": "spotify:track:5MwynWK9s4hlyKHqhkNn4A"
             },
             {
@@ -8192,7 +8192,7 @@ export let artists = [
                 "uri": "spotify:track:2m1hi0nfMR9vdGC8UcrnwU"
             },
             {
-                "name": "What\\'s My Age Again?",
+                "name": "What\'s My Age Again?",
                 "uri": "spotify:track:4LJhJ6DQS7NwE7UKtvcM52"
             },
             {
@@ -8276,7 +8276,7 @@ export let artists = [
         "artist": "2 Chainz, Ty Dolla $ign, Trey Songz, Jhené Aiko",
         "songs": [
             {
-                "name": "It\\'s A Vibe",
+                "name": "It\'s A Vibe",
                 "uri": "spotify:track:6H0AwSQ20mo62jGlPGB8S6"
             }
         ]
@@ -8315,7 +8315,7 @@ export let artists = [
                 "uri": "spotify:track:37BTh5g05cxBIRYMbw8g2T"
             },
             {
-                "name": "I\\'ll Be Over You",
+                "name": "I\'ll Be Over You",
                 "uri": "spotify:track:1WeoeHh0TSzsApyJ6Q8OOK"
             },
             {
@@ -8349,7 +8349,7 @@ export let artists = [
                 "uri": "spotify:track:7FwBtcecmlpc1sLySPXeGE"
             },
             {
-                "name": "I\\'m On Fire",
+                "name": "I\'m On Fire",
                 "uri": "spotify:track:3PzsbWSQdLCKDLxn7YZfkM"
             },
             {
@@ -8416,7 +8416,7 @@ export let artists = [
                 "uri": "spotify:track:7ACxUo21jtTHzy7ZEV56vU"
             },
             {
-                "name": "Mama, I\\'m Coming Home",
+                "name": "Mama, I\'m Coming Home",
                 "uri": "spotify:track:0S3gpZzlT9Hb7CCSV2owX7"
             },
             {
@@ -8551,7 +8551,7 @@ export let artists = [
                 "uri": "spotify:track:0ZPfDxZn5O0L84wvPSN2iG"
             },
             {
-                "name": "Still Falling For You - From \"Bridget Jones\\'s Baby\"",
+                "name": "Still Falling For You - From \"Bridget Jones\'s Baby\"",
                 "uri": "spotify:track:3odrUVQ9tvRpkC9II2oWzx"
             }
         ]
@@ -8617,7 +8617,7 @@ export let artists = [
                 "uri": "spotify:track:5sf1wqBZsHkpy7dPnDb7aD"
             },
             {
-                "name": "Say It Isn\\'t So",
+                "name": "Say It Isn\'t So",
                 "uri": "spotify:track:5MCIbKkyD1O7OZzXhzI7Rl"
             }
         ]
@@ -8884,10 +8884,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Chris Jedi, Anuel AA, Chencho Corleone, \\xd1engo Flow",
+        "artist": "Chris Jedi, Anuel AA, Chencho Corleone, \xd1engo Flow",
         "songs": [
             {
-                "name": "La Llevo Al Cielo (Ft. \\xd1engo Flow)",
+                "name": "La Llevo Al Cielo (Ft. \xd1engo Flow)",
                 "uri": "spotify:track:6DoL1yYIwEW7VZMRaJhoJI"
             }
         ]
@@ -9006,7 +9006,7 @@ export let artists = [
                 "uri": "spotify:track:1QbOvACeYanja5pbnJbAmk"
             },
             {
-                "name": "Annie\\'s Song",
+                "name": "Annie\'s Song",
                 "uri": "spotify:track:4J0DbyODwZJcmIAiTSJfMF"
             },
             {
@@ -9072,7 +9072,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Kany Garc\\xeda, Christian Nodal",
+        "artist": "Kany Garc\xeda, Christian Nodal",
         "songs": [
             {
                 "name": "La Siguiente",
@@ -9153,7 +9153,7 @@ export let artists = [
         "artist": "The Who",
         "songs": [
             {
-                "name": "Baba O\\'Riley",
+                "name": "Baba O\'Riley",
                 "uri": "spotify:track:3qiyyUfYe7CRYLucrPmulD"
             },
             {
@@ -9165,7 +9165,7 @@ export let artists = [
                 "uri": "spotify:track:6LbbHFEajG9e4m0G3L47c4"
             },
             {
-                "name": "Won\\'t Get Fooled Again - Original Album Version",
+                "name": "Won\'t Get Fooled Again - Original Album Version",
                 "uri": "spotify:track:0cJPLFrlV7TTCyPLupHzcH"
             },
             {
@@ -9231,7 +9231,7 @@ export let artists = [
         "artist": "Brittany Howard, Verdine White",
         "songs": [
             {
-                "name": "Shining Star - From \\'Minions: The Rise of Gru\\' Soundtrack",
+                "name": "Shining Star - From \'Minions: The Rise of Gru\' Soundtrack",
                 "uri": "spotify:track:6Lp3RzF26KEHtRKEsAIoiw"
             }
         ]
@@ -9258,7 +9258,7 @@ export let artists = [
         "artist": "Verdine White",
         "songs": [
             {
-                "name": "Cool - From \\'Minions: The Rise of Gru\\' Soundtrack",
+                "name": "Cool - From \'Minions: The Rise of Gru\' Soundtrack",
                 "uri": "spotify:track:2NV8520xo3iYrpD8wv4Sxy"
             }
         ]
@@ -9382,7 +9382,7 @@ export let artists = [
                 "uri": "spotify:track:3a5AVFUzkPgXdi4wrQel0t"
             },
             {
-                "name": "I\\'m Him",
+                "name": "I\'m Him",
                 "uri": "spotify:track:2OiO85hOK8ZL6kekbs7a4R"
             }
         ]
@@ -9436,7 +9436,7 @@ export let artists = [
         "artist": "Shakira, Ozuna",
         "songs": [
             {
-                "name": "Monoton\\xeda",
+                "name": "Monoton\xeda",
                 "uri": "spotify:track:6G12ZafqofSq7YtrMqUm76"
             }
         ]
@@ -9549,7 +9549,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Blessd, Justin Quiles, Lenny Tav\\xe1rez",
+        "artist": "Blessd, Justin Quiles, Lenny Tav\xe1rez",
         "songs": [
             {
                 "name": "Medallo",
@@ -9558,16 +9558,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Paulo Londra, Lenny Tav\\xe1rez",
+        "artist": "Paulo Londra, Lenny Tav\xe1rez",
         "songs": [
             {
-                "name": "Nena Maldición (feat. Lenny Tav\\xe1rez)",
+                "name": "Nena Maldición (feat. Lenny Tav\xe1rez)",
                 "uri": "spotify:track:77dMSg2VHi2wwXjXNrmcrZ"
             }
         ]
     },
     {
-        "artist": "Dalex, Lenny Tav\\xe1rez, Chencho Corleone, Juhn, D\\xedmelo Flow",
+        "artist": "Dalex, Lenny Tav\xe1rez, Chencho Corleone, Juhn, D\xedmelo Flow",
         "songs": [
             {
                 "name": "Hola - Remix",
@@ -9579,11 +9579,11 @@ export let artists = [
         "artist": "Andy Grammer",
         "songs": [
             {
-                "name": "Don\\'t Give Up On Me - (From \"Five Feet Apart\")",
+                "name": "Don\'t Give Up On Me - (From \"Five Feet Apart\")",
                 "uri": "spotify:track:5A3fPy30SN2wuzrahpcxvV"
             },
             {
-                "name": "Honey, I\\'m Good.",
+                "name": "Honey, I\'m Good.",
                 "uri": "spotify:track:4MflGTO2ZTcSQ12bWcyRgI"
             },
             {
@@ -9686,7 +9686,7 @@ export let artists = [
         "artist": "Yandel, Bad Bunny",
         "songs": [
             {
-                "name": "CANCI\\xd3N CON YANDEL",
+                "name": "CANCI\xd3N CON YANDEL",
                 "uri": "spotify:track:3pm4XtcsRIFFtH2UErk62R"
             }
         ]
@@ -9695,7 +9695,7 @@ export let artists = [
         "artist": "Feid, Yandel",
         "songs": [
             {
-                "name": "XQ Te Pones As\\xed",
+                "name": "XQ Te Pones As\xed",
                 "uri": "spotify:track:6JUMswocQ7Hp46kj9kyljT"
             }
         ]
@@ -9704,7 +9704,7 @@ export let artists = [
         "artist": "Nacho, Yandel, Bad Bunny, Mambo Kingz, DJ Luian",
         "songs": [
             {
-                "name": "B\\xe1ilame - Remix",
+                "name": "B\xe1ilame - Remix",
                 "uri": "spotify:track:4l3xGFwoTinvYxsePytOOf"
             }
         ]
@@ -9726,7 +9726,7 @@ export let artists = [
                 "uri": "spotify:track:1ghncW2POlIwtzN7lAeH6z"
             },
             {
-                "name": "Pa\\' La Camara",
+                "name": "Pa\' La Camara",
                 "uri": "spotify:track:1wE5srSNjqTXcjWIqyjJbi"
             },
             {
@@ -9796,7 +9796,7 @@ export let artists = [
                 "uri": "spotify:track:305WCRhhS10XUcH6AEwZk6"
             },
             {
-                "name": "Look What You\\'ve Done",
+                "name": "Look What You\'ve Done",
                 "uri": "spotify:track:0ZSmRnXnP5fdANtVlCok1g"
             },
             {
@@ -9813,7 +9813,7 @@ export let artists = [
         "artist": "Brett Young",
         "songs": [
             {
-                "name": "In Case You Didn\\'t Know",
+                "name": "In Case You Didn\'t Know",
                 "uri": "spotify:track:10M2Ex445zw585Ducldzkw"
             },
             {
@@ -9889,7 +9889,7 @@ export let artists = [
         "artist": "TINI, Tiago PZK",
         "songs": [
             {
-                "name": "El \\xdaltimo Beso",
+                "name": "El \xdaltimo Beso",
                 "uri": "spotify:track:1gYtMKmICjH8KQG3MheNJt"
             }
         ]
@@ -9898,11 +9898,11 @@ export let artists = [
         "artist": "Maria Becerra",
         "songs": [
             {
-                "name": "AUTOM\\xc1TICO",
+                "name": "AUTOM\xc1TICO",
                 "uri": "spotify:track:3Ne5uYDFzHEFYAPbaBMIck"
             },
             {
-                "name": "OJAL\\xc1",
+                "name": "OJAL\xc1",
                 "uri": "spotify:track:1uGdRSOpObu3lp0jvrVREl"
             }
         ]
@@ -9911,7 +9911,7 @@ export let artists = [
         "artist": "Manuel Turizo, Maria Becerra",
         "songs": [
             {
-                "name": "\\xc9xtasis",
+                "name": "\xc9xtasis",
                 "uri": "spotify:track:2X8AGLwb9F0JzJ9zT27a22"
             }
         ]
@@ -9977,7 +9977,7 @@ export let artists = [
         "artist": "2Pac, Outlawz",
         "songs": [
             {
-                "name": "Hit \\'Em Up - Single Version",
+                "name": "Hit \'Em Up - Single Version",
                 "uri": "spotify:track:0Z2J91b2iTGLVTZC4fKgxf"
             }
         ]
@@ -10168,7 +10168,7 @@ export let artists = [
                 "uri": "spotify:track:18AXbzPzBS8Y3AkgSxzJPb"
             },
             {
-                "name": "You Can\\'t Hurry Love - 2016 Remaster",
+                "name": "You Can\'t Hurry Love - 2016 Remaster",
                 "uri": "spotify:track:4YwbSZaYeYja8Umyt222Qf"
             },
             {
@@ -10180,7 +10180,7 @@ export let artists = [
                 "uri": "spotify:track:1NCuYqMc8hKMb4cpNTcJbD"
             },
             {
-                "name": "You\\'ll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
+                "name": "You\'ll Be In My Heart - From \"Tarzan\"/Soundtrack Version",
                 "uri": "spotify:track:1fTDYdx5zYfWJSX0JlKO8o"
             }
         ]
@@ -10230,7 +10230,7 @@ export let artists = [
                 "uri": "spotify:track:2Bs4jQEGMycglOfWPBqrVG"
             },
             {
-                "name": "They Don\\'t Know About Us",
+                "name": "They Don\'t Know About Us",
                 "uri": "spotify:track:6M31fPFCYB8Job3MCjjrDV"
             },
             {
@@ -10242,7 +10242,7 @@ export let artists = [
                 "uri": "spotify:track:4My8w8AA1JpG6E5SiAPvJL"
             },
             {
-                "name": "Live While We\\'re Young",
+                "name": "Live While We\'re Young",
                 "uri": "spotify:track:6Vh03bkEfXqekWp7Y1UBRb"
             },
             {
@@ -10263,7 +10263,7 @@ export let artists = [
         "artist": "Fergie",
         "songs": [
             {
-                "name": "Big Girls Don\\'t Cry (Personal)",
+                "name": "Big Girls Don\'t Cry (Personal)",
                 "uri": "spotify:track:6dgWWAs5yhWPOtvE1zuoQ1"
             }
         ]
@@ -10459,7 +10459,7 @@ export let artists = [
         "artist": "Band Aid",
         "songs": [
             {
-                "name": "Do They Know It\\'s Christmas? - 1984 Version",
+                "name": "Do They Know It\'s Christmas? - 1984 Version",
                 "uri": "spotify:track:4Yg2w0P29BBBMixyeNjDtj"
             },
             {
@@ -10467,7 +10467,7 @@ export let artists = [
                 "uri": "spotify:track:4MRIP0K2cnN48gnp71VIKs"
             },
             {
-                "name": "Do They Know It\\'s Christmas? - Live at Wembley Stadium, 13th July 1985",
+                "name": "Do They Know It\'s Christmas? - Live at Wembley Stadium, 13th July 1985",
                 "uri": "spotify:track:0YHQAU5WMJaOuYJ5HZ5n2c"
             }
         ]
@@ -10528,7 +10528,7 @@ export let artists = [
                 "uri": "spotify:track:4v9WbaxW8HdjqfUiWYWsII"
             },
             {
-                "name": "It\\'s Gonna Be Me",
+                "name": "It\'s Gonna Be Me",
                 "uri": "spotify:track:2AW37v0bDyuOzGP3XnmFuA"
             },
             {
@@ -10541,7 +10541,7 @@ export let artists = [
         "artist": "Shakira, Wyclef Jean",
         "songs": [
             {
-                "name": "Hips Don\\'t Lie (feat. Wyclef Jean)",
+                "name": "Hips Don\'t Lie (feat. Wyclef Jean)",
                 "uri": "spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V"
             }
         ]
@@ -10605,7 +10605,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Santa Fe Klan, Dharius, Gera MX, Neto Pe\\xf1a, Tiro Loko",
+        "artist": "Santa Fe Klan, Dharius, Gera MX, Neto Pe\xf1a, Tiro Loko",
         "songs": [
             {
                 "name": "Ojos Tumbados",
@@ -10646,7 +10646,7 @@ export let artists = [
                 "uri": "spotify:track:1tRxwf8Q0AcshfHuaD86Yt"
             },
             {
-                "name": "That\\'s My Kind Of Night",
+                "name": "That\'s My Kind Of Night",
                 "uri": "spotify:track:5HGibWoxnkYSkl6mHmAlOE"
             },
             {
@@ -10708,14 +10708,14 @@ export let artists = [
         ]
     },
     {
-        "artist": "Blue \\xd6yster Cult",
+        "artist": "Blue \xd6yster Cult",
         "songs": [
             {
-                "name": "(Don\\'t Fear) The Reaper",
+                "name": "(Don\'t Fear) The Reaper",
                 "uri": "spotify:track:5QTxFnGygVM4jFQiBovmRo"
             },
             {
-                "name": "Burnin\\' for You",
+                "name": "Burnin\' for You",
                 "uri": "spotify:track:3fkPMWQ6cBNBLuFcPyMS8s"
             },
             {
@@ -10763,7 +10763,7 @@ export let artists = [
         "artist": "T.I., Eminem",
         "songs": [
             {
-                "name": "That\\'s All She Wrote",
+                "name": "That\'s All She Wrote",
                 "uri": "spotify:track:6XAA7T9VHcqKQSzjmXAJ8o"
             }
         ]
@@ -10802,7 +10802,7 @@ export let artists = [
         "artist": "Chief Keef, Lil Reese",
         "songs": [
             {
-                "name": "I Don\\'t Like",
+                "name": "I Don\'t Like",
                 "uri": "spotify:track:1h6kgem1ai8vUgO1rZOwfB"
             }
         ]
@@ -10811,7 +10811,7 @@ export let artists = [
         "artist": "Chief Keef, 50 Cent, Wiz Khalifa",
         "songs": [
             {
-                "name": "Hate Bein\\' Sober",
+                "name": "Hate Bein\' Sober",
                 "uri": "spotify:track:2oHM9KAdFdFvDCaE4V6RST"
             }
         ]
@@ -10904,7 +10904,7 @@ export let artists = [
         "artist": "Elle King, Miranda Lambert",
         "songs": [
             {
-                "name": "Drunk (And I Don\\'t Wanna Go Home)",
+                "name": "Drunk (And I Don\'t Wanna Go Home)",
                 "uri": "spotify:track:0QULNNd9z5s35entfiiXoa"
             }
         ]
@@ -10913,7 +10913,7 @@ export let artists = [
         "artist": "Elle King",
         "songs": [
             {
-                "name": "Ex\\'s & Oh\\'s",
+                "name": "Ex\'s & Oh\'s",
                 "uri": "spotify:track:2vW5tqS1EFel9yYOQ7WZmE"
             }
         ]
@@ -10965,7 +10965,7 @@ export let artists = [
                 "uri": "spotify:track:46u5B2WN4wryYLZuMAOmI4"
             },
             {
-                "name": "It\\'s Ok If You Forget Me",
+                "name": "It\'s Ok If You Forget Me",
                 "uri": "spotify:track:4YwIOEhqg57IX2QasbetBi"
             },
             {
@@ -10978,7 +10978,7 @@ export let artists = [
         "artist": "NOTD, Astrid S",
         "songs": [
             {
-                "name": "I Don\\'t Know Why",
+                "name": "I Don\'t Know Why",
                 "uri": "spotify:track:0ZXdzaT1k688dkpNeEgQiV"
             }
         ]
@@ -10993,7 +10993,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "M\\xf6tley Cr\\xfce",
+        "artist": "M\xf6tley Cr\xfce",
         "songs": [
             {
                 "name": "Kickstart My Heart",
@@ -11156,7 +11156,7 @@ export let artists = [
                 "uri": "spotify:track:1UBQ5GK8JaQjm5VbkBZY66"
             },
             {
-                "name": "Gimme All Your Lovin\\'",
+                "name": "Gimme All Your Lovin\'",
                 "uri": "spotify:track:0OBwxFLu6Yj61s2OagYbgY"
             },
             {
@@ -11194,7 +11194,7 @@ export let artists = [
         "artist": "SAYGRACE, G-Eazy",
         "songs": [
             {
-                "name": "You Don\\'t Own Me (feat. G-Eazy)",
+                "name": "You Don\'t Own Me (feat. G-Eazy)",
                 "uri": "spotify:track:6KI1ZpZWYAJLvmVhCJz65G"
             }
         ]
@@ -11203,7 +11203,7 @@ export let artists = [
         "artist": "SAYGRACE",
         "songs": [
             {
-                "name": "Boys Ain\\'t Shit",
+                "name": "Boys Ain\'t Shit",
                 "uri": "spotify:track:6vzLbfskWigBsCzNdB0kfE"
             }
         ]
@@ -11212,7 +11212,7 @@ export let artists = [
         "artist": "SAYGRACE, Tate McRae, Audrey Mika",
         "songs": [
             {
-                "name": "Boys Ain\\'t Shit (feat. Tate McRae & Audrey Mika)",
+                "name": "Boys Ain\'t Shit (feat. Tate McRae & Audrey Mika)",
                 "uri": "spotify:track:7tMEUrMaMzE0YptCGfsXzt"
             }
         ]
@@ -11286,7 +11286,7 @@ export let artists = [
                 "uri": "spotify:track:4NYwy0R3NdvORX2B6OZXBT"
             },
             {
-                "name": "Can\\'t Help but Wait",
+                "name": "Can\'t Help but Wait",
                 "uri": "spotify:track:5k3VjTwIsOjQ2woGz3Yx71"
             }
         ]
@@ -11585,7 +11585,7 @@ export let artists = [
         "artist": "Rauw Alejandro, Zion & Lennox, Mr. Naisgai, The Martinez Brothers",
         "songs": [
             {
-                "name": "Qu\\xedmica (feat. The Martinez Brothers)",
+                "name": "Qu\xedmica (feat. The Martinez Brothers)",
                 "uri": "spotify:track:7IZn95vTYrhHRbFmZsdD2A"
             }
         ]
@@ -11670,7 +11670,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "ALT\\xc9GO, Britney Spears, Ginuwine",
+        "artist": "ALT\xc9GO, Britney Spears, Ginuwine",
         "songs": [
             {
                 "name": "Toxic Pony",
@@ -11731,7 +11731,7 @@ export let artists = [
                 "uri": "spotify:track:75ls0gurX68lUmMjE7QcsE"
             },
             {
-                "name": "always, i\\'ll care",
+                "name": "always, i\'ll care",
                 "uri": "spotify:track:0rbKrBvZUYY9GN9l057BuY"
             }
         ]
@@ -11904,7 +11904,7 @@ export let artists = [
                 "uri": "spotify:track:1bdm32mVmoGcek5bVKxQKd"
             },
             {
-                "name": "Boo\\'d Up",
+                "name": "Boo\'d Up",
                 "uri": "spotify:track:0At2qAoaVjIwWNAqrscXli"
             }
         ]
@@ -11913,7 +11913,7 @@ export let artists = [
         "artist": "Ella Mai, Ty Dolla $ign",
         "songs": [
             {
-                "name": "She Don\\'t (feat. Ty Dolla $Ign)",
+                "name": "She Don\'t (feat. Ty Dolla $Ign)",
                 "uri": "spotify:track:01JPQ87UHeGysPVwTqMJHK"
             }
         ]
@@ -11928,7 +11928,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Ti\\xebsto, Ava Max",
+        "artist": "Ti\xebsto, Ava Max",
         "songs": [
             {
                 "name": "The Motto",
@@ -12023,7 +12023,7 @@ export let artists = [
                 "uri": "spotify:track:4v7DCN09hgXkKazefkznDQ"
             },
             {
-                "name": "Don\\'t Matter",
+                "name": "Don\'t Matter",
                 "uri": "spotify:track:7I6DceMT3utDOHjcYCbrr4"
             }
         ]
@@ -12062,7 +12062,7 @@ export let artists = [
                 "uri": "spotify:track:0qRR9d89hIS0MHRkQ0ejxX"
             },
             {
-                "name": "Jingle Bell Rock - Daryl\\'s Version",
+                "name": "Jingle Bell Rock - Daryl\'s Version",
                 "uri": "spotify:track:6pVW5LRWgeLaHudxauOTJU"
             },
             {
@@ -12072,7 +12072,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Ti\\xebsto, Tate McRae",
+        "artist": "Ti\xebsto, Tate McRae",
         "songs": [
             {
                 "name": "10:35",
@@ -12081,7 +12081,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Ti\\xebsto, Charli XCX",
+        "artist": "Ti\xebsto, Charli XCX",
         "songs": [
             {
                 "name": "Hot In It",
@@ -12167,7 +12167,7 @@ export let artists = [
         "artist": "Warren G, Adina Howard",
         "songs": [
             {
-                "name": "What\\'s Love Got To Do With It",
+                "name": "What\'s Love Got To Do With It",
                 "uri": "spotify:track:2R7JeiRBaSVtenVSrtgnZZ"
             }
         ]
@@ -12176,7 +12176,7 @@ export let artists = [
         "artist": "Warren G, Jeezy, Bun B, Nate Dogg",
         "songs": [
             {
-                "name": "Keep on Hustlin\\' (feat. Young Jeezy, Bun B, Nate Dogg)",
+                "name": "Keep on Hustlin\' (feat. Young Jeezy, Bun B, Nate Dogg)",
                 "uri": "spotify:track:4ESFr6EFK19L20Wfq5hHC2"
             }
         ]
@@ -12197,11 +12197,11 @@ export let artists = [
                 "uri": "spotify:track:3UygY7qW2cvG9Llkay6i1i"
             },
             {
-                "name": "Call Me When You\\'re Sober",
+                "name": "Call Me When You\'re Sober",
                 "uri": "spotify:track:663Karu2rvKLdnY0eo1n3M"
             },
             {
-                "name": "Everybody\\'s Fool",
+                "name": "Everybody\'s Fool",
                 "uri": "spotify:track:0tWEB6BxbI48XN79QE1JbT"
             }
         ]
@@ -12210,7 +12210,7 @@ export let artists = [
         "artist": "Depeche Mode",
         "songs": [
             {
-                "name": "Just Can\\'t Get Enough - 2006 Remaster",
+                "name": "Just Can\'t Get Enough - 2006 Remaster",
                 "uri": "spotify:track:0xuXRQJfxmdP6gvfDe2Z4L"
             }
         ]
@@ -12241,7 +12241,7 @@ export let artists = [
                 "uri": "spotify:track:1BwVIIKOb2jv5Cbgau61v3"
             },
             {
-                "name": "Just Can\\'t Get Enough - Schizo Mix",
+                "name": "Just Can\'t Get Enough - Schizo Mix",
                 "uri": "spotify:track:7AoLxtHUzrQ8t8hUGLtPZq"
             }
         ]
@@ -12268,7 +12268,7 @@ export let artists = [
         "artist": "KYLE",
         "songs": [
             {
-                "name": "Don\\'t Wanna Fall In Love",
+                "name": "Don\'t Wanna Fall In Love",
                 "uri": "spotify:track:1YakuHfzKxjnseCEeVQtrY"
             }
         ]
@@ -12428,7 +12428,7 @@ export let artists = [
         "artist": "Juicy J, Lil Wayne, 2 Chainz",
         "songs": [
             {
-                "name": "Bandz A Make Her Dance (feat. Lil\\' Wayne & 2 Chainz)",
+                "name": "Bandz A Make Her Dance (feat. Lil\' Wayne & 2 Chainz)",
                 "uri": "spotify:track:7EZPH9Px3gXlxD5KJDwtwc"
             }
         ]
@@ -12485,7 +12485,7 @@ export let artists = [
                 "uri": "spotify:track:2grjqo0Frpf2okIBiifQKs"
             },
             {
-                "name": "Let\\'s Groove",
+                "name": "Let\'s Groove",
                 "uri": "spotify:track:3koCCeSaVUyrRo3N2gHrd8"
             },
             {
@@ -12517,10 +12517,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Majestic, Non\\xf4",
+        "artist": "Majestic, Non\xf4",
         "songs": [
             {
-                "name": "Time to Groove (feat. Non\\xf4)",
+                "name": "Time to Groove (feat. Non\xf4)",
                 "uri": "spotify:track:20b1ZBMGOZjuGvNFncIIP7"
             }
         ]
@@ -12602,7 +12602,7 @@ export let artists = [
                 "uri": "spotify:track:7Ar4G7Ci11gpt6sfH9Cgz5"
             },
             {
-                "name": "Long Train Runnin\\'",
+                "name": "Long Train Runnin\'",
                 "uri": "spotify:track:4nXkbcTj3nyww1cHkw5RAP"
             },
             {
@@ -12693,7 +12693,7 @@ export let artists = [
         "artist": "Buffalo Springfield",
         "songs": [
             {
-                "name": "For What It\\'s Worth",
+                "name": "For What It\'s Worth",
                 "uri": "spotify:track:1qRA5BS78u3gME0loMl9AA"
             },
             {
@@ -12730,7 +12730,7 @@ export let artists = [
                 "uri": "spotify:track:02bJ6uGeHKfNOhIc9qyA8e"
             },
             {
-                "name": "Howlin\\' for You",
+                "name": "Howlin\' for You",
                 "uri": "spotify:track:0grFc6klR3hxoHLcgCYsF4"
             },
             {
@@ -12755,7 +12755,7 @@ export let artists = [
                 "uri": "spotify:track:3354J49VpkbZJho7Ztdzpw"
             },
             {
-                "name": "How\\'s It Going to Be",
+                "name": "How\'s It Going to Be",
                 "uri": "spotify:track:3Uvx1TO0Kg5HgGPk58lHXv"
             },
             {
@@ -13006,7 +13006,7 @@ export let artists = [
         "artist": "Michael Bublé",
         "songs": [
             {
-                "name": "It\\'s Beginning to Look a Lot like Christmas",
+                "name": "It\'s Beginning to Look a Lot like Christmas",
                 "uri": "spotify:track:0lLdorYw7lVrJydTINhWdI"
             },
             {
@@ -13022,7 +13022,7 @@ export let artists = [
                 "uri": "spotify:track:3I09LQbHS3NSU46Ly3tPpR"
             },
             {
-                "name": "Haven\\'t Met You Yet",
+                "name": "Haven\'t Met You Yet",
                 "uri": "spotify:track:4fIWvT19w9PR0VVBuPYpWA"
             },
             {
@@ -13039,7 +13039,7 @@ export let artists = [
                 "uri": "spotify:track:0cuq829zRNq4AEdmDJA4aw"
             },
             {
-                "name": "Little Miss Can\\'t Be Wrong",
+                "name": "Little Miss Can\'t Be Wrong",
                 "uri": "spotify:track:1uCqIhOePc6hDMG2ijk8sp"
             },
             {
@@ -13047,7 +13047,7 @@ export let artists = [
                 "uri": "spotify:track:67QwcwQcOk7ySgQ07DEJ5k"
             },
             {
-                "name": "Jimmy Olsen\\'s Blues",
+                "name": "Jimmy Olsen\'s Blues",
                 "uri": "spotify:track:0xG0R8KUwRcXgmveVvbnwn"
             }
         ]
@@ -13091,7 +13091,7 @@ export let artists = [
         "artist": "Sebastian Yatra, Myke Towers",
         "songs": [
             {
-                "name": "Pareja Del A\\xf1o",
+                "name": "Pareja Del A\xf1o",
                 "uri": "spotify:track:655JkvIwu2rDCaD1hPf04g"
             }
         ]
@@ -13127,11 +13127,11 @@ export let artists = [
         "artist": "John Travolta, Olivia Newton-John",
         "songs": [
             {
-                "name": "You\\'re The One That I Want - From \\u201cGrease\\u201d",
+                "name": "You\'re The One That I Want - From \u201cGrease\u201d",
                 "uri": "spotify:track:0B9x2BRHqj3Qer7biM3pU3"
             },
             {
-                "name": "Summer Nights - From \\u201cGrease\\u201d",
+                "name": "Summer Nights - From \u201cGrease\u201d",
                 "uri": "spotify:track:2AVkArcfALVk2X8sfPRzya"
             }
         ]
@@ -13140,7 +13140,7 @@ export let artists = [
         "artist": "John Travolta, Jeff Conaway",
         "songs": [
             {
-                "name": "Greased Lightnin\\'",
+                "name": "Greased Lightnin\'",
                 "uri": "spotify:track:0hq5mE9kYU4Sy2PpdZwGol"
             }
         ]
@@ -13158,7 +13158,7 @@ export let artists = [
         "artist": "Aventura, Bad Bunny",
         "songs": [
             {
-                "name": "Volv\\xed",
+                "name": "Volv\xed",
                 "uri": "spotify:track:2vmfvSoZBFAt9hhRoEByLi"
             }
         ]
@@ -13288,7 +13288,7 @@ export let artists = [
         "artist": "Alexander 23, Jeremy Zucker",
         "songs": [
             {
-                "name": "Nothing\\'s the Same",
+                "name": "Nothing\'s the Same",
                 "uri": "spotify:track:3vSLSOhE8HWBC2WiN0j0hD"
             }
         ]
@@ -13341,13 +13341,13 @@ export let artists = [
         "artist": "Alex Sensation, Bad Bunny",
         "songs": [
             {
-                "name": "Fantas\\xeda",
+                "name": "Fantas\xeda",
                 "uri": "spotify:track:72BQwM1wnBQCbjwjRu1rmF"
             }
         ]
     },
     {
-        "artist": "Dayvi, Victor Cardenas, Kelly Ru\\xedz",
+        "artist": "Dayvi, Victor Cardenas, Kelly Ru\xedz",
         "songs": [
             {
                 "name": "Baila Conmigo (feat. Kelly Ruiz)",
@@ -13392,7 +13392,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Victor Cardenas, Kelly Ru\\xedz",
+        "artist": "Victor Cardenas, Kelly Ru\xedz",
         "songs": [
             {
                 "name": "Siento",
@@ -13401,7 +13401,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Dayvi, Victor Cardenas, Kelly Ru\\xedz, Willy William",
+        "artist": "Dayvi, Victor Cardenas, Kelly Ru\xedz, Willy William",
         "songs": [
             {
                 "name": "Baila Conmigo - Willy William Remix",
@@ -13410,7 +13410,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Kelly Ru\\xedz",
+        "artist": "Kelly Ru\xedz",
         "songs": [
             {
                 "name": "Malo (Guaracha)",
@@ -13455,7 +13455,7 @@ export let artists = [
         "artist": "Crowded House",
         "songs": [
             {
-                "name": "Don\\'t Dream It\\'s Over",
+                "name": "Don\'t Dream It\'s Over",
                 "uri": "spotify:track:7G7tgVYORlDuVprcYHuFJh"
             },
             {
@@ -13507,7 +13507,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Destiny\\'s Child",
+        "artist": "Destiny\'s Child",
         "songs": [
             {
                 "name": "Say My Name",
@@ -13522,7 +13522,7 @@ export let artists = [
                 "uri": "spotify:track:7qtAgn9mwxygsPOsUDVRRt"
             },
             {
-                "name": "Jumpin\\', Jumpin\\'",
+                "name": "Jumpin\', Jumpin\'",
                 "uri": "spotify:track:4pmc2AxSEq6g7hPVlJCPyP"
             }
         ]
@@ -13573,7 +13573,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Super Yei, Jone Quest, Sammy, Myke Towers, Lenny Tav\\xe1rez, Rafa Pab\\xf6n",
+        "artist": "Super Yei, Jone Quest, Sammy, Myke Towers, Lenny Tav\xe1rez, Rafa Pab\xf6n",
         "songs": [
             {
                 "name": "La Forma en Que Me Miras",
@@ -13582,7 +13582,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Super Yei, Jone Quest, Killatonez, \\xd1engo Flow, Juanka",
+        "artist": "Super Yei, Jone Quest, Killatonez, \xd1engo Flow, Juanka",
         "songs": [
             {
                 "name": "Candela",
@@ -13612,13 +13612,13 @@ export let artists = [
         "artist": "Super Yei, Jone Quest, Juanka, Osquel",
         "songs": [
             {
-                "name": "D\\xe1ndote",
+                "name": "D\xe1ndote",
                 "uri": "spotify:track:74rZ6Lk2AXhEo1Pg34Taej"
             }
         ]
     },
     {
-        "artist": "Super Yei, Sammy, Myke Towers, Lenny Tav\\xe1rez, Rafa Pab\\xf6n",
+        "artist": "Super Yei, Sammy, Myke Towers, Lenny Tav\xe1rez, Rafa Pab\xf6n",
         "songs": [
             {
                 "name": "La Forma en Que Me Miras",
@@ -13648,7 +13648,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Alex Rose, Rafa Pab\\xf6n",
+        "artist": "Alex Rose, Rafa Pab\xf6n",
         "songs": [
             {
                 "name": "Jangueo",
@@ -13657,7 +13657,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Brytiago, Rafa Pab\\xf6n, Sech, Myke Towers, Cazzu, Rauw Alejandro",
+        "artist": "Brytiago, Rafa Pab\xf6n, Sech, Myke Towers, Cazzu, Rauw Alejandro",
         "songs": [
             {
                 "name": "La Mentira - Remix",
@@ -13666,7 +13666,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Cauty, Brytiago, Darell, Cosculluela, Rafa Pab\\xf6n, Chencho Corleone",
+        "artist": "Cauty, Brytiago, Darell, Cosculluela, Rafa Pab\xf6n, Chencho Corleone",
         "songs": [
             {
                 "name": "Ta To Gucci (Remix)",
@@ -13675,7 +13675,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Rafa Pab\\xf6n, Justin Quiles, Maikel Delacalle, Jerry Di, Jambene",
+        "artist": "Rafa Pab\xf6n, Justin Quiles, Maikel Delacalle, Jerry Di, Jambene",
         "songs": [
             {
                 "name": "Quisiera - Remix",
@@ -13687,7 +13687,7 @@ export let artists = [
         "artist": "The Pointer Sisters",
         "songs": [
             {
-                "name": "I\\'m So Excited",
+                "name": "I\'m So Excited",
                 "uri": "spotify:track:1ot6jEe4w4hYnsOPjd3xKQ"
             },
             {
@@ -13726,7 +13726,7 @@ export let artists = [
         "artist": "Diddy, 112, Faith Evans",
         "songs": [
             {
-                "name": "I\\'ll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
+                "name": "I\'ll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
                 "uri": "spotify:track:1yy2DlSDtEt90d54rPDPXz"
             }
         ]
@@ -13757,7 +13757,7 @@ export let artists = [
                 "uri": "spotify:track:27qAMKrDdKEs8HDXcvR24R"
             },
             {
-                "name": "Fool (If You Think It\\'s Over)",
+                "name": "Fool (If You Think It\'s Over)",
                 "uri": "spotify:track:5GYzxG9pPDGOBiQrynxjQm"
             },
             {
@@ -13782,7 +13782,7 @@ export let artists = [
                 "uri": "spotify:track:4ByEFOBuLXpCqvO1kw8Wdm"
             },
             {
-                "name": "I\\'ve Been In Love Before",
+                "name": "I\'ve Been In Love Before",
                 "uri": "spotify:track:7yQNqjXp9BAGAppPGkTbYf"
             },
             {
@@ -13825,7 +13825,7 @@ export let artists = [
                 "uri": "spotify:track:2E2ZVy2fxslpAUgbb4zu84"
             },
             {
-                "name": "Rock\\'n Me",
+                "name": "Rock\'n Me",
                 "uri": "spotify:track:1orVKbp6vqtfAPOmvRofVq"
             }
         ]
@@ -13907,7 +13907,7 @@ export let artists = [
         "artist": "Grandmaster Flash, Grandmaster Melle Mel",
         "songs": [
             {
-                "name": "White Lines (Don\\'t Do It) - Long Version",
+                "name": "White Lines (Don\'t Do It) - Long Version",
                 "uri": "spotify:track:2tbQrN2HUhetIfC47ZMOwv"
             }
         ]
@@ -13916,7 +13916,7 @@ export let artists = [
         "artist": "Grandmaster, Grandmaster Melle Mel",
         "songs": [
             {
-                "name": "White Lines (Don\\'t Do It)",
+                "name": "White Lines (Don\'t Do It)",
                 "uri": "spotify:track:58lU7TmwUeSPGWcBjy3qMY"
             }
         ]
@@ -13934,7 +13934,7 @@ export let artists = [
         "artist": "Cold Crush Brothers, Jamalski, Grandmaster Caz, Akbar",
         "songs": [
             {
-                "name": "Thought So (Drunkin\\' Style)",
+                "name": "Thought So (Drunkin\' Style)",
                 "uri": "spotify:track:63SfmghUq8yt38QetFUdxo"
             }
         ]
@@ -14043,7 +14043,7 @@ export let artists = [
                 "uri": "spotify:track:5EoYc5wvRYOtkudLfrjsL1"
             },
             {
-                "name": "Twistin\\' the Night Away",
+                "name": "Twistin\' the Night Away",
                 "uri": "spotify:track:7FS541dJh3iQAEXEZoDhE6"
             }
         ]
@@ -14273,7 +14273,7 @@ export let artists = [
                 "uri": "spotify:track:38wSbAmV7zNBhYqfzv1m9x"
             },
             {
-                "name": "We Don\\'t Know",
+                "name": "We Don\'t Know",
                 "uri": "spotify:track:3IslE8QpWjeORpe7AwUwPK"
             }
         ]
@@ -14363,23 +14363,23 @@ export let artists = [
         "artist": "YOASOBI",
         "songs": [
             {
-                "name": "\\u795d\\u798f",
+                "name": "\u795d\u798f",
                 "uri": "spotify:track:7ajpbW6tBpqUI9foCtwlLw"
             },
             {
-                "name": "\\u591c\\u306b\\u99c6\\u3051\\u308b",
+                "name": "\u591c\u306b\u99c6\u3051\u308b",
                 "uri": "spotify:track:6MCjmGYlw6mQVWRFVgBRvB"
             },
             {
-                "name": "\\u7fa4\\u9752",
+                "name": "\u7fa4\u9752",
                 "uri": "spotify:track:1zd35Y44Blc1CwwVbW3Qnk"
             },
             {
-                "name": "\\u602a\\u7269",
+                "name": "\u602a\u7269",
                 "uri": "spotify:track:2vjY3jGKElvqXoaGNEuYef"
             },
             {
-                "name": "\\u305f\\u3076\\u3093",
+                "name": "\u305f\u3076\u3093",
                 "uri": "spotify:track:398dL22bDbKbAmiOnPaq7o"
             }
         ]
@@ -14388,7 +14388,7 @@ export let artists = [
         "artist": "Norah Jones",
         "songs": [
             {
-                "name": "Don\\'t Know Why",
+                "name": "Don\'t Know Why",
                 "uri": "spotify:track:1zNXF2svmdlNxfS5XeNUgr"
             },
             {
@@ -14418,7 +14418,7 @@ export let artists = [
         "artist": "Jennifer Lopez",
         "songs": [
             {
-                "name": "Ain\\'t Your Mama",
+                "name": "Ain\'t Your Mama",
                 "uri": "spotify:track:2hgzdQdnfWwtdpZbhZlV72"
             }
         ]
@@ -14496,7 +14496,7 @@ export let artists = [
         "artist": "Jason Aldean, Carrie Underwood",
         "songs": [
             {
-                "name": "If I Didn\\'t Love You",
+                "name": "If I Didn\'t Love You",
                 "uri": "spotify:track:1WQ40xJSvgDmD9K7ckJwux"
             }
         ]
@@ -14545,7 +14545,7 @@ export let artists = [
         "artist": "FINNEAS",
         "songs": [
             {
-                "name": "Let\\'s Fall in Love for the Night",
+                "name": "Let\'s Fall in Love for the Night",
                 "uri": "spotify:track:3n5te2xbUAPjzAnhLgA42z"
             },
             {
@@ -14723,7 +14723,7 @@ export let artists = [
         "artist": "Four Tops",
         "songs": [
             {
-                "name": "I Can\\'t Help Myself (Sugar Pie, Honey Bunch)",
+                "name": "I Can\'t Help Myself (Sugar Pie, Honey Bunch)",
                 "uri": "spotify:track:6b6IMqP565TbtFFZg9iFf3"
             },
             {
@@ -14735,11 +14735,11 @@ export let artists = [
                 "uri": "spotify:track:7gfAYm7X5HMSuKcO4dy8Wi"
             },
             {
-                "name": "Reach Out I\\'ll Be There",
+                "name": "Reach Out I\'ll Be There",
                 "uri": "spotify:track:6Pkj4nv5K53i64cLVgkVyY"
             },
             {
-                "name": "It\\'s The Same Old Song",
+                "name": "It\'s The Same Old Song",
                 "uri": "spotify:track:7d1ustAIlXG7ht5Q4IOv7s"
             }
         ]
@@ -14748,7 +14748,7 @@ export let artists = [
         "artist": "The Supremes",
         "songs": [
             {
-                "name": "You Can\\'t Hurry Love",
+                "name": "You Can\'t Hurry Love",
                 "uri": "spotify:track:1OppEieGNdItZbE14gLBEv"
             },
             {
@@ -14831,11 +14831,11 @@ export let artists = [
                 "uri": "spotify:track:2qhASBzpbFhPRtrnZ5lLnz"
             },
             {
-                "name": "You\\'ve Lost That Lovin\\' Feelin\\' - Single Version",
+                "name": "You\'ve Lost That Lovin\' Feelin\' - Single Version",
                 "uri": "spotify:track:6AeyHqzNHJthYJbn0tvJ4b"
             },
             {
-                "name": "(You\\'re My) Soul And Inspiration",
+                "name": "(You\'re My) Soul And Inspiration",
                 "uri": "spotify:track:5ZHOiRqKOzgFMfMAu8cwzp"
             },
             {
@@ -14916,7 +14916,7 @@ export let artists = [
                 "uri": "spotify:track:4Hhv2vrOTy89HFRcjU3QOx"
             },
             {
-                "name": "I\\'d Rather Go Blind",
+                "name": "I\'d Rather Go Blind",
                 "uri": "spotify:track:1kPBT8S2wJFNAyBMnGVZgL"
             },
             {
@@ -14933,7 +14933,7 @@ export let artists = [
         "artist": "The Human League",
         "songs": [
             {
-                "name": "Don\\'t You Want Me",
+                "name": "Don\'t You Want Me",
                 "uri": "spotify:track:3L7RtEcu1Hw3OXrpnthngx"
             },
             {
@@ -14954,7 +14954,7 @@ export let artists = [
         "artist": "The Human League, Purple Disco Machine",
         "songs": [
             {
-                "name": "Don\\'t You Want Me - Purple Disco Machine Remix",
+                "name": "Don\'t You Want Me - Purple Disco Machine Remix",
                 "uri": "spotify:track:3BTzwW4PLNDtREjesuYy03"
             }
         ]
@@ -15024,16 +15024,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Carlos Baute, Marta S\\xe1nchez",
+        "artist": "Carlos Baute, Marta S\xe1nchez",
         "songs": [
             {
-                "name": "Colgando en tus manos (con Marta S\\xe1nchez)",
+                "name": "Colgando en tus manos (con Marta S\xe1nchez)",
                 "uri": "spotify:track:3UI9I3e1g1y5T3SMfdgfGO"
             }
         ]
     },
     {
-        "artist": "Resistiré 2020, Alex Ubago, Carlos Baute, Despistaos, Diana Navarro, Efecto Pasillo, Georgina, Mikel Erentxun, Nil Moliner, Rosana, Rulo y la contrabanda, Alvaro Soler, Conchita, David Bisbal, David Otero, David Summers, Dvicio, Efecto Mariposa, ELE, India Martinez, Jose Merce, Josemi Carmona, Pedro Guerra, Pitingo, Rozalén, Sofia Ellar, Andrés Su\\xe1rez, Pastora Soler, Vanesa Mart\\xedn, Blas Cantó, Melendi, Manuel Carrasco",
+        "artist": "Resistiré 2020, Alex Ubago, Carlos Baute, Despistaos, Diana Navarro, Efecto Pasillo, Georgina, Mikel Erentxun, Nil Moliner, Rosana, Rulo y la contrabanda, Alvaro Soler, Conchita, David Bisbal, David Otero, David Summers, Dvicio, Efecto Mariposa, ELE, India Martinez, Jose Merce, Josemi Carmona, Pedro Guerra, Pitingo, Rozalén, Sofia Ellar, Andrés Su\xe1rez, Pastora Soler, Vanesa Mart\xedn, Blas Cantó, Melendi, Manuel Carrasco",
         "songs": [
             {
                 "name": "Resistiré",
@@ -15051,7 +15051,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Marta S\\xe1nchez",
+        "artist": "Marta S\xe1nchez",
         "songs": [
             {
                 "name": "Desesperada",
@@ -15064,7 +15064,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Alejandro Sanz, Aleks Syntek, Bebe, Belinda, Carlos Jean, Daddy Jean, David Otero, Enrique Iglesias, Estopa, Hombres G, Juanes, Kun Ag\\xfcero, La Mala, La Oreja de Van Gogh, Macaco, Marta S\\xe1nchez, Merce, Miguel Bosé, Najwa, OBK, Sandra Carrasco, Shakira, Wally Lopez",
+        "artist": "Alejandro Sanz, Aleks Syntek, Bebe, Belinda, Carlos Jean, Daddy Jean, David Otero, Enrique Iglesias, Estopa, Hombres G, Juanes, Kun Ag\xfcero, La Mala, La Oreja de Van Gogh, Macaco, Marta S\xe1nchez, Merce, Miguel Bosé, Najwa, OBK, Sandra Carrasco, Shakira, Wally Lopez",
         "songs": [
             {
                 "name": "Ay Haiti!",
@@ -15098,7 +15098,7 @@ export let artists = [
         "artist": "Seezyn",
         "songs": [
             {
-                "name": "Heartbreak & Drugs Don\\'t Mx Well",
+                "name": "Heartbreak & Drugs Don\'t Mx Well",
                 "uri": "spotify:track:26nBi1Rkz8c76kwX9Ud5xw"
             },
             {
@@ -15166,7 +15166,7 @@ export let artists = [
         "artist": "Fountains Of Wayne",
         "songs": [
             {
-                "name": "Stacy\\'s Mom",
+                "name": "Stacy\'s Mom",
                 "uri": "spotify:track:27L8sESb3KR79asDUBu8nW"
             },
             {
@@ -15212,7 +15212,7 @@ export let artists = [
                 "uri": "spotify:track:4tPL9PeVZY4c0jUPtSD5nx"
             },
             {
-                "name": "La Melod\\xeda",
+                "name": "La Melod\xeda",
                 "uri": "spotify:track:2sH1DIngiSA8EQfkcQXpBq"
             }
         ]
@@ -15230,7 +15230,7 @@ export let artists = [
         "artist": "Lasso, Sebastian Yatra",
         "songs": [
             {
-                "name": "Ojos Marrones - Con Sebasti\\xe1n Yatra",
+                "name": "Ojos Marrones - Con Sebasti\xe1n Yatra",
                 "uri": "spotify:track:2GQclWZHwE4fMdqShvOPWU"
             }
         ]
@@ -15243,7 +15243,7 @@ export let artists = [
                 "uri": "spotify:track:6ylDpki1VpIsc525KC1ojF"
             },
             {
-                "name": "No Hay Nadie M\\xe1s",
+                "name": "No Hay Nadie M\xe1s",
                 "uri": "spotify:track:3IPJg1sdqLj12kFIndaonN"
             }
         ]
@@ -15252,7 +15252,7 @@ export let artists = [
         "artist": "Kygo, Tina Turner",
         "songs": [
             {
-                "name": "What\\'s Love Got to Do with It",
+                "name": "What\'s Love Got to Do with It",
                 "uri": "spotify:track:3Be7CLdHZpyzsVijme39cW"
             }
         ]
@@ -15261,7 +15261,7 @@ export let artists = [
         "artist": "Tina Turner",
         "songs": [
             {
-                "name": "What\\'s Love Got to Do with It - 2015 Remaster",
+                "name": "What\'s Love Got to Do with It - 2015 Remaster",
                 "uri": "spotify:track:3ErsOxqe2RmXkR65wkygDz"
             },
             {
@@ -15332,7 +15332,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "220 KID, \\xc1SD\\xcdS",
+        "artist": "220 KID, \xc1SD\xcdS",
         "songs": [
             {
                 "name": "Release",
@@ -15353,7 +15353,7 @@ export let artists = [
         "artist": "Billen Ted, Kah-Lo",
         "songs": [
             {
-                "name": "People Ain\\'t Dancing (feat. Kah-Lo)",
+                "name": "People Ain\'t Dancing (feat. Kah-Lo)",
                 "uri": "spotify:track:4qXjXZPGtVNhQq1z9QDRFn"
             }
         ]
@@ -15371,11 +15371,11 @@ export let artists = [
         "artist": "Bill Medley, Jennifer Warnes",
         "songs": [
             {
-                "name": "(I\\'ve Had) The Time Of My Life",
+                "name": "(I\'ve Had) The Time Of My Life",
                 "uri": "spotify:track:2JCTiiJQFWQNC0Zp8rsJRB"
             },
             {
-                "name": "(I\\'ve Had) The Time of My Life - 12\" Version",
+                "name": "(I\'ve Had) The Time of My Life - 12\" Version",
                 "uri": "spotify:track: 6mLVtOXSp8zzUVbQGLetBA"
             }
         ]
@@ -15384,7 +15384,7 @@ export let artists = [
         "artist": "Bill Medley",
         "songs": [
             {
-                "name": "You\\'ve Lost That Lovin\\' Feelin\\'",
+                "name": "You\'ve Lost That Lovin\' Feelin\'",
                 "uri": "spotify:track: 3hleNo0sXhKORE3KjroSsW"
             }
         ]
@@ -15431,7 +15431,7 @@ export let artists = [
                 "uri": "spotify:track: 2MLHyLy5z5l5YRp7momlgw"
             },
             {
-                "name": "Say It Ain\\'t So",
+                "name": "Say It Ain\'t So",
                 "uri": "spotify:track: 6VoIBz0VhCyz7OdEoRYDiA"
             },
             {
@@ -15656,7 +15656,7 @@ export let artists = [
         "artist": "flora cash",
         "songs": [
             {
-                "name": "You\\'re Somebody Else",
+                "name": "You\'re Somebody Else",
                 "uri": "spotify:track: 6iWEhoALoBFnQMNVhYY0Sc"
             },
             {
@@ -15675,7 +15675,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Jub\\xebl, NEIMY",
+        "artist": "Jub\xebl, NEIMY",
         "songs": [
             {
                 "name": "Dancing In The Moonlight (feat. NEIMY)",
@@ -15688,7 +15688,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Jub\\xebl",
+        "artist": "Jub\xebl",
         "songs": [
             {
                 "name": "Dumb",
@@ -15732,7 +15732,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Alex Rose, Rauw Alejandro, Lenny Tav\\xe1rez, Cazzu, Lyanno",
+        "artist": "Alex Rose, Rauw Alejandro, Lenny Tav\xe1rez, Cazzu, Lyanno",
         "songs": [
             {
                 "name": "Toda - Remix",
@@ -15741,7 +15741,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Alex Rose, Casper Magico, \\xd1engo Flow, Bryant Myers, Noriel, Juhn, Miky Woodz, Jhay Cortez, Myke Towers",
+        "artist": "Alex Rose, Casper Magico, \xd1engo Flow, Bryant Myers, Noriel, Juhn, Miky Woodz, Jhay Cortez, Myke Towers",
         "songs": [
             {
                 "name": "Darte Remix",
@@ -15750,7 +15750,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Alex Rose, Lenny Tav\\xe1rez, Chris Wandell, Quimico Ultra Mega",
+        "artist": "Alex Rose, Lenny Tav\xe1rez, Chris Wandell, Quimico Ultra Mega",
         "songs": [
             {
                 "name": "Percocet - Remix",
@@ -15807,7 +15807,7 @@ export let artists = [
         "artist": "Benzz, Tion Wayne, French Montana",
         "songs": [
             {
-                "name": "Je M\\'appelle (feat. Tion Wayne & French Montana) - Remix",
+                "name": "Je M\'appelle (feat. Tion Wayne & French Montana) - Remix",
                 "uri": "spotify:track: 203uVLn0YRikqOgI4axq8n"
             }
         ]
@@ -15838,7 +15838,7 @@ export let artists = [
         "artist": "Trinidad James, Mystikal, Lil Dicky",
         "songs": [
             {
-                "name": "Just A Lil\\' Thick (She Juicy) (feat. Mystikal & Lil Dicky)",
+                "name": "Just A Lil\' Thick (She Juicy) (feat. Mystikal & Lil Dicky)",
                 "uri": "spotify:track: 5zaIgI9HNUPIcfaeVRlxGa"
             }
         ]
@@ -15933,23 +15933,23 @@ export let artists = [
         ]
     },
     {
-        "artist": "Justin Quiles, Natti Natasha, Farruko, Lenny Tav\\xe1rez, Dalex, Zion",
+        "artist": "Justin Quiles, Natti Natasha, Farruko, Lenny Tav\xe1rez, Dalex, Zion",
         "songs": [
             {
-                "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\\xe1rez) - Remix",
+                "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\xe1rez) - Remix",
                 "uri": "spotify:track: 1ndyl3wJCFs872XZ3ztPk6"
             }
         ]
     },
     {
-        "artist": "M\\xe5neskin",
+        "artist": "M\xe5neskin",
         "songs": [
             {
                 "name": "THE LONELIEST",
                 "uri": "spotify:track: 1Ame8XTX6QHY0l0ahqUhgv"
             },
             {
-                "name": "Beggin\\'",
+                "name": "Beggin\'",
                 "uri": "spotify:track: 3Wrjm47oTz2sjIgck11l5e"
             },
             {
@@ -16005,7 +16005,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Mot\\xf6rhead",
+        "artist": "Mot\xf6rhead",
         "songs": [
             {
                 "name": "Ace of Spades",
@@ -16029,7 +16029,7 @@ export let artists = [
                 "uri": "spotify:track: 58mFu3oIpBa0HLNeJIxsw3"
             },
             {
-                "name": "Leave A Light On - 7\\'\\' Version",
+                "name": "Leave A Light On - 7\'\' Version",
                 "uri": "spotify:track: 2yUMJq8iHesXXQMG2Bl86A"
             },
             {
@@ -16074,7 +16074,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Jonas Blue, Why Don\\'t We",
+        "artist": "Jonas Blue, Why Don\'t We",
         "songs": [
             {
                 "name": "Don't Wake Me Up",
@@ -16190,7 +16190,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "B\\xd8RNS",
+        "artist": "B\xd8RNS",
         "songs": [
             {
                 "name": "Electric Love",
@@ -16271,7 +16271,7 @@ export let artists = [
                 "uri": "spotify:track: 0Tr5G2mE56eLUGvCaXRM8I"
             },
             {
-                "name": "I Can\\'t Go on Without You",
+                "name": "I Can\'t Go on Without You",
                 "uri": "spotify:track: 1dX6oGAG5PaexuPj29PsYd"
             }
         ]
@@ -16401,7 +16401,7 @@ export let artists = [
                 "uri": "spotify:track: 43z6scIZU2QcEieMQFAJRG"
             },
             {
-                "name": "Don\\'t Dream It\\'s Over",
+                "name": "Don\'t Dream It\'s Over",
                 "uri": "spotify:track: 2kyezitNXSQaIa1nsQRWVp"
             },
             {
@@ -16461,7 +16461,7 @@ export let artists = [
                 "uri": "spotify:track: 4Anh5Ti55P6SXG3H94QLqV"
             },
             {
-                "name": "Don\\'t Cross the River",
+                "name": "Don\'t Cross the River",
                 "uri": "spotify:track: 35CMSp8RLVTSXmuv6czRpE"
             }
         ]
@@ -16596,7 +16596,7 @@ export let artists = [
                 "uri": "spotify:track: 6OufwUcCqo81guU2jAlDVP"
             },
             {
-                "name": "Won\\'t Forget You - Edit",
+                "name": "Won\'t Forget You - Edit",
                 "uri": "spotify:track: 3I10tZ5MgEMo4WryCNJkZQ"
             }
         ]
@@ -16636,7 +16636,7 @@ export let artists = [
         "artist": "Bill Withers",
         "songs": [
             {
-                "name": "Ain\\'t No Sunshine",
+                "name": "Ain\'t No Sunshine",
                 "uri": "spotify:track: 1k1Bqnv2R0uJXQN4u6LKYt"
             },
             {
@@ -16682,7 +16682,7 @@ export let artists = [
                 "uri": "spotify:track: 0K8Hm9Q7GbyucgQB5BhC5C"
             },
             {
-                "name": "Who\\'s Going Home With You Tonight?",
+                "name": "Who\'s Going Home With You Tonight?",
                 "uri": "spotify:track: 2W9EKNu1vJsEyeplX9zdtK"
             },
             {
@@ -16711,7 +16711,7 @@ export let artists = [
                 "uri": "spotify:track: 5GKwq4sO5ZHKuWaDmdwMQc"
             },
             {
-                "name": "\\ub7ec\\uc2dc\\uc548 \\ub8f0\\ub81b Russian Roulette",
+                "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
                 "uri": "spotify:track: 5HiSc2ZCGn8L3cH3qSwzBT"
             }
         ]
@@ -16799,7 +16799,7 @@ export let artists = [
                 "uri": "spotify:track: 6lAMnXLVCBPMXXWAK4lGSL"
             },
             {
-                "name": "Vibin\\' Out",
+                "name": "Vibin\' Out",
                 "uri": "spotify:track: 6SEolIp22t0DzeBfCBo3hr"
             }
         ]
@@ -16812,11 +16812,11 @@ export let artists = [
                 "uri": "spotify:track: 1Cwsd5xI8CajJz795oy4XF"
             },
             {
-                "name": "Someday We\\'ll Know",
+                "name": "Someday We\'ll Know",
                 "uri": "spotify:track: 5X0zqWSaSnulsbf74CrljV"
             },
             {
-                "name": "Mother We Just Can\\'t Get Enough",
+                "name": "Mother We Just Can\'t Get Enough",
                 "uri": "spotify:track: 5rb29MoYiBwXzXCtJ94oa1"
             },
             {
@@ -16850,7 +16850,7 @@ export let artists = [
         "artist": "Bad Bunny",
         "songs": [
             {
-                "name": "Tit\\xed Me Preguntó",
+                "name": "Tit\xed Me Preguntó",
                 "uri": "spotify:track: 1IHWl5LamUGEuP4ozKQSXZ"
             },
             {
@@ -16915,7 +16915,7 @@ export let artists = [
                 "uri": "spotify:track: 5lRzWDEe7UuedU2QPsFg0K"
             },
             {
-                "name": "No One\\'s Gonna Love You",
+                "name": "No One\'s Gonna Love You",
                 "uri": "spotify:track: 2IvNxLl01CTAfCOA103Tgx"
             },
             {
@@ -17039,7 +17039,7 @@ export let artists = [
         "artist": "Roar",
         "songs": [
             {
-                "name": "I Can\\'t Handle Change",
+                "name": "I Can\'t Handle Change",
                 "uri": "spotify:track: 0I1eFRytp4XRhLCjT6tZm7"
             },
             {
@@ -17095,7 +17095,7 @@ export let artists = [
         "artist": "Stevie Nicks, Tom Petty and the Heartbreakers",
         "songs": [
             {
-                "name": "Stop Draggin\\' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster",
+                "name": "Stop Draggin\' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster",
                 "uri": "spotify:track: 66LhCsc06aTa2Ig7iYPDSP"
             }
         ]
@@ -17227,7 +17227,7 @@ export let artists = [
         "artist": "Frank Sinatra, Nancy Sinatra",
         "songs": [
             {
-                "name": "Somethin\\' Stupid",
+                "name": "Somethin\' Stupid",
                 "uri": "spotify:track: 4feXcsElKIVsGwkbnTHAfV"
             }
         ]
@@ -17245,7 +17245,7 @@ export let artists = [
         "artist": "Journey",
         "songs": [
             {
-                "name": "Don\\'t Stop Believin\\'",
+                "name": "Don\'t Stop Believin\'",
                 "uri": "spotify:track: 4bHsxqR3GMrXTxEPLuK5ue"
             },
             {
@@ -17314,7 +17314,7 @@ export let artists = [
         "artist": "Two Feet",
         "songs": [
             {
-                "name": "I Feel Like I\\'m Drowning",
+                "name": "I Feel Like I\'m Drowning",
                 "uri": "spotify:track: 3aauaXWRgwCMoykMbI0Jq1"
             },
             {
@@ -17361,7 +17361,7 @@ export let artists = [
                 "uri": "spotify:track: 5cZqsjVs6MevCnAkasbEOX"
             },
             {
-                "name": "Rollin\\' (Air Raid Vehicle)",
+                "name": "Rollin\' (Air Raid Vehicle)",
                 "uri": "spotify:track: 3IV4swNduIRunHREK80owz"
             },
             {
@@ -17456,7 +17456,7 @@ export let artists = [
         "artist": "Dina Rae, Sinan Caput",
         "songs": [
             {
-                "name": "U Ain\\'t Fuckin With Us (feat. Sinan Caput)",
+                "name": "U Ain\'t Fuckin With Us (feat. Sinan Caput)",
                 "uri": "spotify:track: 7iPE99ZfWvfbUJMGtGmHrD"
             }
         ]
@@ -17469,7 +17469,7 @@ export let artists = [
                 "uri": "spotify:track: 1LI0S3nNDdlgsAM9hnhAcI"
             },
             {
-                "name": "You Don\\'t Know Me",
+                "name": "You Don\'t Know Me",
                 "uri": "spotify:track: 4dCttlpQYlHGxpOvxYE6R1"
             }
         ]
@@ -17478,7 +17478,7 @@ export let artists = [
         "artist": "SYML",
         "songs": [
             {
-                "name": "Where\\'s My Love",
+                "name": "Where\'s My Love",
                 "uri": "spotify:track: 1B62o4CbdL9ckGvwsz2cgn"
             },
             {
@@ -17491,7 +17491,7 @@ export let artists = [
         "artist": "REO Speedwagon",
         "songs": [
             {
-                "name": "Can\\'t Fight This Feeling",
+                "name": "Can\'t Fight This Feeling",
                 "uri": "spotify:track: 5WwqdeavrQrbeAMDxGawse"
             },
             {
@@ -17604,7 +17604,7 @@ export let artists = [
         "artist": "Alan Jackson, Jimmy Buffett",
         "songs": [
             {
-                "name": "It\\'s Five O\\'Clock Somewhere",
+                "name": "It\'s Five O\'Clock Somewhere",
                 "uri": "spotify:track: 07KYRDFf8Q6sqj4PWCP9vh"
             }
         ]
@@ -17670,7 +17670,7 @@ export let artists = [
                 "uri": "spotify:track: 44aN5xKL3kGHvQ5bXVk6B8"
             },
             {
-                "name": "Runnin\\'",
+                "name": "Runnin\'",
                 "uri": "spotify:track: 4x3qqSA4cP49oZQXPLnDBe"
             },
             {
@@ -17691,7 +17691,7 @@ export let artists = [
                 "uri": "spotify:track: 1OxcIUqVmVYxT6427tbhDW"
             },
             {
-                "name": "It Ain\\'t Over \\'Til It\\'s Over",
+                "name": "It Ain\'t Over \'Til It\'s Over",
                 "uri": "spotify:track: 6VnpKLtfNH4Dk09YSGPSyR"
             },
             {
@@ -17794,7 +17794,7 @@ export let artists = [
                 "uri": "spotify:track: 4vJr55lngvhSM8WIh9CjQc"
             },
             {
-                "name": "I\\'m Broken",
+                "name": "I\'m Broken",
                 "uri": "spotify:track: 2M5WTwqnkyz7bW6P1CiD6q"
             }
         ]
@@ -17846,7 +17846,7 @@ export let artists = [
                 "uri": "spotify:track: 1HOMkjp0nHMaTnfAkslCQj"
             },
             {
-                "name": "Good Girls Don\\'t",
+                "name": "Good Girls Don\'t",
                 "uri": "spotify:track: 426i8hiYTwwlImNaluBb9C"
             }
         ]
@@ -17877,7 +17877,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Alejandro Fern\\xe1ndez",
+        "artist": "Alejandro Fern\xe1ndez",
         "songs": [
             {
                 "name": "Me Dediqué a Perderte",
@@ -17886,7 +17886,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Alejandro Fern\\xe1ndez, Morat",
+        "artist": "Alejandro Fern\xe1ndez, Morat",
         "songs": [
             {
                 "name": "Sé Que Te Duele",
@@ -17959,7 +17959,7 @@ export let artists = [
         "artist": "Gaullin, Lucky Luke",
         "songs": [
             {
-                "name": "What\\'s Up",
+                "name": "What\'s Up",
                 "uri": "spotify:track: 12yj178KaJo8PrddT0StaL"
             }
         ]
@@ -17972,7 +17972,7 @@ export let artists = [
                 "uri": "spotify:track: 11fqunD6qlOCrRd88kMOk6"
             },
             {
-                "name": "Arranh\\xe3o - Ao Vivo",
+                "name": "Arranh\xe3o - Ao Vivo",
                 "uri": "spotify:track: 3IMLoeLerS7TMpKjxUgAhx"
             },
             {
@@ -18117,7 +18117,7 @@ export let artists = [
         "artist": "Machine Gun Kelly, blackbear",
         "songs": [
             {
-                "name": "my ex\\'s best friend (with blackbear)",
+                "name": "my ex\'s best friend (with blackbear)",
                 "uri": "spotify:track: 7kDUspsoYfLkWnZR7qwHZl"
             }
         ]
@@ -18126,7 +18126,7 @@ export let artists = [
         "artist": "Machine Gun Kelly, YUNGBLUD, Travis Barker",
         "songs": [
             {
-                "name": "I Think I\\'m OKAY (with YUNGBLUD & Travis Barker)",
+                "name": "I Think I\'m OKAY (with YUNGBLUD & Travis Barker)",
                 "uri": "spotify:track: 2gTdDMpNxIRFSiu7HutMCg"
             }
         ]
@@ -18161,7 +18161,7 @@ export let artists = [
         "artist": "Diana Ross",
         "songs": [
             {
-                "name": "I\\'m Coming Out",
+                "name": "I\'m Coming Out",
                 "uri": "spotify:track: 3SnGymj6ijE2iuUfWxLo1q"
             },
             {
@@ -18178,7 +18178,7 @@ export let artists = [
                 "uri": "spotify:track: 6tMdpUXfT70TD6Eh3XfB1p"
             },
             {
-                "name": "It\\'s Been So Long",
+                "name": "It\'s Been So Long",
                 "uri": "spotify:track: 463r5bsN1VqGXtaMctn4Rr"
             },
             {
@@ -18186,7 +18186,7 @@ export let artists = [
                 "uri": "spotify:track: 1ffKh2d1EzZlvuvVj2xpI9"
             },
             {
-                "name": "Five Nights at Freddy\\'s",
+                "name": "Five Nights at Freddy\'s",
                 "uri": "spotify:track: 2ItNKt19iqefEe590Z9GeE"
             }
         ]
@@ -18438,11 +18438,11 @@ export let artists = [
         "artist": "Looking Glass",
         "songs": [
             {
-                "name": "Brandy (You\\'re a Fine Girl)",
+                "name": "Brandy (You\'re a Fine Girl)",
                 "uri": "spotify:track: 2BY7ALEWdloFHgQZG6VMLA"
             },
             {
-                "name": "Dealin\\' With The Devil",
+                "name": "Dealin\' With The Devil",
                 "uri": "spotify:track: 1mHK7exlcuuTkOaW1i1iOy"
             },
             {
@@ -18594,7 +18594,7 @@ export let artists = [
         "artist": "Los Fabulosos Cadillacs",
         "songs": [
             {
-                "name": "Vasos Vac\\xedos - Remasterizado 2008",
+                "name": "Vasos Vac\xedos - Remasterizado 2008",
                 "uri": "spotify:track: 198qSChSMQFuSimdeeY9gK"
             },
             {
@@ -18606,7 +18606,7 @@ export let artists = [
                 "uri": "spotify:track: 5nofWp3plvxYX1xgHpe4fi"
             },
             {
-                "name": "Manuel Santill\\xe1n, el León (Versión Reggae) - Remasterizado 2008",
+                "name": "Manuel Santill\xe1n, el León (Versión Reggae) - Remasterizado 2008",
                 "uri": "spotify:track: 41MfyUSxQoo1BgIsNj8eDS"
             }
         ]
@@ -18641,11 +18641,11 @@ export let artists = [
         "artist": "Deep Blue Something",
         "songs": [
             {
-                "name": "Breakfast At Tiffany\\'s",
+                "name": "Breakfast At Tiffany\'s",
                 "uri": "spotify:track: 1uzWOoJdADfstQuFtQFTUn"
             },
             {
-                "name": "Breakfast at Tiffany\\'s",
+                "name": "Breakfast at Tiffany\'s",
                 "uri": "spotify:track: 0SaOhWDuRf7X67Xv9q68QZ"
             },
             {
@@ -18655,7 +18655,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Man\\xe1",
+        "artist": "Man\xe1",
         "songs": [
             {
                 "name": "Oye Mi Amor",
@@ -18680,10 +18680,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Man\\xe1, Christian Nodal",
+        "artist": "Man\xe1, Christian Nodal",
         "songs": [
             {
-                "name": "Te Lloré Un R\\xedo",
+                "name": "Te Lloré Un R\xedo",
                 "uri": "spotify:track: 6uYtv0KmSNBGFfaY7yW8tY"
             }
         ]
@@ -18727,7 +18727,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Jo\\xe3o Gustavo e Murilo, Diego & Victor Hugo",
+        "artist": "Jo\xe3o Gustavo e Murilo, Diego & Victor Hugo",
         "songs": [
             {
                 "name": "Impedidos - Ao Vivo",
@@ -18736,7 +18736,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Jo\\xe3o Gustavo e Murilo",
+        "artist": "Jo\xe3o Gustavo e Murilo",
         "songs": [
             {
                 "name": "Dois Estranhos",
@@ -18745,16 +18745,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Jo\\xe3o Gustavo e Murilo, Analaga",
+        "artist": "Jo\xe3o Gustavo e Murilo, Analaga",
         "songs": [
             {
-                "name": "Len\\xe7ol Dobrado",
+                "name": "Len\xe7ol Dobrado",
                 "uri": "spotify:track: 72xB2J9ZeBl0Rzxq2XmzdY"
             }
         ]
     },
     {
-        "artist": "Mr. Dan, Analaga, Grupo Menos \\xc9 Mais",
+        "artist": "Mr. Dan, Analaga, Grupo Menos \xc9 Mais",
         "songs": [
             {
                 "name": "Pra Que Sofrer? - Ao Vivo",
@@ -18766,13 +18766,13 @@ export let artists = [
         "artist": "Atitude 67, Analaga, Vitor Kley",
         "songs": [
             {
-                "name": "Isso \\xc9 Amor",
+                "name": "Isso \xc9 Amor",
                 "uri": "spotify:track: 0UA61uG1lVlqrjWi8cYXI5"
             }
         ]
     },
     {
-        "artist": "Analaga, ANAVIT\\xd3RIA",
+        "artist": "Analaga, ANAVIT\xd3RIA",
         "songs": [
             {
                 "name": "Oceans (Where Feet May Fail)",
@@ -18843,7 +18843,7 @@ export let artists = [
         "artist": "Eslabon Armado, DannyLux",
         "songs": [
             {
-                "name": "Jugaste y Sufr\\xed",
+                "name": "Jugaste y Sufr\xed",
                 "uri": "spotify:track: 3NqBxTOMCJ3zW9CIP51td4"
             },
             {
@@ -18883,7 +18883,7 @@ export let artists = [
         "artist": "DannyLux",
         "songs": [
             {
-                "name": "El Due\\xf1o De Tu Amor",
+                "name": "El Due\xf1o De Tu Amor",
                 "uri": "spotify:track: 3sgf3LgcrNoqOB1jm7PIP0"
             },
             {
@@ -18955,11 +18955,11 @@ export let artists = [
                 "uri": "spotify:track: 25GC50HslaaruyrKjdu0lP"
             },
             {
-                "name": "Tears Don\\'t Fall",
+                "name": "Tears Don\'t Fall",
                 "uri": "spotify:track: 5pKCDm2fw4k6D6C5Rk646C"
             },
             {
-                "name": "You Want a Battle? (Here\\'s a War)",
+                "name": "You Want a Battle? (Here\'s a War)",
                 "uri": "spotify:track: 1KCAEG6JcsTzi8ddZzs0nk"
             },
             {
@@ -18997,7 +18997,7 @@ export let artists = [
                 "uri": "spotify:track: 0b9djfiuDIMw1zKH6gV74g"
             },
             {
-                "name": "Blue Ain\\'t Your Color",
+                "name": "Blue Ain\'t Your Color",
                 "uri": "spotify:track: 6ZOPiKQeibCn7fP8dncucL"
             }
         ]
@@ -19071,11 +19071,11 @@ export let artists = [
                 "uri": "spotify:track: 3p6eieHX6oEOzJStPtEsLu"
             },
             {
-                "name": "A La Antig\\xfcita",
+                "name": "A La Antig\xfcita",
                 "uri": "spotify:track: 798ahLNEcoFER7Vywg1FMT"
             },
             {
-                "name": "M\\xedranos Ahora",
+                "name": "M\xedranos Ahora",
                 "uri": "spotify:track: 5VfkfKTTo5BRKqHwfENF0V"
             },
             {
@@ -19335,7 +19335,7 @@ export let artists = [
         "artist": "Franco De Vita",
         "songs": [
             {
-                "name": "T\\xfa de Qué Vas",
+                "name": "T\xfa de Qué Vas",
                 "uri": "spotify:track: 66iygyOSvvoQQsKJ1vEXfT"
             }
         ]
@@ -19353,7 +19353,7 @@ export let artists = [
         "artist": "Franco De Vita, Alejandra Guzman",
         "songs": [
             {
-                "name": "Tan Sólo T\\xfa (feat. Alejandra Guzm\\xe1n) - Franco De Vita en Primera Fila",
+                "name": "Tan Sólo T\xfa (feat. Alejandra Guzm\xe1n) - Franco De Vita en Primera Fila",
                 "uri": "spotify:track: 6dhnmkbc9Z7pGsUyUgZKGX"
             }
         ]
@@ -19515,7 +19515,7 @@ export let artists = [
         "artist": "Mon Laferte, Juanes",
         "songs": [
             {
-                "name": "Am\\xe1rrame",
+                "name": "Am\xe1rrame",
                 "uri": "spotify:track:3EK4tGkSiO5xvvB5sM4tln"
             }
         ]
@@ -19672,7 +19672,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Christopher Jackson, Rachel House, Nicole Scherzinger, Auli\\'i Cravalho, Louise Bush",
+        "artist": "Christopher Jackson, Rachel House, Nicole Scherzinger, Auli\'i Cravalho, Louise Bush",
         "songs": [
             {
                 "name": "Where You Are - From \"Moana\"/Soundtrack Version",
@@ -19693,7 +19693,7 @@ export let artists = [
         "artist": "Jonathan Groff, Original Broadway Cast of Hamilton",
         "songs": [
             {
-                "name": "You\\'ll Be Back",
+                "name": "You\'ll Be Back",
                 "uri": "spotify:track: 6OG1S805gIrH5nAQbEOPY3"
             }
         ]
@@ -19711,7 +19711,7 @@ export let artists = [
         "artist": "Anthony Ramos",
         "songs": [
             {
-                "name": "We Made It - From the \\u201cLyle Lyle Crocodile\\u201d Original Motion Picture Soundtrack",
+                "name": "We Made It - From the \u201cLyle Lyle Crocodile\u201d Original Motion Picture Soundtrack",
                 "uri": "spotify:track: 5foGSzbnWPuZXnZ9tsOE82"
             },
             {
@@ -19777,7 +19777,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Arnold Schoenberg, Daniel Hope, Z\\xfcrcher Kammerorchester, Jane Berthe",
+        "artist": "Arnold Schoenberg, Daniel Hope, Z\xfcrcher Kammerorchester, Jane Berthe",
         "songs": [
             {
                 "name": "Notturno for Strings and Harp",
@@ -19857,11 +19857,11 @@ export let artists = [
         "artist": "Soda Stereo",
         "songs": [
             {
-                "name": "De M\\xfasica Ligera",
+                "name": "De M\xfasica Ligera",
                 "uri": "spotify:track: 2WD9ggmpZE7Wodh3qVVCgg"
             },
             {
-                "name": "Tr\\xe1tame Suavemente - Remasterizado 2007",
+                "name": "Tr\xe1tame Suavemente - Remasterizado 2007",
                 "uri": "spotify:track: 65DBZofI0b79kfHTcWWDuU"
             },
             {
@@ -20093,7 +20093,7 @@ export let artists = [
         "artist": "Israel & Rodolffo, Maiara & Maraisa",
         "songs": [
             {
-                "name": "Nem Namorado e Nem Ficante - Ao Vivo | Faixa B\\xf4nus",
+                "name": "Nem Namorado e Nem Ficante - Ao Vivo | Faixa B\xf4nus",
                 "uri": "spotify:track: 6bwx7pcKJY05D9S6CVa1k6"
             }
         ]
@@ -20106,7 +20106,7 @@ export let artists = [
                 "uri": "spotify:track: 2VATVdFqb7QqxfAcQPvNpc"
             },
             {
-                "name": "Chegou um \\xc1udio - Ao Vivo | Faixa B\\xf4nus",
+                "name": "Chegou um \xc1udio - Ao Vivo | Faixa B\xf4nus",
                 "uri": "spotify:track: 5mUH00xAH26BsmUvPxW2yk"
             },
             {
@@ -20119,15 +20119,15 @@ export let artists = [
         "artist": "Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",
         "songs": [
             {
-                "name": "It\\'s Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+                "name": "It\'s Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
                 "uri": "spotify:track: 2pXpURmn6zC5ZYDMms6fwa"
             },
             {
-                "name": "A Dreamer\\'s Holiday (with Mitchell Ayres & His Orchestra)",
+                "name": "A Dreamer\'s Holiday (with Mitchell Ayres & His Orchestra)",
                 "uri": "spotify:track: 6VGCPyRG0VXEo1xf9PGoF0"
             },
             {
-                "name": "You\\'re Just In Love (with Mitchell Ayres & His Orchestra) - From \"Call Me Madam\"",
+                "name": "You\'re Just In Love (with Mitchell Ayres & His Orchestra) - From \"Call Me Madam\"",
                 "uri": "spotify:track: 6vNnpTuDLuGcD7gX5xbSZc"
             }
         ]
@@ -20136,7 +20136,7 @@ export let artists = [
         "artist": "Perry Como",
         "songs": [
             {
-                "name": "(There\\'s No Place Like) Home for the Holidays - 1959 Version",
+                "name": "(There\'s No Place Like) Home for the Holidays - 1959 Version",
                 "uri": "spotify:track: 0hvN2v6fAcB6xWyW7UaooA"
             },
             {
@@ -20183,7 +20183,7 @@ export let artists = [
                 "uri": "spotify:track: 6UhT17sa7Z8HSUXt1ciwuu"
             },
             {
-                "name": "It\\'s A Big Wide Wonderful World",
+                "name": "It\'s A Big Wide Wonderful World",
                 "uri": "spotify:track: 7MCl2onLOunZqNaIwrL6vM"
             }
         ]
@@ -20240,7 +20240,7 @@ export let artists = [
         "artist": "1Kilo",
         "songs": [
             {
-                "name": "Deixe Me Ir - Ac\\xfastico",
+                "name": "Deixe Me Ir - Ac\xfastico",
                 "uri": "spotify:track: 6JKkP9ABQzYZUFSKSVDKIc"
             },
             {
@@ -20252,7 +20252,7 @@ export let artists = [
                 "uri": "spotify:track: 24yhU1uQVX0u5Rvc0gProL"
             },
             {
-                "name": "Sensa\\xe7\\xe3o",
+                "name": "Sensa\xe7\xe3o",
                 "uri": "spotify:track: 0MVVaWlUxkb2UZ7cdTZMRl"
             }
         ]
@@ -20327,11 +20327,11 @@ export let artists = [
         "artist": "La Unión",
         "songs": [
             {
-                "name": "Lobo-hombre en Par\\xeds",
+                "name": "Lobo-hombre en Par\xeds",
                 "uri": "spotify:track: 2hConpLOB6gmyM8vDkVOof"
             },
             {
-                "name": "Lobo Hombre en Par\\xeds - Versión Sinfónico [En Vivo]",
+                "name": "Lobo Hombre en Par\xeds - Versión Sinfónico [En Vivo]",
                 "uri": "spotify:track: 1mlnmVqp3mnCIFwwk7uH8C"
             },
             {
@@ -20544,11 +20544,11 @@ export let artists = [
         "artist": "Jósean Log",
         "songs": [
             {
-                "name": "Chachach\\xe1",
+                "name": "Chachach\xe1",
                 "uri": "spotify:track: 6aommJFM8i3iT4inKuDSXh"
             },
             {
-                "name": "Alguien Como T\\xfa",
+                "name": "Alguien Como T\xfa",
                 "uri": "spotify:track: 2qXwXciJwW4Qdg7KDesOCQ"
             },
             {
@@ -20561,7 +20561,7 @@ export let artists = [
         "artist": "Tom Petty and the Heartbreakers",
         "songs": [
             {
-                "name": "Mary Jane\\'s Last Dance",
+                "name": "Mary Jane\'s Last Dance",
                 "uri": "spotify:track: 3dmqIB2Qxe2XZobw9gXxJ6"
             },
             {
@@ -20607,7 +20607,7 @@ export let artists = [
         "artist": "Dropkick Murphys",
         "songs": [
             {
-                "name": "I\\'m Shipping Up To Boston",
+                "name": "I\'m Shipping Up To Boston",
                 "uri": "spotify:track: 7rSERmjAT38lC5QhJ8hnQc"
             },
             {
@@ -20619,7 +20619,7 @@ export let artists = [
                 "uri": "spotify:track: 0kXpvPNNjjPsEGRg3SE0xW"
             },
             {
-                "name": "The Warrior\\'s Code",
+                "name": "The Warrior\'s Code",
                 "uri": "spotify:track: 6ivzLSDw82LpxXfToyb0He"
             }
         ]
@@ -20704,7 +20704,7 @@ export let artists = [
         "artist": "The Beach Boys",
         "songs": [
             {
-                "name": "Wouldn\\'t It Be Nice - Remastered 2000 / Stereo Mix",
+                "name": "Wouldn\'t It Be Nice - Remastered 2000 / Stereo Mix",
                 "uri": "spotify:track: 2Gy7qnDwt8Z3MNxqat4CsK"
             },
             {
@@ -20712,7 +20712,7 @@ export let artists = [
                 "uri": "spotify:track: 5xlS0QkVrSH7ssEbBgBzbM"
             },
             {
-                "name": "Surfin\\' U.S.A. - Remastered 2001",
+                "name": "Surfin\' U.S.A. - Remastered 2001",
                 "uri": "spotify:track: 0wz1LjDb9ZNEYwOmDJ3Q4b"
             },
             {
@@ -20741,7 +20741,7 @@ export let artists = [
                 "uri": "spotify:track: 71aT33Muvsuim800OqZ0st"
             },
             {
-                "name": "El Se\\xf1or de los Cielos",
+                "name": "El Se\xf1or de los Cielos",
                 "uri": "spotify:track: 7GuMMcKE6CzkMx53uvE2bN"
             },
             {
@@ -20818,7 +20818,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Grupo Firme, Lenin Ram\\xedrez",
+        "artist": "Grupo Firme, Lenin Ram\xedrez",
         "songs": [
             {
                 "name": "En Tu Perra Vida",
@@ -20830,7 +20830,7 @@ export let artists = [
         "artist": "Carin Leon",
         "songs": [
             {
-                "name": "No Es Por Ac\\xe1",
+                "name": "No Es Por Ac\xe1",
                 "uri": "spotify:track: 3bvJftZKZe5QKz433NczyV"
             },
             {
@@ -20912,7 +20912,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Felipe Ara\\xfajo, Ferrugem",
+        "artist": "Felipe Ara\xfajo, Ferrugem",
         "songs": [
             {
                 "name": "Atrasadinha - Live",
@@ -20921,10 +20921,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Felipe Ara\\xfajo",
+        "artist": "Felipe Ara\xfajo",
         "songs": [
             {
-                "name": "Espa\\xe7osa Demais - Ao Vivo",
+                "name": "Espa\xe7osa Demais - Ao Vivo",
                 "uri": "spotify:track: 4frNT1Vw4MbKbS1ngKodkv"
             },
             {
@@ -20934,10 +20934,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Felipe Ara\\xfajo, Henrique & Juliano",
+        "artist": "Felipe Ara\xfajo, Henrique & Juliano",
         "songs": [
             {
-                "name": "A Mala \\xc9 Falsa - Ao Vivo",
+                "name": "A Mala \xc9 Falsa - Ao Vivo",
                 "uri": "spotify:track: 3dyN3yQuMi2UWKRfRY0ISt"
             }
         ]
@@ -20955,7 +20955,7 @@ export let artists = [
         "artist": "Ferrugem",
         "songs": [
             {
-                "name": "Eu n\\xe3o sou de me entregar",
+                "name": "Eu n\xe3o sou de me entregar",
                 "uri": "spotify:track: 3IsTYAUWhdQgqEV35GlJYB"
             },
             {
@@ -20968,7 +20968,7 @@ export let artists = [
         "artist": "Staind",
         "songs": [
             {
-                "name": "It\\'s Been Awhile",
+                "name": "It\'s Been Awhile",
                 "uri": "spotify:track: 1BExV8JprNJLvLeDE9qdEW"
             },
             {
@@ -21033,10 +21033,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Calle 13, Silvio Rodr\\xedguez",
+        "artist": "Calle 13, Silvio Rodr\xedguez",
         "songs": [
             {
-                "name": "Ojos Color Sol (feat. Silvio Rodr\\xedguez)",
+                "name": "Ojos Color Sol (feat. Silvio Rodr\xedguez)",
                 "uri": "spotify:track: 1RIhd7jjWDQwSKsbxxGArN"
             }
         ]
@@ -21117,26 +21117,26 @@ export let artists = [
                 "uri": "spotify:track: 6zTtNPcDqmpOOWmjQAVR6Z"
             },
             {
-                "name": "Después de Ti, \\xbfQuién?",
+                "name": "Después de Ti, \xbfQuién?",
                 "uri": "spotify:track: 3qGkFQOEJ0w0SqnAXFeG2v"
             }
         ]
     },
     {
-        "artist": "Jo\\xe3o Gomes",
+        "artist": "Jo\xe3o Gomes",
         "songs": [
             {
                 "name": "Dengo",
                 "uri": "spotify:track: 6Ulh9GPYz6JKdv04qc3q2U"
             },
             {
-                "name": "Meu Peda\\xe7o de Pecado",
+                "name": "Meu Peda\xe7o de Pecado",
                 "uri": "spotify:track: 2kJRlOyrxsy7Ot3c5TZ8Q6"
             }
         ]
     },
     {
-        "artist": "Felipe Amorim, Jo\\xe3o Gomes",
+        "artist": "Felipe Amorim, Jo\xe3o Gomes",
         "songs": [
             {
                 "name": "Debaixo do Cobertor",
@@ -21145,10 +21145,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Jo\\xe3o Gomes, L7NNON",
+        "artist": "Jo\xe3o Gomes, L7NNON",
         "songs": [
             {
-                "name": "Digo ou N\\xe3o Digo - Ao Vivo",
+                "name": "Digo ou N\xe3o Digo - Ao Vivo",
                 "uri": "spotify:track: 2rtsT3CefzKc05JdAm8aQ5"
             }
         ]
@@ -21157,7 +21157,7 @@ export let artists = [
         "artist": "Roy Jones Jr., Mr Magic, Trouble",
         "songs": [
             {
-                "name": "Can\\'t Be Touched (feat. Mr. Magic & Trouble)",
+                "name": "Can\'t Be Touched (feat. Mr. Magic & Trouble)",
                 "uri": "spotify:track: 3zmduBNsQ6BPDTZAkXzG5K"
             }
         ]
@@ -21193,7 +21193,7 @@ export let artists = [
         "artist": "Roy Jones Jr., MB3FIVE, Sm Bullett",
         "songs": [
             {
-                "name": "Y\\'all Must\\'ve Forgot II",
+                "name": "Y\'all Must\'ve Forgot II",
                 "uri": "spotify:track: 0dRGhhOCCQZx2xEZDmF9jT"
             }
         ]
@@ -21211,7 +21211,7 @@ export let artists = [
         "artist": "Mr Magic, Bun B, Mike Jones",
         "songs": [
             {
-                "name": "24\\'s (feat. Bun B & Mike Jones)",
+                "name": "24\'s (feat. Bun B & Mike Jones)",
                 "uri": "spotify:track: 1ABNjsdNucCCiK7aSfY1o1"
             }
         ]
@@ -21237,7 +21237,7 @@ export let artists = [
                 "uri": "spotify:track: 1tcLGtJtETkmK6kaLwdKF4"
             },
             {
-                "name": "I Don\\'t Like It, I Love It",
+                "name": "I Don\'t Like It, I Love It",
                 "uri": "spotify:track: 7AdtcT4jlpMvOdAuYL8Ms4"
             },
             {
@@ -21276,16 +21276,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Bruno & Barretto, Os Bar\\xf5es Da Pisadinha",
+        "artist": "Bruno & Barretto, Os Bar\xf5es Da Pisadinha",
         "songs": [
             {
-                "name": "Pared\\xe3o Berra",
+                "name": "Pared\xe3o Berra",
                 "uri": "spotify:track: 2TiVlH9cN1bCYRuton8DCt"
             }
         ]
     },
     {
-        "artist": "Os Bar\\xf5es Da Pisadinha",
+        "artist": "Os Bar\xf5es Da Pisadinha",
         "songs": [
             {
                 "name": "Nunca Vai Ser Eu",
@@ -21298,7 +21298,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Zé Felipe, Os Bar\\xf5es Da Pisadinha",
+        "artist": "Zé Felipe, Os Bar\xf5es Da Pisadinha",
         "songs": [
             {
                 "name": "Senta Danada",
@@ -21443,7 +21443,7 @@ export let artists = [
                 "uri": "spotify:track: 4vDBJeeQCbhP9FaPPMsYkY"
             },
             {
-                "name": "Talkin\\' Bout a Revolution",
+                "name": "Talkin\' Bout a Revolution",
                 "uri": "spotify:track: 0YMFcrMtBowDdD5bPz0cgy"
             },
             {
@@ -21515,15 +21515,15 @@ export let artists = [
                 "uri": "spotify:track: 5IcPYzR2bkS4W3MabMpi4Z"
             },
             {
-                "name": "Notifica\\xe7\\xe3o Preferida - Ao Vivo",
+                "name": "Notifica\xe7\xe3o Preferida - Ao Vivo",
                 "uri": "spotify:track: 3tA0vALUwrzkTgHcm9j6oJ"
             },
             {
-                "name": "Al\\xf4 Ambev (Segue Sua Vida) - Ao Vivo",
+                "name": "Al\xf4 Ambev (Segue Sua Vida) - Ao Vivo",
                 "uri": "spotify:track: 5m5aY6S9ttfIG157xli2Rs"
             },
             {
-                "name": "Voc\\xea Beberia Ou N\\xe3o Beberia?",
+                "name": "Voc\xea Beberia Ou N\xe3o Beberia?",
                 "uri": "spotify:track: 2ixi9HWJw5lnLDmRMsiCS5"
             }
         ]
@@ -21541,7 +21541,7 @@ export let artists = [
         "artist": "Grupo Firme, Marca MP",
         "songs": [
             {
-                "name": "El G\\xfcero (Feat. Marca MP)",
+                "name": "El G\xfcero (Feat. Marca MP)",
                 "uri": "spotify:track: 2MeEuwplwbbjZ7hxRI6viw"
             }
         ]
@@ -21577,7 +21577,7 @@ export let artists = [
         "artist": "Denzel Curry,6LACK, Rico Nasty, JID, Jasiah, Kitty Ca$h, Powers Pleasant",
         "songs": [
             {
-                "name": "Ain\\'t No Way [Feat. 6LACK, Rico Nasty, J.I.D, Jasiah, Kitty Ca$h]",
+                "name": "Ain\'t No Way [Feat. 6LACK, Rico Nasty, J.I.D, Jasiah, Kitty Ca$h]",
                 "uri": "spotify:track: 1InX2gJz9jvp4tLOc84DWe"
             }
         ]
@@ -21646,7 +21646,7 @@ export let artists = [
                 "uri": "spotify:track: 1iRvhKiXRElIH2Uf4gd95P"
             },
             {
-                "name": "\\xa1Corre!",
+                "name": "\xa1Corre!",
                 "uri": "spotify:track: 5kIcrM3QVD4BQPFMszQnU1"
             },
             {
@@ -21656,10 +21656,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Pablo Albor\\xe1n, David Bisbal, Antonio Carmona, Jesse & Joy, Juanes, Mal\\xfa, Vanesa Mart\\xedn, India Martinez, Antonio Orozco, Ni\\xf1a Pastori, Laura Pausini, Abel Pintos, Rozalén, Shakira, Tommy Torres, Manuel Carrasco, Pablo López",
+        "artist": "Pablo Albor\xe1n, David Bisbal, Antonio Carmona, Jesse & Joy, Juanes, Mal\xfa, Vanesa Mart\xedn, India Martinez, Antonio Orozco, Ni\xf1a Pastori, Laura Pausini, Abel Pintos, Rozalén, Shakira, Tommy Torres, Manuel Carrasco, Pablo López",
         "songs": [
             {
-                "name": "Y, \\xbfSi Fuera Ella? - + Es +",
+                "name": "Y, \xbfSi Fuera Ella? - + Es +",
                 "uri": "spotify:track: 114xlNyBqwTIkOdrU8LajN"
             }
         ]
@@ -21685,7 +21685,7 @@ export let artists = [
                 "uri": "spotify:track: 74WKPbLlT4hrlNBj0cmR33"
             },
             {
-                "name": "Why\\'d You Leave?",
+                "name": "Why\'d You Leave?",
                 "uri": "spotify:track: 2qtUyLxLFd5wY6UIzExQdS"
             },
             {
@@ -21728,7 +21728,7 @@ export let artists = [
         "artist": "Duki, KHEA",
         "songs": [
             {
-                "name": "She Don\\'t Give a Fo",
+                "name": "She Don\'t Give a Fo",
                 "uri": "spotify:track: 03a359wbiUsjN9h6yzXvmS"
             }
         ]
@@ -21824,10 +21824,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Matheus Fernandes, Xand Avi\\xe3o",
+        "artist": "Matheus Fernandes, Xand Avi\xe3o",
         "songs": [
             {
-                "name": "Balan\\xe7o da Rede",
+                "name": "Balan\xe7o da Rede",
                 "uri": "spotify:track: 2qmG7dokbGpDGD0T5wORWt"
             }
         ]
@@ -21836,7 +21836,7 @@ export let artists = [
         "artist": "Avine Vinny, Matheus Fernandes",
         "songs": [
             {
-                "name": "Cora\\xe7\\xe3o Cachorro",
+                "name": "Cora\xe7\xe3o Cachorro",
                 "uri": "spotify:track: 2RGIuYTsyyHoOCqW0krvNE"
             }
         ]
@@ -21891,7 +21891,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "R\\u016eDE",
+        "artist": "R\u016eDE",
         "songs": [
             {
                 "name": "Eternal Youth",
@@ -21916,7 +21916,7 @@ export let artists = [
         "artist": "Amy Lee",
         "songs": [
             {
-                "name": "Sally\\'s Song",
+                "name": "Sally\'s Song",
                 "uri": "spotify:track: 6wEZKaUnOFYZpi76ZGlfeF"
             },
             {
@@ -21937,7 +21937,7 @@ export let artists = [
                 "uri": "spotify:track: 5JnLiuMgRAWoHYOhatFP3s"
             },
             {
-                "name": "Must Be Doin\\' Somethin\\' Right",
+                "name": "Must Be Doin\' Somethin\' Right",
                 "uri": "spotify:track: 6TefPQD0oc88BNALpu4U87"
             },
             {
@@ -22180,7 +22180,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Mar\\xedlia Mendon\\xe7a",
+        "artist": "Mar\xedlia Mendon\xe7a",
         "songs": [
             {
                 "name": "Te Amo Demais",
@@ -22197,7 +22197,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Hugo & Guilherme, Mar\\xedlia Mendon\\xe7a",
+        "artist": "Hugo & Guilherme, Mar\xedlia Mendon\xe7a",
         "songs": [
             {
                 "name": "Mal Feito - Ao Vivo",
@@ -22206,19 +22206,19 @@ export let artists = [
         ]
     },
     {
-        "artist": "George Henrique & Rodrigo, Mar\\xedlia Mendon\\xe7a",
+        "artist": "George Henrique & Rodrigo, Mar\xedlia Mendon\xe7a",
         "songs": [
             {
-                "name": "Vai L\\xe1 Em Casa Hoje",
+                "name": "Vai L\xe1 Em Casa Hoje",
                 "uri": "spotify:track: 2wSCalnGOnXdAJC0Fn8OUY"
             }
         ]
     },
     {
-        "artist": "Mar\\xedlia Mendon\\xe7a, Maiara & Maraisa",
+        "artist": "Mar\xedlia Mendon\xe7a, Maiara & Maraisa",
         "songs": [
             {
-                "name": "Esque\\xe7a-Me Se For Capaz",
+                "name": "Esque\xe7a-Me Se For Capaz",
                 "uri": "spotify:track: 4qsOrxBv09HhNSpsgMRXdC"
             }
         ]
@@ -22252,7 +22252,7 @@ export let artists = [
         "artist": "Deavele Santos, Jonas Esticado",
         "songs": [
             {
-                "name": "Mina Sensa\\xe7\\xe3o",
+                "name": "Mina Sensa\xe7\xe3o",
                 "uri": "spotify:track: 0Q88YwEhAAOli0lAWxbD14"
             }
         ]
@@ -22265,11 +22265,11 @@ export let artists = [
                 "uri": "spotify:track: 15k1TDabqSEmyXOwMq9RM7"
             },
             {
-                "name": "Beijo B\\xeabado",
+                "name": "Beijo B\xeabado",
                 "uri": "spotify:track: 3BigzTTQfP3xSLPKATYSop"
             },
             {
-                "name": "Dif\\xedcil de Separar",
+                "name": "Dif\xedcil de Separar",
                 "uri": "spotify:track: 5iRA7XlIHvijvikssFgoBB"
             }
         ]
@@ -22278,7 +22278,7 @@ export let artists = [
         "artist": "Jonas Esticado, Gusttavo Lima",
         "songs": [
             {
-                "name": "Ele N\\xe3o Tem",
+                "name": "Ele N\xe3o Tem",
                 "uri": "spotify:track: 1JHvLQWHUoYuapwQikeDuD"
             }
         ]
@@ -22359,7 +22359,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Jo\\xe3o Bosco e Gabriel, Diego & Victor Hugo",
+        "artist": "Jo\xe3o Bosco e Gabriel, Diego & Victor Hugo",
         "songs": [
             {
                 "name": "Assume a Gente - Ao Vivo",
@@ -22524,7 +22524,7 @@ export let artists = [
         "artist": "Adriel Favela, Natanael Cano",
         "songs": [
             {
-                "name": "As\\xed Tocó Mi Vida",
+                "name": "As\xed Tocó Mi Vida",
                 "uri": "spotify:track: 2YekzGSNDRlEvRLmvfRZfb"
             }
         ]
@@ -22550,7 +22550,7 @@ export let artists = [
         "artist": "Toni Braxton",
         "songs": [
             {
-                "name": "He Wasn\\'t Man Enough",
+                "name": "He Wasn\'t Man Enough",
                 "uri": "spotify:track: 7f1Dmr246cJ9uQYdbplTbh"
             },
             {
@@ -22562,7 +22562,7 @@ export let artists = [
                 "uri": "spotify:track: 1xFliXOpcu7E89AsDAZ7JV"
             },
             {
-                "name": "You\\'re Makin\\' Me High",
+                "name": "You\'re Makin\' Me High",
                 "uri": "spotify:track: 5bJ796cOnGBzSN5bm4mwMj"
             }
         ]
@@ -22704,7 +22704,7 @@ export let artists = [
         "artist": "itssvd, CORBAL, Shiloh Dynasty",
         "songs": [
             {
-                "name": "i don\\'t feel part of the world anymore",
+                "name": "i don\'t feel part of the world anymore",
                 "uri": "spotify:track: 11iiMB7TmFTtaXT4YJAltw"
             }
         ]
@@ -22722,7 +22722,7 @@ export let artists = [
         "artist": "sagun, Shiloh Dynasty",
         "songs": [
             {
-                "name": "I\\'ll Keep You Safe",
+                "name": "I\'ll Keep You Safe",
                 "uri": "spotify:track: 01Rc6yXYtujAnMaR1NME11"
             }
         ]
@@ -22782,7 +22782,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Camille Saint-Sa\\xebns, Yo-Yo Ma, Kathryn Stott",
+        "artist": "Camille Saint-Sa\xebns, Yo-Yo Ma, Kathryn Stott",
         "songs": [
             {
                 "name": "The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Cello and Piano)",
@@ -22791,7 +22791,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Camille Saint-Sa\\xebns, Philippe Entremont, Gaby Casadesus, Yo-Yo Ma",
+        "artist": "Camille Saint-Sa\xebns, Philippe Entremont, Gaby Casadesus, Yo-Yo Ma",
         "songs": [
             {
                 "name": "Carnival of the Animals, R. 125: The Swan",
@@ -22890,7 +22890,7 @@ export let artists = [
         "artist": "Tyler Childers",
         "songs": [
             {
-                "name": "All Your\\'n",
+                "name": "All Your\'n",
                 "uri": "spotify:track: 0fCwTrRNfoNk962ati8n2K"
             },
             {
@@ -22955,7 +22955,7 @@ export let artists = [
                 "uri": "spotify:track: 0DcrhZ12WcCqruCs8ibXSf"
             },
             {
-                "name": "Love Ain\\'t Nothing (But A Monkey On Your Back)",
+                "name": "Love Ain\'t Nothing (But A Monkey On Your Back)",
                 "uri": "spotify:track: 5l3myIpKk5gmdjEdHUMMDP"
             },
             {
@@ -23077,7 +23077,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Cali Y El Dandee, Juan Mag\\xe1n, Sebastian Yatra",
+        "artist": "Cali Y El Dandee, Juan Mag\xe1n, Sebastian Yatra",
         "songs": [
             {
                 "name": "Por Fin Te Encontré",
@@ -23129,7 +23129,7 @@ export let artists = [
         "artist": "Melendi",
         "songs": [
             {
-                "name": "Tu jard\\xedn con enanitos",
+                "name": "Tu jard\xedn con enanitos",
                 "uri": "spotify:track: 6yCjU5j6YHbux2VQCBTTE1"
             },
             {
@@ -23155,7 +23155,7 @@ export let artists = [
         "artist": "Ha*Ash",
         "songs": [
             {
-                "name": "Lo Aprend\\xed de Ti - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+                "name": "Lo Aprend\xed de Ti - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
                 "uri": "spotify:track: 3xrpI0GqWNMjMDOdXUOnK3"
             },
             {
@@ -23290,7 +23290,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "VOIL\\xc0, Kellin Quinn",
+        "artist": "VOIL\xc0, Kellin Quinn",
         "songs": [
             {
                 "name": "Cursive",
@@ -23447,7 +23447,7 @@ export let artists = [
                 "uri": "spotify:track: 3Xdl3dBamuhBVPX9y7Extm"
             },
             {
-                "name": "Girl\\'s Not Grey",
+                "name": "Girl\'s Not Grey",
                 "uri": "spotify:track: 3fttmSWGThBQTNkuHMoCTN"
             },
             {
@@ -23461,16 +23461,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Run\\u2013D.M.C.",
+        "artist": "Run\u2013D.M.C.",
         "songs": [
             {
-                "name": "It\\'s Tricky",
+                "name": "It\'s Tricky",
                 "uri": "spotify:track: 6jBCehpNMkwFVF3dz4nLIW"
             }
         ]
     },
     {
-        "artist": "Run\\u2013D.M.C., Aerosmith",
+        "artist": "Run\u2013D.M.C., Aerosmith",
         "songs": [
             {
                 "name": "Walk This Way (feat. Aerosmith)",
@@ -23479,10 +23479,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Run\\u2013D.M.C., Jason Nevins",
+        "artist": "Run\u2013D.M.C., Jason Nevins",
         "songs": [
             {
-                "name": "It\\'s Like That",
+                "name": "It\'s Like That",
                 "uri": "spotify:track: 5bYN7ttTmfpZYDgEqRF9sT"
             }
         ]
@@ -23531,7 +23531,7 @@ export let artists = [
         "artist": "Sick Puppies",
         "songs": [
             {
-                "name": "You\\'re Going Down",
+                "name": "You\'re Going Down",
                 "uri": "spotify:track: 5FQXMRDSTkn9fowDJ3kZo8"
             },
             {
@@ -23547,7 +23547,7 @@ export let artists = [
                 "uri": "spotify:track: 2s2nAHl0uelukXWMozMraH"
             },
             {
-                "name": "There\\'s No Going Back",
+                "name": "There\'s No Going Back",
                 "uri": "spotify:track: 42oEN35FPwWHOOtdWPj16C"
             }
         ]
@@ -23577,7 +23577,7 @@ export let artists = [
         "artist": "potsu",
         "songs": [
             {
-                "name": "i\\'m closing my eyes",
+                "name": "i\'m closing my eyes",
                 "uri": "spotify:track: 3NsuucK8qXpIJf7KPZX7vq"
             },
             {
@@ -23610,7 +23610,7 @@ export let artists = [
                 "uri": "spotify:track: 7dT9D6117e5DbhnKxDLNW9"
             },
             {
-                "name": "V\\xe1monos a Marte",
+                "name": "V\xe1monos a Marte",
                 "uri": "spotify:track: 2TzkIzgzIHhewMxyh1u4hh"
             }
         ]
@@ -23725,7 +23725,7 @@ export let artists = [
                 "uri": "spotify:track: 4NNZZXHgn9F3cCgC1YGmLl"
             },
             {
-                "name": "Tijol\\xe3o - Ao Vivo",
+                "name": "Tijol\xe3o - Ao Vivo",
                 "uri": "spotify:track: 6QwFUcPc5nhsqZuhXUYtV7"
             }
         ]
@@ -23764,7 +23764,7 @@ export let artists = [
         "artist": "Barenaked Ladies, Tom Lord-Alge",
         "songs": [
             {
-                "name": "It\\'s All Been Done",
+                "name": "It\'s All Been Done",
                 "uri": "spotify:track: 1VBRdl1sT4DGckQaTzKEB9"
             }
         ]
@@ -23785,7 +23785,7 @@ export let artists = [
                 "uri": "spotify:track: 2uL6H4ShIUYyu7FL0fRvsg"
             },
             {
-                "name": "Darlin\\'",
+                "name": "Darlin\'",
                 "uri": "spotify:track: 2TmqE1B16v0H6BLbBz38ob"
             }
         ]
@@ -23812,7 +23812,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "MC Rogerinho, Wesley Safad\\xe3o",
+        "artist": "MC Rogerinho, Wesley Safad\xe3o",
         "songs": [
             {
                 "name": "Tchuco Nela",
@@ -23821,14 +23821,14 @@ export let artists = [
         ]
     },
     {
-        "artist": "Wesley Safad\\xe3o",
+        "artist": "Wesley Safad\xe3o",
         "songs": [
             {
                 "name": "Tu Tava Na Revoada - Ao Vivo",
                 "uri": "spotify:track: 3TIb3AjhRWnxQGQEcFmgDL"
             },
             {
-                "name": "Eu J\\xe1 Tava Bem - Ao Vivo",
+                "name": "Eu J\xe1 Tava Bem - Ao Vivo",
                 "uri": "spotify:track: 2ypEbCzCS8pArndVGP2NBi"
             },
             {
@@ -23876,7 +23876,7 @@ export let artists = [
                 "uri": "spotify:track: 6j7hih15xG2cdYwIJnQXsq"
             },
             {
-                "name": "I Don\\'t Want to Be",
+                "name": "I Don\'t Want to Be",
                 "uri": "spotify:track: 4vl2zwXsTmAxgu9iY0g6UK"
             },
             {
@@ -23949,10 +23949,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "C. Tangana, Ni\\xf1o de Elche, La H\\xfangara",
+        "artist": "C. Tangana, Ni\xf1o de Elche, La H\xfangara",
         "songs": [
             {
-                "name": "T\\xfa Me Dejaste De Querer",
+                "name": "T\xfa Me Dejaste De Querer",
                 "uri": "spotify:track: 5ddFjrPG8NgQQ6xlOQIVd2"
             }
         ]
@@ -23967,10 +23967,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "ROSAL\\xcdA",
+        "artist": "ROSAL\xcdA",
         "songs": [
             {
-                "name": "DESPECH\\xc1",
+                "name": "DESPECH\xc1",
                 "uri": "spotify:track: 53tfEupEzQRtVFOeZvk7xq"
             },
             {
@@ -23980,7 +23980,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Wisin & Yandel, ROSAL\\xcdA",
+        "artist": "Wisin & Yandel, ROSAL\xcdA",
         "songs": [
             {
                 "name": "Besos Moja2",
@@ -23989,7 +23989,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Bad Bunny, ROSAL\\xcdA",
+        "artist": "Bad Bunny, ROSAL\xcdA",
         "songs": [
             {
                 "name": "LA NOCHE DE ANOCHE",
@@ -23998,7 +23998,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "ROSAL\\xcdA, The Weeknd",
+        "artist": "ROSAL\xcdA, The Weeknd",
         "songs": [
             {
                 "name": "LA FAMA",
@@ -24014,7 +24014,7 @@ export let artists = [
                 "uri": "spotify:track: 04F42oEuKrRComYJfJuyVR"
             },
             {
-                "name": "don\\'t miss me",
+                "name": "don\'t miss me",
                 "uri": "spotify:track: 5MG69A9XyXDbBbeOxdR3Tl"
             },
             {
@@ -24073,11 +24073,11 @@ export let artists = [
         "artist": "Brothers Osborne",
         "songs": [
             {
-                "name": "I\\'m Not For Everyone",
+                "name": "I\'m Not For Everyone",
                 "uri": "spotify:track: 143YESFOZqxVGrKEWisbid"
             },
             {
-                "name": "It Ain\\'t My Fault",
+                "name": "It Ain\'t My Fault",
                 "uri": "spotify:track: 08wJ1B9yu9sPeoRa5fbpr3"
             },
             {
@@ -24085,7 +24085,7 @@ export let artists = [
                 "uri": "spotify:track:23EkfwUdsRIz7jAZIcC8gb"
             },
             {
-                "name": "Midnight Rider\\'s Prayer",
+                "name": "Midnight Rider\'s Prayer",
                 "uri": "spotify:track: 71mtEF3vsoKtIapozuzjb8"
             },
             {
@@ -24098,7 +24098,7 @@ export let artists = [
         "artist": "Brantley Gilbert, Jason Aldean",
         "songs": [
             {
-                "name": "Rolex\\xae On A Redneck",
+                "name": "Rolex\xae On A Redneck",
                 "uri": "spotify:track: 1z4DZ2z4Lt5dlBcBFmtYyR"
             }
         ]
@@ -24155,7 +24155,7 @@ export let artists = [
                 "uri": "spotify:track: 4iy69rTUn8cAY8Q8q9vfOw"
             },
             {
-                "name": "What Was I Thinkin\\'",
+                "name": "What Was I Thinkin\'",
                 "uri": "spotify:track: 0r8iDf65NHgFgZOGLwj5r8"
             },
             {
@@ -24264,11 +24264,11 @@ export let artists = [
         "artist": "Barry White",
         "songs": [
             {
-                "name": "You\\'re The First, The Last, My Everything - Single Version",
+                "name": "You\'re The First, The Last, My Everything - Single Version",
                 "uri": "spotify:track: 3ZYO0HGRFFdAGeb8o7F9KC"
             },
             {
-                "name": "Can\\'t Get Enough Of Your Love, Babe",
+                "name": "Can\'t Get Enough Of Your Love, Babe",
                 "uri": "spotify:track: 3mWpUEBYnv9SIFWfixSJFx"
             },
             {
@@ -24367,11 +24367,11 @@ export let artists = [
         "artist": "Banda Los Recoditos",
         "songs": [
             {
-                "name": "Mi \\xdaltimo Deseo",
+                "name": "Mi \xdaltimo Deseo",
                 "uri": "spotify:track: 01ksPzu3Bw8Lsf9o6xIk8C"
             },
             {
-                "name": "Me Sobrabas T\\xfa",
+                "name": "Me Sobrabas T\xfa",
                 "uri": "spotify:track: 33XISWpHJRbAvFSMW1y44A"
             },
             {
@@ -24396,7 +24396,7 @@ export let artists = [
                 "uri": "spotify:track: 20yfr4F5QmZ5V3Cu1Rx4Kp"
             },
             {
-                "name": "Um Sonhador / N\\xe3o Precisa / N\\xe3o Aprendi A Dizer Adeus - Ao Vivo",
+                "name": "Um Sonhador / N\xe3o Precisa / N\xe3o Aprendi A Dizer Adeus - Ao Vivo",
                 "uri": "spotify:track: 42cdiwjkfYVjI8JtAQwsG5"
             },
             {
@@ -24404,7 +24404,7 @@ export let artists = [
                 "uri": "spotify:track: 7JYEuetCpLHJoeCNUgCnnw"
             },
             {
-                "name": "Foi Voc\\xea Quem Trouxe - Ao Vivo",
+                "name": "Foi Voc\xea Quem Trouxe - Ao Vivo",
                 "uri": "spotify:track: 1OkLhSPgh7ZAWqer572aQS"
             }
         ]
@@ -24453,7 +24453,7 @@ export let artists = [
         "artist": "Simple Plan",
         "songs": [
             {
-                "name": "I\\'m Just a Kid",
+                "name": "I\'m Just a Kid",
                 "uri": "spotify:track: 6otiaV2fagE3s8IvP6WkwG"
             },
             {
@@ -24510,7 +24510,7 @@ export let artists = [
         "artist": "Lagum",
         "songs": [
             {
-                "name": "A Gente Nunca Conversou (Ei Mo\\xe7a)",
+                "name": "A Gente Nunca Conversou (Ei Mo\xe7a)",
                 "uri": "spotify:track:7eRhMBRHhmRA7VvWLVIMyO"
             },
             {
@@ -24518,7 +24518,7 @@ export let artists = [
                 "uri": "spotify:track: 78kar2tZk7655xZMibzXO3"
             },
             {
-                "name": "N\\xe3o Vou Mentir",
+                "name": "N\xe3o Vou Mentir",
                 "uri": "spotify:track: 1gSQpzfCLHngQyW1sJzWRv"
             }
         ]
@@ -24527,7 +24527,7 @@ export let artists = [
         "artist": "Ana Gabriela, Melim",
         "songs": [
             {
-                "name": "N\\xe3o Te Largo, N\\xe3o Te Troco",
+                "name": "N\xe3o Te Largo, N\xe3o Te Troco",
                 "uri": "spotify:track: 4aOjUCwa65AQ0uYoeQZS6Z"
             }
         ]
@@ -24546,7 +24546,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Ana Gabriela, ANAVIT\\xd3RIA",
+        "artist": "Ana Gabriela, ANAVIT\xd3RIA",
         "songs": [
             {
                 "name": "No Escuro",
@@ -24583,13 +24583,13 @@ export let artists = [
                 "uri": "spotify:track: 6QJCZyJv1fhkCyZA3lRoAD"
             },
             {
-                "name": "Aqu\\xed No Es As\\xed",
+                "name": "Aqu\xed No Es As\xed",
                 "uri": "spotify:track: 02KG9DpLT3bV4fzUM1bORW"
             }
         ]
     },
     {
-        "artist": "Santa Fe Klan, Neto Pe\\xf1a, Yoss Bones",
+        "artist": "Santa Fe Klan, Neto Pe\xf1a, Yoss Bones",
         "songs": [
             {
                 "name": "Debo Entender",
@@ -24598,7 +24598,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Santa Fe Klan, Nanpa B\\xe1sico",
+        "artist": "Santa Fe Klan, Nanpa B\xe1sico",
         "songs": [
             {
                 "name": "Te Ire A Buscar",
@@ -24607,7 +24607,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Nanpa B\\xe1sico, Charles Ans",
+        "artist": "Nanpa B\xe1sico, Charles Ans",
         "songs": [
             {
                 "name": "Canela",
@@ -24616,7 +24616,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Nanpa B\\xe1sico",
+        "artist": "Nanpa B\xe1sico",
         "songs": [
             {
                 "name": "Flaca",
@@ -24636,7 +24636,7 @@ export let artists = [
                 "uri": "spotify:track: 2nLtzopw4rPReszdYBJU6h"
             },
             {
-                "name": "What I\\'ve Done",
+                "name": "What I\'ve Done",
                 "uri": "spotify:track: 4kfm1uI9QGaoN9qm6CkAMn"
             },
             {
@@ -24685,7 +24685,7 @@ export let artists = [
         "artist": "KISS",
         "songs": [
             {
-                "name": "I Was Made For Lovin\\' You",
+                "name": "I Was Made For Lovin\' You",
                 "uri": "spotify:track: 07q0QVgO56EorrSGHC48y3"
             },
             {
@@ -24697,7 +24697,7 @@ export let artists = [
                 "uri": "spotify:track: 3uz0O62HqYoyRiWZjS61KK"
             },
             {
-                "name": "Heaven\\'s On Fire",
+                "name": "Heaven\'s On Fire",
                 "uri": "spotify:track: 1brpdmqkx3kSxyqzqXfW7J"
             },
             {
@@ -24776,7 +24776,7 @@ export let artists = [
                 "uri": "spotify:track: 70C4NyhjD5OZUMzvWZ3njJ"
             },
             {
-                "name": "We Didn\\'t Start the Fire",
+                "name": "We Didn\'t Start the Fire",
                 "uri": "spotify:track: 3Cx4yrFaX8CeHwBMReOWXI"
             }
         ]
@@ -24814,7 +24814,7 @@ export let artists = [
                 "uri": "spotify:track: 1v2zyAJrChw5JnfafSkwkJ"
             },
             {
-                "name": "It\\'s The End Of The World As We Know It (And I Feel Fine)",
+                "name": "It\'s The End Of The World As We Know It (And I Feel Fine)",
                 "uri": "spotify:track: 2oSpQ7QtIKTNFfA08Cy0ku"
             },
             {
@@ -24844,7 +24844,7 @@ export let artists = [
         "artist": "Justin Timberlake",
         "songs": [
             {
-                "name": "CAN\\'T STOP THE FEELING! (from DreamWorks Animation\\'s \"TROLLS\")",
+                "name": "CAN\'T STOP THE FEELING! (from DreamWorks Animation\'s \"TROLLS\")",
                 "uri": "spotify:track: 6JV2JOEocMgcZxYSZelKcc"
             },
             {
@@ -24935,7 +24935,7 @@ export let artists = [
         "artist": "Bad Bunny, Jhay Cortez",
         "songs": [
             {
-                "name": "D\\xc1KITI",
+                "name": "D\xc1KITI",
                 "uri": "spotify:track: 4MzXwWMhyBbmu6hOcLVD49"
             }
         ]
@@ -25004,7 +25004,7 @@ export let artists = [
                 "uri": "spotify:track: 6ADSaE87h8Y3lccZlBJdXH"
             },
             {
-                "name": "I Still Haven\\'t Found What I\\'m Looking For",
+                "name": "I Still Haven\'t Found What I\'m Looking For",
                 "uri": "spotify:track: 6wpGqhRvJGNNXwWlPmkMyO"
             },
             {
@@ -25020,7 +25020,7 @@ export let artists = [
                 "uri": "spotify:track: 6C4LXC9UFH1IKiHYOp0BiJ"
             },
             {
-                "name": "New Year\\'s Day - Remastered 2008",
+                "name": "New Year\'s Day - Remastered 2008",
                 "uri": "spotify:track: 7IzLAli1EfsUYTLgfp4MvM"
             }
         ]
@@ -25054,7 +25054,7 @@ export let artists = [
         "artist": "Slick Rick, Outkast",
         "songs": [
             {
-                "name": "Street Talkin\\'",
+                "name": "Street Talkin\'",
                 "uri": "spotify:track: 4TGHOWSNAwUXn5onDQr0P1"
             }
         ]
@@ -25063,7 +25063,7 @@ export let artists = [
         "artist": "Slick Rick",
         "songs": [
             {
-                "name": "Children\\'s Story",
+                "name": "Children\'s Story",
                 "uri": "spotify:track: 15HgR9Ht4obJOcMG4wregp"
             },
             {
@@ -25071,7 +25071,7 @@ export let artists = [
                 "uri": "spotify:track: 1kxq2ByL62HX8YQQdvK3mz"
             },
             {
-                "name": "Sittin\\' In My Car",
+                "name": "Sittin\' In My Car",
                 "uri": "spotify:track: 1nsbj6cQQmfp9x7Mlmtphl"
             }
         ]
@@ -25099,10 +25099,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "King Tee, Digital Underground, Young MC, MC Ren, Dr. Dre, ICE-T, Above The Law, Tone-Loc, Michel\\'le, Def Jef, Body And Soul, MC Hammer, Eazy-E",
+        "artist": "King Tee, Digital Underground, Young MC, MC Ren, Dr. Dre, ICE-T, Above The Law, Tone-Loc, Michel\'le, Def Jef, Body And Soul, MC Hammer, Eazy-E",
         "songs": [
             {
-                "name": "We\\'re All In The Same Gang",
+                "name": "We\'re All In The Same Gang",
                 "uri": "spotify:track: 62fQHIiTsimptHHliO8nOn"
             }
         ]
@@ -25119,7 +25119,7 @@ export let artists = [
                 "uri": "spotify:track: 6Kk9SGnMMrpPPB0mDQ3CJz"
             },
             {
-                "name": "Principal\\'s Office",
+                "name": "Principal\'s Office",
                 "uri": "spotify:track: 2t8tS2m4ay8trF9rh28oLg"
             },
             {
@@ -25140,7 +25140,7 @@ export let artists = [
                 "uri": "spotify:track: 235LR8Y7XYhvBxLurBxGHU"
             },
             {
-                "name": "U Mean I\\'m Not",
+                "name": "U Mean I\'m Not",
                 "uri": "spotify:track: 0kpSlAvewI5lkdk1Mpqazp"
             },
             {
@@ -25150,10 +25150,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Guns N\\' Roses",
+        "artist": "Guns N\' Roses",
         "songs": [
             {
-                "name": "Sweet Child O\\' Mine",
+                "name": "Sweet Child O\' Mine",
                 "uri": "spotify:track: 7snQQk1zcKl8gZ92AnueZW"
             },
             {
@@ -25165,7 +25165,7 @@ export let artists = [
                 "uri": "spotify:track: 0G21yYKMZoHa30cYVi1iA8"
             },
             {
-                "name": "Knockin\\' On Heaven\\'s Door",
+                "name": "Knockin\' On Heaven\'s Door",
                 "uri": "spotify:track: 4JiEyzf0Md7KEFFGWDDdCr"
             }
         ]
@@ -25174,11 +25174,11 @@ export let artists = [
         "artist": "The Cure",
         "songs": [
             {
-                "name": "Boys Don\\'t Cry",
+                "name": "Boys Don\'t Cry",
                 "uri": "spotify:track: 1QFh8OH1e78dGd3VyJZCAC"
             },
             {
-                "name": "Friday I\\'m in Love",
+                "name": "Friday I\'m in Love",
                 "uri": "spotify:track: 263aNAQCeFSWipk896byo6"
             },
             {
@@ -25194,7 +25194,7 @@ export let artists = [
                 "uri": "spotify:track: 07CyrZF9eVd02zzIse7tZA"
             },
             {
-                "name": "Friday I\\'m In Love",
+                "name": "Friday I\'m In Love",
                 "uri": "spotify:track: 4QlzkaRHtU8gAdwqjWmO8n"
             },
             {
@@ -25263,7 +25263,7 @@ export let artists = [
         "artist": "Snoop Dogg, Pharrell Williams",
         "songs": [
             {
-                "name": "Drop It Like It\\'s Hot",
+                "name": "Drop It Like It\'s Hot",
                 "uri": "spotify:track: 2NBQmPrOEEjA8VbeWOQGxO"
             }
         ]
@@ -25272,7 +25272,7 @@ export let artists = [
         "artist": "Meek Mill, YG, Snoop Dogg",
         "songs": [
             {
-                "name": "That\\'s My N**** (with Meek Mill, YG & Snoop Dogg)",
+                "name": "That\'s My N**** (with Meek Mill, YG & Snoop Dogg)",
                 "uri": "spotify:track: 3i1B1PnsfnOQPGVIzhf1lr"
             }
         ]
@@ -25366,7 +25366,7 @@ export let artists = [
                 "uri": "spotify:track: 1SKPmfSYaPsETbRHaiA18G"
             },
             {
-                "name": "Everybody\\'s Changing",
+                "name": "Everybody\'s Changing",
                 "uri": "spotify:track: 5hkdfA87RZvNaxl6XiveOA"
             },
             {
@@ -25411,7 +25411,7 @@ export let artists = [
                 "uri": "spotify:track: 213x4gsFDm04hSqIUkg88w"
             },
             {
-                "name": "It\\'s Time",
+                "name": "It\'s Time",
                 "uri": "spotify:track: 7MXlTgQeo3IVlMpLnZuhxc"
             },
             {
@@ -25484,7 +25484,7 @@ export let artists = [
         "artist": "Marvin Gaye, Tammi Terrell",
         "songs": [
             {
-                "name": "Ain\\'t No Mountain High Enough",
+                "name": "Ain\'t No Mountain High Enough",
                 "uri": "spotify:track: 7tqhbajSfrz2F7E1Z75ASX"
             }
         ]
@@ -25501,7 +25501,7 @@ export let artists = [
                 "uri": "spotify:track: 3VZmChrnVW8JK6ano4gSED"
             },
             {
-                "name": "Let\\'s Get It On",
+                "name": "Let\'s Get It On",
                 "uri": "spotify:track: 0jHkgTtTaqg5LNCiYDQPUB"
             }
         ]
@@ -25518,7 +25518,7 @@ export let artists = [
                 "uri": "spotify:track: 0YveezON7jpiaHA8fnUHxN"
             },
             {
-                "name": "I\\'ve Seen All Good People: a. Your Move, b. All Good People - 2003 Remaster",
+                "name": "I\'ve Seen All Good People: a. Your Move, b. All Good People - 2003 Remaster",
                 "uri": "spotify:track: 3skk6UIXV4kepq2bdYy97g"
             },
             {
@@ -25568,7 +25568,7 @@ export let artists = [
                 "uri": "spotify:track: 5jSz894ljfWE0IcHBSM39i"
             },
             {
-                "name": "Let\\'s Go Crazy",
+                "name": "Let\'s Go Crazy",
                 "uri": "spotify:track: 0QeI79sp1vS8L3JgpEO7mD"
             }
         ]
@@ -25585,7 +25585,7 @@ export let artists = [
                 "uri": "spotify:track: 4alHo6RGd0D3OUbTPExTHN"
             },
             {
-                "name": "My Best Friend\\'s Girl",
+                "name": "My Best Friend\'s Girl",
                 "uri": "spotify:track: 1SRkKyJ2JjMZgyDWC30zKv"
             },
             {
@@ -25606,7 +25606,7 @@ export let artists = [
                 "uri": "spotify:track: 1FvDJ9KGxcqwv1utyPL3JZ"
             },
             {
-                "name": "Heaven Knows I\\'m Miserable Now - 2011 Remaster",
+                "name": "Heaven Knows I\'m Miserable Now - 2011 Remaster",
                 "uri": "spotify:track: 1xaTREM89RbIxkcjlpf4Uw"
             },
             {
@@ -25635,7 +25635,7 @@ export let artists = [
                 "uri": "spotify:track: 6QDbGdbJ57Mtkflsg42WV5"
             },
             {
-                "name": "Runnin\\' with the Devil - 2015 Remaster",
+                "name": "Runnin\' with the Devil - 2015 Remaster",
                 "uri": "spotify:track: 3KhF2YiNpJvGpfiCW45R6D"
             }
         ]
@@ -25683,7 +25683,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Ol\\' Dirty Bastard, Kelis",
+        "artist": "Ol\' Dirty Bastard, Kelis",
         "songs": [
             {
                 "name": "Got Your Money (feat. Kelis)",
@@ -25692,7 +25692,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Ol\\' Dirty Bastard",
+        "artist": "Ol\' Dirty Bastard",
         "songs": [
             {
                 "name": "Shimmy Shimmy Ya",
@@ -25752,7 +25752,7 @@ export let artists = [
                 "uri": "spotify:track: 1Xiziz94CF3sFctb1udhAm"
             },
             {
-                "name": "Christmas Time (Don\\'t Let the Bells End)",
+                "name": "Christmas Time (Don\'t Let the Bells End)",
                 "uri": "spotify:track: 46w8k81V0eSBx64XuVHxT2"
             },
             {
@@ -25887,7 +25887,7 @@ export let artists = [
         "artist": "Bradley Cooper",
         "songs": [
             {
-                "name": "Maybe It\\'s Time",
+                "name": "Maybe It\'s Time",
                 "uri": "spotify:track: 4z2XPrpHz1raJibarWFY7Z"
             }
         ]
@@ -26100,7 +26100,7 @@ export let artists = [
                 "uri": "spotify:track: 0ccCwNzXvr1Yoz91vKz31Z"
             },
             {
-                "name": "She Don\\'t Use Jelly",
+                "name": "She Don\'t Use Jelly",
                 "uri": "spotify:track: 1dJuteDIOkGfDSN7zPkzNv"
             }
         ]
@@ -26212,7 +26212,7 @@ export let artists = [
         "artist": "Funkadelic, Kendrick Lamar, Ice Cube",
         "songs": [
             {
-                "name": "Ain\\'t That Funkin\\' Kinda Hard on You? - We Ain\\'t Neva Gonna Stop Remix",
+                "name": "Ain\'t That Funkin\' Kinda Hard on You? - We Ain\'t Neva Gonna Stop Remix",
                 "uri": "spotify:track: 6SgQIoLn8kpu8J4wfwGWy8"
             }
         ]
@@ -26255,7 +26255,7 @@ export let artists = [
                 "uri": "spotify:track: 3ApIYu95WxjzpQCnsLBbrv"
             },
             {
-                "name": "It\\'s Your Thing",
+                "name": "It\'s Your Thing",
                 "uri": "spotify:track: 3ZxfehzRtB3oJcBuxWXFZQ"
             },
             {
@@ -26331,7 +26331,7 @@ export let artists = [
                 "uri": "spotify:track: 3fNf71Ktya4CYMqGM6eRud"
             },
             {
-                "name": "I Think I\\'m Paranoid - 2018 - Remaster",
+                "name": "I Think I\'m Paranoid - 2018 - Remaster",
                 "uri": "spotify:track: 3LVHIqnIsnrcK1x4Ns2xNb"
             },
             {
@@ -26352,7 +26352,7 @@ export let artists = [
         "artist": "Steely Dan",
         "songs": [
             {
-                "name": "Reelin\\' In The Years",
+                "name": "Reelin\' In The Years",
                 "uri": "spotify:track: 1I7zHEdDx8Ny5RxzYPqsU2"
             },
             {
@@ -26364,7 +26364,7 @@ export let artists = [
                 "uri": "spotify:track: 3IvTwPCCjfZczCN2k4qPiH"
             },
             {
-                "name": "Rikki Don\\'t Lose That Number",
+                "name": "Rikki Don\'t Lose That Number",
                 "uri": "spotify:track: 18a9EGG4xhRELv7bgAw5hb"
             }
         ]
@@ -26394,7 +26394,7 @@ export let artists = [
                 "uri": "spotify:track: 1YLJVmuzeM2YSUkCCaTNUB"
             },
             {
-                "name": "You\\'ve Got The Love",
+                "name": "You\'ve Got The Love",
                 "uri": "spotify:track: 244AvzGQ4Ksa5637JQu5Gy"
             },
             {
@@ -26472,7 +26472,7 @@ export let artists = [
                 "uri": "spotify:track: 029NqmIySn1kOY305AAhxT"
             },
             {
-                "name": "Don\\'t Give Up - 2012 Remaster",
+                "name": "Don\'t Give Up - 2012 Remaster",
                 "uri": "spotify:track: 1wKkRvZnuVde5OYhKwTMeY"
             },
             {
@@ -26531,7 +26531,7 @@ export let artists = [
                 "uri": "spotify:track: 1h2xVEoJORqrg71HocgqXd"
             },
             {
-                "name": "Signed, Sealed, Delivered (I\\'m Yours)",
+                "name": "Signed, Sealed, Delivered (I\'m Yours)",
                 "uri": "spotify:track:2eF8pWbiivYsYRpbntYsnc"
             },
             {
@@ -26541,7 +26541,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Little Nell, Patricia Quinn, Richard O\\'Brien",
+        "artist": "Little Nell, Patricia Quinn, Richard O\'Brien",
         "songs": [
             {
                 "name": "Time Warp",
@@ -26559,7 +26559,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Richard O\\'Brien, Patricia Quinn, Little Nell",
+        "artist": "Richard O\'Brien, Patricia Quinn, Little Nell",
         "songs": [
             {
                 "name": "The Time Warp (Remix 1989 Extended Version)",
@@ -26568,7 +26568,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Richard O\\'Brien, Patricia Quinn, Nell Campbell, Manning Redwood, Darlene Johnson, Jessica Harper, Barry Humphries",
+        "artist": "Richard O\'Brien, Patricia Quinn, Nell Campbell, Manning Redwood, Darlene Johnson, Jessica Harper, Barry Humphries",
         "songs": [
             {
                 "name": "Shock Treatment",
@@ -26577,7 +26577,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Richard O\\'Brien, Patricia Quinn, Jessica Harper, Rik Mayall, Nell Campbell",
+        "artist": "Richard O\'Brien, Patricia Quinn, Jessica Harper, Rik Mayall, Nell Campbell",
         "songs": [
             {
                 "name": "Lullaby",
@@ -26586,7 +26586,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Richard O\\'Brien, Jessica Harper, Patricia Quinn, Barry Humphries",
+        "artist": "Richard O\'Brien, Jessica Harper, Patricia Quinn, Barry Humphries",
         "songs": [
             {
                 "name": "Little Black Dress",
@@ -26595,7 +26595,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Richard O\\'Brien",
+        "artist": "Richard O\'Brien",
         "songs": [
             {
                 "name": "Science Fiction/Double Feature",
@@ -26604,7 +26604,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Richard O\\'Brien, Susan Sarandon, Barry Bostwick",
+        "artist": "Richard O\'Brien, Susan Sarandon, Barry Bostwick",
         "songs": [
             {
                 "name": "Over at the Frankenstein Place",
@@ -26620,7 +26620,7 @@ export let artists = [
                 "uri": "spotify:track: 5uRkew0DtfAQmv0oEYNwFF"
             },
             {
-                "name": "Hello It\\'s Me",
+                "name": "Hello It\'s Me",
                 "uri": "spotify:track: 3gHFKiDanj4d2rqgHlRFFc"
             },
             {
@@ -26681,7 +26681,7 @@ export let artists = [
         "artist": "Joywave",
         "songs": [
             {
-                "name": "It\\'s A Trip!",
+                "name": "It\'s A Trip!",
                 "uri": "spotify:track: 6IY3cC281mz9q0bViUEldz"
             },
             {
@@ -26703,7 +26703,7 @@ export let artists = [
         "artist": "KC & The Sunshine Band",
         "songs": [
             {
-                "name": "Please Don\\'t Go - Single Version",
+                "name": "Please Don\'t Go - Single Version",
                 "uri": "spotify:track: 6dw6BquK0Mv72p6HpusqKN"
             },
             {
@@ -26715,7 +26715,7 @@ export let artists = [
                 "uri": "spotify:track: 37d8O4cIq36tssCoJnhJxg"
             },
             {
-                "name": "That\\'s the Way (I Like It) - 2004 Remaster",
+                "name": "That\'s the Way (I Like It) - 2004 Remaster",
                 "uri": "spotify:track: 1qiQduM84A0VeH8Y2uAbqi"
             },
             {
@@ -26728,7 +26728,7 @@ export let artists = [
         "artist": "Nu Shooz",
         "songs": [
             {
-                "name": "I Can\\'t Wait",
+                "name": "I Can\'t Wait",
                 "uri": "spotify:track: 0KCCNoVVXBatkTRvKOEf2t"
             },
             {
@@ -26833,7 +26833,7 @@ export let artists = [
                 "uri": "spotify:track: 4kUMfefHiemc0qPqCzbOa5"
             },
             {
-                "name": "Don\\'t Pass Me By",
+                "name": "Don\'t Pass Me By",
                 "uri": "spotify:track:4eeCQtgohd0nLeI2t5XgGo"
             }
         ]
@@ -26933,7 +26933,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Tinlicker, Ben B\\xf6hmer",
+        "artist": "Tinlicker, Ben B\xf6hmer",
         "songs": [
             {
                 "name": "Voodoo",
@@ -27025,7 +27025,7 @@ export let artists = [
         "artist": "Phats & Small",
         "songs": [
             {
-                "name": "Turn Around (Hey What\\'s Wrong With You)",
+                "name": "Turn Around (Hey What\'s Wrong With You)",
                 "uri": "spotify:track: 60qbU5QgEnzBqUfXSUh0mc"
             }
         ]
@@ -27034,7 +27034,7 @@ export let artists = [
         "artist": "Phats & Small, Robosonic",
         "songs": [
             {
-                "name": "Turn Around (Hey What\\'s Wrong With You) - Robosonic Remix",
+                "name": "Turn Around (Hey What\'s Wrong With You) - Robosonic Remix",
                 "uri": "spotify:track: 17gnbzWdHVTpyZP6FUvo0E"
             }
         ]
@@ -27043,7 +27043,7 @@ export let artists = [
         "artist": "Phats & Small, Babert",
         "songs": [
             {
-                "name": "Turn Around (Hey What\\'s Wrong With You) - Babert Remix",
+                "name": "Turn Around (Hey What\'s Wrong With You) - Babert Remix",
                 "uri": "spotify:track: 37K1nPMqXJHEhFuxVE8kaE"
             }
         ]
@@ -27156,11 +27156,11 @@ export let artists = [
         "artist": "Elton John",
         "songs": [
             {
-                "name": "I\\'m Still Standing",
+                "name": "I\'m Still Standing",
                 "uri": "spotify:track: 1jDJFeK9x3OZboIAHsY9k2"
             },
             {
-                "name": "Rocket Man (I Think It\\'s Going To Be A Long, Long Time)",
+                "name": "Rocket Man (I Think It\'s Going To Be A Long, Long Time)",
                 "uri": "spotify:track: 3gdewACMIVMEWVbyb8O9sY"
             },
             {
@@ -27442,7 +27442,7 @@ export let artists = [
                 "uri": "spotify:track: 2WnAKZefdRHxtBEkRjFOHC"
             },
             {
-                "name": "I\\'ll Show You",
+                "name": "I\'ll Show You",
                 "uri": "spotify:track: 0SNIAtRCPVVLoGEPcuHSIc"
             },
             {
@@ -27503,14 +27503,14 @@ export let artists = [
         ]
     },
     {
-        "artist": "Kungs, Cookin\\' On 3 Burners",
+        "artist": "Kungs, Cookin\' On 3 Burners",
         "songs": [
             {
-                "name": "This Girl (Kungs Vs. Cookin\\' On 3 Burners)",
+                "name": "This Girl (Kungs Vs. Cookin\' On 3 Burners)",
                 "uri": "spotify:track: 1A8j067qyiNwQnZT0bzUpZ"
             },
             {
-                "name": "This Girl (Kungs Vs Cookin\\' On 3 Burners) - Extended",
+                "name": "This Girl (Kungs Vs Cookin\' On 3 Burners) - Extended",
                 "uri": "spotify:track: 5D1swG82nVVngZLHOLbe0V"
             }
         ]
@@ -27538,7 +27538,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Cookin\\' On 3 Burners, Kylie Auldist",
+        "artist": "Cookin\' On 3 Burners, Kylie Auldist",
         "songs": [
             {
                 "name": "This Girl",
@@ -27656,7 +27656,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Sof\\xeda Reyes, Jason Derulo, De La Ghetto",
+        "artist": "Sof\xeda Reyes, Jason Derulo, De La Ghetto",
         "songs": [
             {
                 "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
@@ -27677,7 +27677,7 @@ export let artists = [
         "artist": "J Balvin, Bad Bunny",
         "songs": [
             {
-                "name": "LA CANCI\\xd3N",
+                "name": "LA CANCI\xd3N",
                 "uri": "spotify:track: 0fea68AdmYNygeTGI4RC18"
             }
         ]
@@ -27758,7 +27758,7 @@ export let artists = [
         "artist": "Bryan Adams",
         "songs": [
             {
-                "name": "Summer Of \\'69",
+                "name": "Summer Of \'69",
                 "uri": "spotify:track: 0GONea6G2XdnHWjNZd6zt3"
             },
             {
@@ -27831,7 +27831,7 @@ export let artists = [
                 "uri": "spotify:track: 3d9DChrdc6BOeFsbrZ3Is0"
             },
             {
-                "name": "Can\\'t Stop",
+                "name": "Can\'t Stop",
                 "uri": "spotify:track: 3ZOEytgrvLwQaqXreDs2Jx"
             },
             {
@@ -27986,7 +27986,7 @@ export let artists = [
                 "uri": "spotify:track: 1vxw6aYJls2oq3gW0DujAo"
             },
             {
-                "name": "Who\\'s Gonna Save My Soul - Original Mix",
+                "name": "Who\'s Gonna Save My Soul - Original Mix",
                 "uri": "spotify:track: 4qiBDlMzW2vTK8dJKw7xD3"
             },
             {
@@ -28113,7 +28113,7 @@ export let artists = [
                 "uri": "spotify:track: 5ubvP9oKmxLUVq506fgLhk"
             },
             {
-                "name": "Stayin\\' Alive",
+                "name": "Stayin\' Alive",
                 "uri": "spotify:track: 4UDmDIqJIbrW0hMBQMFOsM"
             },
             {
@@ -28154,7 +28154,7 @@ export let artists = [
                 "uri": "spotify:track: 4SFknyjLcyTLJFPKD2m96o"
             },
             {
-                "name": "As If It\\'s Your Last",
+                "name": "As If It\'s Your Last",
                 "uri": "spotify:track: 4ZxOuNHhpyOj4gv52MtQpT"
             },
             {
@@ -28201,7 +28201,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Hailee Steinfeld, BloodPop\\xae",
+        "artist": "Hailee Steinfeld, BloodPop\xae",
         "songs": [
             {
                 "name": "Capital Letters",
@@ -28210,16 +28210,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Justin Bieber, BloodPop\\xae",
+        "artist": "Justin Bieber, BloodPop\xae",
         "songs": [
             {
-                "name": "Friends (with BloodPop\\xae)",
+                "name": "Friends (with BloodPop\xae)",
                 "uri": "spotify:track: 7iNIg7XDEaYECfWD5dJ9Va"
             }
         ]
     },
     {
-        "artist": "John Legend, BloodPop\\xae",
+        "artist": "John Legend, BloodPop\xae",
         "songs": [
             {
                 "name": "A Good Night",
@@ -28228,16 +28228,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Taylor Swift, BloodPop\\xae",
+        "artist": "Taylor Swift, BloodPop\xae",
         "songs": [
             {
-                "name": "...Ready For It? - BloodPop\\xae Remix",
+                "name": "...Ready For It? - BloodPop\xae Remix",
                 "uri": "spotify:track: 1Ygm9KdH3wbzDekO8JgxcW"
             }
         ]
     },
     {
-        "artist": "Lady Gaga, Tchami, BloodPop\\xae",
+        "artist": "Lady Gaga, Tchami, BloodPop\xae",
         "songs": [
             {
                 "name": "Babylon - Haus Labs Version",
@@ -28278,7 +28278,7 @@ export let artists = [
                 "uri": "spotify:track: 3SqvR3HYLlCTYzbDXJ52OC"
             },
             {
-                "name": "When We\\'re High",
+                "name": "When We\'re High",
                 "uri": "spotify:track: 7ohDUXs6SsU3XjTI9pcKTS"
             },
             {
@@ -28357,7 +28357,7 @@ export let artists = [
         "artist": "Idina Menzel, Michael Bublé",
         "songs": [
             {
-                "name": "Baby It\\'s Cold Outside (with Michael Bublé)",
+                "name": "Baby It\'s Cold Outside (with Michael Bublé)",
                 "uri": "spotify:track: 0Ie5uiv54KgCr7P4sYDTHl"
             }
         ]
@@ -28379,7 +28379,7 @@ export let artists = [
                 "uri": "spotify:track: 5vjLSffimiIP26QG5WcN2K"
             },
             {
-                "name": "What\\'s Left of You",
+                "name": "What\'s Left of You",
                 "uri": "spotify:track: 2gRKq9rIC5i1zuxp06zJWH"
             },
             {
@@ -28410,7 +28410,7 @@ export let artists = [
         "artist": "Fort Minor, Holly Brook, Jonah Matranga",
         "songs": [
             {
-                "name": "Where\\'d You Go (feat. Holly Brook & Jonah Matranga)",
+                "name": "Where\'d You Go (feat. Holly Brook & Jonah Matranga)",
                 "uri": "spotify:track: 7pAT4dOUzjq8Ziap5ShIqC"
             }
         ]
@@ -28516,7 +28516,7 @@ export let artists = [
         "artist": "DMX",
         "songs": [
             {
-                "name": "X Gon\\' Give It To Ya - Int\\'l Bonus track",
+                "name": "X Gon\' Give It To Ya - Int\'l Bonus track",
                 "uri": "spotify:track: 66orjI5vOkyxOZLHWrPklh"
             },
             {
@@ -28620,7 +28620,7 @@ export let artists = [
                 "uri": "spotify:track: 3B4q6KbHbGV51HO3GznBFF"
             },
             {
-                "name": "Doin\\' Time",
+                "name": "Doin\' Time",
                 "uri": "spotify:track:4eamJr2k9YDH8j58RSTmSc"
             },
             {
@@ -28637,7 +28637,7 @@ export let artists = [
                 "uri": "spotify:track: 62AuGbAkt8Ox2IrFFb8GKV"
             },
             {
-                "name": "Cracklin\\' Rosie - Single Version",
+                "name": "Cracklin\' Rosie - Single Version",
                 "uri": "spotify:track: 5pkd9ib1RgbkAd1R9bIOCa"
             },
             {
@@ -28828,7 +28828,7 @@ export let artists = [
         "artist": "The Mamas & The Papas",
         "songs": [
             {
-                "name": "California Dreamin\\' - Single Version",
+                "name": "California Dreamin\' - Single Version",
                 "uri": "spotify:track: 4s6LhHAV5SEsOV0lC2tjvJ"
             },
             {
@@ -28853,7 +28853,7 @@ export let artists = [
                 "uri": "spotify:track: 5IXk34xSm6rxNgXkCveC3r"
             },
             {
-                "name": "When I\\'m Gone",
+                "name": "When I\'m Gone",
                 "uri": "spotify:track: 3WbphvawbMZ8FyqDxYGdSQ"
             }
         ]
@@ -28883,7 +28883,7 @@ export let artists = [
         "artist": "Otis Redding",
         "songs": [
             {
-                "name": "(Sittin\\' On) the Dock of the Bay",
+                "name": "(Sittin\' On) the Dock of the Bay",
                 "uri": "spotify:track: 3zBhihYUHBmGd2bcQIobrF"
             },
             {
@@ -28917,7 +28917,7 @@ export let artists = [
         "artist": "Donny Osmond, Chorus - Mulan, Disney",
         "songs": [
             {
-                "name": "I\\'ll Make a Man Out of You",
+                "name": "I\'ll Make a Man Out of You",
                 "uri": "spotify:track: 28UMEtwyUUy5u0UWOVHwiI"
             }
         ]
@@ -29004,7 +29004,7 @@ export let artists = [
         "artist": "Jeremih, YG",
         "songs": [
             {
-                "name": "Don\\'t Tell \\'Em",
+                "name": "Don\'t Tell \'Em",
                 "uri": "spotify:track: 0Dc7J9VPV4eOInoxUiZrsL"
             }
         ]
@@ -29145,15 +29145,15 @@ export let artists = [
         "artist": "Rick Springfield",
         "songs": [
             {
-                "name": "Jessie\\'s Girl",
+                "name": "Jessie\'s Girl",
                 "uri": "spotify:track: 5RsUlxLto4NZbhJpqJbHfN"
             },
             {
-                "name": "Don\\'t Talk to Strangers",
+                "name": "Don\'t Talk to Strangers",
                 "uri": "spotify:track: 1syhTK7LlvpeWdZNsZARP0"
             },
             {
-                "name": "I\\'ve Done Everything for You",
+                "name": "I\'ve Done Everything for You",
                 "uri": "spotify:track: 2L51ByCm8ugVheFc8UklzS"
             }
         ]
@@ -29221,7 +29221,7 @@ export let artists = [
         "artist": "The Pussycat Dolls, Busta Rhymes",
         "songs": [
             {
-                "name": "Don\\'t Cha",
+                "name": "Don\'t Cha",
                 "uri": "spotify:track: 0BxfFnk0YzONqvmrkO0QrB"
             }
         ]
@@ -29358,7 +29358,7 @@ export let artists = [
         "artist": "Savage, Aaradhna",
         "songs": [
             {
-                "name": "They Don\\'t Know",
+                "name": "They Don\'t Know",
                 "uri": "spotify:track: 2lLbW1PLYdcg7pWK8vRVIu"
             }
         ]
@@ -29385,7 +29385,7 @@ export let artists = [
         "artist": "Dwayne Johnson",
         "songs": [
             {
-                "name": "You\\'re Welcome - From \"Moana\"/Soundtrack Version",
+                "name": "You\'re Welcome - From \"Moana\"/Soundtrack Version",
                 "uri": "spotify:track: 2ldoyUu1SRf96pQ6G5n3gY"
             },
             {
@@ -29426,7 +29426,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Lu\\xedsa Sonza, Mariah Angeliq",
+        "artist": "Lu\xedsa Sonza, Mariah Angeliq",
         "songs": [
             {
                 "name": "ANACONDA *o* ~~~",
@@ -29482,7 +29482,7 @@ export let artists = [
         "artist": "Starship",
         "songs": [
             {
-                "name": "Nothing\\'s Gonna Stop Us Now",
+                "name": "Nothing\'s Gonna Stop Us Now",
                 "uri": "spotify:track: 3X7uFMzJrEE0sxn62qd8Ch"
             },
             {
@@ -29539,7 +29539,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "José Gonz\\xe1lez",
+        "artist": "José Gonz\xe1lez",
         "songs": [
             {
                 "name": "Stay Alive",
@@ -29651,7 +29651,7 @@ export let artists = [
                 "uri": "spotify:track: 29HbMTL672MugzhklYvStz"
             },
             {
-                "name": "Don\\'t Step On The Grass, Sam",
+                "name": "Don\'t Step On The Grass, Sam",
                 "uri": "spotify:track: 4hXFaRVHANKX0kuieBB3qq"
             }
         ]
@@ -29682,7 +29682,7 @@ export let artists = [
         "artist": "YNW Melly,9lokknine",
         "songs": [
             {
-                "name": "223\\'s (feat. 9lokknine)",
+                "name": "223\'s (feat. 9lokknine)",
                 "uri": "spotify:track: 29ZXwWOOLz9t5fa3eT3i7T"
             }
         ]
@@ -29717,7 +29717,7 @@ export let artists = [
         "artist": "Al Green",
         "songs": [
             {
-                "name": "Let\\'s Stay Together",
+                "name": "Let\'s Stay Together",
                 "uri": "spotify:track: 4wASBXZ15QVnypp0SY8Jhm"
             },
             {
@@ -29848,7 +29848,7 @@ export let artists = [
                 "uri": "spotify:track: 2rzafMh8q10vQGixcHupCh"
             },
             {
-                "name": "I\\'m A Swing It",
+                "name": "I\'m A Swing It",
                 "uri": "spotify:track: 1qB61CUkHHalhxapCrvMsE"
             }
         ]
@@ -29861,7 +29861,7 @@ export let artists = [
                 "uri": "spotify:track: 6sxptembJVty4sNtcPMAVz"
             },
             {
-                "name": "You\\'re Still The One",
+                "name": "You\'re Still The One",
                 "uri": "spotify:track: 1wb4P4F0sxAQ2KXrRvsx6n"
             },
             {
@@ -29869,7 +29869,7 @@ export let artists = [
                 "uri": "spotify:track: 0pdfN7nOHMYmKykzu1cyfm"
             },
             {
-                "name": "That Don\\'t Impress Me Much",
+                "name": "That Don\'t Impress Me Much",
                 "uri": "spotify:track: 4FUfoWMypAyWbOavmYyeNu"
             },
             {
@@ -29882,7 +29882,7 @@ export let artists = [
         "artist": "Kent Jones",
         "songs": [
             {
-                "name": "Don\\'t Mind",
+                "name": "Don\'t Mind",
                 "uri": "spotify:track: 27PmvZoffODNFW2p7ehZTQ"
             }
         ]
@@ -29906,7 +29906,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Marc Segu\\xed, Rauw Alejandro, Pol Granch",
+        "artist": "Marc Segu\xed, Rauw Alejandro, Pol Granch",
         "songs": [
             {
                 "name": "Tiroteo - Remix",
@@ -29915,7 +29915,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Marc Segu\\xed, Pol Granch",
+        "artist": "Marc Segu\xed, Pol Granch",
         "songs": [
             {
                 "name": "Tiroteo",
@@ -29924,7 +29924,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Marc Segu\\xed",
+        "artist": "Marc Segu\xed",
         "songs": [
             {
                 "name": "Agua Salada",
@@ -29933,7 +29933,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Marc Segu\\xed, Micro TDH",
+        "artist": "Marc Segu\xed, Micro TDH",
         "songs": [
             {
                 "name": "La Culpa",
@@ -29988,7 +29988,7 @@ export let artists = [
         "artist": "Natalia Lafourcade",
         "songs": [
             {
-                "name": "Hasta la Ra\\xedz",
+                "name": "Hasta la Ra\xedz",
                 "uri": "spotify:track: 3lGMtkONrZdJ8kTCg6KIFf"
             },
             {
@@ -30009,7 +30009,7 @@ export let artists = [
                 "uri": "spotify:track: 1Xtz05nIgJiEYdncfd1w8h"
             },
             {
-                "name": "T\\xfa S\\xed Sabes Quererme (feat. Los Macorinos)",
+                "name": "T\xfa S\xed Sabes Quererme (feat. Los Macorinos)",
                 "uri": "spotify:track: 6p3yxt0uJJshAS3CT0znQg"
             }
         ]
@@ -30051,7 +30051,7 @@ export let artists = [
                 "uri": "spotify:track: 5NlFXQ0si6U87gXs6hq81B"
             },
             {
-                "name": "She\\'s The One",
+                "name": "She\'s The One",
                 "uri": "spotify:track: 4lO57zZGFcj7vSY4QhfVDq"
             }
         ]
@@ -30068,7 +30068,7 @@ export let artists = [
                 "uri": "spotify:track: 1xYBeQ5u8uaJ3oBWktjGyJ"
             },
             {
-                "name": "Del r\\xedo",
+                "name": "Del r\xedo",
                 "uri": "spotify:track: 2G3ud9WTxl6uYRG75X6Ib0"
             }
         ]
@@ -30086,7 +30086,7 @@ export let artists = [
         "artist": "C. Tangana, Ed Maverick",
         "songs": [
             {
-                "name": "P\\xe1rteme La Cara",
+                "name": "P\xe1rteme La Cara",
                 "uri": "spotify:track: 5gEUDNQvoQjdjklrwPdGwD"
             }
         ]
@@ -30158,24 +30158,24 @@ export let artists = [
         "artist": "Yann Tiersen",
         "songs": [
             {
-                "name": "Comptine d\\'un autre été, l\\'apr\\xe8s-midi",
+                "name": "Comptine d\'un autre été, l\'apr\xe8s-midi",
                 "uri": "spotify:track: 14rZjW3RioG7WesZhYESso"
             },
             {
-                "name": "La Valse d\\'Amélie - Version piano",
+                "name": "La Valse d\'Amélie - Version piano",
                 "uri": "spotify:track: 6bpmBNPfQ2KFAW0ik6F9Vq"
             },
             {
-                "name": "La valse d\\'Amélie",
+                "name": "La valse d\'Amélie",
                 "uri": "spotify:track: 7MIN37CiVP1lVjqKNmLMWk"
             }
         ]
     },
     {
-        "artist": "Romeo Santos, ROSAL\\xcdA",
+        "artist": "Romeo Santos, ROSAL\xcdA",
         "songs": [
             {
-                "name": "El Pa\\xf1uelo",
+                "name": "El Pa\xf1uelo",
                 "uri": "spotify:track: 7jfmlr5W2AQWUGLVhT8ofl"
             }
         ]
@@ -30192,7 +30192,7 @@ export let artists = [
                 "uri": "spotify:track: 6r46lnXFbE9fr2d3KNaGbe"
             },
             {
-                "name": "Eres M\\xeda",
+                "name": "Eres M\xeda",
                 "uri": "spotify:track: 6I86RF3odBlcuZA9Vfjzeq"
             }
         ]
@@ -30229,7 +30229,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav\\xe1rez, Feid, Wisin, Zion",
+        "artist": "Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav\xe1rez, Feid, Wisin, Zion",
         "songs": [
             {
                 "name": "Quizas",
@@ -30238,7 +30238,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav\\xe1rez, Feid",
+        "artist": "Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav\xe1rez, Feid",
         "songs": [
             {
                 "name": "Porno",
@@ -30247,7 +30247,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav\\xe1rez, Feid, Cazzu",
+        "artist": "Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tav\xe1rez, Feid, Cazzu",
         "songs": [
             {
                 "name": "Imaginate",
@@ -30277,7 +30277,7 @@ export let artists = [
         "artist": "Mora, Sech",
         "songs": [
             {
-                "name": "TUS L\\xc1GRIMAS",
+                "name": "TUS L\xc1GRIMAS",
                 "uri": "spotify:track: 30W8VKHrAZmHzObnwAoc1u"
             }
         ]
@@ -30292,16 +30292,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Dalex, Rafa Pab\\xf6n, KHEA, Sech, Feid, Cazzu, Lenny Tav\\xe1rez",
+        "artist": "Dalex, Rafa Pab\xf6n, KHEA, Sech, Feid, Cazzu, Lenny Tav\xe1rez",
         "songs": [
             {
-                "name": "Pa M\\xed - Remix",
+                "name": "Pa M\xed - Remix",
                 "uri": "spotify:track: 7g8YaUQABMal0zWe7a2ijz"
             }
         ]
     },
     {
-        "artist": "D\\xedmelo Flow, Sech, Dalex, Justin Quiles, Arcangel, De La Ghetto, Lenny Tav\\xe1rez",
+        "artist": "D\xedmelo Flow, Sech, Dalex, Justin Quiles, Arcangel, De La Ghetto, Lenny Tav\xe1rez",
         "songs": [
             {
                 "name": "Se Le Ve",
@@ -30358,7 +30358,7 @@ export let artists = [
         "artist": "Feid",
         "songs": [
             {
-                "name": "Feliz Cumplea\\xf1os Ferxxo",
+                "name": "Feliz Cumplea\xf1os Ferxxo",
                 "uri": "spotify:track: 2CeKVsFFXG4QzA415QygGb"
             },
             {
@@ -30380,7 +30380,7 @@ export let artists = [
         "artist": "Wisin, Ozuna",
         "songs": [
             {
-                "name": "Esc\\xe1pate Conmigo (feat. Ozuna)",
+                "name": "Esc\xe1pate Conmigo (feat. Ozuna)",
                 "uri": "spotify:track: 1KSqYYJFyfTecXFk9M0prc"
             }
         ]
@@ -30460,7 +30460,7 @@ export let artists = [
         "artist": "Gym Class Heroes",
         "songs": [
             {
-                "name": "Cupid\\'s Chokehold / Breakfast in America",
+                "name": "Cupid\'s Chokehold / Breakfast in America",
                 "uri": "spotify:track: 2Lhdl74nwwVGOE2Gv35QuK"
             },
             {
@@ -30518,16 +30518,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Carolina Gait\\xe1n - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz, Encanto - Cast",
+        "artist": "Carolina Gait\xe1n - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz, Encanto - Cast",
         "songs": [
             {
-                "name": "We Don\\'t Talk About Bruno",
+                "name": "We Don\'t Talk About Bruno",
                 "uri": "spotify:track: 52xJxFP6TqMuO4Yt0eOkMz"
             }
         ]
     },
     {
-        "artist": "Carolina Gait\\xe1n - La Gaita, Mauro Castillo, Daniela Sierra, Juanse Diez, Isabel Garcés, Olga Luc\\xeda Vives, Encanto - Elenco",
+        "artist": "Carolina Gait\xe1n - La Gaita, Mauro Castillo, Daniela Sierra, Juanse Diez, Isabel Garcés, Olga Luc\xeda Vives, Encanto - Elenco",
         "songs": [
             {
                 "name": "No se habla de Bruno",
@@ -30536,16 +30536,16 @@ export let artists = [
         ]
     },
     {
-        "artist": "Carolina Gait\\xe1n - La Gaita, Cabas",
+        "artist": "Carolina Gait\xe1n - La Gaita, Cabas",
         "songs": [
             {
-                "name": "T\\xfa y Yo",
+                "name": "T\xfa y Yo",
                 "uri": "spotify:track: 3BIPsKXlMRdduRipO8WIK4"
             }
         ]
     },
     {
-        "artist": "Dennis Fernando, Carolina Gait\\xe1n - La Gaita",
+        "artist": "Dennis Fernando, Carolina Gait\xe1n - La Gaita",
         "songs": [
             {
                 "name": "Nunca Me Fui - En Vivo",
@@ -30554,7 +30554,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Carolina Gait\\xe1n - La Gaita",
+        "artist": "Carolina Gait\xe1n - La Gaita",
         "songs": [
             {
                 "name": "I Am Bolero",
@@ -30585,10 +30585,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "BYU Vocal Point, Adassa, One Voice Children\\'s Choir",
+        "artist": "BYU Vocal Point, Adassa, One Voice Children\'s Choir",
         "songs": [
             {
-                "name": "We Don\\'t Talk About Bruno (From \"Encanto\")",
+                "name": "We Don\'t Talk About Bruno (From \"Encanto\")",
                 "uri": "spotify:track: 4WMTMlZN9zX3PMhhqfR5IL"
             }
         ]
@@ -30659,7 +30659,7 @@ export let artists = [
                 "uri": "spotify:track: 6XK6Zw6JkFsHXzAcMWNiIr"
             },
             {
-                "name": "You Can\\'t Always Get What You Want",
+                "name": "You Can\'t Always Get What You Want",
                 "uri": "spotify:track: 6UHbDgxRd8mPzugNInBx3y"
             },
             {
@@ -30777,7 +30777,7 @@ export let artists = [
         "artist": "Broiler, Papito MIERDA",
         "songs": [
             {
-                "name": "\\xe5tte shots",
+                "name": "\xe5tte shots",
                 "uri": "spotify:track: 0hMHjgkDCaTUOA5lxqRtF0"
             }
         ]
@@ -30813,7 +30813,7 @@ export let artists = [
         "artist": "Haley Reinhart",
         "songs": [
             {
-                "name": "Can\\'t Help Falling in Love",
+                "name": "Can\'t Help Falling in Love",
                 "uri": "spotify:track: 6yIHGmQLJxWAUZ1ZkENemN"
             }
         ]
@@ -30858,7 +30858,7 @@ export let artists = [
         "artist": "Rvssian, Rauw Alejandro, Chris Brown",
         "songs": [
             {
-                "name": "Nost\\xe1lgico",
+                "name": "Nost\xe1lgico",
                 "uri": "spotify:track: 2BEcap3xJtmiPaHKyfQi4e"
             }
         ]
@@ -30897,7 +30897,7 @@ export let artists = [
                 "uri": "spotify:track: 2FXd6kKCtBIc6UfN1gH1pA"
             },
             {
-                "name": "I CAN\\'T STOP ME",
+                "name": "I CAN\'T STOP ME",
                 "uri": "spotify:track: 37ZtpRBkHcaq6hHy0X98zn"
             }
         ]
@@ -30956,7 +30956,7 @@ export let artists = [
         "artist": "Ali Gatie",
         "songs": [
             {
-                "name": "It\\'s You",
+                "name": "It\'s You",
                 "uri": "spotify:track: 5DqdesEfbRyOlSS3Tf6c29"
             },
             {
@@ -30979,7 +30979,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Los \\xc1ngeles Azules, Nicki Nicole",
+        "artist": "Los \xc1ngeles Azules, Nicki Nicole",
         "songs": [
             {
                 "name": "Otra Noche",
@@ -30988,7 +30988,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Los \\xc1ngeles Azules, Natalia Lafourcade",
+        "artist": "Los \xc1ngeles Azules, Natalia Lafourcade",
         "songs": [
             {
                 "name": "Nunca Es Suficiente",
@@ -30997,7 +30997,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Los \\xc1ngeles Azules, Belinda, Lalo Ebratt, Horacio Palencia",
+        "artist": "Los \xc1ngeles Azules, Belinda, Lalo Ebratt, Horacio Palencia",
         "songs": [
             {
                 "name": "Amor A Primera Vista",
@@ -31006,7 +31006,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Los \\xc1ngeles Azules",
+        "artist": "Los \xc1ngeles Azules",
         "songs": [
             {
                 "name": "El Listón De Tu Pelo",
@@ -31015,7 +31015,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Axwell /\\ Ingrosso",
+        "artist": "Axwell /\ Ingrosso",
         "songs": [
             {
                 "name": "More Than You Know",
@@ -31028,7 +31028,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Axwell /\\ Ingrosso, Axwell, Sebastian Ingrosso",
+        "artist": "Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso",
         "songs": [
             {
                 "name": "Sun Is Shining",
@@ -31041,7 +31041,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Axwell /\\ Ingrosso, Kid Ink",
+        "artist": "Axwell /\ Ingrosso, Kid Ink",
         "songs": [
             {
                 "name": "I Love You",
@@ -31128,7 +31128,7 @@ export let artists = [
         "artist": "Carly Simon",
         "songs": [
             {
-                "name": "You\\'re so Vain",
+                "name": "You\'re so Vain",
                 "uri": "spotify:track: 2DnJjbjNTV9Nd5NOa1KGba"
             },
             {
@@ -31166,7 +31166,7 @@ export let artists = [
                 "uri": "spotify:track: 73ljrkSg4A0q3ByU0Cu7mw"
             },
             {
-                "name": "We\\'re Going To Ibiza!",
+                "name": "We\'re Going To Ibiza!",
                 "uri": "spotify:track: 6trzHhvr6xqYJkNnbWwXz2"
             }
         ]
@@ -31175,11 +31175,11 @@ export let artists = [
         "artist": "Alejandro Sanz",
         "songs": [
             {
-                "name": "Corazón part\\xedo",
+                "name": "Corazón part\xedo",
                 "uri": "spotify:track: 0wQCKR9OFjYu5Kzrk7WivJ"
             },
             {
-                "name": "Amiga m\\xeda",
+                "name": "Amiga m\xeda",
                 "uri": "spotify:track: 6kQYMqjobmB8MkWwa9OUyA"
             }
         ]
@@ -31203,7 +31203,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "MC Fioti, Future, J Balvin, Stefflon Don, Juan Mag\\xe1n",
+        "artist": "MC Fioti, Future, J Balvin, Stefflon Don, Juan Mag\xe1n",
         "songs": [
             {
                 "name": "Bum Bum Tam Tam",
@@ -31212,7 +31212,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Juan Mag\\xe1n",
+        "artist": "Juan Mag\xe1n",
         "songs": [
             {
                 "name": "Verano Azul",
@@ -31221,7 +31221,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Don Omar, Juan Mag\\xe1n",
+        "artist": "Don Omar, Juan Mag\xe1n",
         "songs": [
             {
                 "name": "No Sigue Modas Aka Ella No Sigue Modas",
@@ -31230,10 +31230,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Juan Mag\\xe1n, Gente De Zona",
+        "artist": "Juan Mag\xe1n, Gente De Zona",
         "songs": [
             {
-                "name": "He Llorado (Como Un Ni\\xf1o)",
+                "name": "He Llorado (Como Un Ni\xf1o)",
                 "uri": "spotify:track: 72iOihHEQp0LA0hZcjfLaA"
             }
         ]
@@ -31250,7 +31250,7 @@ export let artists = [
                 "uri": "spotify:track: 4qbiCq2xkNPyojuZFeNeqx"
             },
             {
-                "name": "Dancing In The Moonlight (It\\'s Caught Me In It\\'s Spotlight)",
+                "name": "Dancing In The Moonlight (It\'s Caught Me In It\'s Spotlight)",
                 "uri": "spotify:track: 6BmzbaB08O0FjHXeS0cR5b"
             }
         ]
@@ -31397,7 +31397,7 @@ export let artists = [
                 "uri": "spotify:track: 0SRddBTphQwQcfqw4Br1uX"
             },
             {
-                "name": "Como T\\xfa (Magic Music Box)",
+                "name": "Como T\xfa (Magic Music Box)",
                 "uri": "spotify:track: 0GWkuPr946cYbOMRkrbw4e"
             }
         ]
@@ -31410,7 +31410,7 @@ export let artists = [
                 "uri": "spotify:track: 1mCsF9Tw4AkIZOjvZbZZdT"
             },
             {
-                "name": "The Kid\\'s American",
+                "name": "The Kid\'s American",
                 "uri": "spotify:track: 5aiDiU1POBDI736ktOtjRJ"
             },
             {
@@ -31440,7 +31440,7 @@ export let artists = [
                 "uri": "spotify:track: 2L9QLAhrvtP4EYg1lY0Tnw"
             },
             {
-                "name": "Baby, It\\'s Cold Outside",
+                "name": "Baby, It\'s Cold Outside",
                 "uri": "spotify:track: 4MrfQL4TYQXJBlZYpAHTuE"
             },
             {
@@ -31457,7 +31457,7 @@ export let artists = [
                 "uri": "spotify:track: 4xmjDH6auBwuZ4GHimjXGe"
             },
             {
-                "name": "Can\\'t Take My Eyes Off of You - Black Box Mix",
+                "name": "Can\'t Take My Eyes Off of You - Black Box Mix",
                 "uri": "spotify:track: 1ip1ULxxvAzaqH3VqKObdu"
             }
         ]
@@ -31472,10 +31472,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Wu-Tang Clan, RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol\\' Dirty Bastard, Ghostface Killah, GZA",
+        "artist": "Wu-Tang Clan, RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol\' Dirty Bastard, Ghostface Killah, GZA",
         "songs": [
             {
-                "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol\\' Dirty Bastard, Ghostface Killah & GZA)",
+                "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol\' Dirty Bastard, Ghostface Killah & GZA)",
                 "uri": "spotify:track: 1Sgj10byiGzPpI2IrXSFEn"
             }
         ]
@@ -31484,7 +31484,7 @@ export let artists = [
         "artist": "Wu-Tang Clan, RZA, Inspectah Deck, Method Man",
         "songs": [
             {
-                "name": "Wu-Tang Clan Ain\\'t Nuthing ta F\\' Wit (feat. RZA, Inspectah Deck & Method Man)",
+                "name": "Wu-Tang Clan Ain\'t Nuthing ta F\' Wit (feat. RZA, Inspectah Deck & Method Man)",
                 "uri": "spotify:track: 24vNw0Z0srb4zYXwrakw8E"
             }
         ]
@@ -31515,7 +31515,7 @@ export let artists = [
         "artist": "Method Man, Mary J. Blige",
         "songs": [
             {
-                "name": "I\\'ll Be There For You/You\\'re All I Need To Get By - Puff Daddy Mix",
+                "name": "I\'ll Be There For You/You\'re All I Need To Get By - Puff Daddy Mix",
                 "uri": "spotify:track: 6C3yPXYG2NJYlIYVe5J7hv"
             }
         ]
@@ -31524,7 +31524,7 @@ export let artists = [
         "artist": "Raekwon",
         "songs": [
             {
-                "name": "Still Strugglin\\'",
+                "name": "Still Strugglin\'",
                 "uri": "spotify:track: 2GjdI973iM4W4Pl7Tckcke"
             }
         ]
@@ -31573,7 +31573,7 @@ export let artists = [
                 "uri": "spotify:track: 0zf5JNkGyd4Sizj1zZbGRg"
             },
             {
-                "name": "Can\\'t Stay Away",
+                "name": "Can\'t Stay Away",
                 "uri": "spotify:track: 18PpqGGyyuY29g3QNPFPGf"
             }
         ]
@@ -31634,7 +31634,7 @@ export let artists = [
                 "uri": "spotify:track: 5XcZRgJv3zMhTqCyESjQrF"
             },
             {
-                "name": "School\\'s Out",
+                "name": "School\'s Out",
                 "uri": "spotify:track: 5Z8EDau8uNcP1E8JvmfkZe"
             },
             {
@@ -31642,7 +31642,7 @@ export let artists = [
                 "uri": "spotify:track: 5D2eCwqbHcqOnfHOCM6TnV"
             },
             {
-                "name": "I\\'m Eighteen",
+                "name": "I\'m Eighteen",
                 "uri": "spotify:track: 3YU9X8ryOR20beT7wOlDIJ"
             },
             {
@@ -31749,7 +31749,7 @@ export let artists = [
                 "uri": "spotify:track: 28UMiBhn383n9S7GL4tsxD"
             },
             {
-                "name": "It\\'s All Coming Back to Me Now",
+                "name": "It\'s All Coming Back to Me Now",
                 "uri": "spotify:track:5EQzuYfTZt7B2LqlvTF49l"
             }
         ]
@@ -31836,7 +31836,7 @@ export let artists = [
         "artist": "Big Sean, E-40",
         "songs": [
             {
-                "name": "I Don\\'t Fuck With You",
+                "name": "I Don\'t Fuck With You",
                 "uri": "spotify:track: 7FYH5AW3bVfZHJIQpq3UOA"
             }
         ]
@@ -31872,7 +31872,7 @@ export let artists = [
         "artist": "Jhené Aiko",
         "songs": [
             {
-                "name": "While We\\'re Young",
+                "name": "While We\'re Young",
                 "uri": "spotify:track: 4mL59LVbKgOpEACxraGYdr"
             },
             {
@@ -31894,7 +31894,7 @@ export let artists = [
         "artist": "Imany, Filatov & Karas",
         "songs": [
             {
-                "name": "Don\\'t Be So Shy - Filatov & Karas Remix",
+                "name": "Don\'t Be So Shy - Filatov & Karas Remix",
                 "uri": "spotify:track: 0ZBC6Eg6DjZRhgUmFdtzGH"
             }
         ]
@@ -31915,7 +31915,7 @@ export let artists = [
                 "uri": "spotify:track: 3X4IhO8J86znRwjZwnib6n"
             },
             {
-                "name": "Don\\'t Be So Shy - Work in Progress",
+                "name": "Don\'t Be So Shy - Work in Progress",
                 "uri": "spotify:track: 21mAUOr6lwjmewS6yxxF2P"
             }
         ]
@@ -31924,7 +31924,7 @@ export let artists = [
         "artist": "GAYAZOV$ BROTHER$, Filatov & Karas",
         "songs": [
             {
-                "name": "\\u041f\\u043e\\u0448\\u043b\\u0430 \\u0436\\u0430\\u0440\\u0430",
+                "name": "\u041f\u043e\u0448\u043b\u0430 \u0436\u0430\u0440\u0430",
                 "uri": "spotify:track: 5VKH21bwtHFMVKtChm4ltz"
             }
         ]
@@ -31942,7 +31942,7 @@ export let artists = [
         "artist": "Filatov & Karas, Mumiy Troll",
         "songs": [
             {
-                "name": "Amore \\u041c\\u043e\\u0440\\u0435, Goodbye",
+                "name": "Amore \u041c\u043e\u0440\u0435, Goodbye",
                 "uri": "spotify:track: 6O9p8sbfnVnbsro1SYuO87"
             }
         ]
@@ -31964,15 +31964,15 @@ export let artists = [
                 "uri": "spotify:track: 0KMGxYKeUzK9wc5DZCt3HT"
             },
             {
-                "name": "You\\'re the Inspiration - 2006 Remaster",
+                "name": "You\'re the Inspiration - 2006 Remaster",
                 "uri": "spotify:track: 36lkJSDyMEZoWTqtRj8Q8q"
             },
             {
-                "name": "Hard to Say I\\'m Sorry / Get Away - 2006 Remaster",
+                "name": "Hard to Say I\'m Sorry / Get Away - 2006 Remaster",
                 "uri": "spotify:track: 07TnWCHrFkvF61GzJuLVt0"
             },
             {
-                "name": "Hard to Say I\\'m Sorry - 2009 Remaster",
+                "name": "Hard to Say I\'m Sorry - 2009 Remaster",
                 "uri": "spotify:track: 5nDSJO4909uNzMcZH3CggS"
             }
         ]
@@ -32046,7 +32046,7 @@ export let artists = [
                 "uri": "spotify:track: 4ZuC5MfGjRQs3pZtPxqMYP"
             },
             {
-                "name": "She\\'s Lost Control - 2007 Remaster",
+                "name": "She\'s Lost Control - 2007 Remaster",
                 "uri": "spotify:track: 0rcLhYRihks3t4lFPtHhQV"
             },
             {
@@ -32072,7 +32072,7 @@ export let artists = [
                 "uri": "spotify:track: 2KKijf6Ett4kmVNJze2roh"
             },
             {
-                "name": "Nobody\\'s More Country",
+                "name": "Nobody\'s More Country",
                 "uri": "spotify:track:5ebwYSZVFG6VJOE0mWs71o"
             }
         ]
@@ -32103,7 +32103,7 @@ export let artists = [
                 "uri": "spotify:track: 1HwpWwa6bnqqRhK8agG4RS"
             },
             {
-                "name": "Leavin\\'",
+                "name": "Leavin\'",
                 "uri": "spotify:track: 20ORwCJusz4KS2PbTPVNKo"
             },
             {
@@ -32456,7 +32456,7 @@ export let artists = [
                 "uri": "spotify:track: 47BBI51FKFwOMlIiX6m8ya"
             },
             {
-                "name": "Everybody (Backstreet\\'s Back) - Radio Edit",
+                "name": "Everybody (Backstreet\'s Back) - Radio Edit",
                 "uri": "spotify:track: 4rTeOSYqwXNz5qPR2DUTFZ"
             },
             {
@@ -32550,7 +32550,7 @@ export let artists = [
                 "uri": "spotify:track: 5E0d1I8UAe7sleydsGgp4Q"
             },
             {
-                "name": "Runnin\\'",
+                "name": "Runnin\'",
                 "uri": "spotify:track: 2pZhcDSLeuUTLesUoK0TXI"
             }
         ]
@@ -32618,7 +32618,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "M\\xd6WE, Theresa Rex",
+        "artist": "M\xd6WE, Theresa Rex",
         "songs": [
             {
                 "name": "Dance All Night",
@@ -32639,7 +32639,7 @@ export let artists = [
         "artist": "Bobby McFerrin",
         "songs": [
             {
-                "name": "Don\\'t Worry Be Happy",
+                "name": "Don\'t Worry Be Happy",
                 "uri": "spotify:track: 4hObp5bmIJ3PP3cKA9K9GY"
             },
             {
@@ -32647,7 +32647,7 @@ export let artists = [
                 "uri": "spotify:track: 1YoeQptjOQcWXCBF30rSVv"
             },
             {
-                "name": "Good Lovin\\'",
+                "name": "Good Lovin\'",
                 "uri": "spotify:track: 15yCd3gHiUgqyqONl7dWe3"
             },
             {
@@ -32655,7 +32655,7 @@ export let artists = [
                 "uri": "spotify:track: 29Kn3OIyJwrUMf6CzvLgeq"
             },
             {
-                "name": "Thinkin\\' About Your Body - Live",
+                "name": "Thinkin\' About Your Body - Live",
                 "uri": "spotify:track: 4gV2TynOCRsX5fxV8bkVLd"
             }
         ]
@@ -32685,7 +32685,7 @@ export let artists = [
         "artist": "Jasmine Thompson",
         "songs": [
             {
-                "name": "Like I\\'m Gonna Lose You",
+                "name": "Like I\'m Gonna Lose You",
                 "uri": "spotify:track: 2pV8RpdLemcyMWko8dASVt"
             },
             {
@@ -32779,7 +32779,7 @@ export let artists = [
         "artist": "Mabel",
         "songs": [
             {
-                "name": "Don\\'t Call Me Up",
+                "name": "Don\'t Call Me Up",
                 "uri": "spotify:track: 5WHTFyqSii0lmT9R21abT8"
             },
             {
@@ -32902,7 +32902,7 @@ export let artists = [
         "artist": "Will Smith",
         "songs": [
             {
-                "name": "Gettin\\' Jiggy Wit It",
+                "name": "Gettin\' Jiggy Wit It",
                 "uri": "spotify:track: 0weAUscowxeqDtpCgtbpgp"
             },
             {
@@ -32965,7 +32965,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Major Lazer, M\\xd8, DJ Snake",
+        "artist": "Major Lazer, M\xd8, DJ Snake",
         "songs": [
             {
                 "name": "Lean On",
@@ -32983,7 +32983,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Major Lazer, Justin Bieber, M\\xd8",
+        "artist": "Major Lazer, Justin Bieber, M\xd8",
         "songs": [
             {
                 "name": "Cold Water",
@@ -33114,7 +33114,7 @@ export let artists = [
                 "uri": "spotify:track: 6kdCN6gTWLcLxmLXoUcwuI"
             },
             {
-                "name": "Como te extra\\xf1o mi amor",
+                "name": "Como te extra\xf1o mi amor",
                 "uri": "spotify:track: 6hFHsQWB7HdVrSe7efRR82"
             },
             {
@@ -33227,7 +33227,7 @@ export let artists = [
         "artist": "Gabry Ponte, Aloe Blacc",
         "songs": [
             {
-                "name": "Can\\'t Get Over You (feat. Aloe Blacc)",
+                "name": "Can\'t Get Over You (feat. Aloe Blacc)",
                 "uri": "spotify:track: 46BIpPudYCyNxUTz4f2E8k"
             }
         ]
@@ -33276,20 +33276,20 @@ export let artists = [
         ]
     },
     {
-        "artist": "Banda MS de Sergio Liz\\xe1rraga",
+        "artist": "Banda MS de Sergio Liz\xe1rraga",
         "songs": [
             {
                 "name": "141 - Versión Banda",
                 "uri": "spotify:track: 3IFYbBUCjCelWt5asaYasY"
             },
             {
-                "name": "Me Vas a Extra\\xf1ar",
+                "name": "Me Vas a Extra\xf1ar",
                 "uri": "spotify:track: 2yS8aYWXEWJ1NlZ7VPDroT"
             }
         ]
     },
     {
-        "artist": "Banda MS de Sergio Liz\\xe1rraga, Carin Leon",
+        "artist": "Banda MS de Sergio Liz\xe1rraga, Carin Leon",
         "songs": [
             {
                 "name": "Ojos Cerrados",
@@ -33298,10 +33298,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Christian Nodal, Banda MS de Sergio Liz\\xe1rraga",
+        "artist": "Christian Nodal, Banda MS de Sergio Liz\xe1rraga",
         "songs": [
             {
-                "name": "La Sinverg\\xfcenza",
+                "name": "La Sinverg\xfcenza",
                 "uri": "spotify:track: 1xO7tp4J5Wj0NeKrzIpd1V"
             }
         ]
@@ -33319,7 +33319,7 @@ export let artists = [
         "artist": "DJ Pablito, La Factoria, Joycee",
         "songs": [
             {
-                "name": "Todav\\xeda",
+                "name": "Todav\xeda",
                 "uri": "spotify:track: 6TrR94UaLsxnCMbdUXIVwI"
             }
         ]
@@ -33532,7 +33532,7 @@ export let artists = [
         "artist": "Shawn Mendes, Camila Cabello",
         "songs": [
             {
-                "name": "Se\\xf1orita",
+                "name": "Se\xf1orita",
                 "uri": "spotify:track: 6v3KW9xbzN5yKLt9YKDYA2"
             }
         ]
@@ -33644,7 +33644,7 @@ export let artists = [
         "artist": "Lil Nas X",
         "songs": [
             {
-                "name": "STAR WALKIN\\' (League of Legends Worlds Anthem)",
+                "name": "STAR WALKIN\' (League of Legends Worlds Anthem)",
                 "uri": "spotify:track: 38T0tPVZHcPZyhtOcCP7pF"
             },
             {
@@ -33750,7 +33750,7 @@ export let artists = [
         "artist": "Jul",
         "songs": [
             {
-                "name": "J\\'ai tout su",
+                "name": "J\'ai tout su",
                 "uri": "spotify:track: 3fgEIHsl6ecyAK1rpAxBIY"
             },
             {
@@ -33797,7 +33797,7 @@ export let artists = [
                 "uri": "spotify:track: 7l97ElWmIdVHWUaOeeU5ZC"
             },
             {
-                "name": "she\\'s all i wanna be",
+                "name": "she\'s all i wanna be",
                 "uri": "spotify:track: 7l9IqDtVWJurTvkQHq1BGh"
             }
         ]
@@ -33828,7 +33828,7 @@ export let artists = [
         "artist": "Arcangel",
         "songs": [
             {
-                "name": "Pa\\' Que La Pases Bien",
+                "name": "Pa\' Que La Pases Bien",
                 "uri": "spotify:track: 1pLCpA1RN8avJxSD3ZCwhj"
             }
         ]
@@ -33846,7 +33846,7 @@ export let artists = [
         "artist": "PEDRO SAMPAIO, Anitta, Dadju, Mc Pedrinho, Nicky Jam",
         "songs": [
             {
-                "name": "DAN\\xc7ARINA (feat. Nicky Jam, MC Pedrinho) - Remix",
+                "name": "DAN\xc7ARINA (feat. Nicky Jam, MC Pedrinho) - Remix",
                 "uri": "spotify:track: 5QQKWOwPjG9vcDBTQ5Hv5Q"
             }
         ]
@@ -33921,11 +33921,11 @@ export let artists = [
         "artist": "Yeat",
         "songs": [
             {
-                "name": "Mon\\xeby so big",
+                "name": "Mon\xeby so big",
                 "uri": "spotify:track: 7BbaIYAdi3pg4MGl6PHwPv"
             },
             {
-                "name": "Out th\\xeb way",
+                "name": "Out th\xeb way",
                 "uri": "spotify:track: 6IyoLWzljeR3ldQo4KWHT6"
             }
         ]
@@ -33934,7 +33934,7 @@ export let artists = [
         "artist": "Yeat, Lil Uzi Vert",
         "songs": [
             {
-                "name": "Flawl\\xebss (feat. Lil Uzi Vert)",
+                "name": "Flawl\xebss (feat. Lil Uzi Vert)",
                 "uri": "spotify:track: 1a019wP7IdYLexwbmfZPm3"
             }
         ]
@@ -34018,7 +34018,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Polim\\xe1 Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",
+        "artist": "Polim\xe1 Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",
         "songs": [
             {
                 "name": "ULTRA SOLO REMIX",
@@ -34075,7 +34075,7 @@ export let artists = [
         "artist": "Ninho",
         "songs": [
             {
-                "name": "La vie qu\\'on m\\xe8ne",
+                "name": "La vie qu\'on m\xe8ne",
                 "uri": "spotify:track: 0Jh6iWjna1wk5le0Ahn7No"
             },
             {
@@ -34089,7 +34089,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Bad Bunny, Jowell & Randy, \\xd1engo Flow",
+        "artist": "Bad Bunny, Jowell & Randy, \xd1engo Flow",
         "songs": [
             {
                 "name": "Safaera",
@@ -34098,7 +34098,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Tokischa, Anuel AA, \\xd1engo Flow",
+        "artist": "Tokischa, Anuel AA, \xd1engo Flow",
         "songs": [
             {
                 "name": "Delincuente",
@@ -34110,7 +34110,7 @@ export let artists = [
         "artist": "Cris Mj",
         "songs": [
             {
-                "name": "Una Noche en Medell\\xedn",
+                "name": "Una Noche en Medell\xedn",
                 "uri": "spotify:track: 1O2pcBJGej0pmH2Y9XZMs6"
             }
         ]
@@ -34137,7 +34137,7 @@ export let artists = [
         "artist": "Ak4: 20, Pailita, Cris Mj",
         "songs": [
             {
-                "name": "Me Arrepent\\xed",
+                "name": "Me Arrepent\xed",
                 "uri": "spotify:track: 40w8JmvwYUP2HUiXPxjy99"
             }
         ]
@@ -34242,7 +34242,7 @@ export let artists = [
                 "uri": "spotify:track: 3fjN3y5x4hN53rykAN2LHQ"
             },
             {
-                "name": "A M\\xed",
+                "name": "A M\xed",
                 "uri": "spotify:track: 7MmrcXVA7A5zZ2CbDuGHNa"
             },
             {
@@ -34310,7 +34310,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Polim\\xe1 Westcoast, Pailita",
+        "artist": "Polim\xe1 Westcoast, Pailita",
         "songs": [
             {
                 "name": "ULTRA SOLO",
@@ -34528,7 +34528,7 @@ export let artists = [
                 "uri": "spotify:track: 1HsSIPLTQT354yJcQGfEY3"
             },
             {
-                "name": "LO$ER=LO\\u2661ER",
+                "name": "LO$ER=LO\u2661ER",
                 "uri": "spotify:track: 21aOLk12MksET8AsbU0SI6"
             }
         ]
@@ -34648,7 +34648,7 @@ export let artists = [
         "artist": "Bryson Tiller",
         "songs": [
             {
-                "name": "Don\\'t",
+                "name": "Don\'t",
                 "uri": "spotify:track: 3pXF1nA74528Edde4of9CC"
             },
             {
@@ -34717,7 +34717,7 @@ export let artists = [
         "artist": "Alicia Keys",
         "songs": [
             {
-                "name": "If I Ain\\'t Got You",
+                "name": "If I Ain\'t Got You",
                 "uri": "spotify:track: 3XVBdLihbNbxUwZosxcGuJ"
             },
             {
@@ -34769,7 +34769,7 @@ export let artists = [
         "artist": "Quevedo, Ovy On The Drums",
         "songs": [
             {
-                "name": "Sin Se\\xf1al",
+                "name": "Sin Se\xf1al",
                 "uri": "spotify:track: 1Y62KpDaP5MEL43ZcI6IaG"
             }
         ]
@@ -34805,7 +34805,7 @@ export let artists = [
         "artist": "Bon Jovi",
         "songs": [
             {
-                "name": "Livin\\' On A Prayer",
+                "name": "Livin\' On A Prayer",
                 "uri": "spotify:track: 37ZJ0p5Jm13JPevGcx4SkF"
             },
             {
@@ -34813,7 +34813,7 @@ export let artists = [
                 "uri": "spotify:track: 0rmGAIH9LNJewFw7nKzZnc"
             },
             {
-                "name": "It\\'s My Life",
+                "name": "It\'s My Life",
                 "uri": "spotify:track: 0v1XpBHnsbkCn7iJ9Ucr1l"
             },
             {
@@ -34848,7 +34848,7 @@ export let artists = [
         "artist": "T-Pain, Yung Joc",
         "songs": [
             {
-                "name": "Buy U a Drank (Shawty Snappin\\') (feat. Yung Joc)",
+                "name": "Buy U a Drank (Shawty Snappin\') (feat. Yung Joc)",
                 "uri": "spotify:track: 1tkMs9wDPknQ3ZHcKDw1ES"
             }
         ]
@@ -34866,7 +34866,7 @@ export let artists = [
         "artist": "T-Pain",
         "songs": [
             {
-                "name": "I\\'m Sprung",
+                "name": "I\'m Sprung",
                 "uri": "spotify:track: 0DLOyyQvwPTSDKuhpzMMwA"
             }
         ]
@@ -34975,10 +34975,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Pineapple StormTv, Chris MC, Salve Malak, Tz da Coronel, MC Cabelinho, Chefin, L7NNON, Lu\\xedsa Sonza, Oruam, Xam\\xe3, N.I.N.A",
+        "artist": "Pineapple StormTv, Chris MC, Salve Malak, Tz da Coronel, MC Cabelinho, Chefin, L7NNON, Lu\xedsa Sonza, Oruam, Xam\xe3, N.I.N.A",
         "songs": [
             {
-                "name": "Poesia Ac\\xfastica 13",
+                "name": "Poesia Ac\xfastica 13",
                 "uri": "spotify:track: 7qoIhutxU269Zqo9PG5IOj"
             }
         ]
@@ -35002,7 +35002,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Matu\\xea, L7NNON",
+        "artist": "Matu\xea, L7NNON",
         "songs": [
             {
                 "name": "Sem Dó",
@@ -35059,7 +35059,7 @@ export let artists = [
         "artist": "Mc Poze do Rodo, Filipe Ret, Mainstreet, Ajaxx",
         "songs": [
             {
-                "name": "Me Sinto Aben\\xe7oado",
+                "name": "Me Sinto Aben\xe7oado",
                 "uri": "spotify:track: 7HjZD0NPC1hzFpjUjo45GR"
             }
         ]
@@ -35068,16 +35068,16 @@ export let artists = [
         "artist": "Pineapple StormTv, Filipe Ret, Teto, Luiz Lins, Salve Malak, Borges, Budah, BIN, Marina Sena, Caio Luccas",
         "songs": [
             {
-                "name": "Poesia Ac\\xfastica 12 - Pra Sempre",
+                "name": "Poesia Ac\xfastica 12 - Pra Sempre",
                 "uri": "spotify:track: 4can6ssapSsRCEbZZfYL8K"
             }
         ]
     },
     {
-        "artist": "Pineapple StormTv, MC Cabelinho, Bob do Contra, Azzy, Filipe Ret, Dudu, Xam\\xe3, Orochi, Maquiny, Salve Malak",
+        "artist": "Pineapple StormTv, MC Cabelinho, Bob do Contra, Azzy, Filipe Ret, Dudu, Xam\xe3, Orochi, Maquiny, Salve Malak",
         "songs": [
             {
-                "name": "Poesia Ac\\xfastica #6: Era uma Vez",
+                "name": "Poesia Ac\xfastica #6: Era uma Vez",
                 "uri": "spotify:track: 13Rf6RaZT13TW4xLQR3MQr"
             }
         ]
@@ -35148,7 +35148,7 @@ export let artists = [
         "artist": "Ludacris, Shawnna",
         "songs": [
             {
-                "name": "What\\'s Your Fantasy (Featuring Shawna)",
+                "name": "What\'s Your Fantasy (Featuring Shawna)",
                 "uri": "spotify:track: 4LwOrnuxJwR7C5Sw4liY4Z"
             }
         ]
@@ -35178,7 +35178,7 @@ export let artists = [
         "artist": "Jax Jones, RAYE",
         "songs": [
             {
-                "name": "You Don\\'t Know Me (feat. RAYE)",
+                "name": "You Don\'t Know Me (feat. RAYE)",
                 "uri": "spotify:track: 4DJORZgsbqnEJ4f4B9TBGV"
             }
         ]
@@ -35320,7 +35320,7 @@ export let artists = [
                 "uri": "spotify:track: 3QHMxEOAGD51PDlbFPHLyJ"
             },
             {
-                "name": "Flor P\\xe1lida",
+                "name": "Flor P\xe1lida",
                 "uri": "spotify:track: 47TyfLrGhYHHyyQWk64d0M"
             },
             {
@@ -35337,7 +35337,7 @@ export let artists = [
         "artist": "Daddy Yankee, Marc Anthony",
         "songs": [
             {
-                "name": "De Vuelta Pa\\' La Vuelta",
+                "name": "De Vuelta Pa\' La Vuelta",
                 "uri": "spotify:track: 7AUhck1sPy11OExQmDDx4P"
             }
         ]
@@ -35400,7 +35400,7 @@ export let artists = [
         "artist": "Mc Don Juan, MC G15, Mc Davi",
         "songs": [
             {
-                "name": "EU VOU COM CARINHO ELA QUER COM FOR\\xc7A",
+                "name": "EU VOU COM CARINHO ELA QUER COM FOR\xc7A",
                 "uri": "spotify:track: 7qD2vjd3btuOgwpQPEY7ci"
             }
         ]
@@ -35409,7 +35409,7 @@ export let artists = [
         "artist": "Leo Santana, Mc Don Juan, Mari Fernandez",
         "songs": [
             {
-                "name": "\\xc1udio Que Te Entrega - Faixa B\\xf4nus",
+                "name": "\xc1udio Que Te Entrega - Faixa B\xf4nus",
                 "uri": "spotify:track: 7HdWqZjUmIHK5B8zwPCRds"
             }
         ]
@@ -35424,19 +35424,19 @@ export let artists = [
         ]
     },
     {
-        "artist": "MC G15, Mc Davi, Mc Pedrinho, MC Ryan SP, Gaab, Mc Don Juan, MC JottaP\\xea, MC Menor da VG, DJ 900",
+        "artist": "MC G15, Mc Davi, Mc Pedrinho, MC Ryan SP, Gaab, Mc Don Juan, MC JottaP\xea, MC Menor da VG, DJ 900",
         "songs": [
             {
-                "name": "Set do G15 - A Revoada Come\\xe7ou",
+                "name": "Set do G15 - A Revoada Come\xe7ou",
                 "uri": "spotify:track: 7LdYiTZzlxsPKi8kvNXeBS"
             }
         ]
     },
     {
-        "artist": "Mc Don Juan, Tarc\\xedsio do Acordeon, DG e Batid\\xe3o Stronda",
+        "artist": "Mc Don Juan, Tarc\xedsio do Acordeon, DG e Batid\xe3o Stronda",
         "songs": [
             {
-                "name": "N\\xe3o Vou Te Bloquear - Ao vivo",
+                "name": "N\xe3o Vou Te Bloquear - Ao vivo",
                 "uri": "spotify:track: 5yRgMxdDhdYlbUQNCOlW3o"
             }
         ]
@@ -35469,7 +35469,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Pablito Pesadilla, Polim\\xe1 Westcoast, Nickoog Clk, Fran C",
+        "artist": "Pablito Pesadilla, Polim\xe1 Westcoast, Nickoog Clk, Fran C",
         "songs": [
             {
                 "name": "BABY OTAKU",
@@ -35478,7 +35478,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Polim\\xe1 Westcoast, J Balvin",
+        "artist": "Polim\xe1 Westcoast, J Balvin",
         "songs": [
             {
                 "name": "KAWAII",
@@ -35487,7 +35487,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Polim\\xe1 Westcoast, Young Cister, Cris Mj",
+        "artist": "Polim\xe1 Westcoast, Young Cister, Cris Mj",
         "songs": [
             {
                 "name": "SEXTIME",
@@ -35499,7 +35499,7 @@ export let artists = [
         "artist": "Ricardo Arjona, Gaby Moreno",
         "songs": [
             {
-                "name": "Fuiste T\\xfa (feat. Gaby Moreno)",
+                "name": "Fuiste T\xfa (feat. Gaby Moreno)",
                 "uri": "spotify:track: 29csiYMOfBmLmGwxmISrMy"
             }
         ]
@@ -35512,11 +35512,11 @@ export let artists = [
                 "uri": "spotify:track: 5UJsYyBi0CdSJl0ul5aTgO"
             },
             {
-                "name": "La Mujer Que No So\\xf1é",
+                "name": "La Mujer Que No So\xf1é",
                 "uri": "spotify:track: 2rgH6C08H3J2AWlckoG9Vm"
             },
             {
-                "name": "Ping\\xfcinos en la Cama",
+                "name": "Ping\xfcinos en la Cama",
                 "uri": "spotify:track: 5uALDiBIe9EzvRBpJyf5Ce"
             },
             {
@@ -35629,7 +35629,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Matu\\xea, WIU, Teto",
+        "artist": "Matu\xea, WIU, Teto",
         "songs": [
             {
                 "name": "Vampiro",
@@ -35638,7 +35638,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Matu\\xea",
+        "artist": "Matu\xea",
         "songs": [
             {
                 "name": "Quer Voar",
@@ -35677,7 +35677,7 @@ export let artists = [
         "artist": "Elvis Presley",
         "songs": [
             {
-                "name": "Can\\'t Help Falling in Love",
+                "name": "Can\'t Help Falling in Love",
                 "uri": "spotify:track: 44AyOl4qVkzS48vBsbNXaC"
             },
             {
@@ -35722,14 +35722,14 @@ export let artists = [
         ]
     },
     {
-        "artist": "Vicente Fern\\xe1ndez",
+        "artist": "Vicente Fern\xe1ndez",
         "songs": [
             {
                 "name": "Un Millón de Primaveras",
                 "uri": "spotify:track: 6j5LtifAnuTjTYvml61yFZ"
             },
             {
-                "name": "Ac\\xe1 Entre Nos",
+                "name": "Ac\xe1 Entre Nos",
                 "uri": "spotify:track: 2FDFz5TuYlpP180AUicAcl"
             },
             {
@@ -35741,7 +35741,7 @@ export let artists = [
                 "uri": "spotify:track: 2PxGGRmj5yunYdNF2Ud2vm"
             },
             {
-                "name": "Hermoso Cari\\xf1o",
+                "name": "Hermoso Cari\xf1o",
                 "uri": "spotify:track: 6UN6W5tj0qrMYV8N9MQMJC"
             }
         ]
@@ -35759,7 +35759,7 @@ export let artists = [
         "artist": "Hugo & Guilherme, Jorge & Mateus",
         "songs": [
             {
-                "name": "Meu N\\xfamero - Ao Vivo",
+                "name": "Meu N\xfamero - Ao Vivo",
                 "uri": "spotify:track: 3XF598RmEUF3XW4XKo1lyP"
             }
         ]
@@ -35831,10 +35831,10 @@ export let artists = [
         ]
     },
     {
-        "artist": "Luan Santana, Lu\\xedsa Sonza",
+        "artist": "Luan Santana, Lu\xedsa Sonza",
         "songs": [
             {
-                "name": "CORA\\xc7\\xc3O CIGANO - Ao Vivo",
+                "name": "CORA\xc7\xc3O CIGANO - Ao Vivo",
                 "uri": "spotify:track: 4vWh6tEfcLzdvYWp2IlOJS"
             }
         ]
@@ -35926,7 +35926,7 @@ export let artists = [
         "artist": "Julieta Venegas, Ana Tijoux",
         "songs": [
             {
-                "name": "Eres para M\\xed (with Anita Tijoux)",
+                "name": "Eres para M\xed (with Anita Tijoux)",
                 "uri": "spotify:track: 4m3vLNZkFAjm30XxPXf7E3"
             }
         ]
@@ -35972,7 +35972,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Fuerza Regida, Edgardo Nu\\xf1ez",
+        "artist": "Fuerza Regida, Edgardo Nu\xf1ez",
         "songs": [
             {
                 "name": "Billete Grande (En Vivo)",
@@ -35999,7 +35999,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Lenin Ram\\xedrez, Fuerza Regida, Banda Renovacion",
+        "artist": "Lenin Ram\xedrez, Fuerza Regida, Banda Renovacion",
         "songs": [
             {
                 "name": "Se Acabo - En Vivo",
@@ -36088,7 +36088,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Doode, Teto, Matu\\xea",
+        "artist": "Doode, Teto, Matu\xea",
         "songs": [
             {
                 "name": "Groupies",
@@ -36109,7 +36109,7 @@ export let artists = [
         "artist": "Swedish House Mafia, John Martin",
         "songs": [
             {
-                "name": "Don\\'t You Worry Child - Radio Edit",
+                "name": "Don\'t You Worry Child - Radio Edit",
                 "uri": "spotify:track: 2V65y3PX4DkRhy1djlxd9p"
             }
         ]
@@ -36149,7 +36149,7 @@ export let artists = [
                 "uri": "spotify:track: 1CxtymiucDK0AB9vgGZ6q2"
             },
             {
-                "name": "Deux fr\\xe8res",
+                "name": "Deux fr\xe8res",
                 "uri": "spotify:track: 6hzi3AGB39FjxFqcjgbWs7"
             },
             {
@@ -36193,7 +36193,7 @@ export let artists = [
         "artist": "H.E.R., Bryson Tiller",
         "songs": [
             {
-                "name": "Could\\'ve Been (feat. Bryson Tiller)",
+                "name": "Could\'ve Been (feat. Bryson Tiller)",
                 "uri": "spotify:track: 6oEVnWKgPqIEPc53OYDNqG"
             }
         ]
@@ -36246,7 +36246,7 @@ export let artists = [
                 "uri": "spotify:track: 7jtbRKtXtGtsJOBMaBo72W"
             },
             {
-                "name": "M\\xe1s All\\xe1 Del Sol",
+                "name": "M\xe1s All\xe1 Del Sol",
                 "uri": "spotify:track: 3rusXt8aQcGDtYImYtL5tm"
             }
         ]
@@ -36309,15 +36309,15 @@ export let artists = [
         "artist": "Damso",
         "songs": [
             {
-                "name": "\\u0394. Dieu ne ment jamais",
+                "name": "\u0394. Dieu ne ment jamais",
                 "uri": "spotify:track: 6YWjskKykdPsBuiTBOg1VK"
             },
             {
-                "name": "\\u0398. Macarena",
+                "name": "\u0398. Macarena",
                 "uri": "spotify:track:2ewjMyCbNv2X1dB2qIDCwD"
             },
             {
-                "name": "\\u03a3. MOROSE",
+                "name": "\u03a3. MOROSE",
                 "uri": "spotify:track: 0fukO3WYYUHaXOrvEohpEG"
             }
         ]
@@ -36423,7 +36423,7 @@ export let artists = [
         "artist": "LIT killah, Duki",
         "songs": [
             {
-                "name": "Mala M\\xeda",
+                "name": "Mala M\xeda",
                 "uri": "spotify:track: 7FfQ2E4LqvwKKOyKXyC2L2"
             }
         ]
@@ -36436,7 +36436,7 @@ export let artists = [
                 "uri": "spotify:track: 0R7DSnSibvuE4PEHqUayqf"
             },
             {
-                "name": "\\xbfPor Que Te Demoras?",
+                "name": "\xbfPor Que Te Demoras?",
                 "uri": "spotify:track: 6nAlJuLlRlpAcq30xIqKJs"
             },
             {
@@ -36476,7 +36476,7 @@ export let artists = [
         "artist": "Rusherking, KHEA, Duki, Maria Becerra, LIT killah, Tiago PZK",
         "songs": [
             {
-                "name": "Adem\\xe1s de M\\xed - Remix",
+                "name": "Adem\xe1s de M\xed - Remix",
                 "uri": "spotify:track: 7I8L3vYCLThw2FDrE6LuzE"
             }
         ]
@@ -36503,7 +36503,7 @@ export let artists = [
         "artist": "Dj LK da Escócia, Tchakabum, MC Ryan SP, mc jhenny, Mc RF",
         "songs": [
             {
-                "name": "Tubar\\xe3o Te Amo",
+                "name": "Tubar\xe3o Te Amo",
                 "uri": "spotify:track: 4UldILPVpnZO69ffK4B9aA"
             }
         ]
@@ -36628,7 +36628,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Lu\\xedsa Sonza",
+        "artist": "Lu\xedsa Sonza",
         "songs": [
             {
                 "name": "CACHORRINHAS",
@@ -36737,7 +36737,7 @@ export let artists = [
         "artist": "Mari Fernandez, NATTAN",
         "songs": [
             {
-                "name": "Comunica\\xe7\\xe3o Falhou - Ao Vivo",
+                "name": "Comunica\xe7\xe3o Falhou - Ao Vivo",
                 "uri": "spotify:track: 7bhvRvE56NHBvedx0EeALS"
             }
         ]
@@ -36850,7 +36850,7 @@ export let artists = [
         "artist": "cakal, Arem Ozguc, Arman Aydin",
         "songs": [
             {
-                "name": "D\\xfcnya Fani",
+                "name": "D\xfcnya Fani",
                 "uri": "spotify:track: 0zryFWOTwY1BDcED6t27Sl"
             }
         ]
@@ -36911,7 +36911,7 @@ export let artists = [
         "artist": "Die drei !!!",
         "songs": [
             {
-                "name": "Tag 01 Ein verr\\xfccktes Huhn",
+                "name": "Tag 01 Ein verr\xfccktes Huhn",
                 "uri": "spotify:track: 4xVgnP1Xt3GO2eHZhgCJS9"
             },
             {
@@ -37121,7 +37121,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Lady Gaga, Colby O\\'Donis",
+        "artist": "Lady Gaga, Colby O\'Donis",
         "songs": [
             {
                 "name": "Just Dance",
@@ -37142,7 +37142,7 @@ export let artists = [
         "artist": "Bebe Rexha",
         "songs": [
             {
-                "name": "I\\'m a Mess",
+                "name": "I\'m a Mess",
                 "uri": "spotify:track: 04ZTP5KsCypmtCmQg5tH9R"
             },
             {
@@ -37217,7 +37217,7 @@ export let artists = [
         "artist": "Lauv, Anne-Marie",
         "songs": [
             {
-                "name": "fuck, i\\'m lonely",
+                "name": "fuck, i\'m lonely",
                 "uri": "spotify:track: 09PGubKAMryhOWv1LHpCYz"
             }
         ]
@@ -37226,7 +37226,7 @@ export let artists = [
         "artist": "Piso 21, Christian Nodal",
         "songs": [
             {
-                "name": "Pa\\' Olvidarme De Ella",
+                "name": "Pa\' Olvidarme De Ella",
                 "uri": "spotify:track: 3lR4O0vtkhCAvVEUEWUL0S"
             }
         ]
@@ -37244,7 +37244,7 @@ export let artists = [
         "artist": "Flo Rida, Robin Thicke, Verdine White",
         "songs": [
             {
-                "name": "I Don\\'t Like It, I Love It (feat. Robin Thicke & Verdine White)",
+                "name": "I Don\'t Like It, I Love It (feat. Robin Thicke & Verdine White)",
                 "uri": "spotify:track: 2S5LNtRVRPbXk01yRQ14sZ"
             }
         ]
@@ -37266,7 +37266,7 @@ export let artists = [
                 "uri": "spotify:track: 5u5MvmVtitax9R1Mxh3reC"
             },
             {
-                "name": "T\\xfa Foto",
+                "name": "T\xfa Foto",
                 "uri": "spotify:track: 5zSOVwaY3sVjnmLhuEfsuf"
             },
             {
@@ -37274,7 +37274,7 @@ export let artists = [
                 "uri": "spotify:track:5EId1m4DNwTf3at31w8bPJ"
             },
             {
-                "name": "S\\xedguelo Bailando",
+                "name": "S\xedguelo Bailando",
                 "uri": "spotify:track: 5Y9fnynLlIvqtM710MHzfz"
             },
             {
@@ -37455,7 +37455,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Ti\\xebsto, Matthew Koma",
+        "artist": "Ti\xebsto, Matthew Koma",
         "songs": [
             {
                 "name": "Wasted",
@@ -37543,7 +37543,7 @@ export let artists = [
         "artist": "Rauw Alejandro",
         "songs": [
             {
-                "name": "C\\xfarame",
+                "name": "C\xfarame",
                 "uri": "spotify:track: 1FlL8ycld6uVDDyhV7P5FA"
             }
         ]
@@ -37693,7 +37693,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Ti\\xebsto",
+        "artist": "Ti\xebsto",
         "songs": [
             {
                 "name": "Red Lights",
@@ -37819,7 +37819,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Man\\xe1, Shakira",
+        "artist": "Man\xe1, Shakira",
         "songs": [
             {
                 "name": "Mi Verdad (feat. Shakira)",
@@ -37873,19 +37873,19 @@ export let artists = [
         ]
     },
     {
-        "artist": "Wesley Safad\\xe3o, Os Bar\\xf5es Da Pisadinha",
+        "artist": "Wesley Safad\xe3o, Os Bar\xf5es Da Pisadinha",
         "songs": [
             {
-                "name": "Ele \\xc9 Ele, Eu Sou Eu",
+                "name": "Ele \xc9 Ele, Eu Sou Eu",
                 "uri": "spotify:track:7EWXP47VlXKO3r7mNxuWHw"
             }
         ]
     },
     {
-        "artist": "C. Tangana, ROSAL\\xcdA",
+        "artist": "C. Tangana, ROSAL\xcdA",
         "songs": [
             {
-                "name": "Antes de Morirme (feat. ROSAL\\xcdA)",
+                "name": "Antes de Morirme (feat. ROSAL\xcdA)",
                 "uri": "spotify:track: 4Dl8bEzhAEGbcwkQawS1XG"
             }
         ]
@@ -38001,7 +38001,7 @@ export let artists = [
                 "uri": "spotify:track: 35KmOEIUqAGn02t7n4qaIr"
             },
             {
-                "name": "Sigo Extra\\xf1\\xe1ndote",
+                "name": "Sigo Extra\xf1\xe1ndote",
                 "uri": "spotify:track: 0k23rRi1B8ZHrKtzECGoyk"
             },
             {
@@ -38091,7 +38091,7 @@ export let artists = [
         ]
     },
     {
-        "artist": "Ti\\xebsto, Jonas Blue, Rita Ora",
+        "artist": "Ti\xebsto, Jonas Blue, Rita Ora",
         "songs": [
             {
                 "name": "Ritual",
@@ -38121,7 +38121,7 @@ export let artists = [
         "artist": "Chris Brown, Lil Wayne, Busta Rhymes",
         "songs": [
             {
-                "name": "Look At Me Now (feat. Lil\\' Wayne & Busta Rhymes)",
+                "name": "Look At Me Now (feat. Lil\' Wayne & Busta Rhymes)",
                 "uri": "spotify:track: 3hsmbFKT5Cujb5GQjqEU39"
             }
         ]
