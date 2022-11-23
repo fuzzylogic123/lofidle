@@ -2,8 +2,9 @@
   import { sum } from "./functions";
   export let increments;
   export let currentSegment;
+  export let nowPlaying;
 
-  $: if (currentSegment) {
+  $: if (nowPlaying) {
       document.querySelectorAll(".inner-segment").forEach((innerSegment) => {
       // @ts-ignore
       innerSegment.style.display = "none";
@@ -24,7 +25,7 @@
       class="segment"
       style="width: {(increment / sum(increments)) * 100}%"
     >
-      {#if i < currentSegment}
+      {#if i < currentSegment && nowPlaying}
         <div
           class="inner-segment"
           style:animation-delay="{sum(increments.slice(0, i))}s"
