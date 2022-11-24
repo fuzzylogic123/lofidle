@@ -10,7 +10,7 @@
     width: 100px;
     transform-origin: 28px;
     height: 100px;
-    scale: 0.2;
+    transform: scale(0.2);
     z-index: 100000;
     box-sizing: border-box;
   }
