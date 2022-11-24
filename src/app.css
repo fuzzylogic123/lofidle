@@ -90,6 +90,16 @@ button:focus-visible {
   src: url('./assets/fonts/nokiafc22.ttf');
 }
 
+@font-face {
+  font-family: "vibur";
+  src: url('./assets/fonts/Vibur-Regular.ttf');
+}
+
+@font-face {
+  font-family: "tauri";
+  src: url('./assets/fonts/Tauri-Regular.ttf');
+}
+
 body {
   height: 100%;
   width: 100vw;

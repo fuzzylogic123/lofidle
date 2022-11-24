@@ -1,7 +1,8 @@
 <script>
   import { artists } from "../assets/songs";
   import SearchIcon from "../assets/svg/search-icon.svelte";
-  import { createEventDispatcher } from 'svelte';
+  import { createEventDispatcher } from "svelte";
+  import StylisedButton from "./StylisedButton.svelte";
 
   export let audioPlayed;
   let query = "";
@@ -20,7 +21,7 @@
   const scrollToBottom = (node) => {
     const scroll = () =>
       node.scroll({
-        top: node.scrollHeight
+        top: node.scrollHeight,
       });
     scroll();
 
@@ -50,44 +51,57 @@
     return debounce(getAutoCompleteOptions(), 500);
   }
 
-
   const dispatch = createEventDispatcher();
 
-  function makeGuess(autoCompleteOption) {
-    console.log("something happened");
-    console.log(autoCompleteOption);
-    dispatch("guess", autoCompleteOption);
+  function selectGuess(autoCompleteOption) {
     autoCompleteOptions = [];
     query = `${autoCompleteOption.name} - ${autoCompleteOption.artist}`;
   }
 
-
+  function makeGuess() {
+    console.log(query);
+    dispatch("guess", query);
+    query = "";
+  }
 </script>
 
-<div class="auto-complete-container" class:hidden={!audioPlayed}>
-  {#if autoCompleteOptions.length > 0}
-    <div class="auto-complete-list" use:scrollToBottom>
-      {#each autoCompleteOptions as autoCompleteOption}
-        <div class="auto-complete-option" on:click={ () => makeGuess(autoCompleteOption)} on:keypress={() => makeGuess(autoCompleteOption)}>
-          {`${autoCompleteOption.name} - ${autoCompleteOption.artist}`}
-        </div>
-      {/each}
+<div class="flex-row" class:hidden={!audioPlayed}>
+  <div class="auto-complete-container">
+    {#if autoCompleteOptions.length > 0}
+      <div class="auto-complete-list" use:scrollToBottom>
+        {#each autoCompleteOptions as autoCompleteOption}
+          <div
+            class="auto-complete-option"
+            on:click={() => selectGuess(autoCompleteOption)}
+            on:keypress={() => selectGuess(autoCompleteOption)}
+          >
+            {`${autoCompleteOption.name} - ${autoCompleteOption.artist}`}
+          </div>
+        {/each}
+      </div>
+    {/if}
+    <div class="input-container">
+      <SearchIcon />
+      <input
+        bind:value={query}
+        on:input={getAutoCompleteOptionsWrapper}
+        on:focus={getAutoCompleteOptionsWrapper}
+        class="search-input"
+        placeholder="Think you recognise this tune?"
+      />
     </div>
-  {/if}
-  <div class="input-container">
-    <SearchIcon />
-    <input
-      bind:value={query}
-      on:input={getAutoCompleteOptionsWrapper}
-      on:focus={getAutoCompleteOptionsWrapper}
-      class="search-input"
-      placeholder="Think you recognise this tune?"
-    />
   </div>
+  <StylisedButton on:click={makeGuess}>GO</StylisedButton>
 </div>
 
 <style>
-
+  .flex-row {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+    width: 90%;
+    align-items: center;
+  }
   .hidden {
     opacity: 0;
   }

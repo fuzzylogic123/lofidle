@@ -4,9 +4,13 @@
   import Guesses from "./lib/Guesses.svelte";
   import Search from "./lib/Search.svelte";
   import Timeline from "./lib/Timeline.svelte";
+  import TutorialModal from "./lib/TutorialModal.svelte";
+
+  let showModal =  !localStorage.getItem("firstVisit");
+  localStorage.setItem("firstVisit", JSON.stringify(false));
 
   let increments = [2, 4, 8, 16];
-  let guesses;
+  let guesses = [];
   let currentSegment = 1;
   let audio = new Audio(
     "https://p.scdn.co/mp3-preview/0e96b1c387f7987f6eda026172e7e63f22a56b46?cid=774b29d4f13844c495f206cafdad9c86"
@@ -34,14 +38,26 @@
       clearTimeout(timeoutHandle);
     }
   }
+
+  function appendGuess(event) {
+    guesses.push(event.detail);
+    guesses = guesses;
+  }
 </script>
 
+{#if showModal}
+  <TutorialModal on:click={() => (showModal = false)} />
+{/if}
 <main class="content">
   <h1 class="title">Lofidle</h1>
   <Guesses {guesses} {increments} />
   <Timeline {increments} {currentSegment} {nowPlaying} />
-  <Search {audioPlayed} />
-  <Footer on:click={playMusic} />
+  <Search {audioPlayed} on:guess={appendGuess} />
+  <Footer
+    on:click={playMusic}
+    on:info={() => (showModal = true)}
+    {nowPlaying}
+  />
 </main>
 
 <div class="lines" />
@@ -65,7 +81,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background-image: url("./assets/img/lofi.gif");
+    background-image: url("./assets/img/lake.gif");
     background-blend-mode: multiply;
     background-size: cover;
     background-position: 50% 80%;

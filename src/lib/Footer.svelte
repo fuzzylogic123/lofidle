@@ -1,15 +1,19 @@
 <script>
+  import { createEventDispatcher } from "svelte";
   import InfoIcon from "../assets/svg/info.svelte";
   import StatsIcon from "../assets/svg/stats.svelte";
-  import PlayButton from "../assets/svg/play-button.svelte";
+  import PlayButton from "./PlayButton.svelte";
+
+  export let nowPlaying;
+
+  const dispatch = createEventDispatcher();
 </script>
 
 <div class="footer">
-  <InfoIcon />
+  <InfoIcon on:click={()=> dispatch("info")} />
+  
+  <PlayButton on:click {nowPlaying} />
 
-  <button on:click class="play-button">
-    <PlayButton />
-  </button>
   <StatsIcon />
 </div>
 
@@ -22,25 +26,4 @@
     width: 100%;
   }
 
-  .play-button {
-    border-radius: 1000em;
-    height: 4em;
-    width: 4em;
-    background-color: white;
-    filter: drop-shadow(-0.25em 0.45em 0 #d66ee7);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 0;
-    margin-bottom: 0.7em;
-    outline: none;
-    border: none;
-    
-  }
-
-  .play-button:active {
-    outline: none;
-    transform: translate(-0.25em, 0.45em);
-    filter: none;
-  }
 </style>
