@@ -1,7 +1,7 @@
 <script>
   import { createEventDispatcher } from "svelte";
-  import InfoIcon from "../assets/svg/info.svelte";
-  import StatsIcon from "../assets/svg/stats.svelte";
+  import TutorialIcon from "../assets/svg/Tutorial.svelte";
+  import InfoIcon from "../assets/svg/InfoIcon.svelte";
   import PlayButton from "./PlayButton.svelte";
 
   export let nowPlaying;
@@ -10,11 +10,11 @@
 </script>
 
 <div class="footer">
-  <InfoIcon on:click={()=> dispatch("info")} />
+  <InfoIcon on:click={()=>dispatch("info")} />
   
   <PlayButton on:click {nowPlaying} />
-
-  <StatsIcon />
+  
+  <TutorialIcon on:click={()=> dispatch("tutorial")} />
 </div>
 
 <style>

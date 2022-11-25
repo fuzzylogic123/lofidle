@@ -6,8 +6,10 @@
   import Timeline from "./lib/Timeline.svelte";
   import TutorialModal from "./lib/TutorialModal.svelte";
 
-  let showModal =  !localStorage.getItem("firstVisit");
+  let showTutorial = !localStorage.getItem("firstVisit");
   localStorage.setItem("firstVisit", JSON.stringify(false));
+
+  let showInfo = false;
 
   let increments = [2, 4, 8, 16];
   let guesses = [];
@@ -45,8 +47,10 @@
   }
 </script>
 
-{#if showModal}
-  <TutorialModal on:click={() => (showModal = false)} />
+{#if showTutorial}
+  <TutorialModal on:click={() => (showTutorial = false)} />
+{:else if showInfo}
+  <InfoModal />
 {/if}
 <main class="content">
   <h1 class="title">Lofidle</h1>
@@ -55,7 +59,8 @@
   <Search {audioPlayed} on:guess={appendGuess} />
   <Footer
     on:click={playMusic}
-    on:info={() => (showModal = true)}
+    on:info={() => (showInfo = true)}
+    on:tutorial={() => (showTutorial = true)}
     {nowPlaying}
   />
 </main>

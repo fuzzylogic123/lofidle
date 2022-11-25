@@ -1,5 +1,5 @@
 <script>
-  import X from "../assets/svg/x.svelte";
+  import X from "../assets/svg/X.svelte";
 
   export let guesses;
   export let increments;

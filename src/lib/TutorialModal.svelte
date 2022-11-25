@@ -6,7 +6,6 @@
 </script>
 
 <Modal on:click>
-  <div class="content">
     <h1 class="title">How to Play</h1>
 
     <div class="instructions-container">
@@ -26,27 +25,9 @@
         <div class="button-text">Got it</div>
       </StylisedButton>
     </div>
-  </div>
 </Modal>
 
 <style>
-
-  .content {
-    background-color: #f5ddec;
-    z-index: 100;
-    border-radius: 1em;
-    border: 2px black solid;
-    filter: drop-shadow(-1em 1em 0 #d66ee7);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding-top: 2em;
-    padding-bottom: 2em;
-    max-width: 360px;
-    margin-left: 1em;
-    gap: 1em;
-  }
-
   .title {
     color: #713f8f;
     font-family: "Vibur";

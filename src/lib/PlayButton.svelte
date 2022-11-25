@@ -1,5 +1,5 @@
 <script>
-  import PlayIcon from "../assets/svg/play-icon.svelte";
+  import PlayIcon from "../assets/svg/PlayIcon.svelte";
   import Waveform from "./Waveform.svelte";
 
   export let nowPlaying;

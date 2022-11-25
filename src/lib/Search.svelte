@@ -1,6 +1,6 @@
 <script>
   import { artists } from "../assets/songs";
-  import SearchIcon from "../assets/svg/search-icon.svelte";
+  import SearchIcon from "../assets/svg/SearchIcon.svelte";
   import { createEventDispatcher } from "svelte";
   import StylisedButton from "./StylisedButton.svelte";
 
