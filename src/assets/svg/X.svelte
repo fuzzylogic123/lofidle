@@ -17,5 +17,7 @@
     stroke: #e20909b8;
     scale: 0.6;
     margin-right: 0.5em;
+    min-width: 2em;
+    min-height: 2em;
   }
 </style>

@@ -31,12 +31,13 @@
   .title {
     color: #713f8f;
     font-family: "Vibur";
-    font-size: 4em;
-    margin: 0;
+    font-size: 3em;
+    margin: 0.5em;
+    margin-bottom: 0;
   }
 
   .button-text {
-    font-size: 3em;
+    font-size: 2em;
     height: 100%;
     padding: 0.1em;
   }

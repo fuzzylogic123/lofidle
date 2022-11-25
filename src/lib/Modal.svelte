@@ -27,10 +27,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 2em;
+    /* padding-top: 2em; */
     padding-bottom: 2em;
-    max-width: 360px;
+    max-width: 300px;
+    max-height: 400px;
     margin-left: 1em;
     gap: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 </style>

@@ -8,8 +8,4 @@
   .info {
     stroke-width: 1px;
   }
-
-  .info:hover {
-    cursor: pointer;
-  }
 </style>

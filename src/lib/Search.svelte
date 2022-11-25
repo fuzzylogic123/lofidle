@@ -4,9 +4,13 @@
   import { createEventDispatcher } from "svelte";
   import StylisedButton from "./StylisedButton.svelte";
 
-  export let audioPlayed;
+  export let showSearch;
+  let inputRef;
   let query = "";
   let autoCompleteOptions = [];
+  let showAutoCompleteList = false;
+
+  const dispatch = createEventDispatcher();
 
   const debounce = (func, delay) => {
     let debounceTimer;
@@ -28,46 +32,59 @@
     return { update: scroll };
   };
 
-  function getAutoCompleteOptions() {
+  async function getAutoCompleteOptions() {
     autoCompleteOptions = [];
+    const RESULT_LIMIT = 30;
+    let result_counter = 0;
     if (query === "") return;
     for (let i = 0; i < artists.length; i++) {
-      const artist = artists[i];
-      for (let j = 0; j < artist.songs.length; j++) {
-        const song = artist.songs[j];
-        const songString = `${artist.artist}#${song.name}`.toLowerCase();
-        if (songString.includes(query.toLowerCase())) {
-          autoCompleteOptions.push({
-            name: song.name,
-            artist: artist.artist,
-          });
+      const song = artists[i];
+      if (song.includes(query.toLowerCase())) {
+        autoCompleteOptions.push(song);
+        result_counter += 1;
+        if (result_counter > RESULT_LIMIT) {
+          return;
         }
       }
     }
-    autoCompleteOptions.sort((a, b) => b.artist.length - a.artist.length);
+    autoCompleteOptions.sort((a, b) => b.length - a.length);
+    showAutoCompleteList = true;
   }
 
   function getAutoCompleteOptionsWrapper() {
+    showAutoCompleteList = true;
     return debounce(getAutoCompleteOptions(), 500);
   }
 
-  const dispatch = createEventDispatcher();
-
   function selectGuess(autoCompleteOption) {
     autoCompleteOptions = [];
-    query = `${autoCompleteOption.name} - ${autoCompleteOption.artist}`;
+    query = autoCompleteOption;
+    inputRef.focus();
+    showAutoCompleteList = false;
   }
 
   function makeGuess() {
-    console.log(query);
     dispatch("guess", query);
     query = "";
+    inputRef.focus();
+  }
+
+  function makeGuessWrapper(event) {
+    if (
+      inputRef.value !== "" &&
+      (event.key === undefined || event.key === "Enter")
+    ) {
+      makeGuess();
+    }
   }
 </script>
 
-<div class="flex-row" class:hidden={!audioPlayed}>
-  <div class="auto-complete-container">
-    {#if autoCompleteOptions.length > 0}
+<div class="flex-row" class:hidden={!showSearch}>
+  <div
+    class="auto-complete-container"
+    on:blur={() => (showAutoCompleteList = false)}
+  >
+    {#if autoCompleteOptions.length > 0 && showAutoCompleteList}
       <div class="auto-complete-list" use:scrollToBottom>
         {#each autoCompleteOptions as autoCompleteOption}
           <div
@@ -75,7 +92,7 @@
             on:click={() => selectGuess(autoCompleteOption)}
             on:keypress={() => selectGuess(autoCompleteOption)}
           >
-            {`${autoCompleteOption.name} - ${autoCompleteOption.artist}`}
+            {autoCompleteOption}
           </div>
         {/each}
       </div>
@@ -83,15 +100,17 @@
     <div class="input-container">
       <SearchIcon />
       <input
+        on:keypress={makeGuessWrapper}
         bind:value={query}
-        on:input={getAutoCompleteOptionsWrapper}
-        on:focus={getAutoCompleteOptionsWrapper}
+        on:input={() => getAutoCompleteOptionsWrapper()}
+        on:focus={() => getAutoCompleteOptionsWrapper()}
+        bind:this={inputRef}
         class="search-input"
         placeholder="Think you recognise this tune?"
       />
     </div>
   </div>
-  <StylisedButton on:click={makeGuess}>GO</StylisedButton>
+  <StylisedButton on:click={makeGuessWrapper}>GO</StylisedButton>
 </div>
 
 <style>
@@ -172,6 +191,7 @@
     padding: 1em;
     width: 100%;
     font-family: "nokia";
+    color: whitesmoke;
   }
 
   .search-input::placeholder {

@@ -10,7 +10,7 @@
 </script>
 
 <div class="footer">
-  <InfoIcon on:click={()=>dispatch("info")} />
+  <InfoIcon on:click={()=> dispatch("info")} />
   
   <PlayButton on:click {nowPlaying} />
   

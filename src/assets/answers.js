@@ -1,4 +1,5 @@
-export let answers = [
+
+let answers = [
     {
         song_name: "Numb",
         lofi_artist: "Mount Eminest, holydope, Gletscher",
@@ -288,3 +289,19 @@ export let answers = [
         ]
     }
 ]
+
+function getLofidle() {
+    // const startMs = new Date(2022, 11, 26, 0).getTime();
+    const startMs = new Date(2022, 10, 24, 0).getTime();
+
+    const currentMs = new Date().getTime();
+
+    const index = Math.floor((currentMs - startMs) / 1000 / 60 / 60 / 24)
+
+    return answers[index]
+}
+
+
+export {
+    getLofidle
+}
