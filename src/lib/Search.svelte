@@ -1,10 +1,9 @@
 <script>
-  import { artists } from "../assets/songs";
+  import { songs } from "../assets/songs";
   import SearchIcon from "../assets/svg/SearchIcon.svelte";
   import { createEventDispatcher } from "svelte";
   import StylisedButton from "./StylisedButton.svelte";
 
-  export let showSearch;
   let inputRef;
   let query = "";
   let autoCompleteOptions = [];
@@ -37,8 +36,8 @@
     const RESULT_LIMIT = 30;
     let result_counter = 0;
     if (query === "") return;
-    for (let i = 0; i < artists.length; i++) {
-      const song = artists[i];
+    for (let i = 0; i < songs.length; i++) {
+      const song = songs[i];
       if (song.includes(query.toLowerCase())) {
         autoCompleteOptions.push(song);
         result_counter += 1;
@@ -66,20 +65,20 @@
   function makeGuess() {
     dispatch("guess", query);
     query = "";
-    inputRef.focus();
   }
 
   function makeGuessWrapper(event) {
+    console.log(inputRef.value);
     if (
       inputRef.value !== "" &&
-      (event.key === undefined || event.key === "Enter")
+      (event.key === undefined || event.key === "Enter") && songs.includes(inputRef.value)
     ) {
       makeGuess();
     }
   }
 </script>
 
-<div class="flex-row" class:hidden={!showSearch}>
+<div class="flex-row">
   <div
     class="auto-complete-container"
     on:blur={() => (showAutoCompleteList = false)}
@@ -121,9 +120,9 @@
     width: 90%;
     align-items: center;
   }
-  .hidden {
+  /* .hidden {
     opacity: 0;
-  }
+  } */
   .auto-complete-option {
     font-size: 0.9em;
     border-color: whitesmoke;

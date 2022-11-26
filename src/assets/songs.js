@@ -1,4 +1,4 @@
-export let artists = [
+export let songs = [
     "changes - radio mix - faul & wad, pnau",
     "chill bill remix (feat. d.r.a.m., denzel curry & cousin stizz) - rob $tone, dram, denzel curry, cousin stizz",
     "positions - ariana grande",

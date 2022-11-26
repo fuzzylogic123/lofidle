@@ -7,18 +7,26 @@
   import TutorialModal from "./lib/TutorialModal.svelte";
   import InfoModal from "./lib/InfoModal.svelte";
   import { getLofidle } from "./assets/answers.js";
+  import AnswerScreenContent from "./lib/AnswerScreenContent.svelte";
 
   let showInfo = false;
 
   const lofidle = getLofidle();
 
   let showFinalPage = false;
-  let increments = [2, 4, 8, 16];
+  let increments = [2, 2, 6, 20];
   let guesses = [];
-  let currentSegment = 1;
   let audio = new Audio(lofidle.lofi_preview_url);
+  audio.addEventListener("timeupdate", () => {
+    if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
+      audio.pause();
+      nowPlaying = false;
+    }
+  });
+
+  let currentTimeLimit = 0;
+
   let nowPlaying = false;
-  let timeoutHandle = null;
   let timeUntilNextLofidle = "soon";
   let showTutorial;
 
@@ -26,14 +34,14 @@
 
   $: if (guesses.length !== 0) {
     localStorage.setItem("guesses", JSON.stringify(guesses));
-  }
-
-  $: if (currentSegment > 1) {
-    localStorage.setItem("currentSegment", JSON.stringify(currentSegment));
+    currentTimeLimit += increments[guesses.length] * 1000;
   }
 
   function isSuccess() {
-    return guesses.at(-1) ===`${lofidle.song_name} - ${lofidle.original_artist}`.toLocaleLowerCase()
+    return (
+      guesses.at(-1) ===
+      `${lofidle.song_name} - ${lofidle.original_artist}`.toLocaleLowerCase()
+    );
   }
 
   $: if (guesses.length >= increments.length || isSuccess()) {
@@ -43,19 +51,19 @@
   function playMusic() {
     if (audio.paused) {
       audio.currentTime = 0;
+      currentTimeLimit = getTimeUsed(guesses.length + 1) * 1000;
       audio.play();
       nowPlaying = true;
-      timeoutHandle = setTimeout(() => {
-        audio.pause();
-        nowPlaying = false;
-        if (currentSegment < increments.length) {
-          currentSegment += 1;
-        }
-      }, sum(increments.slice(0, currentSegment)) * 1000);
     } else {
       audio.pause();
       nowPlaying = false;
-      clearTimeout(timeoutHandle);
+    }
+  }
+
+  function skipSegment() {
+    if (guesses.length < increments.length) {
+      guesses.push("SKIPPED");
+      guesses = guesses;
     }
   }
 
@@ -97,15 +105,17 @@
     ) {
       localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
       localStorage.setItem("guesses", JSON.stringify([]));
-      localStorage.setItem("currentSegment", JSON.stringify(1));
     } else {
       guesses = JSON.parse(localStorage.getItem("guesses"));
-      currentSegment = JSON.parse(localStorage.getItem("currentSegment"));
       localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
     }
 
     showTutorial = !localStorage.getItem("firstVisit");
     localStorage.setItem("firstVisit", JSON.stringify(false));
+  }
+
+  function getTimeUsed(guessesLen) {
+    return sum(increments.slice(0, guessesLen));
   }
 </script>
 
@@ -116,39 +126,27 @@
 {/if}
 
 <main class="content">
-  <h1 class="title">Lofidle</h1>
-
-  <!-- {#if false} -->
   {#if !showFinalPage}
+    <h1 class="title">LoFi-dle</h1>
     <Guesses {guesses} {increments} />
-    <Timeline {increments} {currentSegment} {nowPlaying} />
-    <Search showSearch={currentSegment > 0} on:guess={appendGuess} />
+    <Timeline {increments} {guesses} {nowPlaying} />
+    <Search on:guess={appendGuess} />
     <Footer
-      on:click={playMusic}
+      on:playSong={playMusic}
+      on:skipSegment={skipSegment}
       on:info={() => (showInfo = true)}
       on:tutorial={() => (showTutorial = true)}
       {nowPlaying}
     />
   {:else}
-    <div class="answer-screen-content">
-      <h1 class="outcome-message title">
-        {isSuccess() ? "Congratulations!" : "Better Luck Next Time!"}
-      </h1>
-      <img class="image" src={`${lofidle.images[1].url}`} alt="album cover" />
-      <div>
-        <h2 class="song-name">
-          {lofidle.song_name}
-          <br />
-          {lofidle.original_artist}
-        </h2>
-        <h4>
-          lofi cover by: {lofidle.lofi_artist}
-        </h4>
-        <h5>
-          Next Lofidle in {timeUntilNextLofidle}
-        </h5>
-      </div>
-    </div>
+    <AnswerScreenContent
+      {isSuccess}
+      timeUsed={getTimeUsed(guesses.length)}
+      {lofidle}
+      {timeUntilNextLofidle}
+      {guesses}
+      MAX_GUESSES={increments.length}
+    />
   {/if}
 </main>
 
@@ -156,29 +154,6 @@
 <div class="background-image" />
 
 <style>
-  .answer-screen-content > .title {
-    font-size: 1.5em;
-    padding: 1em;
-  }
-  .image {
-    height: 10em;
-    width: 10em;
-  }
-  .song-name {
-    line-height: 1.3em;
-  }
-  .answer-screen-content {
-    /* padding: 3em; */
-    flex-direction: column;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-grow: 1;
-    gap: 1em;
-    color: white;
-    font-family: "nokia";
-  }
-
   .lines {
     position: absolute;
     top: 0;
@@ -215,6 +190,7 @@
     color: whitesmoke;
     font-size: 3em;
     margin: 0;
+    margin-top: 0.4em;
   }
 
   .content {

@@ -3,21 +3,33 @@
   import TutorialIcon from "../assets/svg/Tutorial.svelte";
   import InfoIcon from "../assets/svg/InfoIcon.svelte";
   import PlayButton from "./PlayButton.svelte";
+  import SkipButton from "./SkipButton.svelte";
 
   export let nowPlaying;
 
   const dispatch = createEventDispatcher();
+
+
 </script>
 
 <div class="footer">
-  <InfoIcon on:click={()=> dispatch("info")} />
-  
-  <PlayButton on:click {nowPlaying} />
-  
-  <TutorialIcon on:click={()=> dispatch("tutorial")} />
+  <InfoIcon on:click={() => dispatch("info")} />
+
+  <div class="flex-row">
+    <PlayButton on:click={()=> dispatch("playSong")} {nowPlaying} />
+    <SkipButton on:click={()=> dispatch("skipSegment")} />
+  </div>
+
+  <TutorialIcon on:click={() => dispatch("tutorial")} />
 </div>
 
 <style>
+
+  .flex-row {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+  }
   .footer {
     display: flex;
     align-items: center;
@@ -25,5 +37,4 @@
     height: 6em;
     width: 100%;
   }
-
 </style>

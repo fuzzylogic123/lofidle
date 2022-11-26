@@ -20,7 +20,14 @@ function parseMillisecondsIntoReadableTime(milliseconds){
     return h + ':' + m + ':' + s;
   }
 
+  function getLofidleIndex() {
+    const startMs = new Date(2022, 10, 26, 0).getTime();
+    const currentMs = new Date().getTime();
+    return Math.floor((currentMs - startMs) / 1000 / 60 / 60 / 24)
+  }
+
 export {
     sum,
-    parseMillisecondsIntoReadableTime
+    parseMillisecondsIntoReadableTime,
+    getLofidleIndex
 }

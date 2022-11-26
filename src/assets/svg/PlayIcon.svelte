@@ -40,8 +40,8 @@
 <style>
   .play-button {
     fill: #f99b9b;
-    stroke: #d66ee6;
-    stroke-width: 0.03em;
+    /* stroke: #d66ee6; */
+    stroke-width: 0;
     font-size: 0.7em;
     margin-left: 0.5em;
   }

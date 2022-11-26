@@ -11,7 +11,7 @@
     <div class="instructions-container">
       <div class="instruction-container">
         <MusicNote />
-        <p class="body">Listen to a Lofi cover of a popular song</p>
+        <p class="body">Listen to a LoFi cover of a popular song</p>
       </div>
 
       <div class="instruction-container">

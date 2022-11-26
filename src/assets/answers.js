@@ -1,3 +1,4 @@
+import { getLofidleIndex } from "../lib/functions.js";
 
 let answers = [
     {
@@ -291,13 +292,7 @@ let answers = [
 ]
 
 function getLofidle() {
-    // const startMs = new Date(2022, 11, 26, 0).getTime();
-    const startMs = new Date(2022, 10, 24, 0).getTime();
-
-    const currentMs = new Date().getTime();
-
-    const index = Math.floor((currentMs - startMs) / 1000 / 60 / 60 / 24)
-
+    const index = getLofidleIndex();
     return answers[index]
 }
 

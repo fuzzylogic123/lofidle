@@ -1,0 +1,142 @@
+<script>
+  import { getLofidleIndex } from "./functions";
+  import StylisedButton from "./StylisedButton.svelte";
+  export let isSuccess;
+  export let timeUsed;
+  export let lofidle;
+  export let timeUntilNextLofidle;
+  export let guesses;
+  export let MAX_GUESSES;
+  let copiedSucessfully = false;
+
+  async function copyResult() {
+    let output = "";
+    if (isSuccess) {
+      output += "🔊 "
+    } else {
+      output += "🔇 "
+    }
+    output += `#Lofidle #${getLofidleIndex() + 1}`;
+    output += "\n\n"
+
+    const wrongLength = isSuccess ? guesses.length : guesses.length - 1
+    for (let i = 0; i < wrongLength; i++) {
+      output += "🟥";
+    }
+    if (isSuccess) {
+      output += "🟩";
+    }
+
+    const whiteSqures = MAX_GUESSES - guesses.length;
+    for (let i = 0; i < whiteSqures; i++) {
+      output += "⬜"
+    }
+
+    output += "\n\n"
+    output += "https://lofidle.com";
+
+    await navigator.clipboard.writeText(output);
+    copiedSucessfully = true;
+  }
+</script>
+
+<div class="answer-screen-content">
+  <div class="end-screen-content">
+    <div>
+      {#if isSuccess}
+        <div class="result">
+          <div class="title">Congratulations!</div>
+          <p class="subtitle">
+            You got today's Lofidle in {timeUsed} second{timeUsed === 1
+              ? ""
+              : "s"}
+          </p>
+        </div>
+      {:else}
+        Better Luck Next Time!
+      {/if}
+      <img class="image" src={`${lofidle.images[1].url}`} alt="album cover" />
+      <div class="song-info">
+        <div class="song-name">
+          {lofidle.song_name}
+        </div>
+        <h4>
+          {lofidle.original_artist}
+        </h4>
+        <h4>
+          lofi cover by: <br />{lofidle.lofi_artist}
+        </h4>
+        <div class="button-wrapper">
+          <StylisedButton on:click={copyResult}>
+            <div class="button-inner-text">
+              {copiedSucessfully ? "Copied!" : "Share"}
+            </div>
+          </StylisedButton>
+        </div>
+      </div>
+    </div>
+  </div>
+  <h5 class="timer">
+    Next Lofidle in {timeUntilNextLofidle}
+  </h5>
+</div>
+
+<style>
+  .timer {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+  }
+  .end-screen-content {
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  .subtitle {
+    font-size: 0.8em;
+  }
+  .button-wrapper {
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+  }
+
+  .button-inner-text {
+    /* font-size: 2em; */
+    padding: 0.1em;
+  }
+  .result {
+    margin-top: 0.5em;
+    width: 100%;
+  }
+  .song-info {
+    margin-left: 1em;
+    margin-right: 1em;
+    flex-grow: 2;
+  }
+
+  .image {
+    height: 9em;
+    width: 9em;
+    margin: 0.5em;
+  }
+  .song-name {
+    margin-bottom: 0;
+    margin-top: 0.5em;
+    font-size: 2.5em;
+  }
+
+  .answer-screen-content {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: "nokia";
+    width: 100%;
+    flex-grow: 1;
+  }
+
+  .title {
+    font-size: 2em;
+  }
+</style>

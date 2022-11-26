@@ -1,33 +1,32 @@
 <script>
   import { sum } from "./functions";
   export let increments;
-  export let currentSegment;
+  export let guesses;
   export let nowPlaying;
 
   $: if (nowPlaying) {
-      document.querySelectorAll(".inner-segment").forEach((innerSegment) => {
+    document.querySelectorAll(".inner-segment").forEach((innerSegment) => {
       // @ts-ignore
       innerSegment.style.display = "none";
       // @ts-ignore
       innerSegment.offsetHeight;
       // @ts-ignore
       innerSegment.style.display = "block";
-      console.log("current segment changed");
     });
   }
 </script>
 
-
 <div class="timeline-container">
   {#each increments as increment, i (i)}
     <div
-      class:active-segment={i < currentSegment}
+      class:active-segment={i < guesses.length + 1}
       class="segment"
       style="width: {(increment / sum(increments)) * 100}%"
     >
-      {#if i < currentSegment && nowPlaying}
+      {#if nowPlaying}
         <div
           class="inner-segment"
+          style:visibility="{i <= guesses.length ? 'visible' : 'hidden'}"
           style:animation-delay="{sum(increments.slice(0, i))}s"
           style:animation-duration="{increment}s"
         />
@@ -61,7 +60,8 @@
     height: 100%;
     width: 100%;
     opacity: 0;
-    background-color: whitesmoke;
+    /* background-color: whitesmoke; */
+    background-color: #e8ade8;
     animation-name: animate-progress;
     animation-timing-function: linear;
     animation-fill-mode: forwards;
@@ -69,7 +69,8 @@
   }
 
   .active-segment {
-    background-color: #f9f8f890;
+    /* background-color: #f9f8f890; */
+    background-color: #e8ade88e;
   }
 
   @keyframes animate-progress {

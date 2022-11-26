@@ -33,6 +33,7 @@
     min-height: 3em;
     width: 90%;
     background-color: rgba(0, 0, 0, 0.35);
+    background-color: rgba(255, 255, 255, 0.305);
     border-radius: 0.6em;
     flex-shrink: 0;
     text-align: center;
@@ -42,5 +43,6 @@
     align-items: center;
     justify-content: start;
     padding: 0.1em;
+    /* border: 1px white solid; */
   }
 </style>
