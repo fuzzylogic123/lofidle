@@ -53,7 +53,7 @@
           </p>
         </div>
       {:else}
-        Better Luck Next Time!
+        <div class="title">Better Luck Next Time!</div>
       {/if}
       <img class="image" src={`${lofidle.images[1].url}`} alt="album cover" />
       <div class="song-info">
@@ -138,5 +138,6 @@
 
   .title {
     font-size: 2em;
+    line-height: 1.2em;
   }
 </style>

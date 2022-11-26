@@ -17,12 +17,14 @@
   let increments = [2, 2, 6, 20];
   let guesses = [];
   let audio = new Audio(lofidle.lofi_preview_url);
+
   audio.addEventListener("timeupdate", () => {
     if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
       audio.pause();
       nowPlaying = false;
     }
   });
+
 
   let currentTimeLimit = 0;
 
@@ -88,6 +90,14 @@
     setTimeUntilNextLofidle();
     setInterval(setTimeUntilNextLofidle, 1000);
     playAnswer();
+    // mute audio if you leave the window
+    document.addEventListener("visibilitychange", ()=> {
+    if (document.hidden) {
+      audio.pause();
+    } else {
+      audio.play();
+    }
+  });
   }
 
   function appendGuess(event) {
@@ -140,7 +150,7 @@
     />
   {:else}
     <AnswerScreenContent
-      {isSuccess}
+      isSuccess={isSuccess()}
       timeUsed={getTimeUsed(guesses.length)}
       {lofidle}
       {timeUntilNextLofidle}
