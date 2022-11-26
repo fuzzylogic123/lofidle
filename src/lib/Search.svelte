@@ -168,7 +168,9 @@
     right: 0;
     transform-origin: top;
     z-index: 99;
-    max-height: 240px;
+    /* max-height: 240px; */
+    max-height: 50vh;
+
     overflow-y: scroll;
   }
   .input-container {
