@@ -11,15 +11,15 @@
 
   const dispatch = createEventDispatcher();
 
-  const debounce = (func, delay) => {
-    let debounceTimer;
-    return function () {
-      const context = this;
-      const args = arguments;
-      clearTimeout(debounceTimer);
-      debounceTimer = setTimeout(() => func.apply(context, args), delay);
-    };
-  };
+  // const debounce = (func, delay) => {
+  //   let debounceTimer;
+  //   return function () {
+  //     const context = this;
+  //     const args = arguments;
+  //     clearTimeout(debounceTimer);
+  //     debounceTimer = setTimeout(() => func.apply(context, args), delay);
+  //   };
+  // };
 
   const scrollToBottom = (node) => {
     const scroll = () =>
@@ -32,6 +32,7 @@
   };
 
   async function getAutoCompleteOptions() {
+    showAutoCompleteList = true;
     autoCompleteOptions = [];
     const RESULT_LIMIT = 30;
     let result_counter = 0;
@@ -46,13 +47,8 @@
         }
       }
     }
-    autoCompleteOptions.sort((a, b) => b.length - a.length);
+    autoCompleteOptions.sort((a, b) => a.length - b.length)
     showAutoCompleteList = true;
-  }
-
-  function getAutoCompleteOptionsWrapper() {
-    showAutoCompleteList = true;
-    return debounce(getAutoCompleteOptions(), 500);
   }
 
   function selectGuess(autoCompleteOption) {
@@ -68,7 +64,6 @@
   }
 
   function makeGuessWrapper(event) {
-    console.log(inputRef.value);
     if (
       inputRef.value !== "" &&
       (event.key === undefined || event.key === "Enter") && songs.includes(inputRef.value)
@@ -81,10 +76,9 @@
 <div class="flex-row">
   <div
     class="auto-complete-container"
-    on:blur={() => (showAutoCompleteList = false)}
   >
     {#if autoCompleteOptions.length > 0 && showAutoCompleteList}
-      <div class="auto-complete-list" use:scrollToBottom>
+      <div class="auto-complete-list">
         {#each autoCompleteOptions as autoCompleteOption}
           <div
             class="auto-complete-option"
@@ -101,8 +95,8 @@
       <input
         on:keypress={makeGuessWrapper}
         bind:value={query}
-        on:input={() => getAutoCompleteOptionsWrapper()}
-        on:focus={() => getAutoCompleteOptionsWrapper()}
+        on:input={() => getAutoCompleteOptions()}
+        on:focus={() => getAutoCompleteOptions()}
         bind:this={inputRef}
         class="search-input"
         placeholder="Think you recognise this tune?"
@@ -168,7 +162,6 @@
     right: 0;
     transform-origin: top;
     z-index: 99;
-    /* max-height: 240px; */
     max-height: 50vh;
 
     overflow-y: scroll;
@@ -190,6 +183,7 @@
     outline: none;
     border: none;
     padding: 1em;
+    padding-right: 0;
     width: 100%;
     font-family: "nokia";
     color: whitesmoke;
