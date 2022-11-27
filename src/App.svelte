@@ -237,6 +237,7 @@
     font-size: 3em;
     margin: 0;
     margin-top: 0.4em;
+    flex-grow: 0.05;
   }
 
   .content {
