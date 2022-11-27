@@ -1,38 +1,38 @@
 <script>
   import { getLofidleIndex } from "./functions";
   import StylisedButton from "./StylisedButton.svelte";
-  export let isSuccess;
   export let timeUsed;
   export let lofidle;
   export let timeUntilNextLofidle;
   export let guesses;
   export let MAX_GUESSES;
+  const isSuccess = guesses.at(-1).status == "correct";
   let copiedSucessfully = false;
 
   async function copyResult() {
     let output = "";
     if (isSuccess) {
-      output += "🔊 "
+      output += "🔊 ";
     } else {
-      output += "🔇 "
+      output += "🔇 ";
     }
     output += `#Lofidle #${getLofidleIndex() + 1}`;
-    output += "\n\n"
+    output += "\n\n";
 
-    const wrongLength = isSuccess ? guesses.length : guesses.length - 1
-    for (let i = 0; i < wrongLength; i++) {
-      output += "🟥";
-    }
-    if (isSuccess) {
-      output += "🟩";
+    for (let i = 0; i < guesses; i++) {
+      const status = guesses[i].status;
+      if (status === "incorrect") {
+        output += "🟥";
+      } else if (status === "correct") {
+        output += "🟩";
+      } else if (status === "correctArtist") {
+        output += "🟧";
+      } else {
+        output += "⬜";
+      }
     }
 
-    const whiteSqures = MAX_GUESSES - guesses.length;
-    for (let i = 0; i < whiteSqures; i++) {
-      output += "⬜"
-    }
-
-    output += "\n\n"
+    output += "\n\n";
     output += "https://lofidle.com";
 
     await navigator.clipboard.writeText(output);

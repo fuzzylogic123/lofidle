@@ -9,7 +9,6 @@
 
   const dispatch = createEventDispatcher();
 
-
 </script>
 
 <div class="footer">

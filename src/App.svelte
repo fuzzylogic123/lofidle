@@ -25,7 +25,6 @@
     }
   });
 
-
   let currentTimeLimit = 0;
 
   let nowPlaying = false;
@@ -39,14 +38,14 @@
     currentTimeLimit += increments[guesses.length] * 1000;
   }
 
-  function isSuccess() {
+  function isSuccess(guess) {
     return (
-      guesses.at(-1) ===
+      guess ===
       `${lofidle.song_name} - ${lofidle.original_artist}`.toLocaleLowerCase()
     );
   }
 
-  $: if (guesses.length >= increments.length || isSuccess()) {
+  $: if (guesses.length >= increments.length || (guesses.length > 0 && guesses.at(-1).status === "correct")) {
     visitLastPage();
   }
 
@@ -64,7 +63,10 @@
 
   function skipSegment() {
     if (guesses.length < increments.length) {
-      guesses.push("SKIPPED");
+      guesses.push({
+        guess: "SKIPPED",
+        status: "skipped"
+      });
       guesses = guesses;
     }
   }
@@ -100,9 +102,43 @@
   });
   }
 
+  function getStatus(guess) {
+    if (isSuccess(guess)) {
+      return "correct"
+    } else if (isCorrectArtist(guess)) {
+      return "correctArtist"
+    }
+    else {
+      return "incorrect"
+    }
+  }
+
+  function isCorrectArtist(guess) {
+    const correctArtist = lofidle.original_artist.toLocaleLowerCase();
+    let artists = guess.split(" - ").at(-1).toLocaleLowerCase();
+    artists = artists.split(",");
+    for (let index = 0; index < artists.length; index++) {
+      const artist = artists[index].trim();
+
+      const correctArtists = correctArtist.split(",");
+      for (let i = 0; i < correctArtists.length; i++) {
+        const correctArtist = correctArtists[i].trim();
+        if (correctArtist == artist) {
+          return true;
+        }
+      }
+    }
+    return false;
+  }
+
   function appendGuess(event) {
+    // getStatus must accept the guess as a parameter
     const guess = event.detail;
-    guesses.push(guess);
+    const status = getStatus(guess);
+    guesses.push({
+      guess: guess,
+      status: status
+    });
     guesses = guesses;
   }
 
@@ -150,7 +186,6 @@
     />
   {:else}
     <AnswerScreenContent
-      isSuccess={isSuccess()}
       timeUsed={getTimeUsed(guesses.length)}
       {lofidle}
       {timeUntilNextLofidle}

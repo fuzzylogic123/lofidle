@@ -1,4 +1,9 @@
+<script>
+  export let correctArtist;
+</script>
+
 <svg
+  style:stroke={correctArtist ? "#b9951fb8" : "#e20909b8"}
   class="icon"
   xmlns="http://www.w3.org/2000/svg"
   width="24"
@@ -14,7 +19,7 @@
 
 <style>
   .icon {
-    stroke: #e20909b8;
+    fill: #b9951fb8;
     scale: 0.6;
     margin-right: 0.5em;
     min-width: 2em;

@@ -9,8 +9,8 @@
   {#each increments as _, i}
     <div class="guess">
       {#if i < guesses.length}
-        <X />
-        {guesses[i]}
+        <X correctArtist={guesses[i].status === "correctArtist"}/>
+        {guesses[i].guess}
       {/if}
     </div>
   {/each}
