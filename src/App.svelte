@@ -14,7 +14,7 @@
   const lofidle = getLofidle();
 
   let showFinalPage = false;
-  let increments = [2, 2, 6, 20];
+  let increments = [2, 2, 6, 10, 10];
   let guesses = [];
   let audio = new Audio(lofidle.lofi_preview_url);
 
@@ -83,7 +83,6 @@
   function playAnswer() {
     audio.currentTime = 0;
     audio.src = lofidle.original_preview_url;
-    audio.loop = true;
     audio.play();
   }
 
@@ -132,7 +131,6 @@
   }
 
   function appendGuess(event) {
-    // getStatus must accept the guess as a parameter
     const guess = event.detail;
     const status = getStatus(guess);
     guesses.push({
@@ -173,7 +171,7 @@
 
 <main class="content">
   {#if !showFinalPage}
-    <h1 class="title">LoFi-dle</h1>
+    <h1 class="title">Lofi-dle</h1>
     <Guesses {guesses} {increments} />
     <Timeline {increments} {guesses} {nowPlaying} />
     <Search on:guess={appendGuess} />

@@ -9,8 +9,12 @@
   {#each increments as _, i}
     <div class="guess">
       {#if i < guesses.length}
-        <X correctArtist={guesses[i].status === "correctArtist"}/>
-        {guesses[i].guess}
+        <!-- <div> -->
+          <X correctArtist={guesses[i].status === "correctArtist"} />
+        <!-- </div> -->
+        <div class="song">
+          {guesses[i].guess}
+        </div>
       {/if}
     </div>
   {/each}
@@ -30,19 +34,27 @@
   }
 
   .guess {
-    min-height: 3em;
+    min-height: 2.7em;
     width: 90%;
     background-color: rgba(0, 0, 0, 0.35);
     background-color: rgba(255, 255, 255, 0.305);
     border-radius: 0.6em;
-    flex-shrink: 0;
-    text-align: center;
+    font-size: smaller;
+    text-align: left;
     color: whitesmoke;
     font-family: "nokia";
     display: flex;
     align-items: center;
     justify-content: start;
-    padding: 0.1em;
-    /* border: 1px white solid; */
+    padding: 0.3em;
+    flex-direction: row;
+  }
+
+  .song {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    /* width: 90%; */
+    flex-grow: 1;
   }
 </style>

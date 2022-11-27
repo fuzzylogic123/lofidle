@@ -20,9 +20,14 @@
 <style>
   .icon {
     fill: #b9951fb8;
-    scale: 0.6;
+    scale: 0.8;
     margin-right: 0.5em;
-    min-width: 2em;
-    min-height: 2em;
+    aspect-ratio: 1/1;
+    height: 3em;
+    width: 3em;
+    flex-shrink: 0;
+  }
+  .icon:hover {
+    cursor: auto;
   }
 </style>

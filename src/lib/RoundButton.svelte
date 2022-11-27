@@ -7,6 +7,7 @@
   
   <style>
     .play-button {
+      aspect-ratio: 1/1;
       border-radius: 1000em;
       height: 4em;
       width: 4em;

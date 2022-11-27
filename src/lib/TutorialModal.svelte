@@ -1,7 +1,7 @@
 <script>
-  import MusicNote from "../assets/svg/MusicNote.svelte";
-  import QuestionMark from "../assets/svg/QuestionMark.svelte";
   import Modal from "./Modal.svelte";
+  import PlayButton from "./PlayButton.svelte";
+  import SkipButton from "./SkipButton.svelte";
   import StylisedButton from "./StylisedButton.svelte";
 </script>
 
@@ -10,13 +10,13 @@
 
     <div class="instructions-container">
       <div class="instruction-container">
-        <MusicNote />
-        <p class="body">Listen to a LoFi cover of a popular song</p>
+        <PlayButton nowPlaying={false} />
+        <p class="body">Listen to a Lofi cover of a song and guess the original</p>
       </div>
 
       <div class="instruction-container">
-        <QuestionMark />
-        <p class="body">Try to guess what the original song was</p>
+        <SkipButton />
+        <p class="body">Skip if you don't know and want to hear more</p>
       </div>
     </div>
 
@@ -44,7 +44,7 @@
 
   .body {
     color: #713f8f;
-    font-size: 1.2em;
+    font-size: 1em;
     text-align: left;
     font-family: "tauri";
   }

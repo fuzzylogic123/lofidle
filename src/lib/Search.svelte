@@ -47,14 +47,13 @@
         }
       }
     }
-    autoCompleteOptions.sort((a, b) => a.length - b.length)
+    autoCompleteOptions.sort((a, b) => a.length - b.length);
     showAutoCompleteList = true;
   }
 
   function selectGuess(autoCompleteOption) {
     autoCompleteOptions = [];
     query = autoCompleteOption;
-    inputRef.focus();
     showAutoCompleteList = false;
   }
 
@@ -66,7 +65,8 @@
   function makeGuessWrapper(event) {
     if (
       inputRef.value !== "" &&
-      (event.key === undefined || event.key === "Enter") && songs.includes(inputRef.value)
+      (event.key === undefined || event.key === "Enter") &&
+      songs.includes(inputRef.value)
     ) {
       makeGuess();
     }
@@ -74,9 +74,7 @@
 </script>
 
 <div class="flex-row">
-  <div
-    class="auto-complete-container"
-  >
+  <div class="auto-complete-container">
     {#if autoCompleteOptions.length > 0 && showAutoCompleteList}
       <div class="auto-complete-list">
         {#each autoCompleteOptions as autoCompleteOption}
