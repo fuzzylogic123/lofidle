@@ -19,7 +19,7 @@
     output += `#Lofidle #${getLofidleIndex() + 1}`;
     output += "\n\n";
 
-    for (let i = 0; i < guesses; i++) {
+    for (let i = 0; i < guesses.length; i++) {
       const status = guesses[i].status;
       if (status === "incorrect") {
         output += "🟥";
@@ -28,8 +28,12 @@
       } else if (status === "correctArtist") {
         output += "🟧";
       } else {
-        output += "⬜";
+        output += "⬛"
       }
+    }
+
+    for (let i = 0; i < MAX_GUESSES - guesses.length; i++) {
+      output += "⬜";
     }
 
     output += "\n\n";
