@@ -16,7 +16,7 @@
 
       <div class="instruction-container">
         <SkipButton />
-        <p class="body">Skip if you don't know and want to hear more</p>
+        <p class="body">Skip to skip your guess and hear more</p>
       </div>
     </div>
 
@@ -59,6 +59,11 @@
     padding-top: 0.2em;
     padding-bottom: 0.2em;
     width: 90%;
+  }
+
+  .instructions-container {
+    padding-right: 1em;
+    padding-left: 0.5em;
   }
 
   .button-container {

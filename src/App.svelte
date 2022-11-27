@@ -45,7 +45,10 @@
     );
   }
 
-  $: if (guesses.length >= increments.length || (guesses.length > 0 && guesses.at(-1).status === "correct")) {
+  $: if (
+    guesses.length >= increments.length ||
+    (guesses.length > 0 && guesses.at(-1).status === "correct")
+  ) {
     visitLastPage();
   }
 
@@ -65,7 +68,7 @@
     if (guesses.length < increments.length) {
       guesses.push({
         guess: "SKIPPED",
-        status: "skipped"
+        status: "skipped",
       });
       guesses = guesses;
     }
@@ -92,23 +95,22 @@
     setInterval(setTimeUntilNextLofidle, 1000);
     playAnswer();
     // mute audio if you leave the window
-    document.addEventListener("visibilitychange", ()=> {
-    if (document.hidden) {
-      audio.pause();
-    } else {
-      audio.play();
-    }
-  });
+    document.addEventListener("visibilitychange", () => {
+      if (document.hidden) {
+        audio.pause();
+      } else {
+        audio.play();
+      }
+    });
   }
 
   function getStatus(guess) {
     if (isSuccess(guess)) {
-      return "correct"
+      return "correct";
     } else if (isCorrectArtist(guess)) {
-      return "correctArtist"
-    }
-    else {
-      return "incorrect"
+      return "correctArtist";
+    } else {
+      return "incorrect";
     }
   }
 
@@ -135,7 +137,7 @@
     const status = getStatus(guess);
     guesses.push({
       guess: guess,
-      status: status
+      status: status,
     });
     guesses = guesses;
   }
