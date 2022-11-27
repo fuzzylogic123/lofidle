@@ -16,7 +16,7 @@
 
       <div class="instruction-container">
         <SkipButton />
-        <p class="body">Skip to skip your guess and hear more</p>
+        <p class="body">Press to skip your guess and hear more</p>
       </div>
     </div>
 

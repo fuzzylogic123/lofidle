@@ -239,7 +239,7 @@
   }
 
   .content {
-    margin-top: 1em;
+    /* margin-top: 1em; */
     display: flex;
     flex-direction: column;
     gap: 0.6em;

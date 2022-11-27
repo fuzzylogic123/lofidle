@@ -160,7 +160,8 @@
     right: 0;
     transform-origin: top;
     z-index: 99;
-    max-height: 50vh;
+    /* max-height: 50vh; */
+    max-height: 250px;
 
     overflow-y: scroll;
   }
