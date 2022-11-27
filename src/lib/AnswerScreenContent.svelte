@@ -57,14 +57,14 @@
           </p>
         </div>
       {:else}
-        <div class="title">Better Luck Next Time!</div>
+        <div class="title line-height">Better Luck Next Time!</div>
       {/if}
       <img class="image" src={`${lofidle.images[1].url}`} alt="album cover" />
       <div class="song-info">
-        <div class="song-name">
+        <div class="song-name line-height">
           {lofidle.song_name}
         </div>
-        <h4>
+        <h4 class="line-height">
           {lofidle.original_artist}
         </h4>
         <h4>
@@ -86,6 +86,10 @@
 </div>
 
 <style>
+
+  .line-height {
+    line-height: 1.2em;
+  }
   .timer {
     margin-top: 0.5em;
     margin-bottom: 1em;
@@ -142,6 +146,5 @@
 
   .title {
     font-size: 2em;
-    line-height: 1.2em;
   }
 </style>

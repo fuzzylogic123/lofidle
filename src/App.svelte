@@ -86,6 +86,7 @@
   function playAnswer() {
     audio.currentTime = 0;
     audio.src = lofidle.original_preview_url;
+    audio.volume = 0.2;
     audio.play();
   }
 
@@ -166,7 +167,7 @@
 </script>
 
 {#if showTutorial}
-  <TutorialModal on:click={() => (showTutorial = false)} />
+  <TutorialModal mousedown={() => (showTutorial = false)} />
 {:else if showInfo}
   <InfoModal on:click={() => (showInfo = false)} />
 {/if}
