@@ -1,7 +1,7 @@
 <script>
 </script>
 
-<button class="submit-button" on:click>
+<button class="submit-button" on:mousedown>
   <slot />
 </button>
 

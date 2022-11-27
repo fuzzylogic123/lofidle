@@ -1,4 +1,4 @@
-<div on:click|self on:keypress|self class="modal">
+<div on:mousedown|self on:keypress|self class="modal">
   <div class="content">
     <slot />
   </div>

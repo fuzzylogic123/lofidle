@@ -167,9 +167,9 @@
 </script>
 
 {#if showTutorial}
-  <TutorialModal on:click={() => (showTutorial = false)} />
+  <TutorialModal on:mousedown={() => setTimeout(() => showTutorial = false, 40)} />
 {:else if showInfo}
-  <InfoModal on:click={() => (showInfo = false)} />
+  <InfoModal on:mousedown={() => setTimeout(()=> showInfo = false, 40)} />
 {/if}
 
 <main class="content">

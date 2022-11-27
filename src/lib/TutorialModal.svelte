@@ -5,26 +5,28 @@
   import StylisedButton from "./StylisedButton.svelte";
 </script>
 
-<Modal on:click>
-    <h1 class="title">How to Play</h1>
+<Modal on:mousedown>
+  <h1 class="title">How to Play</h1>
 
-    <div class="instructions-container">
-      <div class="instruction-container">
-        <PlayButton nowPlaying={false} />
-        <p class="body">Listen to a Lofi cover of a song and guess the original</p>
-      </div>
-
-      <div class="instruction-container">
-        <SkipButton />
-        <p class="body">Press to skip your guess and hear more</p>
-      </div>
+  <div class="instructions-container">
+    <div class="instruction-container">
+      <PlayButton nowPlaying={false} />
+      <p class="body">
+        Listen to a Lofi cover of a song and guess the original
+      </p>
     </div>
 
-    <div class="button-container">
-      <StylisedButton on:click>
-        <div class="button-text">Got it</div>
-      </StylisedButton>
+    <div class="instruction-container">
+      <SkipButton />
+      <p class="body">Press to skip your guess and hear more</p>
     </div>
+  </div>
+
+  <div class="button-container">
+    <StylisedButton on:mousedown>
+      <div class="button-text">Got it</div>
+    </StylisedButton>
+  </div>
 </Modal>
 
 <style>

@@ -8,22 +8,20 @@
   export let nowPlaying;
 
   const dispatch = createEventDispatcher();
-
 </script>
 
 <div class="footer">
-  <InfoIcon on:click={() => dispatch("info")} />
+  <InfoIcon on:mousedown={() => dispatch("info")} />
 
   <div class="flex-row">
-    <PlayButton on:click={()=> dispatch("playSong")} {nowPlaying} />
-    <SkipButton on:click={()=> dispatch("skipSegment")} />
+    <PlayButton on:mousedown={() => dispatch("playSong")} {nowPlaying} />
+    <SkipButton on:mousedown={() => dispatch("skipSegment")} />
   </div>
 
-  <TutorialIcon on:click={() => dispatch("tutorial")} />
+  <TutorialIcon on:mousedown={() => dispatch("tutorial")} />
 </div>
 
 <style>
-
   .flex-row {
     display: flex;
     flex-direction: row;

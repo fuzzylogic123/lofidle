@@ -6,11 +6,10 @@
   export let nowPlaying;
 </script>
 
-<RoundButton on:click>
+<RoundButton on:mousedown>
   {#if !nowPlaying}
     <PlayIcon />
   {:else}
     <Waveform />
   {/if}
 </RoundButton>
-
