@@ -167,7 +167,7 @@
 </script>
 
 {#if showTutorial}
-  <TutorialModal mousedown={() => (showTutorial = false)} />
+  <TutorialModal on:click={() => (showTutorial = false)} />
 {:else if showInfo}
   <InfoModal on:click={() => (showInfo = false)} />
 {/if}
