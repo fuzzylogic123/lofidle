@@ -6,13 +6,11 @@
 
 <style>
   .icon-bars {
-    position: relative;
+    position: absolute;
     width: 100px;
-    transform-origin: 28px;
     height: 100px;
     transform: scale(0.2);
     z-index: 100000;
-    box-sizing: border-box;
   }
   .icon-bars .bar {
     position: absolute;
@@ -60,3 +58,5 @@
     }
   }
 </style>
+
+
