@@ -3,6 +3,6 @@
   import RoundButton from "./RoundButton.svelte";
 </script>
 
-<RoundButton on:mousedown>
+<RoundButton on:click>
   <SkipIcon />
 </RoundButton>

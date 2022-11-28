@@ -1,37 +1,39 @@
 <script>
   import Modal from "./Modal.svelte";
   import StylisedButton from "./StylisedButton.svelte";
+
 </script>
 
-<Modal on:mousedown>
+<Modal on:click>
   <div class="content-wrapper">
-    <h1 class="title">info</h1>
+  <h1 class="title">
+    info
+  </h1>
+  
+  <p class="body">
+    See more by me:
+    <br />
+    <a href="https://patrickedwards.dev" target="_blank" rel="noopener noreferrer">
+      patrickedwards.dev
+    </a>
+  </p>
 
-    <p class="body">
-      See more by me:
-      <br />
-      <a
-        href="https://patrickedwards.dev"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        patrickedwards.dev
-      </a>
-    </p>
+  <p class="body">
+    Made by <br />🔥 <b>Patrick Edwards</b> 🔥
+  </p>
 
-    <p class="body">
-      Made by <br />🔥 <b>Patrick Edwards</b> 🔥
-    </p>
+  <div class="button-container">
+  <StylisedButton on:click>
+    <div class="button-text">cool</div>
+  </StylisedButton>
+</div>
 
-    <div class="button-container">
-      <StylisedButton on:mousedown>
-        <div class="button-text">cool</div>
-      </StylisedButton>
-    </div>
-  </div>
+</div>
 </Modal>
 
+
 <style>
+
   .content-wrapper {
     padding: 1em;
     padding-top: 0;
@@ -41,7 +43,7 @@
     gap: 0.5em;
     padding-bottom: 0;
   }
-  .title {
+    .title {
     color: #713f8f;
     font-family: "Vibur";
     font-size: 4em;

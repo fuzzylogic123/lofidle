@@ -80,7 +80,7 @@
         {#each autoCompleteOptions as autoCompleteOption}
           <div
             class="auto-complete-option"
-            on:mousedown={() => selectGuess(autoCompleteOption)}
+            on:click={() => selectGuess(autoCompleteOption)}
             on:keypress={() => selectGuess(autoCompleteOption)}
           >
             {autoCompleteOption}
@@ -101,7 +101,7 @@
       />
     </div>
   </div>
-  <StylisedButton on:mousedown={makeGuessWrapper}>GO</StylisedButton>
+  <StylisedButton on:click={makeGuessWrapper}>GO</StylisedButton>
 </div>
 
 <style>

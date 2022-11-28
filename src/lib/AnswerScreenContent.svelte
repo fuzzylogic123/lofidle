@@ -28,7 +28,7 @@
       } else if (status === "correctArtist") {
         output += "🟧";
       } else {
-        output += "⬛";
+        output += "⬛"
       }
     }
 
@@ -71,7 +71,7 @@
           lofi cover by: <br />{lofidle.lofi_artist}
         </h4>
         <div class="button-wrapper">
-          <StylisedButton on:mousedown={copyResult}>
+          <StylisedButton on:click={copyResult}>
             <div class="button-inner-text">
               {copiedSucessfully ? "Copied!" : "Share"}
             </div>
@@ -86,6 +86,7 @@
 </div>
 
 <style>
+
   .line-height {
     line-height: 1.2em;
   }
