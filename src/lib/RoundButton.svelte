@@ -20,6 +20,7 @@
       margin-bottom: 0.7em;
       outline: none;
       border: none;
+      will-change: opacity;
     }
   
     .play-button:active {
