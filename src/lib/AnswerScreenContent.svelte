@@ -1,6 +1,8 @@
 <script>
   import { getLofidleIndex } from "./functions";
   import StylisedButton from "./StylisedButton.svelte";
+  import { logEvent } from "firebase/analytics";
+  import { analytics } from "../firebaseConfig";
   export let timeUsed;
   export let lofidle;
   export let timeUntilNextLofidle;
@@ -10,6 +12,7 @@
   let copiedSucessfully = false;
 
   async function copyResult() {
+    logEvent(analytics, "share");
     let output = "";
     if (isSuccess) {
       output += "🔊 ";

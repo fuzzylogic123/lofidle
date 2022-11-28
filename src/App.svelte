@@ -8,6 +8,8 @@
   import InfoModal from "./lib/InfoModal.svelte";
   import { getLofidle } from "./assets/answers.js";
   import AnswerScreenContent from "./lib/AnswerScreenContent.svelte";
+  import { analytics } from "./firebaseConfig";
+  import { logEvent } from "firebase/analytics";
 
   let showInfo = false;
 
@@ -49,6 +51,11 @@
     guesses.length >= increments.length ||
     (guesses.length > 0 && guesses.at(-1).status === "correct")
   ) {
+    if (guesses.at(-1).status == "correct") {
+      logEvent(analytics, "success", { value: guesses.length});
+    } else {
+      logEvent(analytics, "fail", { value: guesses.length });
+    }
     visitLastPage();
   }
 
@@ -141,6 +148,7 @@
       status: status,
     });
     guesses = guesses;
+    logEvent(analytics, "guess");
   }
 
   function updateFromLocalStorage() {
@@ -158,6 +166,7 @@
     }
 
     showTutorial = !localStorage.getItem("firstVisit");
+    logEvent(analytics, showTutorial ? "first_visit" : "return_visit");
     localStorage.setItem("firstVisit", JSON.stringify(false));
   }
 
