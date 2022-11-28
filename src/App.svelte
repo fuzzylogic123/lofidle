@@ -93,7 +93,7 @@
   function playAnswer() {
     audio.currentTime = 0;
     audio.src = lofidle.original_preview_url;
-    audio.volume = 0.2;
+    audio.volume = 0.3;
     audio.play();
   }
 
