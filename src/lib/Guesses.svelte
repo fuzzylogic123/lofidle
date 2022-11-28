@@ -34,7 +34,7 @@
   }
 
   .guess {
-    min-height: 2.7em;
+    height: 2.7em;
     width: 90%;
     background-color: rgba(0, 0, 0, 0.35);
     background-color: rgba(255, 255, 255, 0.305);
