@@ -116,7 +116,7 @@
     padding: 0.1em;
   }
   .result {
-    margin-top: 0.5em;
+    margin-top: 1em;
     width: 100%;
   }
   .song-info {
