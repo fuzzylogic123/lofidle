@@ -20,12 +20,7 @@
   let guesses = [];
   let audio = new Audio(lofidle.lofi_preview_url);
 
-  audio.addEventListener("timeupdate", () => {
-    if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
-      audio.pause();
-      nowPlaying = false;
-    }
-  });
+  audio.addEventListener("timeupdate", stopAudioAtTimeLimit);
 
   let currentTimeLimit = 0;
 
@@ -39,6 +34,13 @@
     localStorage.setItem("guesses", JSON.stringify(guesses));
     currentTimeLimit += increments[guesses.length] * 1000;
   }
+
+function stopAudioAtTimeLimit() {
+  if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
+      audio.pause();
+      nowPlaying = false;
+    }
+}
 
   function isSuccess(guess) {
     return (
@@ -91,6 +93,8 @@
   }
 
   function playAnswer() {
+    audio.pause();
+    audio.removeEventListener("timeupdate", stopAudioAtTimeLimit);
     audio.currentTime = 0;
     audio.src = lofidle.original_preview_url;
     audio.volume = 0.3;
