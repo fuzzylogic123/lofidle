@@ -1,5 +1,5 @@
 <script>
-  import { sum, parseMillisecondsIntoReadableTime } from "./lib/functions";
+  import { sum } from "./lib/functions";
   import Footer from "./lib/Footer.svelte";
   import Guesses from "./lib/Guesses.svelte";
   import Search from "./lib/Search.svelte";
@@ -25,7 +25,6 @@
   let currentTimeLimit = 0;
 
   let nowPlaying = false;
-  let timeUntilNextLofidle = "soon";
   let showTutorial;
 
   updateFromLocalStorage();
@@ -83,15 +82,6 @@ function stopAudioAtTimeLimit() {
     }
   }
 
-  function setTimeUntilNextLofidle() {
-    const now = new Date();
-    const nextLofidle = new Date();
-    nextLofidle.setHours(24, 0, 0, 0);
-
-    const timeDiff = Math.max(nextLofidle.getTime() - now.getTime(), 0);
-    timeUntilNextLofidle = parseMillisecondsIntoReadableTime(timeDiff);
-  }
-
   function playAnswer() {
     audio.pause();
     audio.removeEventListener("timeupdate", stopAudioAtTimeLimit);
@@ -103,8 +93,6 @@ function stopAudioAtTimeLimit() {
 
   function visitLastPage() {
     showFinalPage = true;
-    setTimeUntilNextLofidle();
-    setInterval(setTimeUntilNextLofidle, 1000);
     playAnswer();
     // mute audio if you leave the window
     document.addEventListener("visibilitychange", () => {
@@ -202,7 +190,6 @@ function stopAudioAtTimeLimit() {
     <AnswerScreenContent
       timeUsed={getTimeUsed(guesses.length)}
       {lofidle}
-      {timeUntilNextLofidle}
       {guesses}
       MAX_GUESSES={increments.length}
     />

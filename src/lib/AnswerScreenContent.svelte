@@ -1,15 +1,28 @@
 <script>
   import { getLofidleIndex } from "./functions";
+  import { parseMillisecondsIntoReadableTime } from "./functions";
   import StylisedButton from "./StylisedButton.svelte";
   import { logEvent } from "firebase/analytics";
   import { analytics } from "../firebaseConfig";
   export let timeUsed;
   export let lofidle;
-  export let timeUntilNextLofidle;
   export let guesses;
   export let MAX_GUESSES;
   const isSuccess = guesses.at(-1).status == "correct";
   let copiedSucessfully = false;
+  let timeUntilNextLofidle = "soon";
+
+  setTimeUntilNextLofidle();
+  setInterval(setTimeUntilNextLofidle, 1000);
+
+  function setTimeUntilNextLofidle() {
+    const now = new Date();
+    const nextLofidle = new Date();
+    nextLofidle.setHours(24, 0, 0, 0);
+
+    const timeDiff = Math.max(nextLofidle.getTime() - now.getTime(), 0);
+    timeUntilNextLofidle = parseMillisecondsIntoReadableTime(timeDiff);
+  }
 
   async function copyResult() {
     logEvent(analytics, "share");
