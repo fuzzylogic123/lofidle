@@ -10,7 +10,7 @@
   {#each increments as _, i}
     <div class="guess-wrapper">
       {#if i < guesses.length}
-        <div class="guess" transition:fade>
+        <div class="guess" in:fade>
           <X correctArtist={guesses[i].status === "correctArtist"} />
           <div class="song">
             {guesses[i].guess}
