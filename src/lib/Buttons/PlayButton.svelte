@@ -1,5 +1,5 @@
 <script>
-  import PlayIcon from "../assets/svg/PlayIcon.svelte";
+  import PlayIcon from "../../assets/svg/PlayIcon.svelte";
   import RoundButton from "./RoundButton.svelte";
   import Waveform from "./Waveform.svelte";
 

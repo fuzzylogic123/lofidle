@@ -1,8 +1,8 @@
 <script>
   import Modal from "./Modal.svelte";
-  import PlayButton from "./PlayButton.svelte";
-  import SkipButton from "./SkipButton.svelte";
-  import StylisedButton from "./StylisedButton.svelte";
+  import PlayButton from "../Buttons/PlayButton.svelte";
+  import SkipButton from "../Buttons/SkipButton.svelte";
+  import StylisedButton from "../Buttons/StylisedButton.svelte";
 </script>
 
 <Modal on:click>

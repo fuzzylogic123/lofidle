@@ -1,5 +1,5 @@
 <script>
-  import { sum } from "./functions";
+  import { sum } from "../utils";
   export let increments;
   export let guesses;
   export let nowPlaying;

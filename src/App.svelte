@@ -1,13 +1,13 @@
 <script>
-  import { sum } from "./lib/functions";
-  import Footer from "./lib/Footer.svelte";
+  import { sum } from "./lib/utils";
+  import Footer from "./lib/Footer/Footer.svelte";
   import Guesses from "./lib/Guesses.svelte";
-  import Search from "./lib/Search.svelte";
-  import Timeline from "./lib/Timeline.svelte";
-  import TutorialModal from "./lib/TutorialModal.svelte";
-  import InfoModal from "./lib/InfoModal.svelte";
-  import { getLofidle } from "./assets/answers.js";
-  import AnswerScreenContent from "./lib/AnswerScreenContent.svelte";
+  import Search from "./lib/Footer/Search.svelte";
+  import Timeline from "./lib/Footer/Timeline.svelte";
+  import TutorialModal from "./lib/Modals/TutorialModal.svelte";
+  import InfoModal from "./lib/Modals/InfoModal.svelte";
+  import { getLofidle } from "./lib/utils";
+  import AnswerScreenContent from "./lib/AnswerScreen.svelte";
   import { analytics } from "./firebaseConfig";
   import { logEvent } from "firebase/analytics";
 

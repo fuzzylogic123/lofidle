@@ -1,6 +1,4 @@
-import { getLofidleIndex } from "../lib/functions.js";
-
-let answers = [
+export let answers = [
    {
       "song_name": "Numb",
       "lofi_artist": "Mount Eminest, holydope, Gletscher",
@@ -386,14 +384,3 @@ let answers = [
       ],
    }
 ]
-
-
-function getLofidle() {
-   const index = getLofidleIndex();
-   return answers[index]
-}
-
-
-export {
-   getLofidle
-}

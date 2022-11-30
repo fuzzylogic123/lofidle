@@ -1,5 +1,5 @@
 <script>
-  import SkipIcon from "../assets/svg/SkipIcon.svelte";
+  import SkipIcon from "../../assets/svg/SkipIcon.svelte";
   import RoundButton from "./RoundButton.svelte";
 </script>
 

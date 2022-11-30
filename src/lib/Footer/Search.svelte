@@ -1,8 +1,8 @@
 <script>
-  import { songs } from "../assets/songs";
-  import SearchIcon from "../assets/svg/SearchIcon.svelte";
+  import { songs } from "../../assets/music/songs";
+  import SearchIcon from "../../assets/svg/SearchIcon.svelte";
   import { createEventDispatcher } from "svelte";
-  import StylisedButton from "./StylisedButton.svelte";
+  import StylisedButton from "../Buttons/StylisedButton.svelte";
 
   let inputRef;
   let query = "";

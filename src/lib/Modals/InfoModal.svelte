@@ -1,6 +1,6 @@
 <script>
   import Modal from "./Modal.svelte";
-  import StylisedButton from "./StylisedButton.svelte";
+  import StylisedButton from "../Buttons/StylisedButton.svelte";
 
 </script>
 

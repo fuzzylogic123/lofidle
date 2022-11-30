@@ -1,9 +1,9 @@
 <script>
   import { createEventDispatcher } from "svelte";
-  import TutorialIcon from "../assets/svg/Tutorial.svelte";
-  import InfoIcon from "../assets/svg/InfoIcon.svelte";
-  import PlayButton from "./PlayButton.svelte";
-  import SkipButton from "./SkipButton.svelte";
+  import TutorialIcon from "../../assets/svg/Tutorial.svelte";
+  import InfoIcon from "../../assets/svg/InfoIcon.svelte";
+  import PlayButton from "../Buttons/PlayButton.svelte";
+  import SkipButton from "../Buttons/SkipButton.svelte";
 
   export let nowPlaying;
 

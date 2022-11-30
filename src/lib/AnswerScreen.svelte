@@ -1,7 +1,7 @@
 <script>
-  import { getLofidleIndex } from "./functions";
-  import { parseMillisecondsIntoReadableTime } from "./functions";
-  import StylisedButton from "./StylisedButton.svelte";
+  import { getLofidleIndex } from "./utils";
+  import { parseMillisecondsIntoReadableTime } from "./utils";
+  import StylisedButton from "./Buttons/StylisedButton.svelte";
   import { logEvent } from "firebase/analytics";
   import { analytics } from "../firebaseConfig";
   export let timeUsed;
