@@ -53,9 +53,9 @@ function stopAudioAtTimeLimit() {
     (guesses.length > 0 && guesses.at(-1).status === "correct")
   ) {
     if (guesses.at(-1).status == "correct") {
-      logEvent(analytics, "success", { value: guesses.length});
+      logEvent(analytics, `${guesses.length}`);
     } else {
-      logEvent(analytics, "fail", { value: guesses.length });
+      logEvent(analytics, "fail");
     }
     visitLastPage();
   }
