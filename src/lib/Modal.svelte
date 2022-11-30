@@ -1,4 +1,8 @@
-<div on:click|self on:keypress|self class="modal">
+<script>
+  import { fade } from "svelte/transition"
+</script>
+
+<div on:click|self on:keypress|self class="modal" transition:fade={{ duration: 100 }}>
   <div class="content">
     <slot />
   </div>

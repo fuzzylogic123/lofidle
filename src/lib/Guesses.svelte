@@ -1,5 +1,6 @@
 <script>
   import X from "../assets/svg/X.svelte";
+  import { fade } from "svelte/transition";
 
   export let guesses;
   export let increments;
@@ -7,13 +8,13 @@
 
 <div class="guesses">
   {#each increments as _, i}
-    <div class="guess">
+    <div class="guess-wrapper">
       {#if i < guesses.length}
-        <!-- <div> -->
+        <div class="guess" transition:fade>
           <X correctArtist={guesses[i].status === "correctArtist"} />
-        <!-- </div> -->
-        <div class="song">
-          {guesses[i].guess}
+          <div class="song">
+            {guesses[i].guess}
+          </div>
         </div>
       {/if}
     </div>
@@ -33,12 +34,16 @@
     margin-right: auto;
   }
 
-  .guess {
+  .guess-wrapper {
     height: 2.7em;
     width: 90%;
     background-color: rgba(0, 0, 0, 0.35);
     background-color: rgba(255, 255, 255, 0.305);
     border-radius: 0.6em;
+  }
+
+  .guess {
+    height: 100%;
     font-size: smaller;
     text-align: left;
     color: whitesmoke;
@@ -46,7 +51,6 @@
     display: flex;
     align-items: center;
     justify-content: start;
-    padding: 0.3em;
     flex-direction: row;
   }
 
@@ -54,7 +58,6 @@
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
-    /* width: 90%; */
     flex-grow: 1;
   }
 </style>
