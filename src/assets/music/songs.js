@@ -4139,6 +4139,7 @@ export let songs = [
     "stand by me - otis redding",
     "quiet storm - mobb deep",
     "7 days - craig david",
+    "everytime we touch - cascada",
     "heart for brains - roar",
     "black barbies - nicki minaj, mike will made-it",
     "turn on the lights again.. (feat. future) - fred again.., swedish house mafia, future",
