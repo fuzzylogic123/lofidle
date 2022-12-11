@@ -1,13 +1,13 @@
 <script>
-  import { sum, parseMillisecondsIntoReadableTime } from "./lib/functions";
-  import Footer from "./lib/Footer.svelte";
+  import { sum } from "./lib/utils";
+  import Footer from "./lib/Footer/Footer.svelte";
   import Guesses from "./lib/Guesses.svelte";
-  import Search from "./lib/Search.svelte";
-  import Timeline from "./lib/Timeline.svelte";
-  import TutorialModal from "./lib/TutorialModal.svelte";
-  import InfoModal from "./lib/InfoModal.svelte";
-  import { getLofidle } from "./assets/answers.js";
-  import AnswerScreenContent from "./lib/AnswerScreenContent.svelte";
+  import Search from "./lib/Footer/Search.svelte";
+  import Timeline from "./lib/Footer/Timeline.svelte";
+  import TutorialModal from "./lib/Modals/TutorialModal.svelte";
+  import InfoModal from "./lib/Modals/InfoModal.svelte";
+  import { getLofidle } from "./lib/utils";
+  import AnswerScreenContent from "./lib/AnswerScreen.svelte";
   import { analytics } from "./firebaseConfig";
   import { logEvent } from "firebase/analytics";
 
@@ -20,17 +20,11 @@
   let guesses = [];
   let audio = new Audio(lofidle.lofi_preview_url);
 
-  audio.addEventListener("timeupdate", () => {
-    if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
-      audio.pause();
-      nowPlaying = false;
-    }
-  });
+  audio.addEventListener("timeupdate", stopAudioAtTimeLimit);
 
   let currentTimeLimit = 0;
 
   let nowPlaying = false;
-  let timeUntilNextLofidle = "soon";
   let showTutorial;
 
   updateFromLocalStorage();
@@ -39,6 +33,13 @@
     localStorage.setItem("guesses", JSON.stringify(guesses));
     currentTimeLimit += increments[guesses.length] * 1000;
   }
+
+function stopAudioAtTimeLimit() {
+  if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
+      audio.pause();
+      nowPlaying = false;
+    }
+}
 
   function isSuccess(guess) {
     return (
@@ -52,9 +53,9 @@
     (guesses.length > 0 && guesses.at(-1).status === "correct")
   ) {
     if (guesses.at(-1).status == "correct") {
-      logEvent(analytics, "success", { value: guesses.length});
+      logEvent(analytics, `${guesses.length}`);
     } else {
-      logEvent(analytics, "fail", { value: guesses.length });
+      logEvent(analytics, "fail");
     }
     visitLastPage();
   }
@@ -81,16 +82,9 @@
     }
   }
 
-  function setTimeUntilNextLofidle() {
-    const now = new Date();
-    const nextLofidle = new Date();
-    nextLofidle.setHours(24, 0, 0, 0);
-
-    const timeDiff = Math.max(nextLofidle.getTime() - now.getTime(), 0);
-    timeUntilNextLofidle = parseMillisecondsIntoReadableTime(timeDiff);
-  }
-
   function playAnswer() {
+    audio.pause();
+    audio.removeEventListener("timeupdate", stopAudioAtTimeLimit);
     audio.currentTime = 0;
     audio.src = lofidle.original_preview_url;
     audio.volume = 0.3;
@@ -99,8 +93,6 @@
 
   function visitLastPage() {
     showFinalPage = true;
-    setTimeUntilNextLofidle();
-    setInterval(setTimeUntilNextLofidle, 1000);
     playAnswer();
     // mute audio if you leave the window
     document.addEventListener("visibilitychange", () => {
@@ -198,7 +190,6 @@
     <AnswerScreenContent
       timeUsed={getTimeUsed(guesses.length)}
       {lofidle}
-      {timeUntilNextLofidle}
       {guesses}
       MAX_GUESSES={increments.length}
     />
