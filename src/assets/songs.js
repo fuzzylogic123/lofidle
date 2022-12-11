@@ -3787,7 +3787,7 @@ export let songs = [
     "kream (feat. tyga) - iggy azalea, tyga",
     "y, \u00bfsi fuera ella? - + es + - pablo albor\u00e1n, david bisbal, antonio carmona, jesse & joy, juanes, mal\u00fa, vanesa mart\u00edn, india martinez, antonio orozco, ni\u00f1a pastori, laura pausini, abel pintos, rozal\u00e9n, shakira, tommy torres, manuel carrasco, pablo l\u00f3pez",
     "we can't stop - miley cyrus",
-    "save your tears (remix) (with ariana grande) - bonus track - the weeknd, ariana grande",
+    "save your tears - the weeknd",
     "fool for you - zayn",
     "babylon - haus labs version - lady gaga, tchami, bloodpop\u00ae",
     "man$ion - lit killah",
