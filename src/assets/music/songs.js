@@ -2434,6 +2434,7 @@ export let songs = [
     "loyalty. feat. rihanna. - kendrick lamar, rihanna",
     "my tunnels are long and dark these days - asaf avidan",
     "roxanne - the police",
+    "roxanne - arizona zervas",
     "higher love - kygo, whitney houston",
     "perplexing pegasus - from sr3mm - rae sremmurd, swae lee, slim jxmmi",
     "mr. rager - kid cudi",
