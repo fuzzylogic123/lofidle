@@ -2819,7 +2819,7 @@ export let songs = [
     "never forget you - zara larsson, mnek",
     "loading - central cee",
     "big dipper - the cataracs, luciana",
-    "hotel california - 2013 remaster - eagles",
+    "hotel california - eagles",
     "tom sawyer - rush",
     "up against the wall - peter bjorn and john",
     "we built this city - starship",
