@@ -735,4 +735,28 @@ export let answers = [
    },
    //14 songs
    //Start Pat's Songs
+   {
+      "song_name": "positions",
+      "lofi_artist": "Tetouan",
+      "lofi_preview_url": "/audio/lofi/positions.mp3",
+      "original_preview_url": "/audio/original/positions.mp3",
+      "original_artist": "Ariana Grande",
+      "images": [
+         {
+           "height": 640,
+           "url": "https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605",
+           "width": 640
+         },
+         {
+           "height": 300,
+           "url": "https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605",
+           "width": 300
+         },
+         {
+           "height": 64,
+           "url": "https://i.scdn.co/image/ab67616d000048515ef878a782c987d38d82b605",
+           "width": 64
+         }
+       ],
+   },
 ] 
