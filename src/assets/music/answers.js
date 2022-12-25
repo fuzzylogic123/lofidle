@@ -392,21 +392,21 @@ export let answers = [
       "original_artist": "Elton John",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e02eb11e2abccdca41f39ad3b89",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb11e2abccdca41f39ad3b89",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d00004851eb11e2abccdca41f39ad3b89",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851eb11e2abccdca41f39ad3b89",
+            "width": 64
          }
-       ],
+      ],
    },
    //1 song
    {
@@ -417,21 +417,21 @@ export let answers = [
       "original_artist": "Arizona Zervas",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e02069a93617a916760ab88ffea",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02069a93617a916760ab88ffea",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d00004851069a93617a916760ab88ffea",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851069a93617a916760ab88ffea",
+            "width": 64
          }
-       ],
+      ],
    },
    //2 songs
    {
@@ -442,21 +442,21 @@ export let answers = [
       "original_artist": "Dua Lipa",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bd26ede1ae69327010d49946",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e02bd26ede1ae69327010d49946",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bd26ede1ae69327010d49946",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d00004851bd26ede1ae69327010d49946",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bd26ede1ae69327010d49946",
+            "width": 64
          }
-       ],
+      ],
    },
    //3 songs
    {
@@ -467,21 +467,21 @@ export let answers = [
       "original_artist": "Billie Eilish",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e022a038d3bf875d23e4aeaa84e",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022a038d3bf875d23e4aeaa84e",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d000048512a038d3bf875d23e4aeaa84e",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512a038d3bf875d23e4aeaa84e",
+            "width": 64
          }
-       ],
+      ],
    },
    //4 songs
    {
@@ -492,21 +492,21 @@ export let answers = [
       "original_artist": "Kate Bush",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b27396ab64f52273635308b6bf27",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27396ab64f52273635308b6bf27",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e0296ab64f52273635308b6bf27",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0296ab64f52273635308b6bf27",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d0000485196ab64f52273635308b6bf27",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485196ab64f52273635308b6bf27",
+            "width": 64
          }
-       ],
+      ],
    },
    //5 songs
    {
@@ -517,21 +517,21 @@ export let answers = [
       "original_artist": "The Kid LAROI",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27341e31d6ea1d493dd77933ee5",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e0241e31d6ea1d493dd77933ee5",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0241e31d6ea1d493dd77933ee5",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d0000485141e31d6ea1d493dd77933ee5",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485141e31d6ea1d493dd77933ee5",
+            "width": 64
          }
-       ],
+      ],
    },
    //6 songs
    {
@@ -542,21 +542,21 @@ export let answers = [
       "original_artist": "XXXTENTACION",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e02203c89bd4391468eea4cc3f5",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02203c89bd4391468eea4cc3f5",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d00004851203c89bd4391468eea4cc3f5",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851203c89bd4391468eea4cc3f5",
+            "width": 64
          }
-       ],
+      ],
    },
    //7 songs
    {
@@ -567,21 +567,21 @@ export let answers = [
       "original_artist": "Coolio, L.V.",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b273c31d3c870a3dbaf7b53186cc",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c31d3c870a3dbaf7b53186cc",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e02c31d3c870a3dbaf7b53186cc",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c31d3c870a3dbaf7b53186cc",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d00004851c31d3c870a3dbaf7b53186cc",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c31d3c870a3dbaf7b53186cc",
+            "width": 64
          }
-       ],
+      ],
    },
    //8 songs
    {
@@ -592,21 +592,21 @@ export let answers = [
       "original_artist": "Alan Walker",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b273c4d00cac55ae1b4598c9bc90",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c4d00cac55ae1b4598c9bc90",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e02c4d00cac55ae1b4598c9bc90",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c4d00cac55ae1b4598c9bc90",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d00004851c4d00cac55ae1b4598c9bc90",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c4d00cac55ae1b4598c9bc90",
+            "width": 64
          }
-       ],
+      ],
    },
    //9 songs
    {
@@ -617,21 +617,21 @@ export let answers = [
       "original_artist": "Oasis",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e022f2eeee9b405f4d00428d84c",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022f2eeee9b405f4d00428d84c",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d000048512f2eeee9b405f4d00428d84c",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512f2eeee9b405f4d00428d84c",
+            "width": 64
          }
-       ],
+      ],
    },
    //10 songs
    {
@@ -642,21 +642,21 @@ export let answers = [
       "original_artist": "24kGoldn, iann dior",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b273efaa566ca883ed59a503333c",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273efaa566ca883ed59a503333c",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e02efaa566ca883ed59a503333c",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02efaa566ca883ed59a503333c",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d00004851efaa566ca883ed59a503333c",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851efaa566ca883ed59a503333c",
+            "width": 64
          }
-       ],
+      ],
    },
    //11 songs
    {
@@ -667,21 +667,21 @@ export let answers = [
       "original_artist": "Lewis Capaldi",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fc2101e6889d6ce9025f85f2",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e02fc2101e6889d6ce9025f85f2",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fc2101e6889d6ce9025f85f2",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d00004851fc2101e6889d6ce9025f85f2",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fc2101e6889d6ce9025f85f2",
+            "width": 64
          }
-       ],
+      ],
    },
    //12 songs
    {
@@ -692,21 +692,21 @@ export let answers = [
       "original_artist": "Gotye, Kimbra",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b2731ba0ff466c68a0977a0039bc",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731ba0ff466c68a0977a0039bc",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e021ba0ff466c68a0977a0039bc",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021ba0ff466c68a0977a0039bc",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d000048511ba0ff466c68a0977a0039bc",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511ba0ff466c68a0977a0039bc",
+            "width": 64
          }
-       ],
+      ],
    },
    //13 songs
    {
@@ -717,21 +717,21 @@ export let answers = [
       "original_artist": "Eagles",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b273c1414f99a20730077f7c6355",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c1414f99a20730077f7c6355",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e02c1414f99a20730077f7c6355",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c1414f99a20730077f7c6355",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d00004851c1414f99a20730077f7c6355",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c1414f99a20730077f7c6355",
+            "width": 64
          }
-       ],
+      ],
    },
    //14 songs
    //Start Pat's Songs
@@ -743,20 +743,264 @@ export let answers = [
       "original_artist": "Ariana Grande",
       "images": [
          {
-           "height": 640,
-           "url": "https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605",
-           "width": 640
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605",
+            "width": 640
          },
          {
-           "height": 300,
-           "url": "https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605",
-           "width": 300
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605",
+            "width": 300
          },
          {
-           "height": 64,
-           "url": "https://i.scdn.co/image/ab67616d000048515ef878a782c987d38d82b605",
-           "width": 64
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515ef878a782c987d38d82b605",
+            "width": 64
          }
-       ],
+      ],
    },
+   {
+      "lofi_preview_url": "/audio/lofi/Californication.mp3",
+      "original_preview_url": "/audio/original/Californication.mp3",
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595',
+         'width': 64
+      }],
+      'lofi_artist': 'LAV8',
+      'original_artist': 'Red Hot Chili Peppers',
+      'song_name': 'Californication'
+   },
+   {
+      "lofi_preview_url": "/audio/lofi/Africa.mp3",
+      "original_preview_url": "/audio/original/Africa.mp3",
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e024a052b99c042dc15f933145b',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b',
+         'width': 64
+      }],
+      'lofi_artist': 'Fletcher Reed',
+      'original_artist': 'TOTO',
+      'song_name': 'Africa'
+   },
+   {
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d00004851bb54dde68cd23e2a268ae0f5',
+         'width': 64
+      }],
+      'lofi_artist': 'intime',
+      'lofi_preview_url': '/audio/lofi/Anti-Hero.mp3',
+      'original_artist': 'Taylor Swift',
+      'original_preview_url': '/audio/original/Anti-Hero.mp3',
+      'song_name': 'Anti-Hero'
+   },
+   {
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b273024ea7e883a713a3ad552a71',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e02024ea7e883a713a3ad552a71',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d00004851024ea7e883a713a3ad552a71',
+         'width': 64
+      }],
+      'lofi_artist': 'Dab Rosser',
+      'lofi_preview_url': '/audio/lofi/Meet Me At Our Spot.mp3',
+      'original_artist': 'THE ANXIETY, WILLOW, Tyler Cole',
+      'original_preview_url': '/audio/original/Meet Me At Our Spot.mp3',
+      'song_name': 'Meet Me At Our Spot'
+   },
+   {
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b2739cfe80c0c05ce104f7bab18e',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e029cfe80c0c05ce104f7bab18e',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d000048519cfe80c0c05ce104f7bab18e',
+         'width': 64
+      }],
+      'lofi_artist': 'LisaMadeIt',
+      'lofi_preview_url': "/audio/lofi/Don't You Worry Child - Radio Edit.mp3",
+      'original_artist': 'Swedish House Mafia, John Martin',
+      'original_preview_url': "/audio/original/Don't You Worry Child - Radio Edit.mp3",
+      'song_name': "Don't You Worry Child"
+   },
+   {
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b27301841d493ec3808242042c0f',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e0201841d493ec3808242042c0f',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d0000485101841d493ec3808242042c0f',
+         'width': 64
+      }],
+      'lofi_artist': 'FG yang',
+      'lofi_preview_url': '/audio/lofi/Return of the Mack.mp3',
+      'original_artist': 'Mark Morrison',
+      'original_preview_url': '/audio/original/Return of the Mack.mp3',
+      'song_name': 'Return of the Mack'
+   },
+   {
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b2732d94d0f04e9a58d1654b760b',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e022d94d0f04e9a58d1654b760b',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d000048512d94d0f04e9a58d1654b760b',
+         'width': 64
+      }],
+      'lofi_artist': 'Chill With Lofi',
+      'lofi_preview_url': '/audio/lofi/7 Years.mp3',
+      'original_artist': 'Lukas Graham',
+      'original_preview_url': '/audio/original/7 Years.mp3',
+      'song_name': '7 Years'
+   },
+   {
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e025da2756220da9b6f17924f8f',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d000048515da2756220da9b6f17924f8f',
+         'width': 64
+      }],
+      'lofi_artist': 'HariboY',
+      'lofi_preview_url': '/audio/lofi/Chasing Cars.mp3',
+      'original_artist': 'Snow Patrol',
+      'original_preview_url': '/audio/original/Chasing Cars.mp3',
+      'song_name': 'Chasing Cars'
+   },
+   {
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e024e0362c225863f6ae2432651',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d000048514e0362c225863f6ae2432651',
+         'width': 64
+      }],
+      'lofi_artist': 'owlh',
+      'lofi_preview_url': '/audio/lofi/Fix You.mp3',
+      'original_artist': 'Coldplay',
+      'original_preview_url': '/audio/original/Fix You.mp3',
+      'song_name': 'Fix You'
+   },
+   {
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268',
+         'width': 64
+      }],
+      'lofi_artist': 'Granlund',
+      'lofi_preview_url': '/audio/lofi/Better Now.mp3',
+      'original_artist': 'Post Malone',
+      'original_preview_url': '/audio/original/Better Now.mp3',
+      'song_name': 'Better Now'
+   },
+   {
+      'images': [{
+         'height': 640,
+         'url': 'https://i.scdn.co/image/ab67616d0000b273495ce6da9aeb159e94eaa453',
+         'width': 640
+      },
+      {
+         'height': 300,
+         'url': 'https://i.scdn.co/image/ab67616d00001e02495ce6da9aeb159e94eaa453',
+         'width': 300
+      },
+      {
+         'height': 64,
+         'url': 'https://i.scdn.co/image/ab67616d00004851495ce6da9aeb159e94eaa453',
+         'width': 64
+      }],
+      'lofi_artist': 'Lofi Fruits Music, Avocuddle',
+      'lofi_preview_url': '/audio/lofi/Closer.mp3',
+      'original_artist': 'The Chainsmokers, Halsey',
+      'original_preview_url': '/audio/original/Closer.mp3',
+      'song_name': 'Closer'
+   },
+   { 'song_name': "Beggin'", 'lofi_artist': 'Slowzy', 'original_artist': 'Måneskin', 'images': [{ 'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045', 'width': 640 }, { 'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e02fa0ab3a28b5c52d8a5f97045', 'width': 300 }, { 'height': 64, 'url': 'https://i.scdn.co/image/ab67616d00004851fa0ab3a28b5c52d8a5f97045', 'width': 64 }], 'original_preview_url': "/audio/original/Beggin'.mp3", 'lofi_preview_url': "/audio/lofi/Beggin'.mp3" },
+   {'song_name': 'The Less I Know The Better', 'lofi_artist': 'lokash', 'original_artist': 'Tame Impala', 'images': [{'height': 640, 'url': 'https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79', 'width': 640}, {'height': 300, 'url': 'https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79', 'width': 300}, {'height': 64, 'url': 'https://i.scdn.co/image/ab67616d000048519e1cfc756886ac782e363d79', 'width': 64}], 'original_preview_url': '/audio/original/The Less I Know The Better.mp3', 'lofi_preview_url': '/audio/lofi/The Less I Know The Better.mp3'}
 ] 

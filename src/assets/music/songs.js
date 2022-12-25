@@ -1064,7 +1064,7 @@ export let songs = [
     "mama cry - ynw melly",
     "strange brew - cream",
     "la triple t - tini",
-    "don't you worry child - radio edit - swedish house mafia, john martin",
+    "don't you worry child - swedish house mafia, john martin",
     "warriors - imagine dragons",
     "smoke on the water - remastered 2012 - deep purple",
     "the bones - maren morris",
