@@ -54,6 +54,7 @@ function stopAudioAtTimeLimit() {
   ) {
     if (guesses.at(-1).status == "correct") {
       logEvent(analytics, `${guesses.length}`);
+      logEvent(analytics, "success");
     } else {
       logEvent(analytics, "fail");
     }
