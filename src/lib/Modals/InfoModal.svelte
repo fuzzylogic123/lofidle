@@ -1,36 +1,41 @@
 <script>
   import Modal from "./Modal.svelte";
   import StylisedButton from "../Buttons/StylisedButton.svelte";
-
 </script>
 
 <Modal on:click>
   <div class="content-wrapper">
-  <h1 class="title">
-    info
-  </h1>
-  
-  <p class="body">
-    See more by me:
-    <br />
-    <a href="https://patrickedwards.dev" target="_blank" rel="noopener noreferrer">
-      patrickedwards.dev
-    </a>
-  </p>
+    <h1 class="title">info</h1>
 
-  <p class="body">
-    Made by <br />🔥 <b>Patrick Edwards</b> 🔥
-  </p>
+    <p class="body">
+      See more by me:
+      <br />
+      <a
+        href="https://patrickedwards.dev"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        patrickedwards.dev
+      </a>
+      <br />
+    </p>
+    <p class="body small">
+      For bugs or song suggestions, contact me!
+      <br />
+      edwards.patrick247@gmail.com
+    </p>
 
-  <div class="button-container">
-  <StylisedButton on:click>
-    <div class="button-text">cool</div>
-  </StylisedButton>
-</div>
+    <p class="body">
+      Made by <br />🔥 <b>Patrick Edwards</b> 🔥
+    </p>
 
-</div>
+    <div class="button-container">
+      <StylisedButton on:click>
+        <div class="button-text">cool</div>
+      </StylisedButton>
+    </div>
+  </div>
 </Modal>
-
 
 <style>
 
@@ -39,11 +44,12 @@
     padding-top: 0;
     min-width: 375px;
     display: flex;
+    align-items: center;
     flex-direction: column;
     gap: 0.5em;
     padding-bottom: 0;
   }
-    .title {
+  .title {
     color: #713f8f;
     font-family: "Vibur";
     font-size: 4em;
@@ -63,7 +69,13 @@
 
   .body {
     color: #713f8f;
-    font-size: 1.2em;
+    font-size: 1em;
     font-family: "tauri";
+    margin: 0.5em;
+  }
+
+  .small {
+    font-size: 1em;
+    width: 70%;
   }
 </style>
