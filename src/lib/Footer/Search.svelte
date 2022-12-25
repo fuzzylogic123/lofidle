@@ -39,7 +39,7 @@
     if (query === "") return;
     for (let i = 0; i < songs.length; i++) {
       const song = songs[i];
-      if (song.includes(query.toLowerCase())) {
+      if (song.replace(/'/g, '').includes(query.toLowerCase().replace(/'/g, ''))) {
         autoCompleteOptions.push(song);
         result_counter += 1;
         if (result_counter > RESULT_LIMIT) {

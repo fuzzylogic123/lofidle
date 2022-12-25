@@ -510,11 +510,11 @@ export let answers = [
    },
    //5 songs
    {
-      "song_name": "STAY (with Justin Bieber)",
+      "song_name": "STAY",
       "lofi_artist": "Lofi Fruits Music",
       "lofi_preview_url": "/audio/lofi/STAY.mp3",
       "original_preview_url": "/audio/original/STAY.mp3",
-      "original_artist": "The Kid LAROI, Justin Bieber",
+      "original_artist": "The Kid LAROI",
       "images": [
          {
            "height": 640,
@@ -538,7 +538,7 @@ export let answers = [
       "song_name": "Jocelyn Flores",
       "lofi_artist": "Lofi Fruits Music",
       "lofi_preview_url": "/audio/lofi/Jocelyn_Flores.mp3",
-      "original_preview_url": "/audio/original/Jocelyn Flores.mp3",
+      "original_preview_url": "/audio/original/Jocelyn_Flores.mp3",
       "original_artist": "XXXTENTACION",
       "images": [
          {
@@ -562,8 +562,8 @@ export let answers = [
    {
       "song_name": "Gangsta's Paradise",
       "lofi_artist": "Lofi Fruits Music",
-      "lofi_preview_url": "/audio/lofi/Gangsta's_Paradise.mp3",
-      "original_preview_url": "/audio/original/Gangsta's_Paradise.mp3",
+      "lofi_preview_url": "/audio/lofi/Gangstas_Paradise.mp3",
+      "original_preview_url": "/audio/original/Gangstas_Paradise.mp3",
       "original_artist": "Coolio, L.V.",
       "images": [
          {
