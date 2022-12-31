@@ -47,15 +47,15 @@
 
   function getAccuracy() {
     if (getTotalGamesPlayed() === 0) {
-      return 0
+      return 0;
     }
-    return Math.floor((getGamesWon() / getTotalGamesPlayed()) * 100)
+    return Math.floor((getGamesWon() / getTotalGamesPlayed()) * 100);
   }
 </script>
 
 <Modal on:click>
   <div class="content-wrapper">
-    <h1 class="title">Chart</h1>
+    <h1 class="title">Stats</h1>
     <Graph {maxIncrement} {previousScores} />
     <div class="stats-wrapper">
       <div class="stat-item">
@@ -63,7 +63,9 @@
         <h4 class="x-axis-label">correct</h4>
       </div>
       <div class="stat-item">
-        <h4 class="x-axis-label figure">{getCurrentStreak()} : {getMaxStreak()}</h4>
+        <h4 class="x-axis-label figure">
+          {getCurrentStreak()} : {getMaxStreak()}
+        </h4>
         <h4 class="x-axis-label">current : max <br /> streak</h4>
       </div>
       <div class="stat-item">
