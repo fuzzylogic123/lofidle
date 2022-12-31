@@ -62,7 +62,7 @@
 
 <div class="answer-screen-content">
   <div class="end-screen-content">
-    <div>
+    <div class="negative-margin">
       {#if isSuccess}
         <div class="result">
           <div class="title">Congratulations!</div>
@@ -103,12 +103,18 @@
 
 <style>
 
+  .negative-margin {
+    margin-bottom: -3em;
+  }
+
   .line-height {
     line-height: 1.2em;
   }
   .timer {
     margin-top: 0.5em;
     margin-bottom: 1em;
+    position: absolute;
+    bottom: 1.5em;
   }
   .end-screen-content {
     flex-grow: 1;
@@ -141,7 +147,7 @@
   .image {
     height: 9em;
     width: 9em;
-    margin: 0.5em;
+    margin: 1em;
   }
   .song-name {
     margin-bottom: 0;
