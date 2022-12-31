@@ -11,7 +11,9 @@
       style="height: {(graphableValues[increment] / maxGraphableValue) * 100}%;"
     >
       <div class="counter">
-        {graphableValues[increment]}
+        {#if graphableValues[increment] > 0}
+          {graphableValues[increment]}
+        {/if}
       </div>
     </div>
   </div>
@@ -27,7 +29,7 @@
     bottom: 0em;
     left: 0;
     right: 0;
-    height: 1.2em;
+    height: 1.3em;
     margin-left: auto;
     margin-right: auto;
     font-size: 0.6em;
@@ -49,7 +51,7 @@
     position: absolute;
     bottom: 0;
     text-align: center;
-    min-height: 0.8em;
+    min-height: 0.3em;
   }
 
   .x-label {
