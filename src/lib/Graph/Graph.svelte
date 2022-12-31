@@ -24,13 +24,13 @@
 
 <div class="graph">
   <div class="x-axis">
-    <Bar increment={maxIncrement} {maxGraphableValue} {graphableValues}>X</Bar>
     <!-- <div class="graph-spacing" /> -->
     {#each increments as increment}
-      <Bar {increment} {maxGraphableValue} {graphableValues}>
-        {increment + 1}
-      </Bar>
+    <Bar {increment} {maxGraphableValue} {graphableValues}>
+      {increment + 1}
+    </Bar>
     {/each}
+    <Bar increment={maxIncrement} {maxGraphableValue} {graphableValues}>X</Bar>
   </div>
 </div>
 
