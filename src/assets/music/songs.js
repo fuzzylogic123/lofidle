@@ -1244,6 +1244,7 @@ export let songs = [
     "we might fall - ghastly, matthew koma",
     "una vaina loca - fuego",
     "wildcat - ratatat",
+    "better now - post malone",
     "la vie en rose - single version - louis armstrong",
     "best of me - daniel powter",
     "rather be (feat. jess glynne) - clean bandit, jess glynne",
