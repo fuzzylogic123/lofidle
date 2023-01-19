@@ -13,7 +13,7 @@
   let timeUntilNextLofidle = "soon";
 
   setTimeUntilNextLofidle();
-  setInterval(setTimeUntilNextLofidle, 1000);
+  const intervalHandle = setInterval(setTimeUntilNextLofidle, 1000);
 
   function setTimeUntilNextLofidle() {
     const now = new Date();
@@ -22,6 +22,10 @@
 
     const timeDiff = Math.max(nextLofidle.getTime() - now.getTime(), 0);
     timeUntilNextLofidle = parseMillisecondsIntoReadableTime(timeDiff);
+    console.log(Math.floor(timeDiff));
+    if (Math.floor(timeDiff / 1000) === 0) {
+      clearInterval(intervalHandle);
+    }
   }
 
   async function copyResult() {
