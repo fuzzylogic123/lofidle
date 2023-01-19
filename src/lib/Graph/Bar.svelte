@@ -32,7 +32,7 @@
     height: 1.3em;
     margin-left: auto;
     margin-right: auto;
-    font-size: 0.6em;
+    font-size: 0.5em;
     font-weight: 900;
     line-height: 1.45em;
   }
