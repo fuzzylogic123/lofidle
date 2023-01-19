@@ -11,6 +11,7 @@
   import { logEvent } from "firebase/analytics";
   import StatsModal from "./lib/Modals/StatsModal.svelte";
   import InfoModal from "./lib/Modals/InfoModal.svelte";
+  import { onMount } from "svelte";
 
   setTheme();
   const lofidle = getLofidle();
@@ -27,9 +28,10 @@
   let showInfo = false;
   let showTutorial;
   let previousScores;
+  let lastCompletedDate;
 
   audio.addEventListener("timeupdate", stopAudioAtTimeLimit);
-  updateFromLocalStorage();
+  onMount(updateFromLocalStorage);
 
   $: if (guesses.length !== 0) {
     localStorage.setItem("guesses", JSON.stringify(guesses));
@@ -60,7 +62,6 @@
         logEvent(analytics, `${guesses.length}`);
         logEvent(analytics, "success");
         previousScores.push(guesses.length);
-        console.log("pushed score");
       } else {
         previousScores.push(-1);
         logEvent(analytics, "fail");
@@ -68,7 +69,7 @@
     }
 
     localStorage.setItem("isCompleted", JSON.stringify(true));
-    localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
+    localStorage.setItem("lastCompletedDate", JSON.stringify(new Date()));
     visitLastPage();
     localStorage.setItem("previousScores", JSON.stringify(previousScores));
   }
@@ -157,18 +158,28 @@
   }
 
   /**
-   * @param {Date} lastCheckIn
+   * @param {Date} lastCompletedDate
    */
-  function isStreakValid(lastCheckIn) {
-    lastCheckIn.setDate(lastCheckIn.getDate() + 2);
-    return new Date() < lastCheckIn;
+  function isStreakValid(lastCompletedDate) {
+    lastCompletedDate.setHours(23, 59, 59); // set time just before midnight (to the next Lofidle)
+    lastCompletedDate.setDate(lastCompletedDate.getDate() + 1); // set the date to one day beyond that
+    return new Date() < lastCompletedDate;
+  }
+
+  function verifyStreak() {
+    if (!isStreakValid(lastCompletedDate)) {
+      previousScores.push(0); // stops streak
+    }
   }
 
   function updateFromLocalStorage() {
-    const lastCheckInDate = new Date(
+    const lastCheckIn = new Date(
       JSON.parse(localStorage.getItem("lastCheckIn"))
     );
-    if (lastCheckInDate.toDateString() !== new Date().toDateString()) {
+    lastCompletedDate = new Date(
+      JSON.parse(localStorage.getItem("lastCompletedDate"))
+    );
+    if (lastCheckIn.toDateString() !== new Date().toDateString()) {
       localStorage.setItem("guesses", JSON.stringify([]));
       localStorage.setItem("isCompleted", JSON.stringify(false));
     } else {
@@ -176,12 +187,11 @@
     }
 
     previousScores = JSON.parse(localStorage.getItem("previousScores")) ?? [];
-    if (!isStreakValid(lastCheckInDate)) {
-      previousScores.push(0); // stops streak
-    }
     showTutorial = !localStorage.getItem("firstVisit");
     logEvent(analytics, showTutorial ? "first_visit" : "return_visit");
+    localStorage.setItem("lastCheckIn", JSON.stringify(new Date()))
     localStorage.setItem("firstVisit", JSON.stringify(false));
+    verifyStreak();
   }
 
   function getTimeUsed(guessesLen) {
@@ -218,9 +228,7 @@
     {previousScores}
   />
 {:else if showInfo}
-  <InfoModal
-    on:click={() => (showInfo = false)}
-  />
+  <InfoModal on:click={() => (showInfo = false)} />
 {/if}
 
 <main class="content">
