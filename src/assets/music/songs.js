@@ -210,6 +210,7 @@ export let songs = [
     "esc\u00e1pate conmigo (feat. ozuna) - wisin, ozuna",
     "oh no - broiler, caden",
     "beijo b\u00eabado - jonas esticado",
+    "kill bill - sza",
     "hung up - madonna",
     "los mire con talento - fuerza regida, luis r conriquez, calle 24",
     "limelight - rush",
