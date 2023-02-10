@@ -5433,6 +5433,7 @@ export let songs = [
     "cocaine sunday - eyedress",
     "devil doesn't bargain - alec benjamin",
     "you belong to me - carly simon",
+    "one right now (with the weeknd) - post malone, the weeknd",
     "let the music play - single version - barry white",
     "favorite human - poo bear",
     "holding out for a hero - from \"footloose\" soundtrack - bonnie tyler",
