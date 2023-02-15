@@ -5221,7 +5221,7 @@ export let songs = [
     "love on the weekend - john mayer",
     "ex alcoolizado - ao vivo - israel & rodolffo",
     "on my mind - ellie goulding",
-    "psychofreak (feat.willow) - camila cabello, willow",
+    "psychofreak (feat. willow) - camila cabello, willow",
     "one way or another - remastered 2001 - blondie",
     "no time for sleep (freestyle) - bobby shmurda",
     "ms. jackson - outkast",
