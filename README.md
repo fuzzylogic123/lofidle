@@ -45,3 +45,14 @@ If you have state that's important to retain within a component, consider creati
 import { writable } from 'svelte/store'
 export default writable(0)
 ```
+
+colour theming:
+
+icon-stroke: #9bcbf9
+playbutton-fill: 73abdf
+playbutton-background-shadow: 6eb5e7
+background-colour: rgb(207, 255, 252)
+
+bad atm:
+active-segment: 9bcbf9
+background-colour: 6eb5e7

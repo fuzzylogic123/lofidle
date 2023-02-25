@@ -13,9 +13,9 @@
     border: 1px black solid;
     padding: 0.5em;
     font-family: "nokia";
-    filter: drop-shadow(-0.25em 0.45em 0 #d66ee7);
+    filter: drop-shadow(-0.25em 0.45em 0 var(--drop-shadow-color));
     background-color: whitesmoke;
-    color: #f99b9b;
+    color: var(--button-primary-color);
     margin-top: -1em;
     outline: none;
     /* border: none; */

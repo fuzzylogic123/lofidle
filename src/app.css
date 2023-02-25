@@ -13,6 +13,15 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  --button-primary-color: #f99b9b;
+  --drop-shadow-color: #d66ee7;
+  --icon-stroke-color: #ECCDEF;
+  --segment-background-color: rgba(240, 248, 255, 0.326);
+  --segment-active-color: #e8ade88e;
+  --segment-playing-color: #e8ade8;
+  --modal-background-color: #f5ddec;  
+  --modal-text-color: #713f8f;
 }
 
 a {
@@ -107,8 +116,8 @@ body {
 }
 
 .icon {
-  stroke: #ECCDEF;
-  fill: #ECCDEF;
+  stroke: var(--icon-stroke-color);
+  fill: var(--icon-stroke-color);
   height: 3em;
   width: 3em;
 }

@@ -18,7 +18,7 @@
     left: 0;
     top: 0;
     width: 20px;
-    background-color: #f99b9b;
+    background-color: var(--button-primary-color);
     -webkit-animation: up-down 0.6s infinite;
     animation: up-down 0.6s infinite;
     transform-origin: bottom;
@@ -58,5 +58,3 @@
     }
   }
 </style>
-
-
