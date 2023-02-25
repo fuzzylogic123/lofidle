@@ -6,7 +6,7 @@
 
 <style>
   .play-button {
-    fill: #f99b9b;
+    fill: var(--button-primary-color);
     /* stroke: #d66ee6; */
     stroke-width: 0;
     font-size: 0.7em;

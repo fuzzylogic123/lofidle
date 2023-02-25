@@ -176,7 +176,7 @@ function stopAudioAtTimeLimit() {
 
 <main class="content">
   {#if !showFinalPage}
-    <h1 class="title">Lofi-dle</h1>
+    <h1 class="title">Lofidle</h1>
     <Guesses {guesses} {increments} />
     <Timeline {increments} {guesses} {nowPlaying} />
     <Search on:guess={appendGuess} />
@@ -219,8 +219,8 @@ function stopAudioAtTimeLimit() {
     top: 0;
     left: 0;
     /* background-image: url("./assets/img/lake.gif"); */
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-      url("./assets/img/lofi.gif");
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
+      url("./assets/img/lying-down.gif");
     background-blend-mode: multiply;
     background-size: cover;
     background-position: 50% 80%;

@@ -26,7 +26,7 @@
       {#if nowPlaying}
         <div
           class="inner-segment"
-          style:visibility="{i <= guesses.length ? 'visible' : 'hidden'}"
+          style:visibility={i <= guesses.length ? "visible" : "hidden"}
           style:animation-delay="{sum(increments.slice(0, i))}s"
           style:animation-duration="{increment}s"
         />
@@ -48,7 +48,7 @@
 
   .segment {
     height: 1em;
-    background-color: rgba(240, 248, 255, 0.326);
+    background-color: var(--segment-background-color);
     border-radius: 2em;
     z-index: -1;
     display: flex;
@@ -61,7 +61,7 @@
     width: 100%;
     opacity: 0;
     /* background-color: whitesmoke; */
-    background-color: #e8ade8;
+    background-color: var(--segment-playing-color);
     animation-name: animate-progress;
     animation-timing-function: linear;
     animation-fill-mode: forwards;
@@ -70,7 +70,7 @@
 
   .active-segment {
     /* background-color: #f9f8f890; */
-    background-color: #e8ade88e;
+    background-color: var(--segment-active-color);
   }
 
   @keyframes animate-progress {

@@ -13,6 +13,17 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  --button-primary-color: #90b6da;
+  --drop-shadow-color: #6eb5e7;
+  --icon-stroke-color: #add2e6;
+  --segment-background-color: rgba(240, 248, 255, 0.326);
+  --segment-active-color: #9bcbf98e;
+  --segment-playing-color: #9bcbf9;
+  --modal-background-color: #ddeaf5;  
+  --modal-text-color: #3f588f;
+  --auto-complete-color: rgba(115, 145, 188, 0.867);
+  --auto-complete-hover-color: rgba(79, 114, 163, 0.867);
 }
 
 a {
@@ -107,8 +118,8 @@ body {
 }
 
 .icon {
-  stroke: #ECCDEF;
-  fill: #ECCDEF;
+  stroke: var(--icon-stroke-color);
+  fill: var(--icon-stroke-color);
   height: 3em;
   width: 3em;
 }

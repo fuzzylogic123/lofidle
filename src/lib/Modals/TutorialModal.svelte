@@ -6,30 +6,32 @@
 </script>
 
 <Modal on:click>
-    <h1 class="title">How to Play</h1>
+  <h1 class="title">How to Play</h1>
 
-    <div class="instructions-container">
-      <div class="instruction-container">
-        <PlayButton nowPlaying={false} />
-        <p class="body">Listen to a Lofi cover of a song and guess the original</p>
-      </div>
-
-      <div class="instruction-container">
-        <SkipButton />
-        <p class="body">Press to skip your guess and hear more</p>
-      </div>
+  <div class="instructions-container">
+    <div class="instruction-container">
+      <PlayButton nowPlaying={false} />
+      <p class="body">
+        Listen to a Lofi cover of a song and guess the original
+      </p>
     </div>
 
-    <div class="button-container">
-      <StylisedButton on:click>
-        <div class="button-text">Got it</div>
-      </StylisedButton>
+    <div class="instruction-container">
+      <SkipButton />
+      <p class="body">Press to skip your guess and hear more</p>
     </div>
+  </div>
+
+  <div class="button-container">
+    <StylisedButton on:click>
+      <div class="button-text">Got it</div>
+    </StylisedButton>
+  </div>
 </Modal>
 
 <style>
   .title {
-    color: #713f8f;
+    color: var(--modal-text-color);
     font-family: "Vibur";
     font-size: 3em;
     margin: 0.5em;
@@ -43,7 +45,7 @@
   }
 
   .body {
-    color: #713f8f;
+    color: var(--modal-text-color);
     font-size: 1em;
     text-align: left;
     font-family: "tauri";

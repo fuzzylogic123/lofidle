@@ -1,8 +1,13 @@
 <script>
-  import { fade } from "svelte/transition"
+  import { fade } from "svelte/transition";
 </script>
 
-<div on:click|self on:keypress|self class="modal" transition:fade={{ duration: 100 }}>
+<div
+  on:click|self
+  on:keypress|self
+  class="modal"
+  transition:fade={{ duration: 100 }}
+>
   <div class="content">
     <slot />
   </div>
@@ -23,11 +28,11 @@
   }
 
   .content {
-    background-color: #f5ddec;
+    background-color: var(--modal-background-color);
     z-index: 100;
     border-radius: 1em;
     border: 2px black solid;
-    filter: drop-shadow(-1em 1em 0 #d66ee7);
+    filter: drop-shadow(-1em 1em 0 var(--drop-shadow-color));
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -38,6 +43,6 @@
     margin-left: 1em;
     gap: 1em;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 2em;
   }
 </style>
