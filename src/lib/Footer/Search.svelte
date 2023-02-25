@@ -39,7 +39,9 @@
     if (query === "") return;
     for (let i = 0; i < songs.length; i++) {
       const song = songs[i];
-      if (song.replace(/'/g, '').includes(query.toLowerCase().replace(/'/g, ''))) {
+      if (
+        song.replace(/'/g, "").includes(query.toLowerCase().replace(/'/g, ""))
+      ) {
         autoCompleteOptions.push(song);
         result_counter += 1;
         if (result_counter > RESULT_LIMIT) {
@@ -138,7 +140,7 @@
   }
 
   .auto-complete-option:hover {
-    background-color: rgba(158, 99, 148, 0.9);
+    background-color: var(--auto-complete-hover-color);
     cursor: pointer;
   }
 
@@ -151,7 +153,7 @@
     display: flex;
     flex-direction: column;
     gap: 0.5em;
-    background-color: rgba(188, 115, 176, 0.867);
+    background-color: var(--auto-complete-color);
     padding: 0.6em;
     border-radius: 1em;
     position: absolute;
