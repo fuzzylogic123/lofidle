@@ -219,7 +219,7 @@ function stopAudioAtTimeLimit() {
     top: 0;
     left: 0;
     /* background-image: url("./assets/img/lake.gif"); */
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
       url("./assets/img/lying-down.gif");
     background-blend-mode: multiply;
     background-size: cover;
