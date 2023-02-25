@@ -38,6 +38,6 @@
     margin-left: 1em;
     gap: 1em;
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: 2em;
   }
 </style>
