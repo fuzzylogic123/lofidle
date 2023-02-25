@@ -14,16 +14,16 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 
-  --button-primary-color: #f99b9b;
-  --drop-shadow-color: #d66ee7;
-  --icon-stroke-color: #ECCDEF;
+  --button-primary-color: #73abdf;
+  --drop-shadow-color: #6eb5e7;
+  --icon-stroke-color: #9bd8f9;
   --segment-background-color: rgba(240, 248, 255, 0.326);
-  --segment-active-color: #e8ade88e;
-  --segment-playing-color: #e8ade8;
-  --modal-background-color: #f5ddec;  
-  --modal-text-color: #713f8f;
-  --auto-complete-color: rgba(188, 115, 176, 0.867);
-  --auto-complete-hover-color: rgba(158, 99, 148, 0.9);
+  --segment-active-color: #9bcbf98e;
+  --segment-playing-color: #9bcbf9;
+  --modal-background-color: #ddeaf5;  
+  --modal-text-color: #3f588f;
+  --auto-complete-color: rgba(115, 145, 188, 0.867);
+  --auto-complete-hover-color: rgba(79, 114, 163, 0.867);
 }
 
 a {
