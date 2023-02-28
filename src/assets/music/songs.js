@@ -1011,7 +1011,6 @@ export let songs = [
     "never going home - kungs",
     "hide away - daya",
     "plain jane - a$ap ferg",
-    "skinny love - bon iver",
     "the scientist - coldplay",
     "arranh\u00e3o - ao vivo - henrique & juliano",
     "infinity (888) - feat. joey bada$$ - xxxtentacion, joey bada$$",
