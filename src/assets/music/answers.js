@@ -2448,7 +2448,7 @@ export let answers = [
     "lofi_preview_url": "/audio/lofi/Hey,_Soul_Sister.mp3"
   },
   {
-    "song_name": "Main Title",
+    "song_name": "Main Title (Star Wars)",
     "lofi_artist": "Closed on Sunday",
     "original_artist": "John Williams, London Symphony Orchestra",
     "images": [
@@ -2520,7 +2520,7 @@ export let answers = [
     "lofi_preview_url": "/audio/lofi/Titanium_(feat._Sia).mp3"
   },
   {
-    "song_name": "Hedwig's Theme",
+    "song_name": "Hedwig's Theme (Harry Potter)",
     "lofi_artist": "Closed on Sunday",
     "original_artist": "John Williams",
     "images": [
