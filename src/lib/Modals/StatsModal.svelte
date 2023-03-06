@@ -47,6 +47,13 @@
       }
     }
   }
+
+  function getAccuracy() {
+    if (getTotalGamesPlayed() === 0) {
+      return 0
+    }
+    return Math.floor((getGamesWon() / getTotalGamesPlayed()) * 100)
+  }
 </script>
 
 <Modal on:click>
@@ -64,7 +71,7 @@
       </div>
       <div class="stat-item">
         <h4 class="x-axis-label figure">
-          {Math.floor((getGamesWon() / getTotalGamesPlayed()) * 100)}%
+          {getAccuracy()}%
         </h4>
         <h4 class="x-axis-label">accuracy</h4>
       </div>

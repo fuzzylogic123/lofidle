@@ -10,6 +10,7 @@
   import { analytics } from "./firebaseConfig";
   import { logEvent } from "firebase/analytics";
   import StatsModal from "./lib/Modals/StatsModal.svelte";
+  import InfoModal from "./lib/Modals/InfoModal.svelte";
 
   setTheme();
   const lofidle = getLofidle();
@@ -23,6 +24,7 @@
 
   let nowPlaying = false;
   let showStats = false;
+  let showInfo = false;
   let showTutorial;
   let previousScores;
 
@@ -215,6 +217,10 @@
     maxIncrement={increments.length}
     {previousScores}
   />
+{:else if showInfo}
+  <InfoModal
+    on:click={() => (showInfo = false)}
+  />
 {/if}
 
 <main class="content">
@@ -223,13 +229,6 @@
     <Guesses {guesses} {increments} />
     <Timeline {increments} {guesses} {nowPlaying} />
     <Search on:guess={appendGuess} />
-    <Footer
-      on:playSong={playMusic}
-      on:skipSegment={skipSegment}
-      on:stats={() => (showStats = true)}
-      on:tutorial={() => (showTutorial = true)}
-      {nowPlaying}
-    />
   {:else}
     <AnswerScreenContent
       timeUsed={getTimeUsed(guesses.length)}
@@ -238,6 +237,15 @@
       MAX_GUESSES={increments.length}
     />
   {/if}
+  <Footer
+    on:playSong={playMusic}
+    on:skipSegment={skipSegment}
+    on:stats={() => (showStats = true)}
+    on:tutorial={() => (showTutorial = true)}
+    on:info={() => (showInfo = true)}
+    {nowPlaying}
+    {showFinalPage}
+  />
 </main>
 
 <div class="lines" />

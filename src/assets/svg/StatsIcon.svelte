@@ -1,4 +1,6 @@
 <svg
+  on:click
+  on:keypress
   class="icon"
   aria-hidden="true"
   xmlns="http://www.w3.org/2000/svg"
