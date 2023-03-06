@@ -46,6 +46,7 @@
         return streakLength;
       }
     }
+    return 0;
   }
 
   function getAccuracy() {
