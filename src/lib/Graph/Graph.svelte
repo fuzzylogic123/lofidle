@@ -5,7 +5,6 @@
   export let previousScores;
 
   let increments = Array.from({ length: maxIncrement }, (_, i) => i);
-  console.log(increments);
   const [graphableValues, maxGraphableValue] =
     generateGraphValues(previousScores);
 

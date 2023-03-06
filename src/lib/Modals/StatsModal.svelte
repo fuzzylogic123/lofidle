@@ -3,12 +3,8 @@
 
   import Graph from "../Graph/Graph.svelte";
   import Modal from "./Modal.svelte";
-  const previousScoresString = localStorage.getItem("previousScores");
-  // const previousScores = previousScoresString
-  //   ? JSON.parse(previousScoresString)
-  //   : [];
-  const previousScores = [1, 2, 3, -1, 3, 4, -1, 5];
 
+  export let previousScores;
   export let maxIncrement;
 
   function getStreak() {

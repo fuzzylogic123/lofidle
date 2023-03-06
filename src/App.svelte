@@ -52,7 +52,6 @@
     guesses.length === increments.length ||
     (guesses.length > 0 && guesses.at(-1).status === "correct")
   ) {
-    console.log(!JSON.parse(localStorage.getItem("isCompleted")));
     if (!JSON.parse(localStorage.getItem("isCompleted"))) {
       // don't repeat logs
       if (guesses.at(-1).status == "correct") {
@@ -67,6 +66,7 @@
     }
 
     localStorage.setItem("isCompleted", JSON.stringify(true));
+    localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
     visitLastPage();
     localStorage.setItem("previousScores", JSON.stringify(previousScores));
   }
@@ -180,7 +180,6 @@
     showTutorial = !localStorage.getItem("firstVisit");
     logEvent(analytics, showTutorial ? "first_visit" : "return_visit");
     localStorage.setItem("firstVisit", JSON.stringify(false));
-    localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
   }
 
   function getTimeUsed(guessesLen) {
@@ -214,6 +213,7 @@
   <StatsModal
     on:click={() => (showStats = false)}
     maxIncrement={increments.length}
+    {previousScores}
   />
 {/if}
 
