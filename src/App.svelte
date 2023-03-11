@@ -218,7 +218,8 @@ function stopAudioAtTimeLimit() {
     position: absolute;
     top: 0;
     left: 0;
-    /* background-image: url("./assets/img/lake.gif"); */
+    /* background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("./assets/img/FuzzyLogic_lofi_ambient_background_wallpaper_9k_23996fea-5f40-4c2d-9eda-d838db4cc7ea.png"); */
     background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
       url("./assets/img/lying-down.gif");
     background-blend-mode: multiply;

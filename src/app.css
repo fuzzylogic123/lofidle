@@ -30,6 +30,8 @@
   */
 
   /*  Blue Colours */
+
+  
   --button-primary-color: #90b6da;
   --drop-shadow-color: #6eb5e7;
   --icon-stroke-color: #add2e6;
@@ -40,6 +42,19 @@
   --modal-text-color: #3f588f;
   --auto-complete-color: rgba(115, 145, 188, 0.867);
   --auto-complete-hover-color: rgba(79, 114, 163, 0.867);
+ 
+
+  /* orange colours */
+  /* --button-primary-color: #daa690;
+  --drop-shadow-color: #e7a06e;
+  --icon-stroke-color: #e6bbad;
+  --segment-background-color: rgba(255, 252, 240, 0.326);
+  --segment-active-color: #f99b9b8e;
+  --segment-playing-color: #f99b9b;
+  --modal-background-color: #f5eedd;  
+  --modal-text-color: #8f3f3f;
+  --auto-complete-color: rgba(188, 115, 115, 0.867);
+  --auto-complete-hover-color: rgba(163, 79, 79, 0.867); */
 }
 
 a {
