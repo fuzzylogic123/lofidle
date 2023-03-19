@@ -228,7 +228,7 @@
     top: 0;
     left: 0;
     height: 100%;
-    width: 100vw;
+    width: 100%;
     background-size: 1%;
     z-index: -1;
     opacity: 0.05;
@@ -246,7 +246,7 @@
     background-size: cover;
     background-position: 50% 80%;
     height: 100%;
-    width: 100vw;
+    width: 100%;
     filter: blur(1px);
     -webkit-filter: blur(1px);
     box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.703);
