@@ -10,9 +10,11 @@
   import AnswerScreenContent from "./lib/AnswerScreen.svelte";
   import { analytics } from "./firebaseConfig";
   import { logEvent } from "firebase/analytics";
+  import { onMount } from "svelte";
 
   let showInfo = false;
 
+  onMount(setTheme);
   const lofidle = getLofidle();
 
   let showFinalPage = false;
@@ -34,12 +36,12 @@
     currentTimeLimit += increments[guesses.length] * 1000;
   }
 
-function stopAudioAtTimeLimit() {
-  if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
-      audio.pause();
-      nowPlaying = false;
-    }
-}
+  function stopAudioAtTimeLimit() {
+    if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
+        audio.pause();
+        nowPlaying = false;
+      }
+  }
 
   function isSuccess(guess) {
     return (
@@ -166,6 +168,26 @@ function stopAudioAtTimeLimit() {
   function getTimeUsed(guessesLen) {
     return sum(increments.slice(0, guessesLen));
   }
+
+  function setTheme() {
+    let theme;
+    const themeIndex = ( Math.floor(Date.now() / (1000 * 60 * 60 * 24)) ) % 4;
+    switch (themeIndex) {
+      case 0:
+        theme = "orange"
+        break;
+      case 1:
+        theme = "blue"
+        break;
+      case 2:
+        theme = "purple"
+        break;
+      case 3:
+        theme = "green"
+        break;
+    }
+    document.documentElement.classList.add(theme)
+  }
 </script>
 
 {#if showTutorial}
@@ -219,7 +241,7 @@ function stopAudioAtTimeLimit() {
     top: 0;
     left: 0;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-      url("./assets/img/FuzzyLogic_lofi_ambient_background_wallpaper_9k_23996fea-5f40-4c2d-9eda-d838db4cc7ea.png");
+      var(--background-image);
     background-blend-mode: multiply;
     background-size: cover;
     background-position: 50% 80%;
