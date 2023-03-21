@@ -24,13 +24,15 @@
   .counter {
     color: var(--modal-background-color);
     position: absolute;
-    bottom: 0.1em;
+    bottom: 0em;
     left: 0;
     right: 0;
+    height: 1.2em;
     margin-left: auto;
     margin-right: auto;
     font-size: 0.6em;
     font-weight: 900;
+    line-height: 1.45em;
   }
 
   .bar-wrapper {
@@ -47,7 +49,7 @@
     position: absolute;
     bottom: 0;
     text-align: center;
-    min-height: 1.2em;
+    min-height: 0.8em;
   }
 
   .x-label {

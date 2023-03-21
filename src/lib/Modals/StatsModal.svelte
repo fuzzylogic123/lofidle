@@ -7,10 +7,6 @@
   export let previousScores;
   export let maxIncrement;
 
-  function getStreak() {
-    //WIP
-  }
-
   function getGamesWon() {
     return previousScores.filter((x) => x >= 1).length;
   }
