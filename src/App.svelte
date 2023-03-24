@@ -5,16 +5,13 @@
   import Search from "./lib/Footer/Search.svelte";
   import Timeline from "./lib/Footer/Timeline.svelte";
   import TutorialModal from "./lib/Modals/TutorialModal.svelte";
-  import InfoModal from "./lib/Modals/InfoModal.svelte";
   import { getLofidle } from "./lib/utils";
   import AnswerScreenContent from "./lib/AnswerScreen.svelte";
   import { analytics } from "./firebaseConfig";
   import { logEvent } from "firebase/analytics";
-  import { onMount } from "svelte";
+  import StatsModal from "./lib/Modals/StatsModal.svelte";
 
-  let showInfo = false;
-
-  onMount(setTheme);
+  setTheme();
   const lofidle = getLofidle();
 
   let showFinalPage = false;
@@ -22,13 +19,14 @@
   let guesses = [];
   let audio = new Audio(lofidle.lofi_preview_url);
 
-  audio.addEventListener("timeupdate", stopAudioAtTimeLimit);
-
   let currentTimeLimit = 0;
 
   let nowPlaying = false;
+  let showStats = false;
   let showTutorial;
+  let previousScores;
 
+  audio.addEventListener("timeupdate", stopAudioAtTimeLimit);
   updateFromLocalStorage();
 
   $: if (guesses.length !== 0) {
@@ -38,9 +36,9 @@
 
   function stopAudioAtTimeLimit() {
     if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
-        audio.pause();
-        nowPlaying = false;
-      }
+      audio.pause();
+      nowPlaying = false;
+    }
   }
 
   function isSuccess(guess) {
@@ -51,16 +49,26 @@
   }
 
   $: if (
-    guesses.length >= increments.length ||
+    guesses.length === increments.length ||
     (guesses.length > 0 && guesses.at(-1).status === "correct")
   ) {
-    if (guesses.at(-1).status == "correct") {
-      logEvent(analytics, `${guesses.length}`);
-      logEvent(analytics, "success");
-    } else {
-      logEvent(analytics, "fail");
+    console.log(!JSON.parse(localStorage.getItem("isCompleted")));
+    if (!JSON.parse(localStorage.getItem("isCompleted"))) {
+      // don't repeat logs
+      if (guesses.at(-1).status == "correct") {
+        logEvent(analytics, `${guesses.length}`);
+        logEvent(analytics, "success");
+        previousScores.push(guesses.length);
+        console.log("pushed score");
+      } else {
+        previousScores.push(-1);
+        logEvent(analytics, "fail");
+      }
     }
+
+    localStorage.setItem("isCompleted", JSON.stringify(true));
     visitLastPage();
+    localStorage.setItem("previousScores", JSON.stringify(previousScores));
   }
 
   function playMusic() {
@@ -146,23 +154,33 @@
     logEvent(analytics, "guess");
   }
 
+  /**
+   * @param {Date} lastCheckIn
+   */
+  function isStreakValid(lastCheckIn) {
+    lastCheckIn.setDate(lastCheckIn.getDate() + 2);
+    return new Date() < lastCheckIn;
+  }
+
   function updateFromLocalStorage() {
-    if (
-      !localStorage.getItem("lastCheckIn") ||
-      new Date(
-        JSON.parse(localStorage.getItem("lastCheckIn"))
-      ).toDateString() !== new Date().toDateString()
-    ) {
-      localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
+    const lastCheckInDate = new Date(
+      JSON.parse(localStorage.getItem("lastCheckIn"))
+    );
+    if (lastCheckInDate.toDateString() !== new Date().toDateString()) {
       localStorage.setItem("guesses", JSON.stringify([]));
+      localStorage.setItem("isCompleted", JSON.stringify(false));
     } else {
       guesses = JSON.parse(localStorage.getItem("guesses"));
-      localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
     }
 
+    previousScores = JSON.parse(localStorage.getItem("previousScores")) ?? [];
+    if (!isStreakValid(lastCheckInDate)) {
+      previousScores.push(0); // stops streak
+    }
     showTutorial = !localStorage.getItem("firstVisit");
     logEvent(analytics, showTutorial ? "first_visit" : "return_visit");
     localStorage.setItem("firstVisit", JSON.stringify(false));
+    localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
   }
 
   function getTimeUsed(guessesLen) {
@@ -171,29 +189,32 @@
 
   function setTheme() {
     let theme;
-    const themeIndex = ( Math.floor(Date.now() / (1000 * 60 * 60 * 24)) ) % 4;
+    const themeIndex = Math.floor(Date.now() / (1000 * 60 * 60 * 24)) % 4;
     switch (themeIndex) {
       case 0:
-        theme = "orange"
+        theme = "orange";
         break;
       case 1:
-        theme = "blue"
+        theme = "blue";
         break;
       case 2:
-        theme = "purple"
+        theme = "purple";
         break;
       case 3:
-        theme = "green"
+        theme = "green";
         break;
     }
-    document.documentElement.classList.add(theme)
+    document.documentElement.classList.add(theme);
   }
 </script>
 
 {#if showTutorial}
   <TutorialModal on:click={() => (showTutorial = false)} />
-{:else if showInfo}
-  <InfoModal on:click={() => (showInfo = false)} />
+{:else if showStats}
+  <StatsModal
+    on:click={() => (showStats = false)}
+    maxIncrement={increments.length}
+  />
 {/if}
 
 <main class="content">
@@ -205,7 +226,7 @@
     <Footer
       on:playSong={playMusic}
       on:skipSegment={skipSegment}
-      on:info={() => (showInfo = true)}
+      on:stats={() => (showStats = true)}
       on:tutorial={() => (showTutorial = true)}
       {nowPlaying}
     />

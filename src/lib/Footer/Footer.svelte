@@ -12,7 +12,7 @@
 </script>
 
 <div class="footer">
-  <InfoIcon on:click={() => dispatch("info")} />
+  <InfoIcon on:click={() => dispatch("stats")} />
 
   <div class="flex-row">
     <PlayButton on:click={()=> dispatch("playSong")} {nowPlaying} />
