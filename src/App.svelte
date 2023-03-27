@@ -13,7 +13,8 @@
   import InfoModal from "./lib/Modals/InfoModal.svelte";
   import { onMount } from "svelte";
 
-  setTheme();
+  onMount(setTheme);
+  onMount(updateFromLocalStorage);
   const lofidle = getLofidle();
 
   let showFinalPage = false;
@@ -31,7 +32,6 @@
   let lastCompletedDate;
 
   audio.addEventListener("timeupdate", stopAudioAtTimeLimit);
-  onMount(updateFromLocalStorage);
 
   $: if (guesses.length !== 0) {
     localStorage.setItem("guesses", JSON.stringify(guesses));
