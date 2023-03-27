@@ -2906,21 +2906,21 @@ export let answers = [
   {
     "song_name": "Dynamite",
     "lofi_artist": "Chill With Lofi",
-    "original_artist": "Taio Cruz",
+    "original_artist": "BTS",
     "images": [
       {
         "height": 640,
-        "url": "https://i.scdn.co/image/ab67616d0000b27366c3eb32692a0ae487079cf1",
+        "url": "https://i.scdn.co/image/ab67616d0000b273c07d5d2fdc02ae252fcd07e5",
         "width": 640
       },
       {
         "height": 300,
-        "url": "https://i.scdn.co/image/ab67616d00001e0266c3eb32692a0ae487079cf1",
+        "url": "https://i.scdn.co/image/ab67616d00001e02c07d5d2fdc02ae252fcd07e5",
         "width": 300
       },
       {
         "height": 64,
-        "url": "https://i.scdn.co/image/ab67616d0000485166c3eb32692a0ae487079cf1",
+        "url": "https://i.scdn.co/image/ab67616d00004851c07d5d2fdc02ae252fcd07e5",
         "width": 64
       }
     ],
