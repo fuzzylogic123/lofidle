@@ -13,78 +13,69 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
-  
 }
 
-  /*  Purple Colours */
+/*  Purple Colours */
 
-  .purple {
+.purple {
+  --button-primary-color: #f99b9b;
+  --drop-shadow-color: #d66ee7;
+  --icon-stroke-color: #eccdef;
+  --segment-background-color: rgba(240, 248, 255, 0.326);
+  --segment-active-color: #e8ade88e;
+  --segment-playing-color: #e8ade8;
+  --modal-background-color: #f5ddec;
+  --modal-text-color: #713f8f;
+  --auto-complete-color: rgba(188, 115, 176, 0.867);
+  --auto-complete-hover-color: rgba(158, 99, 148, 0.9);
+  --background-image: url("./assets/img/lofi.gif");
+}
 
-    --button-primary-color: #f99b9b;
-    --drop-shadow-color: #d66ee7;
-    --icon-stroke-color: #ECCDEF;
-    --segment-background-color: rgba(240, 248, 255, 0.326);
-    --segment-active-color: #e8ade88e;
-    --segment-playing-color: #e8ade8;
-    --modal-background-color: #f5ddec;  
-    --modal-text-color: #713f8f;
-    --auto-complete-color: rgba(188, 115, 176, 0.867);
-    --auto-complete-hover-color: rgba(158, 99, 148, 0.9);
-    --background-image: url("./assets/img/lofi.gif");
-  }
- 
+/*  Blue Colours */
 
-  /*  Blue Colours */
+.blue {
+  --button-primary-color: #90b6da;
+  --drop-shadow-color: #6eb5e7;
+  --icon-stroke-color: #add2e6;
+  --segment-background-color: rgba(240, 248, 255, 0.326);
+  --segment-active-color: #9bcbf98e;
+  --segment-playing-color: #9bcbf9;
+  --modal-background-color: #ddeaf5;
+  --modal-text-color: #3f588f;
+  --auto-complete-color: rgba(115, 145, 188, 0.867);
+  --auto-complete-hover-color: rgba(79, 114, 163, 0.867);
+  --background-image: url("./assets/img/walkman.jpg");
+}
 
-  .blue {
+/* orange colours */
+.orange {
+  --button-primary-color: #daa690;
+  --drop-shadow-color: #e7a06e;
+  --icon-stroke-color: #e6bbad;
+  --segment-background-color: rgba(255, 252, 240, 0.326);
+  --segment-active-color: #f99b9b8e;
+  --segment-playing-color: #f99b9b;
+  --modal-background-color: #f5eedd;
+  --modal-text-color: #8f3f3f;
+  --auto-complete-color: rgba(188, 115, 115, 0.867);
+  --auto-complete-hover-color: rgba(163, 79, 79, 0.867);
+  --background-image: url("./assets/img/orange-lake.png");
+}
 
-    --button-primary-color: #90b6da;
-    --drop-shadow-color: #6eb5e7;
-    --icon-stroke-color: #add2e6;
-    --segment-background-color: rgba(240, 248, 255, 0.326);
-    --segment-active-color: #9bcbf98e;
-    --segment-playing-color: #9bcbf9;
-    --modal-background-color: #ddeaf5;  
-    --modal-text-color: #3f588f;
-    --auto-complete-color: rgba(115, 145, 188, 0.867);
-    --auto-complete-hover-color: rgba(79, 114, 163, 0.867);
-    --background-image: url("./assets/img/lying-down.gif");
-  }
- 
- 
-
-  /* orange colours */
-  .orange {
-    --button-primary-color: #daa690;
-    --drop-shadow-color: #e7a06e;
-    --icon-stroke-color: #e6bbad;
-    --segment-background-color: rgba(255, 252, 240, 0.326);
-    --segment-active-color: #f99b9b8e;
-    --segment-playing-color: #f99b9b;
-    --modal-background-color: #f5eedd;  
-    --modal-text-color: #8f3f3f;
-    --auto-complete-color: rgba(188, 115, 115, 0.867);
-    --auto-complete-hover-color: rgba(163, 79, 79, 0.867);
-    --background-image: url("./assets/img/FuzzyLogic_lofi_ambient_background_wallpaper_9k_23996fea-5f40-4c2d-9eda-d838db4cc7ea.png");
-  }
-  
- 
-
-  .green {
-    /* green colours */
-    --button-primary-color: #90da99;
-    --drop-shadow-color: #8dc988;
-    --icon-stroke-color: #c6e0b7;
-    --segment-background-color: rgba(242, 255, 240, 0.326);
-    --segment-active-color: #a7f99b8e;
-    --segment-playing-color: #a9f99b;
-    --modal-background-color: #ddf5e5;  
-    --modal-text-color: #4c8f3f;
-    --auto-complete-color: rgba(115, 188, 121, 0.867);
-    --auto-complete-hover-color: rgba(79, 163, 92, 0.867);
-    --background-image: url("./assets/img/lake.gif");
-  }
-
+.green {
+  /* green colours */
+  --button-primary-color: #90da99;
+  --drop-shadow-color: #8dc988;
+  --icon-stroke-color: #c6e0b7;
+  --segment-background-color: rgba(242, 255, 240, 0.326);
+  --segment-active-color: #a7f99b8e;
+  --segment-playing-color: #a9f99b;
+  --modal-background-color: #ddf5e5;
+  --modal-text-color: #4c8f3f;
+  --auto-complete-color: rgba(115, 188, 121, 0.867);
+  --auto-complete-hover-color: rgba(79, 163, 92, 0.867);
+  --background-image: url("./assets/img/lake.gif");
+}
 
 a {
   font-weight: 500;
@@ -118,7 +109,6 @@ h1 {
 html {
   height: 100%;
 }
-
 
 button {
   border-radius: 8px;
@@ -158,17 +148,17 @@ button:focus-visible {
 
 @font-face {
   font-family: "nokia";
-  src: url('./assets/fonts/nokiafc22.ttf');
+  src: url("./assets/fonts/nokiafc22.ttf");
 }
 
 @font-face {
   font-family: "vibur";
-  src: url('./assets/fonts/Vibur-Regular.ttf');
+  src: url("./assets/fonts/Vibur-Regular.ttf");
 }
 
 @font-face {
   font-family: "tauri";
-  src: url('./assets/fonts/Tauri-Regular.ttf');
+  src: url("./assets/fonts/Tauri-Regular.ttf");
 }
 
 body {
