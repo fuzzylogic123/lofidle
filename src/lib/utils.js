@@ -23,10 +23,22 @@ function parseMillisecondsIntoReadableTime(milliseconds) {
 }
 
 function getLofidleIndex() {
-  const startMs = new Date(2022, 10, 26, 0).getTime();
-  const currentMs = new Date().getTime();
-  return Math.floor((currentMs - startMs) / 1000 / 60 / 60 / 24)
+  const startDate = new Date(2022, 10, 26, 0);
+  const currentDate = new Date();
+  return Math.floor(daysBetween(startDate, currentDate))
 }
+
+function treatAsUTC(date) {
+  var result = new Date(date);
+  result.setMinutes(result.getMinutes() - result.getTimezoneOffset());
+  return result;
+}
+
+function daysBetween(startDate, endDate) {
+  var millisecondsPerDay = 24 * 60 * 60 * 1000;
+  return (treatAsUTC(endDate).getTime() - treatAsUTC(startDate).getTime()) / millisecondsPerDay;
+}
+
 
 
 function getLofidle() {
