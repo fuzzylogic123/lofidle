@@ -113,7 +113,7 @@
 
   .line-height {
     line-height: 1.2em;
-    word-break: break-all;
+    overflow-wrap: anywhere;
   }
   .timer {
     margin-top: 0.5em;
