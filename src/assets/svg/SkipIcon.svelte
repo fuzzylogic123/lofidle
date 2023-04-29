@@ -10,7 +10,6 @@
 <style>
   .play-button {
     fill: var(--button-primary-color);
-    stroke: #d66ee6;
     stroke-width: 0.03em;
     font-size: 0.7em;
     margin-left: 0.5em;

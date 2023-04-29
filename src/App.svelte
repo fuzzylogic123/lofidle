@@ -5,14 +5,16 @@
   import Search from "./lib/Footer/Search.svelte";
   import Timeline from "./lib/Footer/Timeline.svelte";
   import TutorialModal from "./lib/Modals/TutorialModal.svelte";
-  import InfoModal from "./lib/Modals/InfoModal.svelte";
   import { getLofidle } from "./lib/utils";
   import AnswerScreenContent from "./lib/AnswerScreen.svelte";
   import { analytics } from "./firebaseConfig";
   import { logEvent } from "firebase/analytics";
+  import StatsModal from "./lib/Modals/StatsModal.svelte";
+  import InfoModal from "./lib/Modals/InfoModal.svelte";
+  import { onMount } from "svelte";
 
-  let showInfo = false;
-
+  onMount(setTheme);
+  onMount(updateFromLocalStorage);
   const lofidle = getLofidle();
 
   let showFinalPage = false;
@@ -20,26 +22,28 @@
   let guesses = [];
   let audio = new Audio(lofidle.lofi_preview_url);
 
-  audio.addEventListener("timeupdate", stopAudioAtTimeLimit);
-
   let currentTimeLimit = 0;
 
   let nowPlaying = false;
+  let showStats = false;
+  let showInfo = false;
   let showTutorial;
+  let previousScores;
+  let lastCompletedDate;
 
-  updateFromLocalStorage();
+  audio.addEventListener("timeupdate", stopAudioAtTimeLimit);
 
   $: if (guesses.length !== 0) {
     localStorage.setItem("guesses", JSON.stringify(guesses));
     currentTimeLimit += increments[guesses.length] * 1000;
   }
 
-function stopAudioAtTimeLimit() {
-  if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
+  function stopAudioAtTimeLimit() {
+    if (audio.currentTime * 1000 >= currentTimeLimit - 100 || audio.paused) {
       audio.pause();
       nowPlaying = false;
     }
-}
+  }
 
   function isSuccess(guess) {
     return (
@@ -49,16 +53,25 @@ function stopAudioAtTimeLimit() {
   }
 
   $: if (
-    guesses.length >= increments.length ||
+    guesses.length === increments.length ||
     (guesses.length > 0 && guesses.at(-1).status === "correct")
   ) {
-    if (guesses.at(-1).status == "correct") {
-      logEvent(analytics, `${guesses.length}`);
-      logEvent(analytics, "success");
-    } else {
-      logEvent(analytics, "fail");
+    if (!JSON.parse(localStorage.getItem("isCompleted"))) {
+      // don't repeat logs
+      if (guesses.at(-1).status == "correct") {
+        logEvent(analytics, `${guesses.length}`);
+        logEvent(analytics, "success");
+        previousScores.push(guesses.length);
+      } else {
+        previousScores.push(-1);
+        logEvent(analytics, "fail");
+      }
     }
+
+    localStorage.setItem("isCompleted", JSON.stringify(true));
+    localStorage.setItem("lastCompletedDate", JSON.stringify(new Date()));
     visitLastPage();
+    localStorage.setItem("previousScores", JSON.stringify(previousScores));
   }
 
   function playMusic() {
@@ -144,32 +157,76 @@ function stopAudioAtTimeLimit() {
     logEvent(analytics, "guess");
   }
 
+  /**
+   * @param {Date} lastCompletedDate
+   */
+  function isStreakValid(lastCompletedDate) {
+    lastCompletedDate.setHours(23, 59, 59); // set time just before midnight (to the next Lofidle)
+    lastCompletedDate.setDate(lastCompletedDate.getDate() + 1); // set the date to one day beyond that
+    return new Date() < lastCompletedDate;
+  }
+
+  function verifyStreak() {
+    if (!isStreakValid(lastCompletedDate)) {
+      previousScores.push(0); // stops streak
+    }
+  }
+
   function updateFromLocalStorage() {
-    if (
-      !localStorage.getItem("lastCheckIn") ||
-      new Date(
-        JSON.parse(localStorage.getItem("lastCheckIn"))
-      ).toDateString() !== new Date().toDateString()
-    ) {
-      localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
+    const lastCheckIn = new Date(
+      JSON.parse(localStorage.getItem("lastCheckIn"))
+    );
+    lastCompletedDate = new Date(
+      JSON.parse(localStorage.getItem("lastCompletedDate"))
+    );
+    if (lastCheckIn.toDateString() !== new Date().toDateString()) {
       localStorage.setItem("guesses", JSON.stringify([]));
+      localStorage.setItem("isCompleted", JSON.stringify(false));
     } else {
       guesses = JSON.parse(localStorage.getItem("guesses"));
-      localStorage.setItem("lastCheckIn", JSON.stringify(new Date()));
     }
 
+    previousScores = JSON.parse(localStorage.getItem("previousScores")) ?? [];
     showTutorial = !localStorage.getItem("firstVisit");
     logEvent(analytics, showTutorial ? "first_visit" : "return_visit");
+    localStorage.setItem("lastCheckIn", JSON.stringify(new Date()))
     localStorage.setItem("firstVisit", JSON.stringify(false));
+    verifyStreak();
   }
 
   function getTimeUsed(guessesLen) {
     return sum(increments.slice(0, guessesLen));
   }
+
+  function setTheme() {
+    let theme;
+    const themeIndex = Math.floor(Date.now() / (1000 * 60 * 60 * 24)) % 4;
+    switch (themeIndex) {
+      case 0:
+        theme = "orange";
+        break;
+      case 1:
+        theme = "blue";
+        break;
+      case 2:
+        theme = "purple";
+        break;
+      case 3:
+        theme = "green";
+        break;
+    }
+    document.documentElement.classList.add(theme);
+  }
 </script>
 
 {#if showTutorial}
   <TutorialModal on:click={() => (showTutorial = false)} />
+{:else if showStats}
+  <StatsModal
+    on:click={() => (showStats = false)}
+    maxIncrement={increments.length}
+    {previousScores}
+  />
 {:else if showInfo}
   <InfoModal on:click={() => (showInfo = false)} />
 {/if}
@@ -180,13 +237,6 @@ function stopAudioAtTimeLimit() {
     <Guesses {guesses} {increments} />
     <Timeline {increments} {guesses} {nowPlaying} />
     <Search on:guess={appendGuess} />
-    <Footer
-      on:playSong={playMusic}
-      on:skipSegment={skipSegment}
-      on:info={() => (showInfo = true)}
-      on:tutorial={() => (showTutorial = true)}
-      {nowPlaying}
-    />
   {:else}
     <AnswerScreenContent
       timeUsed={getTimeUsed(guesses.length)}
@@ -195,6 +245,15 @@ function stopAudioAtTimeLimit() {
       MAX_GUESSES={increments.length}
     />
   {/if}
+  <Footer
+    on:playSong={playMusic}
+    on:skipSegment={skipSegment}
+    on:stats={() => (showStats = true)}
+    on:tutorial={() => (showTutorial = true)}
+    on:info={() => (showInfo = true)}
+    {nowPlaying}
+    {showFinalPage}
+  />
 </main>
 
 <div class="lines" />
@@ -206,7 +265,7 @@ function stopAudioAtTimeLimit() {
     top: 0;
     left: 0;
     height: 100%;
-    width: 100vw;
+    width: 100%;
     background-size: 1%;
     z-index: -1;
     opacity: 0.05;
@@ -218,14 +277,13 @@ function stopAudioAtTimeLimit() {
     position: absolute;
     top: 0;
     left: 0;
-    /* background-image: url("./assets/img/lake.gif"); */
-    background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),
-      url("./assets/img/lying-down.gif");
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+      var(--background-image);
     background-blend-mode: multiply;
     background-size: cover;
     background-position: 50% 80%;
     height: 100%;
-    width: 100vw;
+    width: 100%;
     filter: blur(1px);
     -webkit-filter: blur(1px);
     box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.703);

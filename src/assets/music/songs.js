@@ -2417,7 +2417,6 @@ export let songs = [
   "vai lá em casa hoje - george henrique & rodrigo, marília mendonça",
   "lucid dreams - juice wrld",
   "na na na - remix - pailita, noriel, el jordan 23, pablo chill-e",
-  "holiday / boulevard of broken dreams - green day",
   "parte de ti - jandy feliz",
   "emotions - iann dior",
   "one day / reckoning song (wankelmut remix) - radio edit - asaf avidan, the mojos, wankelmut",

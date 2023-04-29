@@ -13,7 +13,7 @@
   let timeUntilNextLofidle = "soon";
 
   setTimeUntilNextLofidle();
-  setInterval(setTimeUntilNextLofidle, 1000);
+  const intervalHandle = setInterval(setTimeUntilNextLofidle, 1000);
 
   function setTimeUntilNextLofidle() {
     const now = new Date();
@@ -22,6 +22,10 @@
 
     const timeDiff = Math.max(nextLofidle.getTime() - now.getTime(), 0);
     timeUntilNextLofidle = parseMillisecondsIntoReadableTime(timeDiff);
+    console.log(Math.floor(timeDiff));
+    if (Math.floor(timeDiff / 1000) === 0) {
+      clearInterval(intervalHandle);
+    }
   }
 
   async function copyResult() {
@@ -62,7 +66,7 @@
 
 <div class="answer-screen-content">
   <div class="end-screen-content">
-    <div>
+    <div class="negative-margin">
       {#if isSuccess}
         <div class="result">
           <div class="title">Congratulations!</div>
@@ -103,12 +107,19 @@
 
 <style>
 
+  .negative-margin {
+    margin-bottom: -3em;
+  }
+
   .line-height {
     line-height: 1.2em;
+    word-break: break-all;
   }
   .timer {
     margin-top: 0.5em;
     margin-bottom: 1em;
+    position: absolute;
+    bottom: 1.5em;
   }
   .end-screen-content {
     flex-grow: 1;
@@ -141,7 +152,7 @@
   .image {
     height: 9em;
     width: 9em;
-    margin: 0.5em;
+    margin: 1em;
   }
   .song-name {
     margin-bottom: 0;
