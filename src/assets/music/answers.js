@@ -3821,18 +3821,18 @@ export let answers = [
     "original_artist": "Queen",
     "images": [
       {
+        "url": "https://i.scdn.co/image/ab67616d0000b2737c39dd133836c2c1c87e34d6",
         "height": 640,
-        "url": "https://i.scdn.co/image/ab67616d0000b2731e8d8ca012d1289cafba4242",
         "width": 640
       },
       {
+        "url": "https://i.scdn.co/image/ab67616d00001e027c39dd133836c2c1c87e34d6",
         "height": 300,
-        "url": "https://i.scdn.co/image/ab67616d00001e021e8d8ca012d1289cafba4242",
         "width": 300
       },
       {
+        "url": "https://i.scdn.co/image/ab67616d000048517c39dd133836c2c1c87e34d6",
         "height": 64,
-        "url": "https://i.scdn.co/image/ab67616d000048511e8d8ca012d1289cafba4242",
         "width": 64
       }
     ],
