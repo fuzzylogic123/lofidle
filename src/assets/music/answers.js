@@ -4249,7 +4249,7 @@ export let answers = [
   },
   {
     "song_name": "Take on Me",
-    "lofi_artist": "< b a r u b e a t >",
+    "lofi_artist": "Covers Unplugged",
     "original_artist": "a-ha",
     "images": [
       {
