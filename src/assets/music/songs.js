@@ -6,7 +6,6 @@ export let songs = [
   "hey you - pink floyd",
   "hit it (feat. saweetie & lele pons) - black eyed peas, saweetie, lele pons",
   "ugly heart - g.r.l.",
-  "a whole new world (end title) - from \"aladdin\" - zayn, zhavia",
   "wicked game - chris isaak",
   "to my love - tainy remix - bomba estéreo, tainy",
   "cursive - voilà, kellin quinn",
