@@ -25,7 +25,6 @@ export let songs = [
   "i don't like - chief keef, lil reese",
   "go hard or go home - wiz khalifa, iggy azalea",
   "eu vou com carinho ela quer com força - mc don juan, mc g15, mc davi",
-  "dandelions - slowed + reverb - ruth b., slater",
   "spend the money (feat. lil uzi vert) - fousheé, lil uzi vert",
   "mi cuerpo - nayer",
   "arcade - duncan laurence",
