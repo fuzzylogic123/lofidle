@@ -456,7 +456,6 @@ export let songs = [
   "rudolph the red-nosed reindeer - dean martin",
   "circles - post malone",
   "la jeepeta - remix - nio garcia, anuel aa, myke towers, brray, juanka",
-  "lean on - major lazer, mø, dj snake",
   "how soon is now? - 2011 remaster - the smiths",
   "act a fool - ludacris",
   "maybe (feat. bring me the horizon) - machine gun kelly, bring me the horizon",
