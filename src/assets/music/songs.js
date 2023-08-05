@@ -458,6 +458,7 @@ export let songs = [
   "la jeepeta - remix - nio garcia, anuel aa, myke towers, brray, juanka",
   "how soon is now? - 2011 remaster - the smiths",
   "act a fool - ludacris",
+  "cupid - fifty fifty",
   "maybe (feat. bring me the horizon) - machine gun kelly, bring me the horizon",
   "salió el sol - don omar",
   "eu não sou de me entregar - ferrugem",

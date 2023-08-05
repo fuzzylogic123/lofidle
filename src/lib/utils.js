@@ -23,6 +23,7 @@ function parseMillisecondsIntoReadableTime(milliseconds) {
 }
 
 function getLofidleIndex() {
+  return 0
   const startDate = new Date(2022, 10, 26, 0);
   const currentDate = new Date();
   return Math.floor(daysBetween(startDate, currentDate))

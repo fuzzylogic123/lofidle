@@ -1,24 +1,24 @@
 export let answers = [
   {
-    "song_name": "Numb",
-    "lofi_artist": "Mount Eminest, holydope, Gletscher",
-    "lofi_preview_url": "/audio/lofi/Numb.mp3",
-    "original_preview_url": "/audio/original/Numb.mp3",
-    "original_artist": "Linkin Park",
-    "images": [
+    "song_name": "Cupid",
+    "lofi_artist": "Kisa",
+    "lofi_preview_url": "/audio/lofi/cupid-but-its-lofi-fifty-fifty.mp3",
+    "original_preview_url": "/audio/original/cupid-official-mv.mp3",
+    "original_artist": "FIFTY FIFTY",
+    "images":[
       {
         "height": 640,
-        "url": "https://i.scdn.co/image/ab67616d0000b273b4ad7ebaf4575f120eb3f193",
+        "url": "https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb",
         "width": 640
       },
       {
         "height": 300,
-        "url": "https://i.scdn.co/image/ab67616d00001e02b4ad7ebaf4575f120eb3f193",
+        "url": "https://i.scdn.co/image/ab67616d00001e0237c0b3670236c067c8e8bbcb",
         "width": 300
       },
       {
         "height": 64,
-        "url": "https://i.scdn.co/image/ab67616d00004851b4ad7ebaf4575f120eb3f193",
+        "url": "https://i.scdn.co/image/ab67616d0000485137c0b3670236c067c8e8bbcb",
         "width": 64
       }
     ]
