@@ -12,7 +12,7 @@
   let copiedSucessfully = false;
   let timeUntilNextLofidle = "soon";
 
-  setTimeUntilNextLofidle();
+  setTimeUntilNextLofidle(); 
   const intervalHandle = setInterval(setTimeUntilNextLofidle, 1000);
 
   function setTimeUntilNextLofidle() {
