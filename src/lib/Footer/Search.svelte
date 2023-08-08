@@ -40,7 +40,7 @@
     for (let i = 0; i < songs.length; i++) {
       const song = songs[i];
       if (
-        song.replace(/'/g, "").includes(query.toLowerCase().replace(/'/g, ""))
+        song.replace(/['. ]/g, "").includes(query.toLowerCase().replace(/['. ]/g, ""))
       ) {
         autoCompleteOptions.push(song);
         result_counter += 1;
