@@ -31,6 +31,8 @@
   let previousScores;
   let lastCompletedDate;
 
+  let hasShownStats = false;
+
   audio.addEventListener("timeupdate", stopAudioAtTimeLimit);
 
   $: if (guesses.length !== 0) {
@@ -103,6 +105,14 @@
     audio.src = lofidle.original_preview_url;
     audio.volume = 0.3;
     audio.play();
+  }
+
+  function handleStatsClick() {
+    if (!hasShownStats) {
+      logEvent(analytics, "stats-page");
+    }
+    hasShownStats = true;
+    showStats = true;
   }
 
   function visitLastPage() {
@@ -248,7 +258,7 @@
   <Footer
     on:playSong={playMusic}
     on:skipSegment={skipSegment}
-    on:stats={() => (showStats = true)}
+    on:stats={handleStatsClick}
     on:tutorial={() => (showTutorial = true)}
     on:info={() => (showInfo = true)}
     {nowPlaying}
