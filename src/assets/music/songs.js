@@ -4312,7 +4312,6 @@ export let songs = [
   "my strange addiction - billie eilish",
   "pet sematary - ramones",
   "money for nothing - dire straits",
-  "nothing else matters (remastered) - metallica",
   "no diggity - chet faker",
   "the loneliest - måneskin",
   "love on top - beyoncé",
