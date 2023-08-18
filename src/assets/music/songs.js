@@ -2844,7 +2844,6 @@ export let songs = [
   "rock and roll - remaster - led zeppelin",
   "tell her you love her (feat. mat kearney) - echosmith, mat kearney",
   "wishing well - juice wrld",
-  "sunroof - loud luxury remix - nicky youre, dazy, loud luxury",
   "casei com a putaria - mc paiva zs, mc ryan sp, kotim",
   "karma - summer walker",
   "here - alessia cara",
