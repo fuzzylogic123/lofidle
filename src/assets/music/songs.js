@@ -4479,7 +4479,6 @@ export let songs = [
   "omg (feat. will.i.am) - usher, will.i.am",
   "adrienne - the calling",
   "otherside - red hot chili peppers",
-  "get lucky (feat. pharrell williams & nile rodgers) - daft punk, pharrell williams, nile rodgers",
   "watch - billie eilish",
   "sunset lover - petit biscuit",
   "la curiosidad - jay wheeler, dj nelson, myke towers",
