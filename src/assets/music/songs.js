@@ -3525,7 +3525,6 @@ export let songs = [
   "beautiful day - u2",
   "bajo el agua - manuel medrano",
   "thunderclouds (feat. sia, diplo, and labrinth) - sia, diplo, labrinth, lsd",
-  "fly me to the moon (in other words) - frank sinatra, count basie",
   "platicamos - pol granch, leon leiden",
   "famous last words - my chemical romance",
   "she hates me - puddle of mudd",
