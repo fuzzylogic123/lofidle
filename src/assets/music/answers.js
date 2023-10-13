@@ -7704,7 +7704,7 @@ export let answers = [
     "lofi_preview_url": "/audio/lofi/Perfect.mp3"
   },
   {
-    "song_name": "Señorita",
+    "song_name": "Senorita",
     "lofi_artist": "Slowzy",
     "original_artist": "Shawn Mendes, Camila Cabello",
     "images": [
