@@ -4059,7 +4059,6 @@ export let songs = [
   "dead weight - jack stauber",
   "raise your glass - p!nk",
   "gimme shelter - the rolling stones",
-  "let her go - jasmine thompson",
   "shining star - from 'minions: the rise of gru' soundtrack - brittany howard, verdine white",
   "me enamoré - chichi peralta, jandy feliz",
   "trouble sleeping - corinne bailey rae",
