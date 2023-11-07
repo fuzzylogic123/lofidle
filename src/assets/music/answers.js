@@ -8422,5 +8422,893 @@ export let answers = [
     ],
     "original_preview_url": "/audio/original/Saint-Tropez.mp3",
     "lofi_preview_url": "/audio/lofi/Saint-Tropez.mp3"
+  },
+  {
+    "song_name": "Antidote",
+    "lofi_artist": "Lo-Fi Dreamers",
+    "original_artist": "Travis Scott",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273715973050587fe3c93033aad",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02715973050587fe3c93033aad",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851715973050587fe3c93033aad",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Antidote.mp3",
+    "lofi_preview_url": "/audio/lofi/Antidote.mp3"
+  },
+  {
+    "song_name": "Barbie Girl",
+    "lofi_artist": "Chillzy",
+    "original_artist": "Aqua",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f5768db89dd8ac30fd0e414f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f5768db89dd8ac30fd0e414f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f5768db89dd8ac30fd0e414f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Barbie_Girl.mp3",
+    "lofi_preview_url": "/audio/lofi/Barbie_Girl.mp3"
+  },
+  {
+    "song_name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+    "lofi_artist": "DOSA, Piple",
+    "original_artist": "Eiffel 65, Gabry Ponte",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27329cced2f38d87456e0b5c398",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0229cced2f38d87456e0b5c398",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485129cced2f38d87456e0b5c398",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Blue_(Da_Ba_Dee)_-_Gabry_Ponte_Ice_Pop_Radio.mp3",
+    "lofi_preview_url": "/audio/lofi/Blue_(Da_Ba_Dee)_-_Gabry_Ponte_Ice_Pop_Radio.mp3"
+  },
+  {
+    "song_name": "Bound 2",
+    "lofi_artist": "HYGH Lofi Music, Lobit, Cooky",
+    "original_artist": "Kanye West",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021dacfbc31cc873d132958af9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511dacfbc31cc873d132958af9",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Bound_2.mp3",
+    "lofi_preview_url": "/audio/lofi/Bound_2.mp3"
+  },
+  {
+    "song_name": "Candy Paint",
+    "lofi_artist": "Lo-Fi Dreamers",
+    "original_artist": "Post Malone",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b1c4b76e23414c9f20242268",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Candy_Paint.mp3",
+    "lofi_preview_url": "/audio/lofi/Candy_Paint.mp3"
+  },
+  {
+    "song_name": "Champagne Supernova",
+    "lofi_artist": "myndstream",
+    "original_artist": "Oasis",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022f2eeee9b405f4d00428d84c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512f2eeee9b405f4d00428d84c",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Champagne_Supernova.mp3",
+    "lofi_preview_url": "/audio/lofi/Champagne_Supernova.mp3"
+  },
+  {
+    "song_name": "death bed (coffee for your head)",
+    "lofi_artist": "Flex, The Remix Station",
+    "original_artist": "Powfu, beabadoobee",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bf01fd0986a195d485922167",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bf01fd0986a195d485922167",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/death_bed_(coffee_for_your_head).mp3",
+    "lofi_preview_url": "/audio/lofi/death_bed_(coffee_for_your_head).mp3"
+  },
+  {
+    "song_name": "Don't Stop Believin'",
+    "lofi_artist": "Chillzy",
+    "original_artist": "Journey",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c5653f9038e42efad2f8a266",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c5653f9038e42efad2f8a266",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c5653f9038e42efad2f8a266",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Don't_Stop_Believin'.mp3",
+    "lofi_preview_url": "/audio/lofi/Don't_Stop_Believin'.mp3"
+  },
+  {
+    "song_name": "Enough",
+    "lofi_artist": "Flex, The Remix Station",
+    "original_artist": "charlieonnafriday",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d3879d79b66e17a91c59aba8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d3879d79b66e17a91c59aba8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d3879d79b66e17a91c59aba8",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Enough.mp3",
+    "lofi_preview_url": "/audio/lofi/Enough.mp3"
+  },
+  {
+    "song_name": "Free Fallin'",
+    "lofi_artist": "myndstream",
+    "original_artist": "Tom Petty",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0236572e6726714544f5bed456",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485136572e6726714544f5bed456",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Free_Fallin'.mp3",
+    "lofi_preview_url": "/audio/lofi/Free_Fallin'.mp3"
+  },
+  {
+    "song_name": "Go Hard",
+    "lofi_artist": "The Remix Station, Flex",
+    "original_artist": "Lil Baby",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737665bdacb19389860e6cc517",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027665bdacb19389860e6cc517",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517665bdacb19389860e6cc517",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Go_Hard.mp3",
+    "lofi_preview_url": "/audio/lofi/Go_Hard.mp3"
+  },
+  {
+    "song_name": "goosebumps",
+    "lofi_artist": "Lo-Fi Dreamers",
+    "original_artist": "Travis Scott",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f54b99bf27cda88f4a7403ce",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f54b99bf27cda88f4a7403ce",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/goosebumps.mp3",
+    "lofi_preview_url": "/audio/lofi/goosebumps.mp3"
+  },
+  {
+    "song_name": "Heart-Shaped Box",
+    "lofi_artist": "Tedi Mercury, Plutonimous, Alien Cake Music",
+    "original_artist": "Nirvana",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02aca059cebc1841277db22d1c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851aca059cebc1841277db22d1c",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Heart-Shaped_Box.mp3",
+    "lofi_preview_url": "/audio/lofi/Heart-Shaped_Box.mp3"
+  },
+  {
+    "song_name": "Heartless",
+    "lofi_artist": "Lo-Fi Dreamers",
+    "original_artist": "Kanye West",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02346d77e155d854735410ed18",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851346d77e155d854735410ed18",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Heartless.mp3",
+    "lofi_preview_url": "/audio/lofi/Heartless.mp3"
+  },
+  {
+    "song_name": "Hold On, We're Going Home",
+    "lofi_artist": "myndstream",
+    "original_artist": "Drake, Majid Jordan",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Hold_On,_We're_Going_Home.mp3",
+    "lofi_preview_url": "/audio/lofi/Hold_On,_We're_Going_Home.mp3"
+  },
+  {
+    "song_name": "I Fall Apart",
+    "lofi_artist": "Lo-Fi Dreamers",
+    "original_artist": "Post Malone",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0255404f712deb84d0650a4b41",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485155404f712deb84d0650a4b41",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/I_Fall_Apart.mp3",
+    "lofi_preview_url": "/audio/lofi/I_Fall_Apart.mp3"
+  },
+  {
+    "song_name": "No Promises (feat. Demi Lovato)",
+    "lofi_artist": "Nostalgia Avenue, Emil Lonam",
+    "original_artist": "Cheat Codes, Demi Lovato",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e74ecdb2f1316c8f026970a8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e74ecdb2f1316c8f026970a8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e74ecdb2f1316c8f026970a8",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/No_Promises_(feat._Demi_Lovato).mp3",
+    "lofi_preview_url": "/audio/lofi/No_Promises_(feat._Demi_Lovato).mp3"
+  },
+  {
+    "song_name": "Often",
+    "lofi_artist": "Joongle, Piple",
+    "original_artist": "The Weeknd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027fcead687e99583072cc217b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517fcead687e99583072cc217b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Often.mp3",
+    "lofi_preview_url": "/audio/lofi/Often.mp3"
+  },
+  {
+    "song_name": "Otherside",
+    "lofi_artist": "Alien Cake Music, Venus Millions, EarthTing",
+    "original_artist": "Red Hot Chili Peppers",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Otherside.mp3",
+    "lofi_preview_url": "/audio/lofi/Otherside.mp3"
+  },
+  {
+    "song_name": "pick up the phone",
+    "lofi_artist": "Lo-Fi Dreamers",
+    "original_artist": "Young Thug, Travis Scott",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f54b99bf27cda88f4a7403ce",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f54b99bf27cda88f4a7403ce",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/pick_up_the_phone.mp3",
+    "lofi_preview_url": "/audio/lofi/pick_up_the_phone.mp3"
+  },
+  {
+    "song_name": "Sacrifice",
+    "lofi_artist": "golden era, The Remix Station",
+    "original_artist": "The Weeknd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734ab2520c2c77a1d66b9ee21d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024ab2520c2c77a1d66b9ee21d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514ab2520c2c77a1d66b9ee21d",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Sacrifice.mp3",
+    "lofi_preview_url": "/audio/lofi/Sacrifice.mp3"
+  },
+  {
+    "song_name": "Scar Tissue",
+    "lofi_artist": "Plutonimous, EarthTing, Alien Cake Music",
+    "original_artist": "Red Hot Chili Peppers",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485194d08ab63e57b0cae74e8595",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Scar_Tissue.mp3",
+    "lofi_preview_url": "/audio/lofi/Scar_Tissue.mp3"
+  },
+  {
+    "song_name": "Something In The Way",
+    "lofi_artist": "Saturn Night, Alien Cake Music, EarthTing",
+    "original_artist": "Nirvana",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fbc71c99f9c1296c56dd51b6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Something_In_The_Way.mp3",
+    "lofi_preview_url": "/audio/lofi/Something_In_The_Way.mp3"
+  },
+  {
+    "song_name": "Sorry",
+    "lofi_artist": "DOSA, Piple",
+    "original_artist": "Justin Bieber",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f46b9d202509a8f7384b90de",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Sorry.mp3",
+    "lofi_preview_url": "/audio/lofi/Sorry.mp3"
+  },
+  {
+    "song_name": "Super Mario Theme (From \"Super Mario\")",
+    "lofi_artist": "Tanoshi",
+    "original_artist": "Just Kids",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738d0bb6ee68e7d9edf79853a3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028d0bb6ee68e7d9edf79853a3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518d0bb6ee68e7d9edf79853a3",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Super_Mario_Theme_(From_Super_Mario).mp3",
+    "lofi_preview_url": "/audio/lofi/Super_Mario_Theme_(From_Super_Mario).mp3"
+  },
+  {
+    "song_name": "True Colors",
+    "lofi_artist": "Chillzy",
+    "original_artist": "Cyndi Lauper",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735128af6747a56ccb3c7ea5b3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025128af6747a56ccb3c7ea5b3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515128af6747a56ccb3c7ea5b3",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/True_Colors.mp3",
+    "lofi_preview_url": "/audio/lofi/True_Colors.mp3"
+  },
+  {
+    "song_name": "vampire",
+    "lofi_artist": "Chillzy",
+    "original_artist": "Olivia Rodrigo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e85259a1cae29a8d91f2093d",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/vampire.mp3",
+    "lofi_preview_url": "/audio/lofi/vampire.mp3"
+  },
+  {
+    "song_name": "When I Was Your Man",
+    "lofi_artist": "Chillzy",
+    "original_artist": "Bruno Mars",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851926f43e7cce571e62720fd46",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/When_I_Was_Your_Man.mp3",
+    "lofi_preview_url": "/audio/lofi/When_I_Was_Your_Man.mp3"
+  },
+  {
+    "song_name": "Wishing Well",
+    "lofi_artist": "Lo-Fi Dreamers",
+    "original_artist": "Juice WRLD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023e0698e4ae5ffb82a005aeeb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513e0698e4ae5ffb82a005aeeb",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Wishing_Well.mp3",
+    "lofi_preview_url": "/audio/lofi/Wishing_Well.mp3"
+  },
+  {
+    "song_name": "YOSEMITE",
+    "lofi_artist": "Lo-Fi Dreamers",
+    "original_artist": "Travis Scott",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02072e9faef2ef7b6db63834a3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851072e9faef2ef7b6db63834a3",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/YOSEMITE.mp3",
+    "lofi_preview_url": "/audio/lofi/YOSEMITE.mp3"
+  },
+  {
+    "song_name": "Your Love (9PM)",
+    "lofi_artist": "Lobit",
+    "original_artist": "ATB, Topic, A7S",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f1462ebfec5f96421f44dcd3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f1462ebfec5f96421f44dcd3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f1462ebfec5f96421f44dcd3",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Your_Love_(9PM).mp3",
+    "lofi_preview_url": "/audio/lofi/Your_Love_(9PM).mp3"
+  },
+  {
+    "song_name": "Cruel Summer",
+    "lofi_artist": "Chillzy",
+    "original_artist": "Taylor Swift",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Cruel_Summer.mp3",
+    "lofi_preview_url": "/audio/lofi/Cruel_Summer.mp3"
+  },
+  {
+    "song_name": "Dreams - 2004 Remaster",
+    "lofi_artist": "Lo-Fi Dreamers",
+    "original_artist": "Fleetwood Mac",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e52a59a28efa4773dd2bfe1b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Dreams_-_2004_Remaster.mp3",
+    "lofi_preview_url": "/audio/lofi/Dreams_-_2004_Remaster.mp3"
+  },
+  {
+    "song_name": "Enemy (with JID) - from the series Arcane League of Legends",
+    "lofi_artist": "Mik, Samuel Kim",
+    "original_artist": "Imagine Dragons, JID, Arcane, League of Legends",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273aa597e50829169e6994eb403",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02aa597e50829169e6994eb403",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851aa597e50829169e6994eb403",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Enemy_(with_JID)_-_from_the_series_Arcane_League_of_Legends.mp3",
+    "lofi_preview_url": "/audio/lofi/Enemy_(with_JID)_-_from_the_series_Arcane_League_of_Legends.mp3"
+  },
+  {
+    "song_name": "No Time To Die",
+    "lofi_artist": "lofi piano dog, Flat Keys, Sleep Trick",
+    "original_artist": "Billie Eilish",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f7b7174bef6f3fbfda3a0bb7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f7b7174bef6f3fbfda3a0bb7",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/No_Time_To_Die.mp3",
+    "lofi_preview_url": "/audio/lofi/No_Time_To_Die.mp3"
+  },
+  {
+    "song_name": "Better Off Alone",
+    "lofi_artist": "HYGH Lofi Music, Lobit, Cooky",
+    "original_artist": "Alice Deejay",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738d897b8994ce008298200408",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028d897b8994ce008298200408",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518d897b8994ce008298200408",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Better_Off_Alone.mp3",
+    "lofi_preview_url": "/audio/lofi/Better_Off_Alone.mp3"
+  },
+  {
+    "song_name": "Come As You Are",
+    "lofi_artist": "Tedi Mercury, Alien Cake Music",
+    "original_artist": "Nirvana",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fbc71c99f9c1296c56dd51b6",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Come_As_You_Are.mp3",
+    "lofi_preview_url": "/audio/lofi/Come_As_You_Are.mp3"
   }
 ];
