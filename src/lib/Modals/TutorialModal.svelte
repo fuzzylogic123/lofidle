@@ -49,6 +49,7 @@
     font-size: 1em;
     text-align: left;
     font-family: "tauri";
+    line-height: 1.25em;
   }
 
   .instruction-container {
