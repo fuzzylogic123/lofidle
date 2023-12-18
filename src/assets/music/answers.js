@@ -9310,5 +9310,29 @@ export let answers = [
     ],
     "original_preview_url": "/audio/original/Come_As_You_Are.mp3",
     "lofi_preview_url": "/audio/lofi/Come_As_You_Are.mp3"
+  },
+  {
+    "song_name": "Hold Back The River",
+    "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
+    "original_artist": "James Bay",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273066483b34a405583429b8049",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02066483b34a405583429b8049",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851066483b34a405583429b8049",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Hold_Back_The_River.mp3",
+    "lofi_preview_url": "/audio/lofi/Hold_Back_The_River.mp3"
   }
 ];
