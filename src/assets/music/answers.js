@@ -9334,5 +9334,29 @@ export let answers = [
     ],
     "original_preview_url": "/audio/original/Hold_Back_The_River.mp3",
     "lofi_preview_url": "/audio/lofi/Hold_Back_The_River.mp3"
+  },
+  {
+    "song_name": "Last Night",
+    "lofi_artist": "owlh",
+    "original_artist": "Morgan Wallen",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fc1df8423733f6f3c9e8dea2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fc1df8423733f6f3c9e8dea2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fc1df8423733f6f3c9e8dea2",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Last_Night.mp3",
+    "lofi_preview_url": "/audio/lofi/Last_Night.mp3"
   }
 ];

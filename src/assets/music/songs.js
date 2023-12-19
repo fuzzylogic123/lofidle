@@ -5656,5 +5656,6 @@ export let songs = [
   "vampire - olivia rodrigo",
   "yosemite - travis scott",
   "cruel summer - taylor swift",
-  "come as you are - nirvana"
+  "come as you are - nirvana",
+  "last night - morgan wallen"
 ];
