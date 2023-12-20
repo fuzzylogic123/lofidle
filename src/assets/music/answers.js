@@ -9358,5 +9358,29 @@ export let answers = [
     ],
     "original_preview_url": "/audio/original/Last_Night.mp3",
     "lofi_preview_url": "/audio/lofi/Last_Night.mp3"
+  },
+  {
+    "song_name": "A Thousand Years",
+    "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
+    "original_artist": "Christina Perri",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/4aaa9fae84be9e79c1a58845784441d65327bcba",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/2aeebc0c478bfe46ad5d7622f5d8863da2c29b6f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/2df0e951955b8b24b88f28f4f243e53cee7fa13e",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/A_Thousand_Years.mp3",
+    "lofi_preview_url": "/audio/lofi/A_Thousand_Years.mp3"
   }
 ];
