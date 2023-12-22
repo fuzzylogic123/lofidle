@@ -9406,5 +9406,3245 @@ export let answers = [
     ],
     "original_preview_url": "/audio/original/Airplanes_(feat._Hayley_Williams_of_Paramore).mp3",
     "lofi_preview_url": "/audio/lofi/Airplanes_(feat._Hayley_Williams_of_Paramore).mp3"
+  },
+  {
+    "song_name": "All Girls Are The Same",
+    "lofi_artist": "owlh",
+    "original_artist": "Juice WRLD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f7db43292a6a99b21b51d5b4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f7db43292a6a99b21b51d5b4",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/All_Girls_Are_The_Same.mp3",
+    "lofi_preview_url": "/audio/lofi/All_Girls_Are_The_Same.mp3"
+  },
+  {
+    "song_name": "Am I Wrong",
+    "lofi_artist": "Mount Eminest",
+    "original_artist": "Nico & Vinz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273eb3c078694b007169dab4a4f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02eb3c078694b007169dab4a4f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851eb3c078694b007169dab4a4f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Am_I_Wrong.mp3",
+    "lofi_preview_url": "/audio/lofi/Am_I_Wrong.mp3"
+  },
+  {
+    "song_name": "Bubbly",
+    "lofi_artist": "Lofi Fruits Music, Fets, Formal Chicken",
+    "original_artist": "Colbie Caillat",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c4a7e933ef7fbb7e6485b73a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c4a7e933ef7fbb7e6485b73a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c4a7e933ef7fbb7e6485b73a",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Bubbly.mp3",
+    "lofi_preview_url": "/audio/lofi/Bubbly.mp3"
+  },
+  {
+    "song_name": "California Dreamin'",
+    "lofi_artist": "Chill With Lofi, Cidus, Emil Lonam",
+    "original_artist": "The Mamas & The Papas",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cbd56c3a8faf8cf8c8bea0df",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cbd56c3a8faf8cf8c8bea0df",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cbd56c3a8faf8cf8c8bea0df",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/California_Dreamin'.mp3",
+    "lofi_preview_url": "/audio/lofi/California_Dreamin'.mp3"
+  },
+  {
+    "song_name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
+    "lofi_artist": "Lofi Fruits Music, Formal Chicken, Fets",
+    "original_artist": "OMI, Felix Jaehn",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27385ca00029c70d6b5b8372e96",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0285ca00029c70d6b5b8372e96",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485185ca00029c70d6b5b8372e96",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Cheerleader_(Felix_Jaehn_Remix)_-_Radio_Edit.mp3",
+    "lofi_preview_url": "/audio/lofi/Cheerleader_(Felix_Jaehn_Remix)_-_Radio_Edit.mp3"
+  },
+  {
+    "song_name": "Cleanin' Out My Closet",
+    "lofi_artist": "Sunday Without You",
+    "original_artist": "Eminem",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026ca5c90113b30c3c43ffb8f4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516ca5c90113b30c3c43ffb8f4",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Cleanin'_Out_My_Closet.mp3",
+    "lofi_preview_url": "/audio/lofi/Cleanin'_Out_My_Closet.mp3"
+  },
+  {
+    "song_name": "Don't Go Yet",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Camila Cabello",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d24bb6aa36842e45bdd3d1cc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d24bb6aa36842e45bdd3d1cc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d24bb6aa36842e45bdd3d1cc",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Don't_Go_Yet.mp3",
+    "lofi_preview_url": "/audio/lofi/Don't_Go_Yet.mp3"
+  },
+  {
+    "song_name": "Don't Start Now",
+    "lofi_artist": "Lofi Fruits Music, Orange Stick, Tempura",
+    "original_artist": "Dua Lipa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024bc66095f8a70bc4e6593f4f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514bc66095f8a70bc4e6593f4f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Don't_Start_Now.mp3",
+    "lofi_preview_url": "/audio/lofi/Don't_Start_Now.mp3"
+  },
+  {
+    "song_name": "Drops of Jupiter (Tell Me)",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Train",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a65df73c4011b6a9357c89f0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a65df73c4011b6a9357c89f0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a65df73c4011b6a9357c89f0",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Drops_of_Jupiter_(Tell_Me).mp3",
+    "lofi_preview_url": "/audio/lofi/Drops_of_Jupiter_(Tell_Me).mp3"
+  },
+  {
+    "song_name": "Earned It (Fifty Shades Of Grey)",
+    "lofi_artist": "Lofi Fruits Music, Fets, Formal Chicken",
+    "original_artist": "The Weeknd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27312a76d1b13ef07188f7dfbc9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0212a76d1b13ef07188f7dfbc9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485112a76d1b13ef07188f7dfbc9",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Earned_It_(Fifty_Shades_Of_Grey).mp3",
+    "lofi_preview_url": "/audio/lofi/Earned_It_(Fifty_Shades_Of_Grey).mp3"
+  },
+  {
+    "song_name": "Enter Sandman",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Metallica",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cf84c5b276431b473e924802",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Enter_Sandman.mp3",
+    "lofi_preview_url": "/audio/lofi/Enter_Sandman.mp3"
+  },
+  {
+    "song_name": "Escapism.",
+    "lofi_artist": "Covers Unplugged, Wild Issues",
+    "original_artist": "RAYE, 070 Shake",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0294e5237ce925531dbb38e75f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485194e5237ce925531dbb38e75f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Escapism..mp3",
+    "lofi_preview_url": "/audio/lofi/Escapism..mp3"
+  },
+  {
+    "song_name": "Eye of the Tiger",
+    "lofi_artist": "The Remix Station, Chill FC",
+    "original_artist": "Survivor",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f4a2ccbe20d6d52f16816812",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f4a2ccbe20d6d52f16816812",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Eye_of_the_Tiger.mp3",
+    "lofi_preview_url": "/audio/lofi/Eye_of_the_Tiger.mp3"
+  },
+  {
+    "song_name": "Friend Like Me",
+    "lofi_artist": "møon lofi beats",
+    "original_artist": "Robin Williams, Disney",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d6cfbe6229dc73b8f6773196",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d6cfbe6229dc73b8f6773196",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d6cfbe6229dc73b8f6773196",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Friend_Like_Me.mp3",
+    "lofi_preview_url": "/audio/lofi/Friend_Like_Me.mp3"
+  },
+  {
+    "song_name": "Get Down On It",
+    "lofi_artist": "Lofi Fruits Music, Tempura, Avocuddle",
+    "original_artist": "Kool & The Gang",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736ef6ad26898a6eace34a216c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026ef6ad26898a6eace34a216c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516ef6ad26898a6eace34a216c",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Get_Down_On_It.mp3",
+    "lofi_preview_url": "/audio/lofi/Get_Down_On_It.mp3"
+  },
+  {
+    "song_name": "Get Into It (Yuh)",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Doja Cat",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273be841ba4bc24340152e3a79a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02be841ba4bc24340152e3a79a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851be841ba4bc24340152e3a79a",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Get_Into_It_(Yuh).mp3",
+    "lofi_preview_url": "/audio/lofi/Get_Into_It_(Yuh).mp3"
+  },
+  {
+    "song_name": "Girls Want Girls (with Lil Baby)",
+    "lofi_artist": "golden era, The Remix Station",
+    "original_artist": "Drake, Lil Baby",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cd945b4e3de57edd28481a3f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Girls_Want_Girls_(with_Lil_Baby).mp3",
+    "lofi_preview_url": "/audio/lofi/Girls_Want_Girls_(with_Lil_Baby).mp3"
+  },
+  {
+    "song_name": "Heathens",
+    "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
+    "original_artist": "Twenty One Pilots",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732ca3ba8f334ca5a5f0312efb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022ca3ba8f334ca5a5f0312efb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512ca3ba8f334ca5a5f0312efb",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Heathens.mp3",
+    "lofi_preview_url": "/audio/lofi/Heathens.mp3"
+  },
+  {
+    "song_name": "Hold Me Closer",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Elton John, Britney Spears",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735d872e7b0c1ba964541f07e8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025d872e7b0c1ba964541f07e8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515d872e7b0c1ba964541f07e8",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Hold_Me_Closer.mp3",
+    "lofi_preview_url": "/audio/lofi/Hold_Me_Closer.mp3"
+  },
+  {
+    "song_name": "I Love It (& Lil Pump)",
+    "lofi_artist": "The Remix Station",
+    "original_artist": "Kanye West, Lil Pump",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b6d544387b04e1d1a5f7926c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b6d544387b04e1d1a5f7926c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b6d544387b04e1d1a5f7926c",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/I_Love_It_(&_Lil_Pump).mp3",
+    "lofi_preview_url": "/audio/lofi/I_Love_It_(&_Lil_Pump).mp3"
+  },
+  {
+    "song_name": "I Need A Dollar",
+    "lofi_artist": "Peaceful Melody, soave lofi",
+    "original_artist": "Aloe Blacc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d90d47a95e1a22e4ed24c318",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d90d47a95e1a22e4ed24c318",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d90d47a95e1a22e4ed24c318",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/I_Need_A_Dollar.mp3",
+    "lofi_preview_url": "/audio/lofi/I_Need_A_Dollar.mp3"
+  },
+  {
+    "song_name": "I Took A Pill In Ibiza - Seeb Remix",
+    "lofi_artist": "Peaceful Melody, soave lofi",
+    "original_artist": "Mike Posner, Seeb",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731db27fa11dbafa67857da8f3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021db27fa11dbafa67857da8f3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511db27fa11dbafa67857da8f3",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/I_Took_A_Pill_In_Ibiza_-_Seeb_Remix.mp3",
+    "lofi_preview_url": "/audio/lofi/I_Took_A_Pill_In_Ibiza_-_Seeb_Remix.mp3"
+  },
+  {
+    "song_name": "Instant Crush (feat. Julian Casablancas)",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Daft Punk, Julian Casablancas",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029b9b36b0e22870b9f542d937",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519b9b36b0e22870b9f542d937",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Instant_Crush_(feat._Julian_Casablancas).mp3",
+    "lofi_preview_url": "/audio/lofi/Instant_Crush_(feat._Julian_Casablancas).mp3"
+  },
+  {
+    "song_name": "La La La",
+    "lofi_artist": "Nostalgia Avenue, Cidus, Emil Lonam",
+    "original_artist": "Naughty Boy, Sam Smith",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fafb4022c8ca1c4498e10b19",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fafb4022c8ca1c4498e10b19",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fafb4022c8ca1c4498e10b19",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/La_La_La.mp3",
+    "lofi_preview_url": "/audio/lofi/La_La_La.mp3"
+  },
+  {
+    "song_name": "Let It Be - Remastered 2009",
+    "lofi_artist": "Chill With Lofi",
+    "original_artist": "The Beatles",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485184243a01af3c77b56fe01ab1",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Let_It_Be_-_Remastered_2009.mp3",
+    "lofi_preview_url": "/audio/lofi/Let_It_Be_-_Remastered_2009.mp3"
+  },
+  {
+    "song_name": "Like a Virgin",
+    "lofi_artist": "Chill With Lofi, Cidus, Emil Lonam",
+    "original_artist": "Madonna",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736b18e58a06aac7763abe319a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026b18e58a06aac7763abe319a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516b18e58a06aac7763abe319a",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Like_a_Virgin.mp3",
+    "lofi_preview_url": "/audio/lofi/Like_a_Virgin.mp3"
+  },
+  {
+    "song_name": "Little Talks",
+    "lofi_artist": "Peaceful Melody, soave lofi",
+    "original_artist": "Of Monsters and Men",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273cb3f67e8026e2e493a1e8262",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02cb3f67e8026e2e493a1e8262",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851cb3f67e8026e2e493a1e8262",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Little_Talks.mp3",
+    "lofi_preview_url": "/audio/lofi/Little_Talks.mp3"
+  },
+  {
+    "song_name": "Locked out of Heaven",
+    "lofi_artist": "Retro Utopia",
+    "original_artist": "Bruno Mars",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02926f43e7cce571e62720fd46",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851926f43e7cce571e62720fd46",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Locked_out_of_Heaven.mp3",
+    "lofi_preview_url": "/audio/lofi/Locked_out_of_Heaven.mp3"
+  },
+  {
+    "song_name": "Lost in the Fire (feat. The Weeknd)",
+    "lofi_artist": "Joongle, DOSA",
+    "original_artist": "Gesaffelstein, The Weeknd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273011a2f51fe757fafe13a0c2e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02011a2f51fe757fafe13a0c2e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851011a2f51fe757fafe13a0c2e",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Lost_in_the_Fire_(feat._The_Weeknd).mp3",
+    "lofi_preview_url": "/audio/lofi/Lost_in_the_Fire_(feat._The_Weeknd).mp3"
+  },
+  {
+    "song_name": "Marry You",
+    "lofi_artist": "That Lofi Guy, Cidus, Emil Lonam",
+    "original_artist": "Bruno Mars",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f6b55ca93bd33211227b502b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Marry_You.mp3",
+    "lofi_preview_url": "/audio/lofi/Marry_You.mp3"
+  },
+  {
+    "song_name": "METAMORPHOSIS",
+    "lofi_artist": "sushisan, Lazy Banana",
+    "original_artist": "INTERWORLD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b852a616ae3a49a1f6b0f16e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b852a616ae3a49a1f6b0f16e",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/METAMORPHOSIS.mp3",
+    "lofi_preview_url": "/audio/lofi/METAMORPHOSIS.mp3"
+  },
+  {
+    "song_name": "Mirrors",
+    "lofi_artist": "Chill With Lofi, Cidus, Emil Lonam",
+    "original_artist": "Justin Timberlake",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273db1d1cdc927a07825a2ed244",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02db1d1cdc927a07825a2ed244",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851db1d1cdc927a07825a2ed244",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Mirrors.mp3",
+    "lofi_preview_url": "/audio/lofi/Mirrors.mp3"
+  },
+  {
+    "song_name": "P.I.M.P.",
+    "lofi_artist": "LoVinc",
+    "original_artist": "50 Cent",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02d843fabb75fef14010e30cae",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851d843fabb75fef14010e30cae",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/P.I.M.P..mp3",
+    "lofi_preview_url": "/audio/lofi/P.I.M.P..mp3"
+  },
+  {
+    "song_name": "r u ok",
+    "lofi_artist": "Chill With Lofi",
+    "original_artist": "Tate McRae",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273076ed578cfd2e4d81e8ff0f1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02076ed578cfd2e4d81e8ff0f1",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851076ed578cfd2e4d81e8ff0f1",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/r_u_ok.mp3",
+    "lofi_preview_url": "/audio/lofi/r_u_ok.mp3"
+  },
+  {
+    "song_name": "Rain On Me (with Ariana Grande)",
+    "lofi_artist": "Chill With Lofi, Cidus, Emil Lonam",
+    "original_artist": "Lady Gaga, Ariana Grande",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026040effba89b9b00a6f6743a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516040effba89b9b00a6f6743a",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Rain_On_Me_(with_Ariana_Grande).mp3",
+    "lofi_preview_url": "/audio/lofi/Rain_On_Me_(with_Ariana_Grande).mp3"
+  },
+  {
+    "song_name": "Replay",
+    "lofi_artist": "Joongle",
+    "original_artist": "Iyaz",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ae7012fce99c2b2345b54f30",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ae7012fce99c2b2345b54f30",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ae7012fce99c2b2345b54f30",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Replay.mp3",
+    "lofi_preview_url": "/audio/lofi/Replay.mp3"
+  },
+  {
+    "song_name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+    "lofi_artist": "Chill With Lofi",
+    "original_artist": "Clean Bandit, Sean Paul, Anne-Marie",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731431c3bdf16aa99f71799d95",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021431c3bdf16aa99f71799d95",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511431c3bdf16aa99f71799d95",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Rockabye_(feat._Sean_Paul_&_Anne-Marie).mp3",
+    "lofi_preview_url": "/audio/lofi/Rockabye_(feat._Sean_Paul_&_Anne-Marie).mp3"
+  },
+  {
+    "song_name": "Set Fire to the Rain",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Adele",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273164feb363334f93b6458d2a9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02164feb363334f93b6458d2a9",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851164feb363334f93b6458d2a9",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Set_Fire_to_the_Rain.mp3",
+    "lofi_preview_url": "/audio/lofi/Set_Fire_to_the_Rain.mp3"
+  },
+  {
+    "song_name": "Somewhere Only We Know",
+    "lofi_artist": "sad app, DOSA, Joongle",
+    "original_artist": "Keane",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737d6cd95a046a3c0dacbc7d33",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027d6cd95a046a3c0dacbc7d33",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517d6cd95a046a3c0dacbc7d33",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Somewhere_Only_We_Know.mp3",
+    "lofi_preview_url": "/audio/lofi/Somewhere_Only_We_Know.mp3"
+  },
+  {
+    "song_name": "Sweet Nothing (feat. Florence Welch)",
+    "lofi_artist": "The Remix Station, LoHouse",
+    "original_artist": "Calvin Harris, Florence Welch",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dcef905cb144d4867119850b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dcef905cb144d4867119850b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Sweet_Nothing_(feat._Florence_Welch).mp3",
+    "lofi_preview_url": "/audio/lofi/Sweet_Nothing_(feat._Florence_Welch).mp3"
+  },
+  {
+    "song_name": "Sweetest Pie",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Megan Thee Stallion, Dua Lipa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738364ea7b6e54e63c82c568cf",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028364ea7b6e54e63c82c568cf",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518364ea7b6e54e63c82c568cf",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Sweetest_Pie.mp3",
+    "lofi_preview_url": "/audio/lofi/Sweetest_Pie.mp3"
+  },
+  {
+    "song_name": "Take You Dancing",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Jason Derulo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27354eab2e4aa8b8706b6b526d2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0254eab2e4aa8b8706b6b526d2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485154eab2e4aa8b8706b6b526d2",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Take_You_Dancing.mp3",
+    "lofi_preview_url": "/audio/lofi/Take_You_Dancing.mp3"
+  },
+  {
+    "song_name": "Talking Body",
+    "lofi_artist": "owlh",
+    "original_artist": "Tove Lo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27370cd79659edf4d5fec0840b8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0270cd79659edf4d5fec0840b8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485170cd79659edf4d5fec0840b8",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Talking_Body.mp3",
+    "lofi_preview_url": "/audio/lofi/Talking_Body.mp3"
+  },
+  {
+    "song_name": "The Business",
+    "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
+    "original_artist": "Tiësto",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f461bbc21a9bcec43a926973",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f461bbc21a9bcec43a926973",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f461bbc21a9bcec43a926973",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/The_Business.mp3",
+    "lofi_preview_url": "/audio/lofi/The_Business.mp3"
+  },
+  {
+    "song_name": "The Final Countdown",
+    "lofi_artist": "The Remix Station, Chill FC",
+    "original_artist": "Europe",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732d925cec3072ed1b74e5188f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022d925cec3072ed1b74e5188f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512d925cec3072ed1b74e5188f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/The_Final_Countdown.mp3",
+    "lofi_preview_url": "/audio/lofi/The_Final_Countdown.mp3"
+  },
+  {
+    "song_name": "The Real Slim Shady",
+    "lofi_artist": "Sunday Without You",
+    "original_artist": "Eminem",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851dbb3dd82da45b7d7f31b1b42",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/The_Real_Slim_Shady.mp3",
+    "lofi_preview_url": "/audio/lofi/The_Real_Slim_Shady.mp3"
+  },
+  {
+    "song_name": "The Rhythm of the Night",
+    "lofi_artist": "Chill With Lofi, Cidus, Emil Lonam",
+    "original_artist": "Corona",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f94b2a29ccc364e8faedce10",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f94b2a29ccc364e8faedce10",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f94b2a29ccc364e8faedce10",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/The_Rhythm_of_the_Night.mp3",
+    "lofi_preview_url": "/audio/lofi/The_Rhythm_of_the_Night.mp3"
+  },
+  {
+    "song_name": "Treat You Better",
+    "lofi_artist": "Peaceful Melody, soave lofi",
+    "original_artist": "Shawn Mendes",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731376b4b16f4bfcba02dc571b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021376b4b16f4bfcba02dc571b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511376b4b16f4bfcba02dc571b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Treat_You_Better.mp3",
+    "lofi_preview_url": "/audio/lofi/Treat_You_Better.mp3"
+  },
+  {
+    "song_name": "Tusa",
+    "lofi_artist": "LatinoFi, The Remix Station",
+    "original_artist": "KAROL G, Nicki Minaj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ddd3154c58e15a8bdb63bbcc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ddd3154c58e15a8bdb63bbcc",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ddd3154c58e15a8bdb63bbcc",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Tusa.mp3",
+    "lofi_preview_url": "/audio/lofi/Tusa.mp3"
+  },
+  {
+    "song_name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+    "lofi_artist": "Chill With Lofi, Cidus, Emil Lonam",
+    "original_artist": "Mark Ronson, Amy Winehouse",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736a5beb0500ad6e3b0f7aea22",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026a5beb0500ad6e3b0f7aea22",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516a5beb0500ad6e3b0f7aea22",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Valerie_(feat._Amy_Winehouse)_-_Version_Revisited.mp3",
+    "lofi_preview_url": "/audio/lofi/Valerie_(feat._Amy_Winehouse)_-_Version_Revisited.mp3"
+  },
+  {
+    "song_name": "What A Wonderful World",
+    "lofi_artist": "Mount Eminest, MOYN, lofi.dealer",
+    "original_artist": "Louis Armstrong",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273845a5660b804e5f3e821fbed",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02845a5660b804e5f3e821fbed",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851845a5660b804e5f3e821fbed",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/What_A_Wonderful_World.mp3",
+    "lofi_preview_url": "/audio/lofi/What_A_Wonderful_World.mp3"
+  },
+  {
+    "song_name": "What About Us",
+    "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
+    "original_artist": "P!nk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0200164c96548a622d34b39828",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485100164c96548a622d34b39828",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/What_About_Us.mp3",
+    "lofi_preview_url": "/audio/lofi/What_About_Us.mp3"
+  },
+  {
+    "song_name": "When I'm Gone",
+    "lofi_artist": "Sunday Without You",
+    "original_artist": "Eminem",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e7eb779a71e61702561a5e78",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e7eb779a71e61702561a5e78",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e7eb779a71e61702561a5e78",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/When_I'm_Gone.mp3",
+    "lofi_preview_url": "/audio/lofi/When_I'm_Gone.mp3"
+  },
+  {
+    "song_name": "Where Is My Mind?",
+    "lofi_artist": "Chill With Lofi, Cidus, Emil Lonam",
+    "original_artist": "Pixies",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b17d34882944eaf0695153f2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b17d34882944eaf0695153f2",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Where_Is_My_Mind.mp3",
+    "lofi_preview_url": "/audio/lofi/Where_Is_My_Mind.mp3"
+  },
+  {
+    "song_name": "Yummy",
+    "lofi_artist": "Lofi Fruits Music, Orange Stick, Fets",
+    "original_artist": "Justin Bieber",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27360eec5a0953d4a33d77ed71d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0260eec5a0953d4a33d77ed71d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485160eec5a0953d4a33d77ed71d",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Yummy.mp3",
+    "lofi_preview_url": "/audio/lofi/Yummy.mp3"
+  },
+  {
+    "song_name": "A Thousand Miles",
+    "lofi_artist": "flowtide",
+    "original_artist": "Vanessa Carlton",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bc3ada3a19bb4e657f10917e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bc3ada3a19bb4e657f10917e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bc3ada3a19bb4e657f10917e",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/A_Thousand_Miles.mp3",
+    "lofi_preview_url": "/audio/lofi/A_Thousand_Miles.mp3"
+  },
+  {
+    "song_name": "Baby Don't Hurt Me",
+    "lofi_artist": "The Remix Station, Flex",
+    "original_artist": "David Guetta, Anne-Marie, Coi Leray",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020b4ef75c3728599aa4104f7a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510b4ef75c3728599aa4104f7a",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Baby_Don't_Hurt_Me.mp3",
+    "lofi_preview_url": "/audio/lofi/Baby_Don't_Hurt_Me.mp3"
+  },
+  {
+    "song_name": "Believer",
+    "lofi_artist": "Peaceful Melody, soave lofi",
+    "original_artist": "Imagine Dragons",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Believer.mp3",
+    "lofi_preview_url": "/audio/lofi/Believer.mp3"
+  },
+  {
+    "song_name": "Blank Space",
+    "lofi_artist": "Sunday Without You",
+    "original_artist": "Taylor Swift",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0252b2a3824413eefe9e33817a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485152b2a3824413eefe9e33817a",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Blank_Space.mp3",
+    "lofi_preview_url": "/audio/lofi/Blank_Space.mp3"
+  },
+  {
+    "song_name": "Bones",
+    "lofi_artist": "sad app, Joongle",
+    "original_artist": "Imagine Dragons",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273813713582dcc508e7d5073c4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02813713582dcc508e7d5073c4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851813713582dcc508e7d5073c4",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Bones.mp3",
+    "lofi_preview_url": "/audio/lofi/Bones.mp3"
+  },
+  {
+    "song_name": "Boy's a liar Pt. 2",
+    "lofi_artist": "The Remix Station, golden era",
+    "original_artist": "PinkPantheress, Ice Spice",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739567e1aa41657425d046733b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029567e1aa41657425d046733b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519567e1aa41657425d046733b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Boy's_a_liar_Pt._2.mp3",
+    "lofi_preview_url": "/audio/lofi/Boy's_a_liar_Pt._2.mp3"
+  },
+  {
+    "song_name": "BREAK MY SOUL",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Beyoncé",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730e58a0f8308c1ad403d105e7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020e58a0f8308c1ad403d105e7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510e58a0f8308c1ad403d105e7",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/BREAK_MY_SOUL.mp3",
+    "lofi_preview_url": "/audio/lofi/BREAK_MY_SOUL.mp3"
+  },
+  {
+    "song_name": "Chicago Freestyle (feat. Giveon)",
+    "lofi_artist": "golden era, The Remix Station",
+    "original_artist": "Drake, Giveon",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bba7cfaf7c59ff0898acba1f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Chicago_Freestyle_(feat._Giveon).mp3",
+    "lofi_preview_url": "/audio/lofi/Chicago_Freestyle_(feat._Giveon).mp3"
+  },
+  {
+    "song_name": "Dancing Queen",
+    "lofi_artist": "Chill With Lofi, Cidus, Emil Lonam",
+    "original_artist": "ABBA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0270f7a1b35d5165c85b95a0e0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485170f7a1b35d5165c85b95a0e0",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Dancing_Queen.mp3",
+    "lofi_preview_url": "/audio/lofi/Dancing_Queen.mp3"
+  },
+  {
+    "song_name": "Everybody (Backstreet's Back) - Radio Edit",
+    "lofi_artist": "Mount Eminest, MOYN, lofi.dealer, nailik",
+    "original_artist": "Backstreet Boys",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273530cec85d4543693bd726167",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02530cec85d4543693bd726167",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851530cec85d4543693bd726167",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Everybody_(Backstreet's_Back)_-_Radio_Edit.mp3",
+    "lofi_preview_url": "/audio/lofi/Everybody_(Backstreet's_Back)_-_Radio_Edit.mp3"
+  },
+  {
+    "song_name": "Everybody Wants To Rule The World",
+    "lofi_artist": "Fletcher Reed",
+    "original_artist": "Tears For Fears",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0222463d6939fec9e17b2a6235",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485122463d6939fec9e17b2a6235",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Everybody_Wants_To_Rule_The_World.mp3",
+    "lofi_preview_url": "/audio/lofi/Everybody_Wants_To_Rule_The_World.mp3"
+  },
+  {
+    "song_name": "Ferrari",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "James Hype, Miggy Dela Rosa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736cc861b5c9c7cdef61b010b4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026cc861b5c9c7cdef61b010b4",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516cc861b5c9c7cdef61b010b4",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Ferrari.mp3",
+    "lofi_preview_url": "/audio/lofi/Ferrari.mp3"
+  },
+  {
+    "song_name": "greedy",
+    "lofi_artist": "Nostalgia Avenue, Emil Lonam, Cidus",
+    "original_artist": "Tate McRae",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27322fd802bc61db666c7c81aa8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0222fd802bc61db666c7c81aa8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485122fd802bc61db666c7c81aa8",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/greedy.mp3",
+    "lofi_preview_url": "/audio/lofi/greedy.mp3"
+  },
+  {
+    "song_name": "Grenade",
+    "lofi_artist": "Chill With Lofi",
+    "original_artist": "Bruno Mars",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f6b55ca93bd33211227b502b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Grenade.mp3",
+    "lofi_preview_url": "/audio/lofi/Grenade.mp3"
+  },
+  {
+    "song_name": "Higher Love",
+    "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
+    "original_artist": "Kygo, Whitney Houston",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737c8977a0ad3a3a0627be9ed7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027c8977a0ad3a3a0627be9ed7",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517c8977a0ad3a3a0627be9ed7",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Higher_Love.mp3",
+    "lofi_preview_url": "/audio/lofi/Higher_Love.mp3"
+  },
+  {
+    "song_name": "Hope",
+    "lofi_artist": "Closed on Sunday",
+    "original_artist": "XXXTENTACION",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02806c160566580d6335d1f16c",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851806c160566580d6335d1f16c",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Hope.mp3",
+    "lofi_preview_url": "/audio/lofi/Hope.mp3"
+  },
+  {
+    "song_name": "I Wanna Be Yours",
+    "lofi_artist": "Joongle",
+    "original_artist": "Arctic Monkeys",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514ae1c4c5c45aabe565499163",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/I_Wanna_Be_Yours.mp3",
+    "lofi_preview_url": "/audio/lofi/I_Wanna_Be_Yours.mp3"
+  },
+  {
+    "song_name": "I Will Always Love You",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Whitney Houston",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273456c0b5d0316a80dc600802e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02456c0b5d0316a80dc600802e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851456c0b5d0316a80dc600802e",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/I_Will_Always_Love_You.mp3",
+    "lofi_preview_url": "/audio/lofi/I_Will_Always_Love_You.mp3"
+  },
+  {
+    "song_name": "Intentions",
+    "lofi_artist": "ohlos",
+    "original_artist": "Justin Bieber, Quavo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27308e30ab6a058429303d75876",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0208e30ab6a058429303d75876",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485108e30ab6a058429303d75876",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Intentions.mp3",
+    "lofi_preview_url": "/audio/lofi/Intentions.mp3"
+  },
+  {
+    "song_name": "Jimmy Cooks (feat. 21 Savage)",
+    "lofi_artist": "Covers Unplugged, Wild Issues",
+    "original_artist": "Drake, 21 Savage",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028dc0d801766a5aa6a33cbe37",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518dc0d801766a5aa6a33cbe37",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Jimmy_Cooks_(feat._21_Savage).mp3",
+    "lofi_preview_url": "/audio/lofi/Jimmy_Cooks_(feat._21_Savage).mp3"
+  },
+  {
+    "song_name": "Latch",
+    "lofi_artist": "The Remix Station, LoHouse",
+    "original_artist": "Disclosure, Sam Smith",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273786201dca187d2b0c956c24b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02786201dca187d2b0c956c24b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851786201dca187d2b0c956c24b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Latch.mp3",
+    "lofi_preview_url": "/audio/lofi/Latch.mp3"
+  },
+  {
+    "song_name": "Leave Before You Love Me (with Jonas Brothers)",
+    "lofi_artist": "Peaceful Melody, soave lofi",
+    "original_artist": "Marshmello, Jonas Brothers",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ae40468931087f78919b86ce",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ae40468931087f78919b86ce",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ae40468931087f78919b86ce",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Leave_Before_You_Love_Me_(with_Jonas_Brothers).mp3",
+    "lofi_preview_url": "/audio/lofi/Leave_Before_You_Love_Me_(with_Jonas_Brothers).mp3"
+  },
+  {
+    "song_name": "Left and Right (Feat. Jung Kook of BTS)",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Charlie Puth, Jung Kook, BTS",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2731c069c836dc6cd5b34c310fe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e021c069c836dc6cd5b34c310fe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048511c069c836dc6cd5b34c310fe",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Left_and_Right_(Feat._Jung_Kook_of_BTS).mp3",
+    "lofi_preview_url": "/audio/lofi/Left_and_Right_(Feat._Jung_Kook_of_BTS).mp3"
+  },
+  {
+    "song_name": "Lose You To Love Me",
+    "lofi_artist": "owlh",
+    "original_artist": "Selena Gomez",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732abcc266597eb46f897a8666",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022abcc266597eb46f897a8666",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512abcc266597eb46f897a8666",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Lose_You_To_Love_Me.mp3",
+    "lofi_preview_url": "/audio/lofi/Lose_You_To_Love_Me.mp3"
+  },
+  {
+    "song_name": "Love Me Again",
+    "lofi_artist": "Mount Eminest",
+    "original_artist": "John Newman",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b38d10a0f9eabec693d8f96e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b38d10a0f9eabec693d8f96e",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b38d10a0f9eabec693d8f96e",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Love_Me_Again.mp3",
+    "lofi_preview_url": "/audio/lofi/Love_Me_Again.mp3"
+  },
+  {
+    "song_name": "Lover",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Taylor Swift",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Lover.mp3",
+    "lofi_preview_url": "/audio/lofi/Lover.mp3"
+  },
+  {
+    "song_name": "Mii Channel Theme (Nintendo Wii)",
+    "lofi_artist": "møon lofi beats",
+    "original_artist": "insaneintherainmusic, Gabe Nekrutman, Chris Allison",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e3cd0a6a67ecc1e14d688261",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e3cd0a6a67ecc1e14d688261",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e3cd0a6a67ecc1e14d688261",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Mii_Channel_Theme.mp3",
+    "lofi_preview_url": "/audio/lofi/Mii_Channel_Theme.mp3"
+  },
+  {
+    "song_name": "Ni**as In Paris",
+    "lofi_artist": "Covers Unplugged, Wild Issues",
+    "original_artist": "JAY-Z, Kanye West",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0252e61456aa4995ba48d94e30",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485152e61456aa4995ba48d94e30",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Nias_In_Paris.mp3",
+    "lofi_preview_url": "/audio/lofi/Nias_In_Paris.mp3"
+  },
+  {
+    "song_name": "RAPSTAR",
+    "lofi_artist": "The Remix Station, golden era",
+    "original_artist": "Polo G",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a493e05c99d8ec5e8020ff2b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a493e05c99d8ec5e8020ff2b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a493e05c99d8ec5e8020ff2b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/RAPSTAR.mp3",
+    "lofi_preview_url": "/audio/lofi/RAPSTAR.mp3"
+  },
+  {
+    "song_name": "Shake It Off",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Taylor Swift",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0252b2a3824413eefe9e33817a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485152b2a3824413eefe9e33817a",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Shake_It_Off.mp3",
+    "lofi_preview_url": "/audio/lofi/Shake_It_Off.mp3"
+  },
+  {
+    "song_name": "she's all i wanna be",
+    "lofi_artist": "Piple, Joongle",
+    "original_artist": "Tate McRae",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f7916a35ffdd6cb90bbbdf2f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f7916a35ffdd6cb90bbbdf2f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f7916a35ffdd6cb90bbbdf2f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/she's_all_i_wanna_be.mp3",
+    "lofi_preview_url": "/audio/lofi/she's_all_i_wanna_be.mp3"
+  },
+  {
+    "song_name": "Stole the Show",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Kygo, Parson James",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27335590cb9280d5a1f5221ae1a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0235590cb9280d5a1f5221ae1a",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485135590cb9280d5a1f5221ae1a",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Stole_the_Show.mp3",
+    "lofi_preview_url": "/audio/lofi/Stole_the_Show.mp3"
+  },
+  {
+    "song_name": "Summer",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Calvin Harris",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273063c048e9ef6bd021b744756",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02063c048e9ef6bd021b744756",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851063c048e9ef6bd021b744756",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Summer.mp3",
+    "lofi_preview_url": "/audio/lofi/Summer.mp3"
+  },
+  {
+    "song_name": "Sweet Home Alabama",
+    "lofi_artist": "Joongle",
+    "original_artist": "Lynyrd Skynyrd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0217e1907923e91181f38290ac",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485117e1907923e91181f38290ac",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Sweet_Home_Alabama.mp3",
+    "lofi_preview_url": "/audio/lofi/Sweet_Home_Alabama.mp3"
+  },
+  {
+    "song_name": "Talking to the Moon",
+    "lofi_artist": "Covers Unplugged, Wild Issues",
+    "original_artist": "Bruno Mars",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f6b55ca93bd33211227b502b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Talking_to_the_Moon.mp3",
+    "lofi_preview_url": "/audio/lofi/Talking_to_the_Moon.mp3"
+  },
+  {
+    "song_name": "The Color Violet",
+    "lofi_artist": "Sunday Without You",
+    "original_artist": "Tory Lanez",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2730c5f23cbf0b1ab7e37d0dc67",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e020c5f23cbf0b1ab7e37d0dc67",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048510c5f23cbf0b1ab7e37d0dc67",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/The_Color_Violet.mp3",
+    "lofi_preview_url": "/audio/lofi/The_Color_Violet.mp3"
+  },
+  {
+    "song_name": "The Monster",
+    "lofi_artist": "Sunday Without You",
+    "original_artist": "Eminem, Rihanna",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733c65085a58aae2cccd892cbe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023c65085a58aae2cccd892cbe",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513c65085a58aae2cccd892cbe",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/The_Monster.mp3",
+    "lofi_preview_url": "/audio/lofi/The_Monster.mp3"
+  },
+  {
+    "song_name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
+    "lofi_artist": "The Remix Station, Chill FC",
+    "original_artist": "Kungs, Cookin' On 3 Burners",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273af72d0856c5527dc97f3ea08",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02af72d0856c5527dc97f3ea08",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851af72d0856c5527dc97f3ea08",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/This_Girl_(Kungs_Vs._Cookin'_On_3_Burners).mp3",
+    "lofi_preview_url": "/audio/lofi/This_Girl_(Kungs_Vs._Cookin'_On_3_Burners).mp3"
+  },
+  {
+    "song_name": "Time After Time",
+    "lofi_artist": "Chill With Lofi, Cidus, Emil Lonam",
+    "original_artist": "Cyndi Lauper",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273681265e351fc75e60d0fa50b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02681265e351fc75e60d0fa50b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851681265e351fc75e60d0fa50b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Time_After_Time.mp3",
+    "lofi_preview_url": "/audio/lofi/Time_After_Time.mp3"
+  },
+  {
+    "song_name": "Unforgettable",
+    "lofi_artist": "Lofi Fruits Music, Orange Stick, Avocuddle",
+    "original_artist": "French Montana, Swae Lee",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738a31195a371b2233456f6c07",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028a31195a371b2233456f6c07",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518a31195a371b2233456f6c07",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Unforgettable.mp3",
+    "lofi_preview_url": "/audio/lofi/Unforgettable.mp3"
+  },
+  {
+    "song_name": "Use Somebody",
+    "lofi_artist": "Chill With Lofi",
+    "original_artist": "Kings of Leon",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e022519d01c0cca06f134eeadd8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048512519d01c0cca06f134eeadd8",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Use_Somebody.mp3",
+    "lofi_preview_url": "/audio/lofi/Use_Somebody.mp3"
+  },
+  {
+    "song_name": "We Found Love",
+    "lofi_artist": "Sunday Without You",
+    "original_artist": "Rihanna, Calvin Harris",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bef074de9ca825bddaeb9f46",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bef074de9ca825bddaeb9f46",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bef074de9ca825bddaeb9f46",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/We_Found_Love.mp3",
+    "lofi_preview_url": "/audio/lofi/We_Found_Love.mp3"
+  },
+  {
+    "song_name": "Ain't No Sunshine",
+    "lofi_artist": "Covers Unplugged, Wild Issues",
+    "original_artist": "Bill Withers",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e1e350d06ffebd2e19e047ce",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e1e350d06ffebd2e19e047ce",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e1e350d06ffebd2e19e047ce",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Ain't_No_Sunshine.mp3",
+    "lofi_preview_url": "/audio/lofi/Ain't_No_Sunshine.mp3"
+  },
+  {
+    "song_name": "Another Day in Paradise - 2016 Remaster",
+    "lofi_artist": "Covers Unplugged, Wild Issues",
+    "original_artist": "Phil Collins",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273fb2daafa0993f39d87a84385",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02fb2daafa0993f39d87a84385",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851fb2daafa0993f39d87a84385",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Another_Day_in_Paradise_-_2016_Remaster.mp3",
+    "lofi_preview_url": "/audio/lofi/Another_Day_in_Paradise_-_2016_Remaster.mp3"
+  },
+  {
+    "song_name": "Astronaut In The Ocean",
+    "lofi_artist": "golden era, Flex, The Remix Station",
+    "original_artist": "Masked Wolf",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a572c83a5d470fae84f162e2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a572c83a5d470fae84f162e2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a572c83a5d470fae84f162e2",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Astronaut_In_The_Ocean.mp3",
+    "lofi_preview_url": "/audio/lofi/Astronaut_In_The_Ocean.mp3"
+  },
+  {
+    "song_name": "Breaking Me",
+    "lofi_artist": "Lowzy",
+    "original_artist": "Topic, A7S",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273ca801dab96017456b9847ac2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02ca801dab96017456b9847ac2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851ca801dab96017456b9847ac2",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Breaking_Me.mp3",
+    "lofi_preview_url": "/audio/lofi/Breaking_Me.mp3"
+  },
+  {
+    "song_name": "Cupid - Twin Ver.",
+    "lofi_artist": "The Remix Station, 로피 뮤직",
+    "original_artist": "FIFTY FIFTY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27337c0b3670236c067c8e8bbcb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0237c0b3670236c067c8e8bbcb",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485137c0b3670236c067c8e8bbcb",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Cupid_-_Twin_Ver..mp3",
+    "lofi_preview_url": "/audio/lofi/Cupid_-_Twin_Ver..mp3"
+  },
+  {
+    "song_name": "EARFQUAKE",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Tyler, The Creator",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027005885df706891a3c182a57",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517005885df706891a3c182a57",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/EARFQUAKE.mp3",
+    "lofi_preview_url": "/audio/lofi/EARFQUAKE.mp3"
+  },
+  {
+    "song_name": "Iris",
+    "lofi_artist": "suroboi, soave lofi, Chill Jam",
+    "original_artist": "The Goo Goo Dolls",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02eda9478c39a21e1cdc6609ca",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851eda9478c39a21e1cdc6609ca",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Iris.mp3",
+    "lofi_preview_url": "/audio/lofi/Iris.mp3"
+  },
+  {
+    "song_name": "It's You",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Ali Gatie",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27350a744f0ef5c3e260d9de720",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0250a744f0ef5c3e260d9de720",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485150a744f0ef5c3e260d9de720",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/It's_You.mp3",
+    "lofi_preview_url": "/audio/lofi/It's_You.mp3"
+  },
+  {
+    "song_name": "Low (feat. T-Pain)",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Flo Rida, T-Pain",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f9bd7a6c772ac496015be3f8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02f9bd7a6c772ac496015be3f8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851f9bd7a6c772ac496015be3f8",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Low_(feat._T-Pain).mp3",
+    "lofi_preview_url": "/audio/lofi/Low_(feat._T-Pain).mp3"
+  },
+  {
+    "song_name": "Mad World",
+    "lofi_artist": "nailik, Mount Eminest, lofi.dealer",
+    "original_artist": "Gary Jules, Michael Andrews",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737948eec521c67e76cafe30a0",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027948eec521c67e76cafe30a0",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517948eec521c67e76cafe30a0",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Mad_World.mp3",
+    "lofi_preview_url": "/audio/lofi/Mad_World.mp3"
+  },
+  {
+    "song_name": "Message In A Bottle",
+    "lofi_artist": "Chill With Lofi",
+    "original_artist": "The Police",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738ec81cc654b45ade8bdf1486",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028ec81cc654b45ade8bdf1486",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518ec81cc654b45ade8bdf1486",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Message_In_A_Bottle.mp3",
+    "lofi_preview_url": "/audio/lofi/Message_In_A_Bottle.mp3"
+  },
+  {
+    "song_name": "Seven (feat. Latto) (Clean Ver.)",
+    "lofi_artist": "The Remix Station, 로피 뮤직",
+    "original_artist": "Jung Kook, Latto",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bf5cce5a0e1ed03a626bdd74",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bf5cce5a0e1ed03a626bdd74",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bf5cce5a0e1ed03a626bdd74",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Seven_(feat._Latto)_(Clean_Ver.).mp3",
+    "lofi_preview_url": "/audio/lofi/Seven_(feat._Latto)_(Clean_Ver.).mp3"
+  },
+  {
+    "song_name": "This City",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Sam Fischer",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27370e6c775adc0f71e6bef0a9b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0270e6c775adc0f71e6bef0a9b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485170e6c775adc0f71e6bef0a9b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/This_City.mp3",
+    "lofi_preview_url": "/audio/lofi/This_City.mp3"
+  },
+  {
+    "song_name": "Thriller",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Michael Jackson",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024121faee8df82c526cbab2be",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514121faee8df82c526cbab2be",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Thriller.mp3",
+    "lofi_preview_url": "/audio/lofi/Thriller.mp3"
+  },
+  {
+    "song_name": "Too Good At Goodbyes",
+    "lofi_artist": "Joongle",
+    "original_artist": "Sam Smith",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273005cd7d0ae87b081601f6cca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02005cd7d0ae87b081601f6cca",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851005cd7d0ae87b081601f6cca",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Too_Good_At_Goodbyes.mp3",
+    "lofi_preview_url": "/audio/lofi/Too_Good_At_Goodbyes.mp3"
+  },
+  {
+    "song_name": "White Christmas",
+    "lofi_artist": "King I Divine",
+    "original_artist": "Bing Crosby",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bcd122a6f82b0dff5c9c258b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02bcd122a6f82b0dff5c9c258b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851bcd122a6f82b0dff5c9c258b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/White_Christmas.mp3",
+    "lofi_preview_url": "/audio/lofi/White_Christmas.mp3"
+  },
+  {
+    "song_name": "Doja",
+    "lofi_artist": "Covers Unplugged, Wild Issues",
+    "original_artist": "Central Cee",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733c7d945b6baf935e8a0ebdaa",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023c7d945b6baf935e8a0ebdaa",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513c7d945b6baf935e8a0ebdaa",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Doja.mp3",
+    "lofi_preview_url": "/audio/lofi/Doja.mp3"
+  },
+  {
+    "song_name": "Hey There Delilah",
+    "lofi_artist": "Joongle",
+    "original_artist": "Plain White T's",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273beae6e69d6505fd379ef3081",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02beae6e69d6505fd379ef3081",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851beae6e69d6505fd379ef3081",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Hey_There_Delilah.mp3",
+    "lofi_preview_url": "/audio/lofi/Hey_There_Delilah.mp3"
+  },
+  {
+    "song_name": "Prisoner (feat. Dua Lipa)",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Miley Cyrus, Dua Lipa",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738cffb7c6c40759eaf8a5a142",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e028cffb7c6c40759eaf8a5a142",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048518cffb7c6c40759eaf8a5a142",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Prisoner_(feat._Dua_Lipa).mp3",
+    "lofi_preview_url": "/audio/lofi/Prisoner_(feat._Dua_Lipa).mp3"
+  },
+  {
+    "song_name": "Say My Name",
+    "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
+    "original_artist": "Destiny's Child",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733718df75b57340c1947747e8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e023718df75b57340c1947747e8",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048513718df75b57340c1947747e8",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Say_My_Name.mp3",
+    "lofi_preview_url": "/audio/lofi/Say_My_Name.mp3"
+  },
+  {
+    "song_name": "Sweet Dreams (Are Made of This) - Remastered",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Eurythmics, Annie Lennox, Dave Stewart",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02b3994c94dfb241923664bb4d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851b3994c94dfb241923664bb4d",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Sweet_Dreams_(Are_Made_of_This)_-_Remastered.mp3",
+    "lofi_preview_url": "/audio/lofi/Sweet_Dreams_(Are_Made_of_This)_-_Remastered.mp3"
+  },
+  {
+    "song_name": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
+    "lofi_artist": "Mount Eminest",
+    "original_artist": "Metro Boomin, A$AP Rocky, Roisee",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026ed9aef791159496b286179f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516ed9aef791159496b286179f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Am_I_Dreaming_(Metro_Boomin_&_A$AP_Rocky,_Roisee).mp3",
+    "lofi_preview_url": "/audio/lofi/Am_I_Dreaming_(Metro_Boomin_&_A$AP_Rocky,_Roisee).mp3"
+  },
+  {
+    "song_name": "Pink + White",
+    "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
+    "original_artist": "Frank Ocean",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851c5649add07ed3720be9d5526",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Pink_+_White.mp3",
+    "lofi_preview_url": "/audio/lofi/Pink_+_White.mp3"
+  },
+  {
+    "song_name": "Strangers",
+    "lofi_artist": "Ezraz, Gal Dahan",
+    "original_artist": "Kenya Grace",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734756c2e9ae436437cd75e9f3",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e024756c2e9ae436437cd75e9f3",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048514756c2e9ae436437cd75e9f3",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Strangers.mp3",
+    "lofi_preview_url": "/audio/lofi/Strangers.mp3"
+  },
+  {
+    "song_name": "Sign of the Times",
+    "lofi_artist": "Joongle",
+    "original_artist": "Harry Styles",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e026c619c39c853f8b1d67b7859",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048516c619c39c853f8b1d67b7859",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Sign_of_the_Times.mp3",
+    "lofi_preview_url": "/audio/lofi/Sign_of_the_Times.mp3"
+  },
+  {
+    "song_name": "Lonely (with benny blanco)",
+    "lofi_artist": "Mount Eminest, MOYN, lofi.dealer",
+    "original_artist": "Justin Bieber, benny blanco",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e6f407c7f3a0ec98845e4431",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e6f407c7f3a0ec98845e4431",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Lonely_(with_benny_blanco).mp3",
+    "lofi_preview_url": "/audio/lofi/Lonely_(with_benny_blanco).mp3"
+  },
+  {
+    "song_name": "Photograph",
+    "lofi_artist": "LoVinc",
+    "original_artist": "Ed Sheeran",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0213b3e37318a0c247b550bccd",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485113b3e37318a0c247b550bccd",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Photograph.mp3",
+    "lofi_preview_url": "/audio/lofi/Photograph.mp3"
+  },
+  {
+    "song_name": "Lost",
+    "lofi_artist": "lokash",
+    "original_artist": "Frank Ocean",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517aede4855f6d0d738012e2e5",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Lost.mp3",
+    "lofi_preview_url": "/audio/lofi/Lost.mp3"
+  },
+  {
+    "song_name": "Runaway",
+    "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
+    "original_artist": "AURORA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273009516bc4f16759f46ded073",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02009516bc4f16759f46ded073",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851009516bc4f16759f46ded073",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Runaway.mp3",
+    "lofi_preview_url": "/audio/lofi/Runaway.mp3"
+  },
+  {
+    "song_name": "Paint The Town Red",
+    "lofi_artist": "Covers Unplugged",
+    "original_artist": "Doja Cat",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737acee948ecac8380c1b6ce30",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e027acee948ecac8380c1b6ce30",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048517acee948ecac8380c1b6ce30",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Paint_The_Town_Red.mp3",
+    "lofi_preview_url": "/audio/lofi/Paint_The_Town_Red.mp3"
+  },
+  {
+    "song_name": "Cool Kids",
+    "lofi_artist": "Collosia",
+    "original_artist": "Echosmith",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273106fa02aaa287ec63af85aae",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02106fa02aaa287ec63af85aae",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851106fa02aaa287ec63af85aae",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Cool_Kids.mp3",
+    "lofi_preview_url": "/audio/lofi/Cool_Kids.mp3"
+  },
+  {
+    "song_name": "Paranoid (2012 - Remaster)",
+    "lofi_artist": "Sunday Without You",
+    "original_artist": "Black Sabbath",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739f0a9474c47a841c6f03e990",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e029f0a9474c47a841c6f03e990",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048519f0a9474c47a841c6f03e990",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Paranoid_(2012_-_Remaster).mp3",
+    "lofi_preview_url": "/audio/lofi/Paranoid_(2012_-_Remaster).mp3"
+  },
+  {
+    "song_name": "Reality",
+    "lofi_artist": "Lofi Fruits Music, Snuggles, Orange Stick",
+    "original_artist": "Lost Frequencies, Janieck",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735885e21feca8ad43b2f3f573",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e025885e21feca8ad43b2f3f573",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d000048515885e21feca8ad43b2f3f573",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Reality.mp3",
+    "lofi_preview_url": "/audio/lofi/Reality.mp3"
+  },
+  {
+    "song_name": "Time",
+    "lofi_artist": "Joongle",
+    "original_artist": "Hans Zimmer",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02a883e26f90ab617c91b90e56",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851a883e26f90ab617c91b90e56",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Time.mp3",
+    "lofi_preview_url": "/audio/lofi/Time.mp3"
+  },
+  {
+    "song_name": "Paparazzi",
+    "lofi_artist": "Covers Unplugged, Avalanche99",
+    "original_artist": "Lady Gaga",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e691217483df8798445c82e2",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e691217483df8798445c82e2",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Paparazzi.mp3",
+    "lofi_preview_url": "/audio/lofi/Paparazzi.mp3"
+  },
+  {
+    "song_name": "MONTERO (Call Me By Your Name)",
+    "lofi_artist": "golden era, The Remix Station",
+    "original_artist": "Lil Nas X",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273664034dd80e91b28f773598d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02664034dd80e91b28f773598d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851664034dd80e91b28f773598d",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/MONTERO_(Call_Me_By_Your_Name).mp3",
+    "lofi_preview_url": "/audio/lofi/MONTERO_(Call_Me_By_Your_Name).mp3"
+  },
+  {
+    "song_name": "CLOUDS",
+    "lofi_artist": "golden era, The Remix Station",
+    "original_artist": "NF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e0783b9378aa3857b8a9d24d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02e0783b9378aa3857b8a9d24d",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851e0783b9378aa3857b8a9d24d",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/CLOUDS.mp3",
+    "lofi_preview_url": "/audio/lofi/CLOUDS.mp3"
+  },
+  {
+    "song_name": "pride is the devil (with Lil Baby)",
+    "lofi_artist": "golden era, The Remix Station",
+    "original_artist": "J. Cole, Lil Baby",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27310e6745bb2f179dd3616b85f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0210e6745bb2f179dd3616b85f",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485110e6745bb2f179dd3616b85f",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/p_r_i_d_e_._i_s_._t_h_e_._d_e_v_i_l_(with_Lil_Baby).mp3",
+    "lofi_preview_url": "/audio/lofi/p_r_i_d_e_._i_s_._t_h_e_._d_e_v_i_l_(with_Lil_Baby).mp3"
   }
 ];
