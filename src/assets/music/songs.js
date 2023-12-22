@@ -5657,5 +5657,6 @@ export let songs = [
   "yosemite - travis scott",
   "cruel summer - taylor swift",
   "come as you are - nirvana",
-  "last night - morgan wallen"
+  "last night - morgan wallen",
+  "airplanes (feat. hayley williams of paramore) - b.o.b, hayley williams"
 ];

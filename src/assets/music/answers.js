@@ -9382,5 +9382,29 @@ export let answers = [
     ],
     "original_preview_url": "/audio/original/A_Thousand_Years.mp3",
     "lofi_preview_url": "/audio/lofi/A_Thousand_Years.mp3"
+  },
+  {
+    "song_name": "Airplanes (feat. Hayley Williams of Paramore)",
+    "lofi_artist": "Mount Eminest",
+    "original_artist": "B.o.B, Hayley Williams",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273484d121f0e2d2caf87d5d10b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e02484d121f0e2d2caf87d5d10b",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d00004851484d121f0e2d2caf87d5d10b",
+        "width": 64
+      }
+    ],
+    "original_preview_url": "/audio/original/Airplanes_(feat._Hayley_Williams_of_Paramore).mp3",
+    "lofi_preview_url": "/audio/lofi/Airplanes_(feat._Hayley_Williams_of_Paramore).mp3"
   }
 ];
