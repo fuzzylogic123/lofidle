@@ -2589,7 +2589,7 @@ export let songs = [
   "callaita - bad bunny, tainy",
   "drivers license - olivia rodrigo",
   "secret love song (feat. jason derulo) - little mix, jason derulo",
-  "say my name - destiny's child",
+  "say my name - david guetta, bebe rexha, j balvin",
   "pa' dónde se fue - mon laferte",
   "paradise - bazzi",
   "halah - mazzy star",
