@@ -12194,22 +12194,22 @@ export let answers = [
   {
     "song_name": "Say My Name",
     "lofi_artist": "Lofi Fruits Music, Chill Fruits Music",
-    "original_artist": "Destiny's Child",
+    "original_artist": "David Guetta, Bebe Rexha, J Balvin",
     "images": [
       {
-        "height": 640,
-        "url": "https://i.scdn.co/image/ab67616d0000b2733718df75b57340c1947747e8",
-        "width": 640
+        "url": "https://i.scdn.co/image/ab67616d0000b27367e400c9be79e6b0b0086880",
+        "width": 640,
+        "height": 640
       },
       {
-        "height": 300,
-        "url": "https://i.scdn.co/image/ab67616d00001e023718df75b57340c1947747e8",
-        "width": 300
+        "url": "https://i.scdn.co/image/ab67616d00001e0267e400c9be79e6b0b0086880",
+        "width": 300,
+        "height": 300
       },
       {
-        "height": 64,
-        "url": "https://i.scdn.co/image/ab67616d000048513718df75b57340c1947747e8",
-        "width": 64
+        "url": "https://i.scdn.co/image/ab67616d0000485167e400c9be79e6b0b0086880",
+        "width": 64,
+        "height": 64
       }
     ],
     "original_preview_url": "/audio/original/Say_My_Name.mp3",
