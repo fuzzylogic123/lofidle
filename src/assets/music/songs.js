@@ -5707,7 +5707,6 @@ export let songs = [
   "sign of the times - harry styles",
   "lonely (with benny blanco) - justin bieber, benny blanco",
   "paint the town red - doja cat",
-  "paranoid (2012 - remaster) - black sabbath",
   "reality - lost frequencies, janieck",
   "paparazzi - lady gaga",
   "clouds - nf",

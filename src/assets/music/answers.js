@@ -12480,7 +12480,7 @@ export let answers = [
     "lofi_preview_url": "/audio/lofi/Cool_Kids.mp3"
   },
   {
-    "song_name": "Paranoid (2012 - Remaster)",
+    "song_name": "Paranoid",
     "lofi_artist": "Sunday Without You",
     "original_artist": "Black Sabbath",
     "images": [
