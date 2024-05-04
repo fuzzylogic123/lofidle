@@ -43,7 +43,7 @@ function daysBetween(startDate, endDate) {
 
 function getLofidle() {
   const index = getLofidleIndex();
-  return answers[index]
+  return answers[index % answers.length]
 }
 
 export {
