@@ -3156,7 +3156,6 @@ export let songs = [
   "me vale madre - los dos carnales",
   "annie's song - john denver",
   "sunshine superman - donovan",
-  "numb / encore - jay-z, linkin park",
   "cabrón y vago - en vivo - el fantasma, los dos carnales",
   "sweet talk - saint motel",
   "anaconda *o* ~~~ - luísa sonza, mariah angeliq",
