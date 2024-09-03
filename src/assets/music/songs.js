@@ -964,7 +964,6 @@ export let songs = [
   "trampoline (with zayn) - shaed, zayn",
   "bulletproof - la roux",
   "crazy little thing called love - remastered 2011 - queen",
-  "can't help falling in love - haley reinhart",
   "china grove - the doobie brothers",
   "how you remind me - nickelback",
   "ruin my life - zara larsson",
