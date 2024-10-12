@@ -3551,7 +3551,6 @@ export let songs = [
   "feel the love (feat. john newman) - rudimental, john newman",
   "hotel lobby (unc & phew) - quavo, takeoff",
   "fat lip - sum 41",
-  "don't stop me now - remastered 2011 - queen",
   "rewrite the stars (with james arthur & anne-marie) - james arthur, anne-marie",
   "tutu - camilo, pedro capó",
   "i won't give up - jason mraz",
